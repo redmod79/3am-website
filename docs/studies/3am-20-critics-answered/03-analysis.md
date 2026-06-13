@@ -599,8 +599,8 @@ The original language data transforms several debates:
 
 ## Difficult or Complicating Passages
 
-### Matt 25:46 — The Adjectival Symmetry Problem
-Packer's argument has genuine force: if aionios means "eternal" for life, it must mean "eternal" for punishment. The annihilationist response (permanent result vs. unending process) works logically but requires the reader to accept that the same adjective describes a different relationship to duration in two parallel clauses. This is a legitimate tension.
+### Matt 25:46 — The Adjectival Symmetry
+The same aionios modifies both punishment and life, and the symmetry must be preserved. The conditionalist reading does preserve it: the duration is the same for both — permanent, irreversible, never-ending. The life never ends; the death never ends. The punishment IS death (Rom 6:23), and it is eternal because the death is permanent. The Hebrews pattern (eternal redemption, Heb 9:12; eternal judgment, Heb 6:2) confirms that aionios modifies the result, not the process. The symmetry of Matt 25:46 holds on either reading — both outcomes are equally permanent.
 
 ### Rev 14:11 vs. Rev 20:9 — The Torment Vocabulary
 Rev 14:11 applies torment language to beast-worshippers broadly, while Rev 20:9 limits "devoured" to human wicked and "tormented forever" to devil/beast/false prophet. The question is whether Rev 14:11 is proleptic imagery (describing the impact of the judgment) or literal duration. The tense shift and OT convention support the former, but the text's surface reading supports the latter.
