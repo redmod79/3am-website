@@ -426,7 +426,7 @@ What is the charagma (mark, G5480) and what is the sphragis (seal, G4973)? How d
 **Direct statement:** "Let no man therefore judge you... in respect of sabbath days."
 **Original language:** The word sabbata is contested: ceremonial sabbaths (annual feast days in the descending calendrical pattern: holyday, new moon, sabbath) vs. weekly Sabbath.
 **Cross-references:** The descending pattern (annual, monthly, weekly) matches OT calendrical lists of ceremonial observances. Study law-27 found this pattern refers to ceremonial sabbaths, not the weekly Sabbath.
-**Relationship to other evidence:** This is the strongest counter-text. If Paul abolished weekly Sabbath observance, the Sabbath-as-seal argument is significantly weakened. However, the descending calendrical pattern and the context (ritual regulations, "shadow of things to come") favor the ceremonial reading.
+**Relationship to other evidence:** This is the main text critics cite. If Paul abolished weekly Sabbath observance, the Sabbath-as-seal argument is significantly weakened. However, the descending calendrical pattern and the context (ritual regulations, "shadow of things to come") favor the ceremonial reading.
 
 ---
 

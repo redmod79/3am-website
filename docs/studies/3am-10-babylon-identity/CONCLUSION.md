@@ -96,7 +96,7 @@ The harlot's garments in Rev 17:4 match the LXX description of the high priest's
 
 The forehead inscription completes the parody. The high priest wore a gold plate inscribed qodesh la-YHWH, "HOLINESS TO THE LORD" (Exod 28:36). The harlot bears the inscription "MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH" (Rev 17:5). The inversion is point-by-point: gold plate on forehead → inscription on forehead; holiness → abominations; to the LORD → of the earth.
 
-If the harlot is a priestly parody — wearing the garments of religious authority minus the law-faithfulness element, bearing a forehead inscription that inverts the high priest's — then she is a corrupted religious authority. This is arguably the single strongest piece of evidence for the religious-system reading, because it is independent of the harlotry-vocabulary argument and the structural-bracket argument. Three separate lines of evidence (vocabulary, structure, garments) converge on the same conclusion.
+If the harlot is a priestly parody — wearing the garments of religious authority minus the law-faithfulness element, bearing a forehead inscription that inverts the high priest's — then she is a corrupted religious authority. This is the single strongest piece of evidence for the religious-system reading, because it is independent of the harlotry-vocabulary argument and the structural-bracket argument. Three separate lines of evidence (vocabulary, structure, garments) converge on the same conclusion.
 
 ### Difficult Passages
 

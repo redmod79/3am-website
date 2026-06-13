@@ -598,11 +598,11 @@ Five considerations:
 
 4. **Verb differentiation:** Rev 20:9 uses katephagen (devoured) for HUMAN wicked; 20:10 uses basanisthesontai (tormented) for the devil/beast/false prophet. Rev 20:14-15 uses "second death" for human wicked. The text itself distinguishes the vocabulary by subject.
 
-5. **Pawson's counter:** "The devil and his henchmen are persons — otherwise, how could they be tormented?" This is the strongest counter-argument. The devil is personal. However, the beast and false prophet are systems, and the text treats all three together. The question is whether apocalyptic imagery of the destruction of evil REQUIRES ongoing conscious existence of the destroyed entities.
+5. **Pawson's counter:** "The devil and his henchmen are persons — otherwise, how could they be tormented?" This is the main counter-argument. The devil is personal. However, the beast and false prophet are systems, and the text treats all three together. The question is whether apocalyptic imagery of the destruction of evil REQUIRES ongoing conscious existence of the destroyed entities.
 
 ### Matt 25:41, 46 — Everlasting Punishment Parallel with Eternal Life
 
-The strongest argument for ECT from this passage is the parallel: "everlasting punishment" and "eternal life" use the same adjective (aionios). If eternal life means life without end, must not eternal punishment mean punishment without end?
+The main ECT argument from this passage is the parallel: "everlasting punishment" and "eternal life" use the same adjective (aionios). The symmetry must be preserved — and it is.
 
 The Hebrews pattern resolves this: aionios + result-noun describes the permanence of the RESULT. Eternal life = life that never ends (the subject IS alive). Eternal punishment = punishment whose RESULT never ends (the punishment achieves its purpose permanently). Eternal redemption (Heb 9:12) does not mean an ongoing process of redeeming — it means redeemed once with a permanent result. The same logic applies to eternal punishment.
 

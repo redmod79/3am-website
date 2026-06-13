@@ -449,10 +449,10 @@ The apeitheo (G544) word study confirms the belief-obedience unity: the word car
 ## Difficult or Complicating Passages
 
 ### The pistis Iesou genitive ambiguity
-Grammar alone cannot resolve whether pistis Iesou is subjective (Jesus' faithfulness) or objective (faith in Jesus). Easter's survey concludes the debate reaches stalemate grammatically. Both readings have strong support. The study argues for a plenary genitive -- both dimensions operating simultaneously -- but honest scholarship must acknowledge that absolute certainty is not achievable on grammatical grounds alone.
+Grammar alone cannot resolve whether pistis Iesou is subjective (Jesus' faithfulness) or objective (faith in Jesus). Easter's survey concludes the debate reaches stalemate grammatically. Both readings have strong support. The study argues for a plenary genitive -- both dimensions operating simultaneously -- but the grammatical ambiguity means context must determine the reading.
 
 ### The entole objection from critic
-The claim that entole in John = Jesus' teachings only, not the Decalogue, is the sharpest counter-argument. While the three test cases (Rom 7:7-12, Eph 6:2, Luke 23:56) refute this claim decisively, the objection has rhetorical force because John does use entole for Jesus' commandments (John 13:34, 15:12). The response must acknowledge this usage while showing that UNQUALIFIED entole (without specifying whose commandments) consistently refers to the Decalogue, and that "commandments of God" (with theos as the source) in Revelation is distinguished from "commandments of Christ."
+The claim that entole in John = Jesus' teachings only, not the Decalogue, is the sharpest counter-argument. While the three test cases (Rom 7:7-12, Eph 6:2, Luke 23:56) refute this claim decisively, the objection gains surface plausibility because John does use entole for Jesus' commandments (John 13:34, 15:12). The response must acknowledge this usage while showing that UNQUALIFIED entole (without specifying whose commandments) consistently refers to the Decalogue, and that "commandments of God" (with theos as the source) in Revelation is distinguished from "commandments of Christ."
 
 ### The "word association fallacy" charge
 Critics charge that equating any mention of "commandments" with the Decalogue is a word association fallacy. The response: the articular plural (TAS entolas -- THE commandments) marks a specific known body, not generic instruction. The Rev 11:19 ark imagery provides the referent: the specific body of commandments contained in the ark.

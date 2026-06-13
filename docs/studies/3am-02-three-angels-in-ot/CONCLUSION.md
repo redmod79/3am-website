@@ -187,7 +187,7 @@ The study's word research confirms the following key findings:
 
 ## Difficult Passages
 
-**The gospel-call element in Noah's episode depends on NT interpretation.** Genesis 6-7 does not explicitly describe Noah preaching. The three-part pattern for Noah depends heavily on 2 Pet 2:5 (keryx dikaiosynes) and Heb 11:7 ("condemned the world"). This is not a fatal objection — NT interpretation of OT events is authoritative — but it means the Noah episode is the weakest standalone case among the six.
+**The gospel-call element in Noah's episode depends on NT interpretation.** Genesis 6-7 does not explicitly describe Noah preaching. The three-part pattern for Noah depends heavily on 2 Pet 2:5 (keryx dikaiosynes) and Heb 11:7 ("condemned the world"). This is not a fatal objection — NT interpretation of OT events is authoritative — but it means the Noah episode is the one case that relies most heavily on NT typological interpretation.
 
 **Abraham's intercession functions differently from the other gospel calls.** Abraham pleads with God on Sodom's behalf, not with the Sodomites. The actual warning is delivered by angels to Lot at the last moment. The gospel-call element is split between intercession (Abraham) and warning (angels), complicating a clean mapping to the first angel's public proclamation.
 

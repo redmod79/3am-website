@@ -791,7 +791,7 @@ The weight of evidence points strongly toward an intentional allusion between Re
 
 The objection that this is "generic creation theology" fails to account for the verb distinction (poieo vs. ktizo), the specific four-element formula (matching Exo 20:11 rather than generic creation texts), the commandment frame (Rev 12:17, 14:12), and the structural context (ark revelation, Decalogue counterfeits). The inference is acknowledged -- Rev 14:7 does not name the Sabbath -- but the cumulative evidence, as Paulien states, makes this "the most certain allusion to the Old Testament in Revelation."
 
-The complicating passages (Isa 66:23 New Moon problem, Col 2:16-17 shadow argument, the inferential step itself) are real and require honest engagement. The study addresses each without dismissing the objections or overstating the evidence.
+The passages requiring careful handling (Isa 66:23 New Moon language, Col 2:16-17 shadow argument) are addressed below. The study addresses each without dismissing the objections or overstating the evidence.
 
 ---
 *Analysis completed: 2026-06-02*

@@ -105,7 +105,7 @@ At creation, three divine acts mark the seventh day: God ceased (shabath, H7673 
 
 Isaiah 66:22-23 envisions Sabbath worship in the new creation: "from one sabbath to another, shall all flesh come to worship before me, saith the LORD." The universal scope ("all flesh") matches the universal scope of the first angel's message ("every nation, and kindred, and tongue, and people"). Both texts connect creation-worship to the Sabbath in a universal frame.
 
-However, the study must honestly note the complications. Isaiah 66:23 also mentions New Moons, raising the question of whether monthly ceremonial worship also persists in the new creation. Isaiah 66:24 describes gazing at dead bodies -- a disturbing image for an eternal paradise. Paulien cautions against over-reading this passage as a standalone Sabbath proof-text, and his caution is warranted.
+Several passages require careful handling. Isaiah 66:23 also mentions New Moons, raising the question of whether monthly ceremonial worship also persists in the new creation. Isaiah 66:24 describes gazing at dead bodies -- a disturbing image for an eternal paradise. Paulien cautions against over-reading this passage as a standalone Sabbath proof-text, and his caution is warranted.
 
 The bookend argument is suggestive rather than conclusive. What it does show is that Isaiah associated Sabbath worship with the restored creation -- an association the first angel's message also makes. The passage supports the broader pattern without requiring every detail to be literally predictive.
 

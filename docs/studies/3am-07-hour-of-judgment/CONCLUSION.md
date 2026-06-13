@@ -84,7 +84,7 @@ Acts 17:30-31 provides the logical structure: Paul commands repentance (gospel c
 
 ### Judgment and Assurance: Five Grounds of Confidence
 
-The hardest apologetic question for this study is whether the pre-advent judgment undermines assurance. Ford's critique carried weight precisely because many believers experienced the judgment as a threat rather than good news. The response must be honest: if the judgment creates fear rather than confidence, something has gone wrong — but the problem is in the understanding, not in the doctrine.
+The key apologetic question this study addresses is whether the pre-advent judgment undermines assurance. The concern arose because many believers experienced the judgment as a threat rather than good news. The response must be honest: if the judgment creates fear rather than confidence, something has gone wrong — but the problem is in the understanding, not in the doctrine.
 
 The NT provides at least five independent grounds of assurance that extend through judgment, not around it.
 
