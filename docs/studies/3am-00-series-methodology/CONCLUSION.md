@@ -171,7 +171,7 @@ The series must engage four competing frameworks for interpreting Rev 14:6-12, e
 
 **Preterist:** Identifies the beast with Nero via Hebrew gematria (nrwn qsr = 666), reads the passage as addressing first-century persecution. Strength: takes the historical context seriously. Weakness: the composite beast of Rev 13:1-2 combines all four of Daniel's beasts — spanning centuries, not one emperor. The "mystery of iniquity" was "already working" in Paul's day (2 Thess 2:7) but was not yet fully revealed — ruling out a purely first-century identification.
 
-**Historicist:** Reads the passage as unfolding through church history with an end-time climax. Strength: takes the Daniel 7 connection seriously (the little horn's 42 months/1260 days as a historical period). Weakness: can impose external historical frameworks on the text rather than letting the text identify its own referents.
+**Historicist:** Reads the passage as unfolding through church history with an end-time climax. Strength: takes the Daniel 7 connection seriously (the little horn's 42 months/1260 days as a historical period), and does what prophecy invites — identifies the historical fulfillments the text predicted. Challenge: requires demonstrating that the proposed historical identifications match the text's own markers rather than being retrojected onto it.
 
 **Idealist:** Sees timeless spiritual principles — the "beast" as any idolatrous power, "Babylon" as any false system. Strength: recognizes recurring patterns. Weakness: flattens the text's specific prophetic claims (the "hour" of judgment HAS come, not "will always be coming").
 
