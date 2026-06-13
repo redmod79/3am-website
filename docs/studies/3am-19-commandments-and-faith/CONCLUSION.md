@@ -48,7 +48,7 @@ The answer begins with the literary context. Revelation 11:19 opens the heavenly
 
 The commandment inclusio then unfolds: Rev 11:19 (ark revealed) -> 12:17 ("keep the commandments of God") -> 14:7 (creation formula echoing the fourth commandment through the poieo/asah LXX bridge) -> 14:12 ("keep the commandments of God and the faith of Jesus"). The first mention of "commandments of God" in this section (12:17) comes immediately after the ark is displayed. The literary framing connects "commandments of God" to the ark's contents -- the Decalogue.
 
-But the counter-argument must be engaged. Tinker (Proclamation! Magazine, 2019) and the Answering Adventism website argue that entole (G1785) in John's writings refers to Jesus' teachings only, not the Decalogue. They claim nomos (G3551) is the word for the Mosaic Law, and since John uses entole rather than nomos, "commandments of God" must mean something other than the Decalogue. Answering Adventism further charges that equating any mention of "commandments" with the Decalogue is a "word association fallacy."
+But the counter-argument must be engaged. Critics argue that entole (G1785) in John's writings refers to Jesus' teachings only, not the Decalogue. They claim nomos (G3551) is the word for the Mosaic Law, and since John uses entole rather than nomos, "commandments of God" must mean something other than the Decalogue. Critics further charge that equating any mention of "commandments" with the Decalogue is a "word association fallacy."
 
 Three test cases from the New Testament demolish this claim:
 
@@ -58,7 +58,7 @@ Three test cases from the New Testament demolish this claim:
 
 **Test case 3: Luke 23:56.** After Jesus' burial, the women "rested the sabbath day according to the commandment" (kata ten entolen). The definite article (ten) marks a specific, known command. The Sabbath commandment -- the fourth commandment of the Decalogue -- is called entole.
 
-These are not marginal texts. They are Paul and Luke using entole for specific, identifiable Decalogue commands. The Tinker/Answering Adventism argument works only if we ignore how the NT authors themselves use the word.
+These are not marginal texts. They are Paul and Luke using entole for specific, identifiable Decalogue commands. The critic argument works only if we ignore how the NT authors themselves use the word.
 
 The prior law-28 study verified the pattern further: in 43 of 43 identifiable NT instances where unqualified entole (without specifying "Jesus' commandments" or "commandments of men") refers to specific content, that content is the Decalogue or its constituent commands.
 
@@ -140,7 +140,7 @@ The parallel between Galatians 5:6 and 1 Corinthians 7:19 makes the equivalence 
 
 ### The Legalism Objection Answered
 
-The charge is blunt. The YouTube Critics channel (Answering Adventism, 2023) claims Rev 14:12 "adds commandment-keeping as works requirement" -- legalism. The response comes from four directions:
+The charge is blunt. Critics claim Rev 14:12 "adds commandment-keeping as works requirement" -- legalism. The response comes from four directions:
 
 **First: the grammar.** Terountes is a present active participle. It DESCRIBES the saints, not PRESCRIBES conditions. The angel does not say "keep the commandments to be saved." The angel says "HERE are the people who keep the commandments." The difference is between a job requirement ("you must have a college degree") and a description ("here are the people with college degrees"). One creates the condition; the other identifies a characteristic.
 
@@ -240,7 +240,7 @@ The saints of 14:12 are the overcomers of 15:2. The nikao-hupomone relationship 
 Easter's (2010) survey demonstrates that the pistis Christou debate in Pauline studies has reached grammatical stalemate. The same applies to pistis Iesou in Rev 14:12. The subjective genitive (Jesus' faithfulness) has strong support from Rev 2:13 ("my faith"), Jesus' title "Faithful and True" (Rev 19:11), and the redundancy argument in Rom 3:22 and Gal 3:22. The objective genitive (faith in Jesus) has strong support from the contextual observation that the saints are actively trusting Jesus through the crisis. This study adopts the plenary genitive (both dimensions), but absolute certainty is not achievable on grammatical grounds. The practical implication is the same either way: the saints possess faith connected to Jesus, and this faith stands alongside commandment-keeping as their defining characteristic.
 
 ### Entole in John's Gospel refers to Jesus' "new commandment"
-John 13:34 and 15:12 use entole for Jesus' command to love one another. This is the kernel of truth in the Tinker/Answering Adventism argument. However, these are QUALIFIED uses -- "my commandment," "a new commandment" -- with a specific referent identified in context. The phrase "commandments of God" (entolas tou theou) in Revelation is also qualified but with a different qualifier: God as the source. The "commandments of God" and "commandments of Jesus" are distinguishable by their qualifier. When entole appears unqualified and without context specifying Jesus' teachings, it refers to the Decalogue -- as Paul demonstrates in Rom 7:7-12, Eph 6:2, and as Luke demonstrates in 23:56.
+John 13:34 and 15:12 use entole for Jesus' command to love one another. This is the kernel of truth in the critic argument. However, these are QUALIFIED uses -- "my commandment," "a new commandment" -- with a specific referent identified in context. The phrase "commandments of God" (entolas tou theou) in Revelation is also qualified but with a different qualifier: God as the source. The "commandments of God" and "commandments of Jesus" are distinguishable by their qualifier. When entole appears unqualified and without context specifying Jesus' teachings, it refers to the Decalogue -- as Paul demonstrates in Rom 7:7-12, Eph 6:2, and as Luke demonstrates in 23:56.
 
 ### Does Rev 14:12 make commandment-keeping a condition of salvation?
 The text can be read this way, and the objection deserves honest engagement. But the grammatical evidence points in the other direction. Terountes is a descriptive participle, not a conditional clause. The construction does not say "if you keep the commandments, you will be saved." It says "here are the people -- and they keep commandments." The order of Rev 12:11 is clear: the blood of the Lamb is listed first as the objective basis of victory, before testimony and willingness to die. Ephesians 2:8-10 establishes the same priority: saved by grace through faith (cause), created unto good works (purpose). Commandment-keeping is fruit, not root.
@@ -254,7 +254,7 @@ Revelation 14:12 is the text where everything converges.
 
 After the everlasting gospel is proclaimed (14:6-7), after Babylon's fall is announced (14:8), after the beast-worship warning is delivered with its promise of unmixed wrath (14:9-11), the text pauses and points: "Here. Look at these people." And what it shows is a people holding two things together that some theologies insist must be separated: the commandments of God and the faith of Jesus.
 
-The commandments are the Decalogue -- identified by the articular plural (THE commandments, a known body), by the Rev 11:19 ark imagery (the ark contained the Decalogue exclusively, per Deut 10:1-5 and 1 Kings 8:9), by the three NT test cases where entole (G1785) explicitly refers to Decalogue commands (Rom 7:7-12, Eph 6:2, Luke 23:56), and by the identical phrase in 1 Corinthians 7:19 where Paul uses "commandments of God" while explicitly excluding circumcision. The Tinker/Answering Adventism claim that entole cannot mean the Decalogue fails against the NT authors' own usage.
+The commandments are the Decalogue -- identified by the articular plural (THE commandments, a known body), by the Rev 11:19 ark imagery (the ark contained the Decalogue exclusively, per Deut 10:1-5 and 1 Kings 8:9), by the three NT test cases where entole (G1785) explicitly refers to Decalogue commands (Rom 7:7-12, Eph 6:2, Luke 23:56), and by the identical phrase in 1 Corinthians 7:19 where Paul uses "commandments of God" while explicitly excluding circumcision. The critic claim that entole cannot mean the Decalogue fails against the NT authors' own usage.
 
 The faith of Jesus carries both dimensions -- Jesus' own faithfulness vindicating God in the cosmic conflict (subjective genitive, supported by Rev 2:13 and 19:11), and believers' trust in Jesus through the crisis (objective genitive, supported by the context of endurance under pressure). Easter's scholarly consensus -- grammar alone cannot decide -- argues for a plenary genitive in which both senses operate. Christ's faithfulness is the ground; the saints' faith is the response.
 

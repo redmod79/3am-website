@@ -78,7 +78,7 @@ Critics correctly note that owth is not exclusive to the Sabbath. The rainbow is
 
 ### The Sign/Seal Linguistic Question: Romans 4:11
 
-The strongest critic argument against the Sabbath-seal connection, as articulated by Life Assurance Ministries, is a linguistic one: the Hebrew owth (sign) and chowtham (seal) are never interchanged in translation, and the Greek semeion (sign) and sphragis (seal) are never interchanged either. Therefore, the argument goes, calling the Sabbath a "sign" does not make it a "seal," and the categories should be kept separate.
+The strongest critic argument against the Sabbath-seal connection, as articulated by critics, is a linguistic one: the Hebrew owth (sign) and chowtham (seal) are never interchanged in translation, and the Greek semeion (sign) and sphragis (seal) are never interchanged either. Therefore, the argument goes, calling the Sabbath a "sign" does not make it a "seal," and the categories should be kept separate.
 
 At the translation level, this claim appears to hold. The LXX renders owth as semeion with 94% consistency and chowtham as sphragis with high consistency. The two vocabulary streams run parallel without crossing.
 

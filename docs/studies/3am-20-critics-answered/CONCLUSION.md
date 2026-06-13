@@ -48,7 +48,7 @@ The Quartey/Spectrum objection conflates the TEXT with Adventist PRESENTATION. T
 
 ### Objection 2: "Galatians 1:8-9 Condemns the Angel"
 
-**The objection at its strongest:** Paul says "though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed." Rev 14:6 shows an angel from heaven preaching. If the angel's message differs from Paul's gospel, the angel is condemned by Paul's own test. Ratzlaff and Life Assurance Ministries press this application directly.
+**The objection at its strongest:** Paul says "though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed." Rev 14:6 shows an angel from heaven preaching. If the angel's message differs from Paul's gospel, the angel is condemned by Paul's own test. Critics press this application directly.
 
 **Prior study:** 3am-04 (euangelion aionion).
 
@@ -56,7 +56,7 @@ The Quartey/Spectrum objection conflates the TEXT with Adventist PRESENTATION. T
 
 Does Rev 14:7 add works-righteousness? Its content — fear God, give Him glory, judgment has come, worship the Creator — matches Paul's own Athens sermon (Acts 17:22-31) element by element: (1) Creator God who made all things (v.24 = Rev 14:7b), (2) universal scope covering all nations (v.26 = Rev 14:6b), (3) appointed judgment (v.31 = Rev 14:7a), (4) moral reorientation through repentance (v.30 = Rev 14:7a). If Rev 14:7 is "another gospel," then Paul's Athens sermon is also "another gospel" — and Paul condemned himself.
 
-Ratzlaff's version of this objection conflates the biblical text with EGW's "accompanying angel" concept. The biblical text speaks of an angelos (G32) flying in mid-heaven — an apocalyptic literary figure within Revelation's symbolic framework. The critique must engage the text, not a downstream application.
+a critic's version of this objection conflates the biblical text with EGW's "accompanying angel" concept. The biblical text speaks of an angelos (G32) flying in mid-heaven — an apocalyptic literary figure within Revelation's symbolic framework. The critique must engage the text, not a downstream application.
 
 The legon participle (V-PAP-NSM) in Rev 14:7 is grammatically decisive: it embeds v.7's imperatives as the CONTENT of the euangelion aionion in v.6. The angel does not say "I have the gospel AND also fear God." The angel says "I have the gospel, NAMELY: fear God, give glory, judgment has come, worship the Creator." The grammar makes the commands gospel content, not gospel additions.
 
@@ -86,7 +86,7 @@ Prior study 3am-03 documented every major NT preaching episode and found the thr
 
 ### Objection 4: "Revelation 14:12 Adds Commandment-Keeping as Works — Legalism"
 
-**The objection at its strongest:** Rev 14:12 makes "keeping the commandments of God" a defining characteristic of the saved. This adds human performance to faith as a salvation requirement. It is a system of legalism that contradicts Paul's gospel of grace alone through faith alone. Tinker and Answering Adventism add: entole in John's writings means Jesus' new commandment (love one another), not the Decalogue, and nomos is the word for the Mosaic Law.
+**The objection at its strongest:** Rev 14:12 makes "keeping the commandments of God" a defining characteristic of the saved. This adds human performance to faith as a salvation requirement. It is a system of legalism that contradicts Paul's gospel of grace alone through faith alone. critic and critics add: entole in John's writings means Jesus' new commandment (love one another), not the Decalogue, and nomos is the word for the Mosaic Law.
 
 **Prior study:** 3am-19 (commandments and faith).
 
@@ -94,7 +94,7 @@ Prior study 3am-03 documented every major NT preaching episode and found the thr
 
 **First, grammar.** Terountes (G5083, V-PAP-NPM) in Rev 14:12 is a present active participle — it DESCRIBES the saints, it does not PRESCRIBE conditions. Rev 14:7 uses aorist imperatives (phobethete, dote, proskynēsate) to command action. Rev 14:12 uses a participle to describe a characteristic. The difference is between "Worship God!" (imperative) and "Here are those who keep the commandments" (description). The grammar distinguishes prescription from description.
 
-**Second, which commandments?** The Tinker claim — that entole in John means Jesus' teachings only, never the Decalogue — fails against three NT test cases. In Rom 7:7-12, Paul quotes the tenth commandment ("Thou shalt not covet," Exo 20:17) and calls it entole five times in six verses (vv.7, 8, 9, 10, 11, 12). In Eph 6:2, Paul calls the fifth commandment ("Honour thy father and mother") entole — "the first commandment with promise." In Luke 23:56, Luke, a Gentile author writing after the cross, calls the Sabbath commandment entole (kata ten entolen). Every identifiable instance where unqualified entole refers to a specific commandment points to a Decalogue command. And nomos (G3551) never appears in Revelation — so the entole/nomos distinction the critics invoke is irrelevant to the text they are criticizing.
+**Second, which commandments?** The critic claim — that entole in John means Jesus' teachings only, never the Decalogue — fails against three NT test cases. In Rom 7:7-12, Paul quotes the tenth commandment ("Thou shalt not covet," Exo 20:17) and calls it entole five times in six verses (vv.7, 8, 9, 10, 11, 12). In Eph 6:2, Paul calls the fifth commandment ("Honour thy father and mother") entole — "the first commandment with promise." In Luke 23:56, Luke, a Gentile author writing after the cross, calls the Sabbath commandment entole (kata ten entolen). Every identifiable instance where unqualified entole refers to a specific commandment points to a Decalogue command. And nomos (G3551) never appears in Revelation — so the entole/nomos distinction the critics invoke is irrelevant to the text they are criticizing.
 
 **Third, Spirit-enablement.** The obedience Rev 14:12 describes is not self-generated human effort. Ezek 36:27 says God puts His Spirit within and causes people to walk in His statutes. Phil 2:13 says God works in believers both to will and to do. Rom 8:4 says the law's righteousness is fulfilled IN us by the Spirit. The commandment-keeping is divine work in the believer, not human merit.
 
@@ -232,7 +232,7 @@ The judicial delusion pattern (2 Thess 2:10-12, Rom 1:24-28) shows that God hard
 
 ### Objection 10: "The Mark/Seal Is Purely Spiritual — Not About Specific Commandments"
 
-**The objection at its strongest:** Eph 1:13 and 4:30 say believers are "sealed with the Holy Spirit." The seal is the Spirit, not the Sabbath. No verse says "The Sabbath is the seal of God." The entire Sabbath-seal connection is an EGW invention. Answering Adventism puts it bluntly: find a verse that "verbatim says the Sabbath is the seal."
+**The objection at its strongest:** Eph 1:13 and 4:30 say believers are "sealed with the Holy Spirit." The seal is the Spirit, not the Sabbath. No verse says "The Sabbath is the seal of God." The entire Sabbath-seal connection is an EGW invention. Critics put it bluntly: find a verse that "verbatim says the Sabbath is the seal."
 
 **Prior study:** 3am-15 (mark and seal).
 
@@ -390,7 +390,7 @@ The convergence of Rev 22:11, Rev 15:8, and Dan 12:1 points to a pre-advent fina
 - **Objection 9 (close of probation):** Three convergence texts and three shut-door precedents support the concept. But the term is not biblical, and the specific mechanics are inferential.
 
 ### Where Critics Converge and Diverge
-The three critical traditions — former-Adventist (Ratzlaff, Tinker), evangelical/Reformed (Packer, Ortlund, GotQuestions), and academic/internal (Ford, DeSilva, Spectrum) — converge on objecting to the Sabbath-seal connection and the investigative judgment. They diverge significantly on eternal punishment: the evangelical tradition defends ECT while the academic tradition increasingly acknowledges annihilationism as a viable reading. They also diverge on Babylon: preterists identify it with first-century Rome while historicists (including some non-Adventist Protestants) see it as a broader symbol. The most telling convergence is that most informed critics — across all three traditions — acknowledge that Rev 14:6-7 does contain "gospel" in some meaningful sense, that the angels are symbolic, and that the three-part message has biblical precedent. The weakest objections (1, 11, 14) are the ones critics rarely press hard because their own scholarship recognizes the Adventist reading has solid textual support on those points.
+The three critical traditions — former-Adventist critics, evangelical/Reformed critics, and academic/internal critics — converge on objecting to the Sabbath-seal connection and the investigative judgment. They diverge significantly on eternal punishment: the evangelical tradition defends ECT while the academic tradition increasingly acknowledges annihilationism as a viable reading. They also diverge on Babylon: preterists identify it with first-century Rome while historicists (including some non-Adventist Protestants) see it as a broader symbol. The most telling convergence is that most informed critics — across all three traditions — acknowledge that Rev 14:6-7 does contain "gospel" in some meaningful sense, that the angels are symbolic, and that the three-part message has biblical precedent. The weakest objections (1, 11, 14) are the ones critics rarely press hard because their own scholarship recognizes the Adventist reading has solid textual support on those points.
 
 ## Conclusion
 

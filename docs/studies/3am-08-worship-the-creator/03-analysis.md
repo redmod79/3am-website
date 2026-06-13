@@ -255,7 +255,7 @@ Why does the first angel call for worship of the Creator using the specific form
 ### Luke 23:56
 **Context:** The women "rested the sabbath day according to the commandment (kata ten entolen)."
 
-**Direct statement:** Entole (G1785) is applied directly to the Sabbath commandment. This single verse collapses Tinker's claim that John/Luke uses nomos for the Mosaic Law and entole exclusively for Jesus's teachings. The parsing is unambiguous: sabbaton (N-ASN, Sabbath) hesychasan (V-AAI-3P, they rested) kata (according to) ten entolen (N-ASF, the commandment, G1785).
+**Direct statement:** Entole (G1785) is applied directly to the Sabbath commandment. This single verse collapses the critic claim that John/Luke uses nomos for the Mosaic Law and entole exclusively for Jesus's teachings. The parsing is unambiguous: sabbaton (N-ASN, Sabbath) hesychasan (V-AAI-3P, they rested) kata (according to) ten entolen (N-ASF, the commandment, G1785).
 
 **Cross-references:** Rev 14:12 uses the same word (entole) for "commandments of God." Luke 23:56 demonstrates that entole covers the Sabbath commandment. The connection is straightforward: entole = commandment, including the Sabbath commandment.
 
@@ -418,7 +418,7 @@ Why does the first angel call for worship of the Creator using the specific form
 ### Revelation 21:23
 **Context:** "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it."
 
-**Direct statement:** The Answering Adventism objection claims this verse says there IS no sun or moon, making Isa 66:23's New Moon worship impossible. But the Greek is decisive: he polis ou chreian echei (the city has no need) tou heliou (of the sun) oude (nor) tes selenes (of the moon) hina phainosin aute (in order that they might shine in it). The text says the city does not need them AS LIGHT SOURCES. It does not say they cease to exist.
+**Direct statement:** The critic objection claims this verse says there IS no sun or moon, making Isa 66:23's New Moon worship impossible. But the Greek is decisive: he polis ou chreian echei (the city has no need) tou heliou (of the sun) oude (nor) tes selenes (of the moon) hina phainosin aute (in order that they might shine in it). The text says the city does not need them AS LIGHT SOURCES. It does not say they cease to exist.
 
 **Original language:** The construction is: no need (ou chreian echei) + genitive of thing not needed (tou heliou, tes selenes) + hina purpose clause (to shine). The negation applies to the need for their light function, not to their existence.
 
@@ -734,7 +734,7 @@ The original language data changes the English reading in several ways:
 
 **Sabbatismos vs. katapausis:** The KJV translates both as "rest," hiding the deliberate shift at Heb 4:9. Katapausis means cessation/repose (8x in context); sabbatismos means the act of Sabbath-keeping (1x, at the climax). The -ismos suffix marks action: baptismos = the act of baptizing; sabbatismos = the act of Sabbath-keeping. Every extant Greek use confirms this meaning.
 
-**Entole vs. nomos:** The KJV translates both as "commandment(s)" or "law," but the NT authors distinguish them. Nomos never appears in Revelation; the book uses entole exclusively for God's commands. Luke 23:56 applies entole to the Sabbath commandment (kata ten entolen), showing that entole covers the Sabbath. The Tinker distinction (nomos = Mosaic Law, entole = Jesus's teachings) fails on its own terms.
+**Entole vs. nomos:** The KJV translates both as "commandment(s)" or "law," but the NT authors distinguish them. Nomos never appears in Revelation; the book uses entole exclusively for God's commands. Luke 23:56 applies entole to the Sabbath commandment (kata ten entolen), showing that entole covers the Sabbath. The critic distinction (nomos = Mosaic Law, entole = Jesus's teachings) fails on its own terms.
 
 **Zakar (remember) vs. skia (shadow):** The fourth commandment opens with zakar -- a memorial function pointing backward to creation. Shadows (skia) look forward to fulfillment. Memorials look backward to what they commemorate. The Sabbath is a zakar institution, not a skia institution, which means Col 2:17's "shadow" designation does not apply to the weekly Sabbath.
 
@@ -769,7 +769,7 @@ Isa 66:22-23 prophesies Sabbath worship in the new creation, but also mentions N
 Col 2:16-17 is the primary objection text. The sabbaton in the triad (heorte/neomenia/sabbaton) is called "a shadow of things to come." However: (1) the triad matches the OT ceremonial calendar pattern (1 Chr 23:31, 2 Chr 31:3); (2) Lev 23:37-38 explicitly separates ceremonial sabbaths from "the sabbaths of the LORD" using millibad; (3) the weekly Sabbath uses zakar (remember, backward-looking), not skia (shadow, forward-looking); (4) the weekly Sabbath remains after the cross (Heb 4:9); (5) it belongs to the Decalogue, not the ceremonial code. The shadow designation fits the ceremonial sabbaths, not the weekly Sabbath.
 
 ### Revelation 21:23 -- No Sun or Moon?
-The Answering Adventism objection claims Rev 21:23 says there IS no sun or moon, making Isa 66:23's New Moon impossible. But the Greek is precise: "the city has no need (ou chreian echei) of the sun... in order that they might shine in it (hina phainosin aute)." The text negates the need for their light function, not their existence. This leaves the Isa 66:23 possibility open, though the passage remains complex.
+The critic objection claims Rev 21:23 says there IS no sun or moon, making Isa 66:23's New Moon impossible. But the Greek is precise: "the city has no need (ou chreian echei) of the sun... in order that they might shine in it (hina phainosin aute)." The text negates the need for their light function, not their existence. This leaves the Isa 66:23 possibility open, though the passage remains complex.
 
 ### The Inferential Step
 Rev 14:7 never names the Sabbath. The case is inferential -- built on verbal, thematic, and structural evidence. The study acknowledges this honestly: no single piece of evidence proves the Sabbath connection; the cumulative case makes the inference strong. This is how allusions work in apocalyptic literature: through verbal echoes, thematic parallels, and structural framing rather than explicit quotation.

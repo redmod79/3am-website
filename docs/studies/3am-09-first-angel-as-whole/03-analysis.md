@@ -341,7 +341,7 @@ How do the four elements of the first angel's message (euangelion aionion + phob
 
 **Cross-references:** Paul condemns adding salvation CONDITIONS (circumcision), not adding gospel CONTENT (judgment, creation, commandments) that he himself preached (Rom 2:16 — judgment as "my gospel"; Acts 17:24 — Creator God; 1 Cor 7:19 — commandments matter).
 
-**Relationship to other evidence:** The Answering Adventism critique misapplies Galatians 1. Paul's concern is substituting works for grace, not including judgment, creation, or commandments in the gospel message. Paul himself includes all three in his own preaching.
+**Relationship to other evidence:** The critic critique misapplies Galatians 1. Paul's concern is substituting works for grace, not including judgment, creation, or commandments in the gospel message. Paul himself includes all three in his own preaching.
 
 ---
 
@@ -909,7 +909,7 @@ The divergence: Exo 20:11 concludes "all that in them is"; Rev 14:7 substitutes 
 On the surface, this appears to contradict Rev 14:7's command to fear God. But the fear John says love casts out is specified: kolasis-fear — dread of punishment (kolasis, G2851, appears only 2 times in the NT). The first angel calls for reverential fear (the yirah tradition, Exo 20:20), not servile terror. These are different categories. Moses distinguished them in a single verse (Exo 20:20): "Fear not [terror]... that his fear [reverence] may be before your faces."
 
 ### Galatians 1:6-9 — "If any preach any other gospel"
-The Answering Adventism critique uses this to argue that including judgment/creation/commandments in the gospel is adding to the gospel. But Paul's target is the Judaizers who added circumcision as a salvation CONDITION — substituting works for grace. Paul himself includes judgment (Rom 2:16 — "according to my gospel"), creation (Acts 17:24), and commandments (1 Cor 7:19) in his own preaching. Paul condemns replacing grace, not including creation, judgment, or commandments as gospel content. The heteron/allo distinction (v.6-7) confirms this: a "different" (heteron) gospel that is "not really another" (allo) — the Judaizers perverted the existing gospel, not enriched it.
+The critic critique uses this to argue that including judgment/creation/commandments in the gospel is adding to the gospel. But Paul's target is the Judaizers who added circumcision as a salvation CONDITION — substituting works for grace. Paul himself includes judgment (Rom 2:16 — "according to my gospel"), creation (Acts 17:24), and commandments (1 Cor 7:19) in his own preaching. Paul condemns replacing grace, not including creation, judgment, or commandments as gospel content. The heteron/allo distinction (v.6-7) confirms this: a "different" (heteron) gospel that is "not really another" (allo) — the Judaizers perverted the existing gospel, not enriched it.
 
 ### The absence of explicit Christ-naming in Rev 14:7
 The first angel does not name Christ. Critics argue this disqualifies the message as gospel. Three responses: (1) "Him that made" IS Christ (John 1:1-3, Col 1:15-17, Heb 1:2). The Creator invoked by the first angel is Christ under his Creator title. (2) Paul at Athens also delays naming Christ until the climax (Acts 17:31). If Paul's speech is gospel with delayed christological identification, so is the first angel's. (3) Rev 14:12 explicitly names Jesus ("the faith of Jesus"), completing the christological content delayed from v.7. The pattern is identical to Acts 17.

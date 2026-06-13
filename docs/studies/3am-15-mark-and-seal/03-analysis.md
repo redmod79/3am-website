@@ -219,7 +219,7 @@ What is the charagma (mark, G5480) and what is the sphragis (seal, G4973)? How d
 **Direct statement:** Abraham "received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised."
 **Original language:** Greek confirmed: semeion (G4592, sign) + elaben (received) + peritomes (of circumcision) + sphragida (G4973, seal) + tes dikaiosynes tes pisteos (of the righteousness of the faith). Paul uses BOTH semeion AND sphragis for the same thing: circumcision.
 **Cross-references:** In Hebrew, circumcision is called owth (Gen 17:11) — the same word used for the Sabbath in Exo 31:13,17 and Ezek 20:12,20. If circumcision as owth = both semeion and sphragis, the strict sign/seal vocabulary separation collapses at the functional level.
-**Relationship to other evidence:** This is the critical bridging verse. The Life Assurance Ministries claim that owth and chowtham are never interchanged in translation may be technically correct at the word-for-word level, but Paul demonstrates that the same covenant marker (circumcision) can be both sign (semeion) and seal (sphragis). If one owth can function as both, the Sabbath as owth carries the same potential.
+**Relationship to other evidence:** This is the critical bridging verse. The critics claim that owth and chowtham are never interchanged in translation may be technically correct at the word-for-word level, but Paul demonstrates that the same covenant marker (circumcision) can be both sign (semeion) and seal (sphragis). If one owth can function as both, the Sabbath as owth carries the same potential.
 
 ---
 

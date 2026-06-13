@@ -112,7 +112,7 @@ Moses establishes the pattern. Joshua adds idol-removal. Samuel adds memory of G
 
 ### Answering the "Natural Theology" Objection
 
-The Answering Adventism critique argues that Rev 14:6-7 cannot be gospel because it does not explicitly mention Christ. Three responses from the evidence itself:
+The critic critique argues that Rev 14:6-7 cannot be gospel because it does not explicitly mention Christ. Three responses from the evidence itself:
 
 **First: Christ IS the Creator invoked.** When Rev 14:7 says "worship him that made," the "him that made" is Christ. John 1:1-3: "All things were made by him; and without him was not any thing made that was made." Colossians 1:15-17: "By him were all things created... all things were created by him, and for him." Hebrews 1:2: God "hath... made the worlds" through his Son. The first angel's call to worship the Creator is a call to worship Christ under his Creator title. The christological content is implicit but real.
 

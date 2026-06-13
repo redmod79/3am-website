@@ -581,7 +581,7 @@
 
 The original language data transforms several debates:
 
-- **Entole (G1785) vs. nomos (G3551):** Nomos never appears in Revelation. The Tinker claim that entole = Jesus' teachings only fails against apostolic usage where entole refers to specific Decalogue commands.
+- **Entole (G1785) vs. nomos (G3551):** Nomos never appears in Revelation. The critic claim that entole = Jesus' teachings only fails against apostolic usage where entole refers to specific Decalogue commands.
 - **Kolasis (G2851):** Appears only 2x in NT. Its presence in 1 John 4:18 limits the "fear" love casts out to punishment-dread.
 - **Poieo (G4160) vs. ktizo (G2936):** The verb switch in Rev 14:7 is the diagnostic allusion to Exo 20:11.
 - **Katakrima (G2631) vs. krisis (G2920):** Only 3x vs. 47x. Rom 8:1 negates condemnation, not evaluation.

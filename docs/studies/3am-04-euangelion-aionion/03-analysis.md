@@ -243,7 +243,7 @@ Further, Rev 14:6 is the last occurrence of euangelion (G2098) in the Bible. The
 
 **Cross-references:** Rev 14:7 — "the hour of his judgment is come." If judgment is part of Paul's gospel (Rom 2:16), then the judgment announcement in Rev 14:7 does not violate the Pauline gospel. Luke 3:18 — John's judgment preaching is labeled euangelizo. This gives a triple witness: Luke 3:18, Rom 2:16, and Rev 14:6-7 all explicitly identify the combined gospel-and-judgment message as "gospel."
 
-**Relationship to other evidence:** This is one of the most decisive verses for the Gal 1:6-9 test. If judgment is already part of Paul's own gospel, then Rev 14:7 cannot be a "different gospel" for including judgment. The Answering Adventism argument — that judgment, Sabbath, or commandment-keeping "corrupts" the gospel — collapses here.
+**Relationship to other evidence:** This is one of the most decisive verses for the Gal 1:6-9 test. If judgment is already part of Paul's own gospel, then Rev 14:7 cannot be a "different gospel" for including judgment. The critic argument — that judgment, Sabbath, or commandment-keeping "corrupts" the gospel — collapses here.
 
 ---
 
@@ -405,7 +405,7 @@ Further, Rev 14:6 is the last occurrence of euangelion (G2098) in the Bible. The
 
 **Cross-references:** Rev 14:6-7 (the first angel's message), Eccl 12:13-14 (fear God + commandments + judgment).
 
-**Relationship to other evidence:** This is the strongest evidence that the first angel's message IS the Pauline gospel. If the Answering Adventism argument were correct — that the gospel is exclusively 1 Cor 15:3-4 — then Paul himself violated Gal 1:6-9 at Athens by preaching creation, judgment, and repentance without mentioning death, burial, or resurrection. Paul did not violate his own principle; the gospel includes these elements.
+**Relationship to other evidence:** This is the strongest evidence that the first angel's message IS the Pauline gospel. If the critic argument were correct — that the gospel is exclusively 1 Cor 15:3-4 — then Paul himself violated Gal 1:6-9 at Athens by preaching creation, judgment, and repentance without mentioning death, burial, or resurrection. Paul did not violate his own principle; the gospel includes these elements.
 
 ---
 
@@ -581,7 +581,7 @@ Further, Rev 14:6 is the last occurrence of euangelion (G2098) in the Bible. The
 
 **Cross-references:** Rev 14:12, Gal 5:6, Gal 6:15.
 
-**Relationship to other evidence:** Paul does what the Answering Adventism critique accuses Rev 14:12 of doing — combining the gospel with commandment-keeping. If Paul can say "circumcision is nothing, but keeping God's commandments" without violating Gal 1:6-9, then Rev 14:12's coordination of commandments and faith does not violate it either.
+**Relationship to other evidence:** Paul does what the critic critique accuses Rev 14:12 of doing — combining the gospel with commandment-keeping. If Paul can say "circumcision is nothing, but keeping God's commandments" without violating Gal 1:6-9, then Rev 14:12's coordination of commandments and faith does not violate it either.
 
 ---
 
