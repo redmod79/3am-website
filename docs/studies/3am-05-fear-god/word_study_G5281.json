@@ -1,0 +1,102 @@
+{
+  "strongs": "G5281",
+  "word": "ὑπομονή",
+  "transliteration": "hupomone",
+  "pos": "Feminine noun (n-f)",
+  "occurrences": 32,
+  "definition": "From G5278 (ὑπομένω, hupomeno: to stay under, remain, endure); cheerful (or hopeful) endurance, constancy. The word pictures bearing a weight from below — the posture of one who stays under a burden rather than fleeing it. This is active, steadfast endurance rather than passive resignation. Etymologically: ὑπό (hupo, under) + μένω (meno, remain).",
+
+  "translation_distribution": [
+    {"translation": "patience", "count": 25, "percent": 78.1},
+    {"translation": "of patience", "count": 2, "percent": 6.2},
+    {"translation": "patient continuance", "count": 1, "percent": 3.1},
+    {"translation": "the enduring", "count": 1, "percent": 3.1},
+    {"translation": "the patient waiting", "count": 1, "percent": 3.1},
+    {"translation": "in patience", "count": 1, "percent": 3.1},
+    {"translation": "the patience", "count": 1, "percent": 3.1}
+  ],
+
+  "book_distribution": [
+    {"book": "2 Thessalonians", "count": 2, "density": 4.3},
+    {"book": "James", "count": 3, "density": 2.8},
+    {"book": "Titus", "count": 1, "density": 2.2},
+    {"book": "Revelation", "count": 7, "density": 1.7},
+    {"book": "2 Peter", "count": 1, "density": 1.6},
+    {"book": "Romans", "count": 6, "density": 1.4},
+    {"book": "2 Corinthians", "count": 3, "density": 1.2},
+    {"book": "2 Timothy", "count": 1, "density": 1.2},
+    {"book": "Colossians", "count": 1, "density": 1.1},
+    {"book": "1 Thessalonians", "count": 1, "density": 1.1},
+    {"book": "1 Timothy", "count": 1, "density": 0.9},
+    {"book": "Hebrews", "count": 2, "density": 0.7},
+    {"book": "Luke", "count": 2, "density": 0.2}
+  ],
+
+  "lxx_mappings": [
+    {"hebrew": "H4723 מִקְוֶה (miqveh)", "count": 4, "pmi": 9.98, "score": 16.06},
+    {"hebrew": "H8615 תִּקְוָה (tiqvah)", "count": 4, "pmi": 8.30, "score": 13.36},
+    {"hebrew": "H776 אֶרֶץ (erets)", "count": 5, "pmi": 2.54, "score": 4.55},
+    {"hebrew": "H3478 יִשְׂרָאֵל (Yisrael)", "count": 3, "pmi": 1.78, "score": 2.47}
+  ],
+
+  "semantic_categories": [
+    {
+      "name": "1. Endurance through Tribulation",
+      "description": "Patience produced by and exercised in suffering; a response to external pressure. Tribulation (thlipsis, G2347) is the forge in which hupomone is shaped. The word appears in contexts of persecution, affliction, and hardship where the believer remains steadfast rather than abandoning faith.",
+      "key_verses": ["Rom 5:3-4", "2 Cor 6:4", "Jas 1:3-4", "Rev 13:10"]
+    },
+    {
+      "name": "2. Patient Persistence toward God's Will",
+      "description": "Steadfast continuation in obedience; endurance oriented toward a promised outcome. Here hupomone is the quality that keeps one on the path of God's will even when the fruit is delayed or the cost is high.",
+      "key_verses": ["Luk 8:15", "Rom 2:7", "Heb 10:36", "Heb 12:1"]
+    },
+    {
+      "name": "3. Eschatological Waiting",
+      "description": "Patience directed toward Christ's return or a future divine act; hope-shaped endurance. The forward-looking anchor of this category distinguishes it from mere suffering-endurance: hupomone here is sustained by a specific expectation.",
+      "key_verses": ["Rom 8:25", "1 Thess 1:3", "2 Thess 3:5", "Rev 3:10"]
+    },
+    {
+      "name": "4. Virtue in Character Lists",
+      "description": "Hupomone as one among a cluster of ethical qualities. When it appears in virtue catalogues, patience functions as a character trait alongside faith, love, and godliness — part of the expected profile of a mature believer.",
+      "key_verses": ["1 Tim 6:11", "Tit 2:2", "2 Pet 1:6", "Rev 2:19"]
+    },
+    {
+      "name": "5. Communal and Apostolic Testimony",
+      "description": "Patience as a publicly visible mark — of apostolic ministry, of a congregation, of the saints as a community. In these uses, hupomone is not merely private virtue but corporate witness.",
+      "key_verses": ["2 Cor 12:12", "2 Thess 1:4", "Rev 1:9", "Rev 14:12"]
+    }
+  ],
+
+  "collocations": [
+    {"strongs": "G4102", "word": "pistis (faith)", "count": 9, "pattern": "patience and faith — paired virtues in affliction and eschatology (2 Thess 1:4; Rev 13:10; Rev 14:12)"},
+    {"strongs": "G2316", "word": "theos (God)", "count": 9, "pattern": "God of patience (Rom 15:5); patience in seeking God through endurance (Rom 2:7)"},
+    {"strongs": "G26", "word": "agape (love)", "count": 6, "pattern": "faith, love, patience triad in virtue lists (1 Tim 6:11; 2 Tim 3:10; Tit 2:2)"},
+    {"strongs": "G2041", "word": "ergon (work)", "count": 5, "pattern": "work of faith, labour of love, patience of hope (1 Thess 1:3; Rev 2:2, 2:19)"},
+    {"strongs": "G2347", "word": "thlipsis (tribulation)", "count": 4, "pattern": "tribulation as the context that produces or tests patience (Rom 5:3; Rev 1:9)"},
+    {"strongs": "G2424", "word": "Iesous (Jesus)", "count": 4, "pattern": "patience of Jesus Christ — Christ as both ground and object of endurance (Rev 1:9)"},
+    {"strongs": "G1680", "word": "elpis (hope)", "count": 3, "pattern": "patience of hope — hope as the forward anchor of endurance (1 Thess 1:3; Rom 5:4-5)"},
+    {"strongs": "G3874", "word": "paraklesis (comfort/consolation)", "count": 3, "pattern": "patience and comfort of the scriptures (Rom 15:4); enduring of afflictions (2 Cor 1:6)"},
+    {"strongs": "G2716", "word": "katergazomai (worketh/produces)", "count": 3, "pattern": "tribulation worketh patience; patience worketh experience (Rom 5:3-4)"}
+  ],
+
+  "related_words": {
+    "synonyms": [
+      {"strongs": "G3115", "word": "makrothumia", "distinction": "Longsuffering/patience toward persons; slow to retaliate. Hupomone = steadfast bearing of circumstances and trials. Col 1:11 pairs both: 'unto all patience (hupomone) and longsuffering (makrothumia) with joyfulness.'"},
+      {"strongs": "G463", "word": "anoche", "distinction": "Forbearance; divine withholding of judgment (Rom 2:4; 3:25). More passive restraint than active endurance."}
+    ],
+    "antonyms": [],
+    "word_family": [
+      {"strongs": "G5278", "word": "hupomeno", "distinction": "Cognate verb: to stay under, remain, endure (17 BLB occurrences). The verbal action that hupomone expresses as a noun. Matt 10:22: 'he that shall endure to the end shall be saved.'"}
+    ],
+    "contrast_words": [
+      {"strongs": "G3115", "word": "makrothumia", "distinction": "makrothumia = patience with people (long-tempered, slow to anger); hupomone = patience with circumstances (staying under pressure). Both are needed: Col 1:11 lists them side by side."}
+    ]
+  },
+
+  "raw_tool_output": {
+    "lookup": "G5281 - 32 total occurrences, 7 unique translations:\n\n    25 ( 78.1%) patience\n     2 (  6.2%) of patience\n     1 (  3.1%) patient continuance\n     1 (  3.1%) the enduring\n     1 (  3.1%) the patient waiting\n     1 (  3.1%) in patience\n     1 (  3.1%) the patience",
+    "lexicon": "G5281: ὑπομονή\nTransliteration: hupŏmŏnē\nPronunciation: hoop-om-on-ay\nPart of Speech: feminine noun (n-f)\nBLB Count: 32\nDefinition: ; from ; cheerful (or hopeful) endurance, constancy:—enduring,",
+    "hebrew_source": "Hebrew source words (ranked by PMI-weighted):\n  H4723: מִקְוֶה (miqveh) count: 4, PMI: 9.98, score: 16.06\n  H8615: תִּקְוָה (tiqvâh) count: 4, PMI: 8.30, score: 13.36\n  H776: אֶרֶץ (ʼerets) count: 5, PMI: 2.54, score: 4.55\n  H3478: יִשְׂרָאֵל (Yisrâʼêl) count: 3, PMI: 1.78, score: 2.47",
+    "relationships": "Synonyms: μακροθυμία (G3115)\nSemantic Domains: [025] Attitudes and Emotions\nDomain 025015: Patience, Endurance, Perseverance\nReferenced in word studies: G2041-ergon, G2347-thlipsis, G161-aichmalosia, G3524-nephalios, G1466-egkrateia, G463-anoche, WG-hope, WG-patience, TR-tiqvah-elpis, G1680-elpis"
+  }
+}

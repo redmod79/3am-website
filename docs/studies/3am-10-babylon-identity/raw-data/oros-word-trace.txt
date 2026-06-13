@@ -1,0 +1,29 @@
+G3735 (oros) WORD TRACE — FULL DATA
+
+From search_strongs.py --lookup G3735:
+65 total occurrences, 11 unique translations
+
+Translation breakdown:
+  mountain   27 (41.5%)
+  mount      16 (24.6%)
+  mountains  12 (18.5%)
+  hill        2 ( 3.1%)  — Luke 4:29, Luke 9:37 ONLY
+  the mount   2 ( 3.1%)
+  an hill     1 ( 1.5%)  — NOTE: counted separately but same meaning
+  a mountain  1 ( 1.5%)
+  of mount    1 ( 1.5%)
+  unto the mount  1 ( 1.5%)
+  unto mount  1 ( 1.5%)
+  the mountains  1 ( 1.5%)
+
+Total "hill" translations: 3 (Luke 4:29, Luke 9:37, + "an hill" = possibly one more)
+Total "mountain/mount" translations: 62
+
+In Revelation: oros occurs 7 times (Rev 6:14, 6:16, 8:8, 14:1, 16:20, 17:9, 21:10)
+All translated "mountain(s)" or "mount" — NONE as "hill"
+
+G1015 (bounos) — the actual Greek word for "hill":
+bounos appears in Luke 3:5 ("every mountain...and hill shall be made low") and Luke 23:30 ("say to the hills, Cover us")
+bounos is NEVER used in Revelation.
+
+CONCLUSION: Woods' observation is correct. oros in Revelation consistently means "mountain." Using "seven hills" for Rev 17:9 requires oros to shift meaning uniquely in that one verse. The text reads "seven mountains" — which may symbolize kingdoms/powers (as 17:9b immediately clarifies: "there are also seven kings").

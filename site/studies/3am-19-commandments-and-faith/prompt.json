@@ -1,0 +1,1199 @@
+{
+  "question": "What does Revelation 14:12's description of the saints — 'they that keep the commandments of God, and the faith of Jesus' — mean? Which commandments does tas entolas tou theou refer to? Is pistis Iesou subjective or objective genitive? How does the Abrahamic pattern work (faith first, obedience after)? How does Paul's 'obedience of faith' connect? Address the legalism objection: Rev 14:12 DESCRIBES the saints (present active participle terountes), not PRESCRIBES conditions.",
+  "prior_research_summary": "Eight prior studies provide deep foundations: law-28 established the entole = Decalogue pattern (43/43 identifiable NT instances); gsp-06 verified the faith-love-law chain (Gal 5:6 → 1 Jhn 5:3 → Rom 13:10 → Rom 8:4 → Rom 3:31); cmd-15 documented the Abrahamic faith-then-obedience pattern and Paul's me genoito denials; gsp-04 established telos in Rom 10:4 as 'goal' not 'termination'; rev-13-14-commandments analyzed the proskyneo contest and the hupomone inclusio; 3am-18 established hode as apocalyptic pointer, terountes as present active participle describing settled way of life, and left 'commandments of God' and 'faith of Jesus' content for this study; 3am-08 established the Rev 14:7/Exo 20:11 creation formula echo and the commandment inclusio (Rev 11:19 → 12:17 → 14:7 → 14:12). Web research identified Tonstad's subjective genitive argument within Revelation's theodicy framework, Easter's survey concluding grammar alone cannot resolve the pistis Christou debate, Tinker/Answering Adventism's entole/nomos objection, and Garlington's hupakoe pisteos as intentionally ambiguous Pauline coinage.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:12",
+      "reason": "THE crux text — 'here are they that keep the commandments of God, and the faith of Jesus'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 12:17",
+      "reason": "Parallel identification formula — 'which keep the commandments of God, and have the testimony of Jesus Christ'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 13:10",
+      "reason": "Opening of hode inclusio — 'Here is the patience and the faith of the saints'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 22:14",
+      "reason": "Third commandment-keeping blessing — 'Blessed are they that do his commandments'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 11:19",
+      "reason": "Ark of the covenant vision framing the commandment references — Decalogue inside the ark",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:7",
+      "reason": "First angel echoes Exo 20:11 creation formula — links to fourth commandment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:5",
+      "reason": "Opening of hupakoe pisteos inclusio — 'obedience to the faith among all nations'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 16:26",
+      "reason": "Closing of hupakoe pisteos inclusio — 'made known to all nations for the obedience of faith'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 5:6",
+      "reason": "First link in faith-love-law chain — 'faith which worketh by love'",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 John 5:3",
+      "reason": "Second link — 'this is the love of God, that we keep his commandments'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 13:10",
+      "reason": "Third link — 'love is the fulfilling of the law'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 8:4",
+      "reason": "Fourth link — 'righteousness of the law fulfilled in us, who walk after the Spirit'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 3:31",
+      "reason": "Fifth link — 'we establish the law' through faith",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 15:6",
+      "reason": "Abraham's faith counted as righteousness — faith FIRST",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 26:5",
+      "reason": "Abraham's comprehensive obedience vocabulary — obedience AFTER",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Cor 7:19",
+      "reason": "Identical phrase 'keeping the commandments of God' while excluding circumcision",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 7:7-12",
+      "reason": "Paul quotes tenth commandment and calls it entole — refutes entole ≠ Decalogue claim",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eph 6:2",
+      "reason": "Paul quotes fifth commandment and calls it entole — second test case",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 23:56",
+      "reason": "Sabbath observance described as 'according to the commandment (entole)' — third test case",
+      "tier": "primary"
+    },
+    {
+      "ref": "James 2:22-23",
+      "reason": "Faith worked with works, faith completed by works — Abraham pattern",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eph 2:8-10",
+      "reason": "Saved by grace through faith, not of works, created unto good works — cause vs. fruit",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 6:16-18",
+      "reason": "Servants of obedience unto righteousness — obedience flows from freedom",
+      "tier": "primary"
+    },
+    {
+      "ref": "Ezek 36:27",
+      "reason": "Spirit-enablement — 'I will cause you to walk in my statutes' — eliminates legalism charge",
+      "tier": "primary"
+    },
+    {
+      "ref": "Phil 2:13",
+      "reason": "God works both willing and doing — divine enablement of obedience",
+      "tier": "primary"
+    },
+    {
+      "ref": "Titus 2:11-12",
+      "reason": "Grace TEACHES denial of ungodliness — grace as pedagogical",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 3:36",
+      "reason": "Pisteuo vs. apeitheo as direct antonyms — belief and obedience unified",
+      "tier": "primary"
+    },
+    {
+      "ref": "Heb 11:8",
+      "reason": "'By faith Abraham obeyed' — faith and obedience in single clause",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "First angel's everlasting gospel context preceding the saint description",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:9-11",
+      "reason": "Third angel's warning context immediately before v.12",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "OT template — 'Fear God and keep commandments + judgment' maps to Rev 14:7,12",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 20:11",
+      "reason": "Fourth commandment rationale echoed in Rev 14:7",
+      "tier": "primary"
+    },
+    {
+      "ref": "Deut 10:1-5",
+      "reason": "OT confirmation that ark contained the Decalogue tablets",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Kings 8:9",
+      "reason": "Nothing in the ark except the two tablets — Decalogue exclusively",
+      "tier": "supporting"
+    },
+    {
+      "ref": "John 14:15",
+      "reason": "Jesus: 'If ye love me, keep my commandments' — love-obedience connection",
+      "tier": "supporting"
+    },
+    {
+      "ref": "John 15:10",
+      "reason": "Jesus kept Father's commandments and abides in His love — model pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 2:3-4",
+      "reason": "Knowing God = keeping His commandments; denying = liar",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 3:22-24",
+      "reason": "Keep His commandments and believe in Jesus — both together",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 3:20",
+      "reason": "By the deeds of the law no flesh justified — works excluded as CAUSE",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 4:3",
+      "reason": "Abraham believed God, counted for righteousness — Paul's use of Gen 15:6",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 4:10-11",
+      "reason": "Faith counted as righteousness BEFORE circumcision — temporal ordering",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gal 3:6-9",
+      "reason": "Abraham believed God — Gentiles justified by faith same pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 6:1-2",
+      "reason": "First me genoito — 'Shall we continue in sin? God forbid'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 6:15",
+      "reason": "Second me genoito — 'Shall we sin because under grace? God forbid'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Cor 9:21",
+      "reason": "Paul ennomos Christou — 'in-lawed to Christ'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 5:17-19",
+      "reason": "Jesus: 'not come to destroy but to fulfill' — law's continuation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 15:2-3",
+      "reason": "Overcomers sing song of Moses and the Lamb — same group as 14:12",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 2:19",
+      "reason": "Thyatira commended for works, love, service, faith, patience",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 3:10",
+      "reason": "Kept word of patience — tereo used for keeping word",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 11:17-19",
+      "reason": "Abraham's faith tested and demonstrated through offering Isaac",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 10:4",
+      "reason": "Christ the telos of the law — goal, not termination (prior study gsp-04)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 31:33",
+      "reason": "New covenant — law written on hearts, same content new surface",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 8:10",
+      "reason": "NT citation of Jer 31:33 — law in minds and hearts",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 5:2",
+      "reason": "'When we love God and keep his commandments' — love and obedience mutual",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 22:15",
+      "reason": "Excluded sins correspond to Decalogue violations — murder, idolatry, lying",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "Which commandments? Entolas tou theou = the Decalogue",
+      "what": "Determine whether 'the commandments of God' (tas entolas tou theou) in Rev 14:12 refers to the Decalogue specifically or commandments generally",
+      "why": "This is the primary counter-argument from Tinker/Answering Adventism — they claim entole = Jesus's teachings only, nomos = the Law, therefore entole cannot mean the Decalogue",
+      "how": "Test the entole/nomos distinction claim against Paul's own usage, examine the literary context of Rev 11:19 (ark containing Decalogue), and verify the 43/43 pattern from law-28",
+      "narrative": "The entole/nomos objection is the sharpest critic argument and needs thorough biblical refutation. READ `$WORD_STUDIES/G1785-entole.md` and `$WORD_STUDIES/G3551-nomos.md` for the canonical word studies — the entole study should document the 43/43 pattern. Run greek_parser.py --verse on Rev 14:12 to confirm the articular plural (tas entolas). The three decisive test cases are: (1) Rom 7:7-12 where Paul quotes the tenth commandment 'thou shalt not covet' and calls it he entole in vv.8-12 — run greek_parser.py on Rom 7:8-12 to confirm; (2) Eph 6:2 where Paul calls the fifth commandment 'the first commandment (entole) with promise'; (3) Luke 23:56 where the Sabbath is observed 'according to the commandment (kata ten entolen).' Also examine 1 Cor 7:19 which uses the identical phrase 'keeping the commandments of God' (entolas theou) while explicitly excluding circumcision. Check the literary structure: Rev 11:19 reveals the ark of the covenant (which contained the Decalogue per Deut 10:1-5 and 1 Kings 8:9) immediately before 12:17's first use of 'commandments of God.' Run cross_testament_parallels_v2.py on Rev 14:12 for both OT and NT parallels.",
+      "verses": [
+        "Rev 14:12",
+        "Rev 12:17",
+        "Rev 22:14",
+        "Rev 11:19",
+        "1 Cor 7:19",
+        "Rom 7:7-12",
+        "Eph 6:2",
+        "Luke 23:56"
+      ],
+      "strongs": [
+        "G1785",
+        "G3551",
+        "G1378"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The pistis Iesou genitive: subjective, objective, or both?",
+      "what": "Determine whether 'the faith of Jesus' (ten pistin Iesou) in Rev 14:12 means Jesus's own faithfulness (subjective genitive), faith directed toward Jesus (objective genitive), or both dimensions simultaneously",
+      "why": "This is a live scholarly debate with no grammatical resolution — Tonstad argues subjective within Revelation's theodicy framework, most older commentators default to objective, Easter concludes grammar alone cannot decide",
+      "how": "Parse Rev 14:12 for the genitive construction, compare with Pauline pistis Christou texts, examine Revelation's own narrative for contextual clues, read the grammar reference entry on subjective/objective genitive",
+      "narrative": "READ `$GRAMMAR_REF/greek/subjective-objective-genitive.md` for the canonical entry on genitive types — this should provide the framework for evaluating the construction. READ `$WORD_STUDIES/G4102-pistis.md` for the full pistis word study including its genitive constructions. Run greek_parser.py --verse on Rev 14:12 to confirm the genitive case of Iesou. Compare with Rev 2:13 (ten pistin mou) and Rev 13:10 (he pistis ton hagion). The Tonstad argument is that pistis Iesou within Revelation's cosmic conflict narrative = Jesus' faithfulness vindicating God's character — the subjective reading makes Jesus the active agent of faithfulness. The objective reading makes believers the agents of faith directed toward Jesus. Easter's survey concludes these arguments reach stalemate grammatically. The research agent should investigate whether a plenary genitive (both dimensions) is the best reading: Jesus' own faithfulness as the ground, believer's faith in Him as the response. Compare with the parallel marturian Iesou in Rev 12:17 — does testimony follow the same genitive pattern as faith?",
+      "verses": [
+        "Rev 14:12",
+        "Rev 12:17",
+        "Rev 2:13",
+        "Rev 13:10",
+        "Rom 3:22",
+        "Gal 2:16",
+        "Gal 3:22",
+        "Phil 3:9"
+      ],
+      "strongs": [
+        "G4102",
+        "G4100",
+        "G4103"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Abrahamic pattern: faith first, obedience after",
+      "what": "Trace the chronological pattern in Abraham's life where faith was reckoned as righteousness BEFORE obedience followed, and verify this as the pattern Rev 14:12 describes",
+      "why": "The Abrahamic pattern is the biblical template for the faith-then-obedience sequence, directly answering the legalism charge — the saints of Rev 14:12 are people who believed first, and obedience is the fruit",
+      "how": "Read Gen 15:6 and Gen 26:5, parse the Hebrew vocabulary of Gen 26:5, trace Paul's use of this pattern in Romans 4, and connect to James 2:22-23",
+      "narrative": "The Abrahamic faith-then-obedience pattern is the key historical-grammatical evidence that commandment-keeping and faith are sequential, not competing. Gen 15:6 records Abraham's faith counted as righteousness. Gen 26:5 records God's assessment after Abraham's death: 'obeyed my voice, and kept my charge (mishmereth), my commandments (mitsvot), my statutes (chuqqot), and my laws (torot).' READ `$WORD_STUDIES/H4687-mitsvah.md`, `$WORD_STUDIES/H2706-choq.md`, `$WORD_STUDIES/H8451-towrah.md`, and `$WORD_STUDIES/H8104-shamar.md` for the Hebrew vocabulary. Note that H4931 (mishmereth) does NOT have a library entry and should be run fresh via search_strongs.py. Run hebrew_parser.py --verse on Gen 26:5 to parse the comprehensive obedience vocabulary. Paul cites Gen 15:6 in Rom 4:3 and notes the temporal ordering in Rom 4:10-11 — faith was counted BEFORE circumcision. James 2:22-23 shows faith 'working with' works and 'completed by' works, then cites Gen 15:6. Howard (2025) observes this pattern 'carries through the Old Testament' and compares faith to an apple tree that produces apples by its very nature. Run cross_testament_parallels_v2.py on Gen 15:6 for both OT and NT parallels.",
+      "verses": [
+        "Gen 15:6",
+        "Gen 26:5",
+        "Rom 4:3",
+        "Rom 4:10-11",
+        "James 2:22-23",
+        "Heb 11:8",
+        "Heb 11:17-19",
+        "Gal 3:6-9"
+      ],
+      "strongs": [
+        "H539",
+        "H530",
+        "H8104",
+        "H4687",
+        "H2706",
+        "H8451"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Paul's hupakoe pisteos inclusio (Rom 1:5 / 16:26)",
+      "what": "Analyze Paul's unique phrase 'obedience of faith' that bookends Romans, determine its genitive force, and connect it to Rev 14:12's twin marks",
+      "why": "Garlington argues this is a deliberately ambiguous Pauline coinage bridging 'the obedience which IS faith' and 'the obedience which springs FROM faith' — directly supporting the reading of Rev 14:12's twin marks as one reality",
+      "how": "Parse Rom 1:5 and 16:26, examine the genitive construction, compare with Wilkin's appositional genitive claim, check how the inclusio frames all of Romans",
+      "narrative": "READ `$WORD_STUDIES/G5218-hupakoe.md` and `$WORD_STUDIES/G5219-hupakouo.md` for the canonical obedience word studies. Run greek_parser.py --verse on both Rom 1:5 and Rom 16:26 to confirm the identical phrase hupakoen pisteos. Garlington argues this is 'unique to the whole of pre-Christian Greek literature' — a deliberate Pauline coinage expressing simultaneously 'the obedience which is faith' AND 'the obedience which is the product of faith.' This is the conceptual bridge between Rev 14:12's twin marks: commandment-keeping and faith are two aspects of one reality, not competing requirements. Wilkin's counter-position (appositional genitive: faith IS obedience, limited to obeying the command to believe) should be tested against the broader Pauline data — does Rom 6:16-18, Gal 5:6, etc. support limiting 'obedience of faith' to initial belief only? Check whether the inclusio frames Romans' entire argument about justification by faith and its fruit in obedience. READ `$WORD_STUDIES/G544-apeitheo.md` for the apeitheo word study — this word means both 'disbelieve' and 'disobey,' showing the biblical languages do not separate these concepts.",
+      "verses": [
+        "Rom 1:5",
+        "Rom 16:26",
+        "Rom 6:16-18",
+        "John 3:36"
+      ],
+      "strongs": [
+        "G5218",
+        "G5219",
+        "G544",
+        "G3982"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The faith-love-law chain (Gal 5:6 → 1 John 5:3 → Rom 13:10 → Rom 8:4 → Rom 3:31)",
+      "what": "Trace and verify each link in the chain connecting faith, love, and law-keeping as a unified reality",
+      "why": "This chain is the strongest biblical evidence that commandment-keeping and faith are not competing but organically connected — faith works through love, love = keeping commandments, love fulfills law, law fulfilled in Spirit-walkers, faith establishes law",
+      "how": "Retrieve and parse each verse, verify the Greek vocabulary connections between links, check the 1 Cor 7:19 / Gal 5:6 parallel",
+      "narrative": "The chain has been verified in prior study gsp-06, but this study needs to trace it fresh with emphasis on how it answers the legalism charge. Link 1: Gal 5:6 — 'faith which worketh by love' (pistis di agapes energoumene). Link 2: 1 John 5:3 — 'this is the love of God, that we keep his commandments' (entolas autou teromen — note tereo G5083, same verb as Rev 14:12). Link 3: Rom 13:10 — 'love is the fulfilling (pleroma) of the law (nomou).' Link 4: Rom 8:4 — 'the righteousness (dikaioma) of the law fulfilled in us who walk after the Spirit' — divine passive, God fulfills law's requirement IN believers. Link 5: Rom 3:31 — 'we establish (histemi) the law through faith.' READ `$WORD_STUDIES/G5083-tereo.md`, `$WORD_STUDIES/G26-agape.md`, and `$WORD_STUDIES/G4102-pistis.md`. The parallel between 1 Cor 7:19 and Gal 5:6 is striking: same sentence frame with two fill-ins — 'faith working by love' = 'keeping the commandments of God.' Paul treats them as equivalent. Run greek_parser.py on each chain verse.",
+      "verses": [
+        "Gal 5:6",
+        "1 John 5:3",
+        "Rom 13:10",
+        "Rom 8:4",
+        "Rom 3:31",
+        "1 Cor 7:19"
+      ],
+      "strongs": [
+        "G4102",
+        "G26",
+        "G5083",
+        "G3551",
+        "G4160"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The terountes participle: DESCRIBES saints, not PRESCRIBES conditions",
+      "what": "Analyze the grammar of hoi terountes (present active participle) in Rev 14:12 to demonstrate it describes WHO the saints ARE, not what they must DO to be saved",
+      "why": "This is the decisive grammatical refutation of the legalism charge — Rev 14:12 is not an imperative commanding obedience but a description characterizing the saints by their settled way of life",
+      "how": "Parse Rev 14:12 and Rev 12:17 Greek, compare the participle function with hode + estin, check grammar reference entries on present active participle and substantival participle",
+      "narrative": "READ `$GRAMMAR_REF/greek/participle-present-active.md` for the canonical entry on present active participles. READ `$GRAMMAR_REF/greek/participle-substantival-articular.md` for substantival participle function. READ `$GRAMMAR_REF/passages/rev-14-6-12.md` if it exists — it may already contain parsing for this verse. Run greek_parser.py --verse on Rev 14:12 to confirm terountes is V-PAP-NPM (present active participle, nominative plural masculine). The 3am-18 study established that terountes characterizes the saints by ongoing habitual activity — present tense = settled way of life, not one-time decision. Compare the twin participles in Rev 12:17: ton terounton (present active, genitive plural) and echonton (present active, genitive plural) — both descriptive. The hode + estin construction (3am-18 finding) further confirms this is declarative, not imperative. Check whether the Expositor's Greek Testament and Cambridge Bible commentary readings (from 00-web-research.md) align with this grammatical analysis. Also parse the contrast with the aorist imperatives in Rev 14:7 (phobethete, dote, proskynesate) — THOSE are prescriptive commands; v.12 is descriptive characterization.",
+      "verses": [
+        "Rev 14:12",
+        "Rev 12:17",
+        "Rev 14:7",
+        "Rev 13:10"
+      ],
+      "strongs": [
+        "G5083",
+        "G5602",
+        "G2076"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Spirit-enablement eliminates the legalism charge",
+      "what": "Document the biblical mechanism by which obedience is God-empowered (not self-generated), making the legalism charge impossible",
+      "why": "If God causes the obedience through His Spirit, then the obedience described in Rev 14:12 is gospel fruit, not works-based salvation",
+      "how": "Trace the Spirit-enablement passages, check the divine passive in Rom 8:4, examine Phil 2:13 and Ezek 36:27",
+      "narrative": "Three passages establish the Spirit-enablement mechanism that makes legalism impossible: (1) Ezek 36:27 — 'I will put my spirit within you and CAUSE you to walk in my statutes' — God is the causer, obedience is the effect. READ `$WORD_STUDIES/G4151-pneuma.md` for Spirit vocabulary. (2) Rom 8:4 — 'the righteousness of the law fulfilled in us who walk after the Spirit' — divine passive construction; God fulfills law's requirement IN believers. Run greek_parser.py on Rom 8:4 to confirm the passive. (3) Phil 2:13 — 'it is God which worketh in you both to will and to do' — God works both the desire and the action. (4) Titus 2:11-12 — grace 'teaches' (paideuo) denial of ungodliness and worldly lusts — grace as pedagogical, not permissive. The legalism charge assumes self-powered obedience; the biblical text describes God-powered obedience. READ `$WORD_STUDIES/G5485-charis.md` for grace vocabulary. Also examine Eph 2:10 — 'created in Christ Jesus unto good works' — works as divine PURPOSE, not human cause.",
+      "verses": [
+        "Ezek 36:27",
+        "Rom 8:4",
+        "Phil 2:13",
+        "Titus 2:11-12",
+        "Eph 2:8-10"
+      ],
+      "strongs": [
+        "G4151",
+        "G5485",
+        "G2041"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Paul's me genoito denials: the wall against antinomianism",
+      "what": "Document Paul's five 'God forbid' (me genoito) denials as a pattern of rejecting antinomian conclusions from grace theology",
+      "why": "These denials show that Paul anticipated and explicitly rejected the exact argument critics make against Rev 14:12 — that emphasizing commandments = legalism",
+      "how": "Retrieve and parse each me genoito text, show the pattern of antinomian objection followed by emphatic denial",
+      "narrative": "The cmd-15 study documented five me genoito denials forming a wall against antinomian readings: (1) Rom 3:31 — 'Do we make void the law through faith? God forbid: we ESTABLISH the law.' (2) Rom 6:1-2 — 'Shall we continue in sin that grace may abound? God forbid.' (3) Rom 6:15 — 'Shall we sin because we are not under law but under grace? God forbid.' (4) Gal 2:17 — 'Is Christ the minister of sin? God forbid.' (5) Gal 3:21 — 'Is the law against the promises? God forbid.' Run greek_parser.py on each to confirm the emphatic negation formula. Each denial responds to an implied antinomian conclusion that Paul refuses to draw. The pattern shows that the apostle to the Gentiles — the champion of justification by faith — was simultaneously the most emphatic defender of the law's continuing validity. This is the same dual affirmation Rev 14:12 makes: commandments AND faith, not commandments OR faith.",
+      "verses": [
+        "Rom 3:31",
+        "Rom 6:1-2",
+        "Rom 6:15",
+        "Gal 2:17",
+        "Gal 3:21"
+      ],
+      "strongs": [
+        "G3551",
+        "G4102",
+        "G5485"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The commandment inclusio in Revelation (Rev 11:19 → 12:17 → 14:7 → 14:12)",
+      "what": "Trace the literary structure that connects the ark vision to the commandment references throughout Revelation 11-14",
+      "why": "The literary context provides the strongest evidence for identifying 'commandments of God' with the Decalogue — the ark of the covenant (containing the Decalogue) is revealed immediately before the first use of the phrase",
+      "how": "Map the sequence of commandment-related references, check the ark-covenant-Decalogue connection in OT texts, examine the Rev 14:7/Exo 20:11 creation formula echo",
+      "narrative": "The 3am-08 study established the commandment inclusio: Rev 11:19 opens with the ark of the covenant revealed in the heavenly temple. The ark contained the Decalogue exclusively (Deut 10:1-5, 1 Kings 8:9 — 'there was nothing in the ark save the two tables'). This immediately precedes Rev 12:17's first use of 'commandments of God' (entolas tou theou). Rev 14:7 echoes Exo 20:11 through the LXX — four shared terms in sequence: poieo (made), ouranos (heaven), ge (earth), thalassa (sea). READ `$WORD_STUDIES/G4160-poieo.md` — note that generic creation language in Revelation uses ktizo (Rev 4:11, 10:6) but Rev 14:7 deliberately uses poieo, the verb mapping to Exo 20:11 LXX. Rev 14:12 closes the inclusio with 'keep the commandments of God.' Run cross_testament_parallels_v2.py on Rev 11:19 for OT parallels. The Eccl 12:13-14 template ('Fear God + keep commandments + judgment') maps directly onto Rev 14:7,12. Retrieve the Mueller and Grzeskowiak claims from 00-web-research.md about this literary structure and verify them against the text.",
+      "verses": [
+        "Rev 11:19",
+        "Rev 12:17",
+        "Rev 14:7",
+        "Rev 14:12",
+        "Exo 20:11",
+        "Deut 10:1-5",
+        "1 Kings 8:9",
+        "Eccl 12:13-14"
+      ],
+      "strongs": [
+        "G1785",
+        "G4160",
+        "G2936"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Works as cause vs. works as fruit: the vocabulary distinction",
+      "what": "Document the NT distinction between works excluded as CAUSE of salvation (erga nomou) and works affirmed as PURPOSE/FRUIT (erga agatha)",
+      "why": "The legalism charge conflates these two categories — Rev 14:12 describes works as fruit, not works as cause",
+      "how": "Compare erga nomou passages with erga agatha passages, trace the vocabulary distinction visible in Greek",
+      "narrative": "The gsp-06 study identified this crucial vocabulary distinction: works excluded as CAUSE use the phrase erga nomou ('works of the law') — Rom 3:20, 28; Gal 2:16; 3:2, 5, 10. Works affirmed as PURPOSE/FRUIT use erga agatha ('good works') — Eph 2:10; Titus 2:14; 3:1, 8. READ `$WORD_STUDIES/G2041-ergon.md` for the full ergon word study. The distinction is visible only in Greek — English 'works' collapses both categories. Eph 2:8-10 is the paradigm text: saved by grace through faith NOT of works (erga, v.9 = cause excluded) → created IN Christ Jesus UNTO good works (erga agatha, v.10 = purpose affirmed). Rev 14:12's commandment-keeping falls in the fruit/purpose category, not the cause category. The saints are not SAVED BY keeping commandments; they are IDENTIFIED BY keeping commandments because they have been saved by faith. Run greek_parser.py on Eph 2:8-10 and Gal 2:16 to show the vocabulary contrast.",
+      "verses": [
+        "Eph 2:8-10",
+        "Rom 3:20",
+        "Rom 3:28",
+        "Gal 2:16",
+        "Titus 2:14",
+        "Titus 3:8"
+      ],
+      "strongs": [
+        "G2041",
+        "G3551",
+        "G4102",
+        "G5485"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The hode inclusio: Rev 13:10 + 14:12 bracket the beast crisis",
+      "what": "Analyze how the hode ('here is') formula in 13:10 and 14:12 forms an inclusio that brackets the beast crisis and defines the content of patience and faith",
+      "why": "The inclusio structure shows that Rev 14:12 DEFINES what 13:10 introduced: 'patience and faith' = 'commandment-keeping and faith of Jesus'",
+      "how": "Parse both verses, compare the hode + estin construction, trace the relationship between 13:10 and 14:12",
+      "narrative": "The 3am-18 study established the hode inclusio: Rev 13:10 opens with 'Here is the patience AND the faith of the saints' — hode + he hupomone + kai + he pistis. Rev 14:12 closes with 'Here is the patience of the saints: here are they that keep the commandments of God AND the faith of Jesus' — hode + he hupomone + hoi terountes + tas entolas + kai + ten pistin Iesou. READ `$WORD_STUDIES/G5602-hōde.md` for the hode word study. The content of 14:12 DEFINES what 13:10 introduced: patience-and-faith = commandment-keeping-and-faith-of-Jesus. The beast crisis content between these brackets (13:11-14:11) shows WHY these marks matter — the beast system attacks commandment-keeping (false worship, image worship, death decree) and tests faith (mark or death). The saints who endure in 14:12 are the overcomers of 15:2 (nikao-hupomone relationship from 3am-18). Run greek_parser.py on Rev 13:10 and compare with 14:12.",
+      "verses": [
+        "Rev 13:10",
+        "Rev 14:12",
+        "Rev 15:2-3"
+      ],
+      "strongs": [
+        "G5602",
+        "G5281",
+        "G5083",
+        "G4102"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The dual identification formula: commandments never stand alone in Revelation",
+      "what": "Demonstrate that 'commandments of God' in Revelation ALWAYS appears paired with faith/testimony of Jesus — never commandments alone",
+      "why": "The dual formula means the saints are neither legalists (commandments without faith) nor antinomians (faith without commandments) — both are essential identification marks",
+      "how": "Catalog every occurrence of 'commandments of God' in Revelation, verify the pairing pattern, compare with the 3am-09 study's Eccl 12:13 template",
+      "narrative": "The law-28 study established the dual identification formula: 'commandments of God' NEVER stands alone in Revelation; it is always paired: Rev 12:17 — 'keep the commandments of God AND have the testimony of Jesus Christ.' Rev 14:12 — 'keep the commandments of God AND the faith of Jesus.' Rev 22:14 — 'do his commandments, that they may have right to the tree of life.' The pairing is deliberate: commandments without faith = legalism; faith without commandments = antinomianism. The dual formula cuts against BOTH errors simultaneously. READ `$WORD_STUDIES/G1785-entole.md` to check how entole functions in Revelation specifically. Bohr (Secrets Unsealed) argues the three instances (12:17, 14:12, 22:14) form a unified witness. Verify his claim that all three use entole + definite article + present active participle — check grammatical consistency across the three texts.",
+      "verses": [
+        "Rev 12:17",
+        "Rev 14:12",
+        "Rev 22:14"
+      ],
+      "strongs": [
+        "G1785",
+        "G4102",
+        "G5083"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G1785",
+      "word": "entole",
+      "reason": "core word — 'commandment' in Rev 14:12; must verify = Decalogue content"
+    },
+    {
+      "strongs": "G4102",
+      "word": "pistis",
+      "reason": "core word — 'faith' in Rev 14:12; subjective/objective genitive question"
+    },
+    {
+      "strongs": "G5083",
+      "word": "tereo",
+      "reason": "core verb — 'keep' in Rev 14:12; present active participle analysis"
+    },
+    {
+      "strongs": "G3551",
+      "word": "nomos",
+      "reason": "law — distinguish from entole; absent from Revelation"
+    },
+    {
+      "strongs": "G5218",
+      "word": "hupakoe",
+      "reason": "obedience — Rom 1:5 / 16:26 hupakoe pisteos inclusio"
+    },
+    {
+      "strongs": "G4160",
+      "word": "poieo",
+      "reason": "make/do — Rev 14:7 creation formula echoing Exo 20:11 LXX; Rev 22:14 'do commandments'"
+    },
+    {
+      "strongs": "G26",
+      "word": "agape",
+      "reason": "love — bridge between faith and commandments in the chain"
+    },
+    {
+      "strongs": "G5485",
+      "word": "charis",
+      "reason": "grace — addresses the grace-law relationship and legalism charge"
+    },
+    {
+      "strongs": "G544",
+      "word": "apeitheo",
+      "reason": "disbelieve/disobey — John 3:36 shows belief and obedience unified"
+    },
+    {
+      "strongs": "G4100",
+      "word": "pisteuo",
+      "reason": "believe — verb form of pistis; antonym of apeitheo"
+    },
+    {
+      "strongs": "G2041",
+      "word": "ergon",
+      "reason": "work — erga nomou vs. erga agatha distinction"
+    },
+    {
+      "strongs": "G5602",
+      "word": "hode",
+      "reason": "here — apocalyptic pointer in hode inclusio (13:10, 14:12)"
+    },
+    {
+      "strongs": "G1378",
+      "word": "dogma",
+      "reason": "decree/ordinance — NT vocabulary for abolished ceremonial regulations (contrast with entole)"
+    },
+    {
+      "strongs": "G4103",
+      "word": "pistos",
+      "reason": "faithful — adjective from pistis; relevant to Jesus' faithfulness (subjective genitive)"
+    },
+    {
+      "strongs": "G5219",
+      "word": "hupakouo",
+      "reason": "obey — verb form of hupakoe; Heb 11:8 Abraham obeyed by faith"
+    },
+    {
+      "strongs": "H539",
+      "word": "aman",
+      "reason": "believe — Hebrew root behind Gen 15:6 'he believed in the LORD'"
+    },
+    {
+      "strongs": "H8104",
+      "word": "shamar",
+      "reason": "keep/guard — Gen 26:5 Abraham 'kept my charge'"
+    },
+    {
+      "strongs": "H4687",
+      "word": "mitsvah",
+      "reason": "commandment — Gen 26:5 comprehensive obedience vocabulary"
+    },
+    {
+      "strongs": "G4151",
+      "word": "pneuma",
+      "reason": "Spirit — Spirit-enablement mechanism (Ezek 36:27, Rom 8:4)"
+    },
+    {
+      "strongs": "G3982",
+      "word": "peitho",
+      "reason": "persuade/trust — related to pistis; ranges from trust to obey"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:12",
+      "reason": "terountes participle form, genitive of Iesou, articular plural entolas"
+    },
+    {
+      "verse": "Rev 12:17",
+      "reason": "twin participles terounton/echonton — parallel descriptive structure"
+    },
+    {
+      "verse": "Rev 14:7",
+      "reason": "three aorist imperatives (prescriptive) vs. v.12 participle (descriptive)"
+    },
+    {
+      "verse": "Rev 13:10",
+      "reason": "hode + estin construction in opening of inclusio"
+    },
+    {
+      "verse": "Rom 1:5",
+      "reason": "hupakoen pisteos genitive construction"
+    },
+    {
+      "verse": "Rom 16:26",
+      "reason": "hupakoen pisteos genitive construction (closing inclusio)"
+    },
+    {
+      "verse": "Gal 5:6",
+      "reason": "pistis di agapes energoumene — faith working by love"
+    },
+    {
+      "verse": "1 John 5:3",
+      "reason": "entolas autou teromen — same verb tereo as Rev 14:12"
+    },
+    {
+      "verse": "Rom 8:4",
+      "reason": "dikaioma of the law fulfilled — divine passive"
+    },
+    {
+      "verse": "Rom 7:8",
+      "reason": "he entole — Paul calling the tenth commandment 'the commandment'"
+    },
+    {
+      "verse": "Gen 26:5",
+      "reason": "Hebrew comprehensive obedience vocabulary (mishmereth, mitsvot, chuqqot, torot)"
+    },
+    {
+      "verse": "1 Cor 7:19",
+      "reason": "identical phrase 'commandments of God' while excluding circumcision"
+    },
+    {
+      "verse": "Eph 2:8-10",
+      "reason": "grace-faith-works sequence — cause vs. fruit distinction"
+    },
+    {
+      "verse": "John 3:36",
+      "reason": "pisteuo vs. apeitheo as direct antonyms"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:12",
+      "reason": "Central text — need both OT and NT parallels"
+    },
+    {
+      "verse": "Rev 12:17",
+      "reason": "Parallel identification formula"
+    },
+    {
+      "verse": "Gen 15:6",
+      "reason": "OT faith-righteousness text — trace NT citations"
+    },
+    {
+      "verse": "Rom 1:5",
+      "reason": "Hupakoe pisteos — find parallel constructions"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G1785-entole.md",
+        "description": "entole (commandment), G1785 — core term in Rev 14:12"
+      },
+      {
+        "path": "$WORD_STUDIES/G4102-pistis.md",
+        "description": "pistis (faith), G4102 — 'faith of Jesus' in Rev 14:12"
+      },
+      {
+        "path": "$WORD_STUDIES/G5083-tereo.md",
+        "description": "tereo (keep/guard), G5083 — 'they that keep' in Rev 14:12"
+      },
+      {
+        "path": "$WORD_STUDIES/G3551-nomos.md",
+        "description": "nomos (law), G3551 — contrast with entole; absent from Revelation"
+      },
+      {
+        "path": "$WORD_STUDIES/G5218-hupakoe.md",
+        "description": "hupakoe (obedience), G5218 — 'obedience of faith' inclusio"
+      },
+      {
+        "path": "$WORD_STUDIES/G5219-hupakouo.md",
+        "description": "hupakouo (obey), G5219 — verb form of hupakoe"
+      },
+      {
+        "path": "$WORD_STUDIES/G4160-poieo.md",
+        "description": "poieo (make/do), G4160 — Rev 14:7 creation formula"
+      },
+      {
+        "path": "$WORD_STUDIES/G26-agape.md",
+        "description": "agape (love), G26 — bridge between faith and commandments"
+      },
+      {
+        "path": "$WORD_STUDIES/G5485-charis.md",
+        "description": "charis (grace), G5485 — grace-law relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/G544-apeitheo.md",
+        "description": "apeitheo (disbelieve/disobey), G544 — belief-obedience unity"
+      },
+      {
+        "path": "$WORD_STUDIES/G4100-pisteuo.md",
+        "description": "pisteuo (believe), G4100 — verb form of pistis"
+      },
+      {
+        "path": "$WORD_STUDIES/G2041-ergon.md",
+        "description": "ergon (work), G2041 — erga nomou vs. erga agatha"
+      },
+      {
+        "path": "$WORD_STUDIES/G5602-hōde.md",
+        "description": "hode (here), G5602 — apocalyptic pointer in inclusio"
+      },
+      {
+        "path": "$WORD_STUDIES/G1378-dogma.md",
+        "description": "dogma (decree), G1378 — abolished ceremonial regulations"
+      },
+      {
+        "path": "$WORD_STUDIES/G4103-pistos.md",
+        "description": "pistos (faithful), G4103 — Jesus' faithfulness"
+      },
+      {
+        "path": "$WORD_STUDIES/G3982-peitho.md",
+        "description": "peitho (persuade/trust), G3982 — related to pistis"
+      },
+      {
+        "path": "$WORD_STUDIES/G4151-pneuma.md",
+        "description": "pneuma (Spirit), G4151 — Spirit-enablement mechanism"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (worship), G4352 — Rev 13-14 worship contest"
+      },
+      {
+        "path": "$WORD_STUDIES/G5056-telos.md",
+        "description": "telos (end/goal), G5056 — Christ the goal of the law"
+      },
+      {
+        "path": "$WORD_STUDIES/G4991-soteria.md",
+        "description": "soteria (salvation), G4991 — salvation vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G5293-hupotasso.md",
+        "description": "hupotasso (submit), G5293 — submission/obedience vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G5442-phylasso.md",
+        "description": "phylasso (guard/keep), G5442 — keep vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/H539-aman.md",
+        "description": "aman (believe), H539 — Gen 15:6 'he believed'"
+      },
+      {
+        "path": "$WORD_STUDIES/H530-emuwnah.md",
+        "description": "emuwnah (faithfulness), H530 — Hebrew faithfulness concept"
+      },
+      {
+        "path": "$WORD_STUDIES/H8104-shamar.md",
+        "description": "shamar (keep/guard), H8104 — Gen 26:5 'kept my charge'"
+      },
+      {
+        "path": "$WORD_STUDIES/H4687-mitsvah.md",
+        "description": "mitsvah (commandment), H4687 — Gen 26:5 obedience vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/H2706-choq.md",
+        "description": "choq (statute), H2706 — Gen 26:5 obedience vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/H8451-towrah.md",
+        "description": "towrah (law/instruction), H8451 — Gen 26:5 obedience vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/H6213-asah.md",
+        "description": "asah (do/make), H6213 — Hebrew 'do' verb"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-commandment.md",
+        "description": "Word group: commandment vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-commandment-keeping.md",
+        "description": "Word group: commandment-keeping vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-faith.md",
+        "description": "Word group: faith vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-law.md",
+        "description": "Word group: law vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-love.md",
+        "description": "Word group: love vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-obedience.md",
+        "description": "Word group: obedience vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-aman-pistos.md",
+        "description": "Translation relationship: aman → pistos"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-mitsvah-entole.md",
+        "description": "Translation relationship: mitsvah → entole"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-towrah-nomos.md",
+        "description": "Translation relationship: towrah → nomos"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-choq-dikaioma.md",
+        "description": "Translation relationship: choq → dikaioma"
+      },
+      {
+        "path": "$WORD_STUDIES/G5281-hupomone.md",
+        "description": "hupomone (patience/endurance), G5281 — 'here is the patience of the saints'"
+      },
+      {
+        "path": "$WORD_STUDIES/G2936-ktizo.md",
+        "description": "ktizo (create), G2936 — contrast with poieo in Rev 14:7 creation formula"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/subjective-objective-genitive.md",
+        "description": "Subjective vs objective genitive — directly relevant to pistis Iesou question"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-present-active.md",
+        "description": "Present active participle — terountes function in Rev 14:12"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-substantival-articular.md",
+        "description": "Substantival articular participle — hoi terountes identification"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-14-6-12.md",
+        "description": "Passage analysis of Rev 14:6-12 — may contain relevant parsing"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/genitive-of-quality-apposition.md",
+        "description": "Genitive types — relevant to pistis Iesou and hupakoe pisteos"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/energeia-subjective-genitive.md",
+        "description": "Energeia + subjective genitive pattern — parallel to pistis Iesou"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "H4931",
+      "word": "mishmereth",
+      "reason": "Gen 26:5 'my charge' — part of Abraham's comprehensive obedience vocabulary; no library entry exists"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "COMMANDMENTS",
+      "subtopic": "GENERAL",
+      "verse_count": 45
+    },
+    {
+      "name": "DECALOGUE",
+      "subtopic": "GENERAL",
+      "verse_count": 12
+    },
+    {
+      "name": "FAITH",
+      "subtopic": "GENERAL",
+      "verse_count": 120
+    },
+    {
+      "name": "FAITHFULNESS",
+      "subtopic": "GENERAL",
+      "verse_count": 15
+    },
+    {
+      "name": "OBEDIENCE",
+      "subtopic": "GENERAL",
+      "verse_count": 95
+    },
+    {
+      "name": "OBEDIENCE",
+      "subtopic": "ENJOINED",
+      "verse_count": 50
+    },
+    {
+      "name": "OBEDIENCE",
+      "subtopic": "EXEMPLIFIED",
+      "verse_count": 35
+    },
+    {
+      "name": "RIGHTEOUSNESS",
+      "subtopic": "BY FAITH",
+      "verse_count": 12
+    },
+    {
+      "name": "RIGHTEOUSNESS",
+      "subtopic": "FRUITS OF",
+      "verse_count": 60
+    },
+    {
+      "name": "PERSEVERANCE",
+      "subtopic": "GENERAL",
+      "verse_count": 45
+    },
+    {
+      "name": "LAW",
+      "subtopic": "GENERAL",
+      "verse_count": 20
+    },
+    {
+      "name": "LAW",
+      "subtopic": "TEMPORARY",
+      "verse_count": 30
+    },
+    {
+      "name": "COVENANT",
+      "subtopic": "GENERAL",
+      "verse_count": 40
+    },
+    {
+      "name": "LOVE",
+      "subtopic": "OF MAN FOR GOD",
+      "verse_count": 30
+    },
+    {
+      "name": "HOLY SPIRIT",
+      "subtopic": "GENERAL",
+      "verse_count": 50
+    },
+    {
+      "name": "GRACE OF GOD",
+      "subtopic": "GENERAL",
+      "verse_count": 40
+    },
+    {
+      "name": "ABRAHAM",
+      "subtopic": "GENERAL",
+      "verse_count": 35
+    },
+    {
+      "name": "SELF-RIGHTEOUSNESS",
+      "subtopic": "GENERAL",
+      "verse_count": 25
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "Rev 14:7 + Eccl 12:13 parallel argues the judgment-hour message emphasizes commandment-keeping",
+      "directive": "Verify the Eccl 12:13-14 / Rev 14:7,12 structural parallel in Scripture — already verified in 3am-08 and 3am-09"
+    },
+    {
+      "source": "EGW",
+      "claim": "'Faith of Jesus' = faith in the ability of Christ to save us amply and fully (3SM 172) — favors objective genitive",
+      "directive": "Test both objective and subjective dimensions against the text; do not privilege EGW reading over textual evidence"
+    },
+    {
+      "source": "Bohr/Secrets Unsealed",
+      "claim": "Rev 14:12's dual formula shows law and gospel are inseparable, not competing",
+      "directive": "Verify through the faith-love-law chain (Gal 5:6 → 1 John 5:3 → Rom 13:10 → Rom 8:4 → Rom 3:31)"
+    },
+    {
+      "source": "Bohr/Secrets Unsealed",
+      "claim": "The three Revelation instances (12:17, 14:12, 22:14) form a unified witness with consistent grammar",
+      "directive": "Parse all three texts and verify grammatical consistency — all entole + definite article + present active participle"
+    },
+    {
+      "source": "Tonstad (2005 PhD)",
+      "claim": "Pistis Iesou in Rev 14:12 = Jesus' faithfulness vindicating God's character within cosmic conflict/theodicy framework — subjective genitive preferred",
+      "directive": "Verify whether Revelation's own narrative supports this reading; compare with Pauline pistis Christou debate; examine whether both dimensions can coexist"
+    },
+    {
+      "source": "Easter (2010)",
+      "claim": "Grammar alone cannot resolve the pistis Christou debate; theological context must decide",
+      "directive": "Acknowledge this scholarly consensus; let Revelation's own context guide the interpretation rather than importing Pauline conclusions"
+    },
+    {
+      "source": "Tinker/Answering Adventism",
+      "claim": "Entole in John = Jesus's teachings only; nomos = the Law; therefore 'commandments of God' cannot mean the Decalogue",
+      "directive": "Refute with Rom 7:7-11 (Paul calls tenth commandment entole), Eph 6:2 (fifth commandment called entole), Luke 23:56 (Sabbath called entole), and the 43/43 pattern from law-28"
+    },
+    {
+      "source": "Answering Adventism",
+      "claim": "Adventism commits a 'word association fallacy' by equating any mention of 'commandments' with the Decalogue",
+      "directive": "Counter with the articular plural (TAS entolas — THE commandments, a specific known body) and the Rev 11:19 ark imagery"
+    },
+    {
+      "source": "Howard (Tyndale House 2025)",
+      "claim": "Abraham's faith preceded obedience chronologically; Gen 26:5 uses comprehensive obedience vocabulary",
+      "directive": "Verify Gen 15:6 → Gen 26:5 chronological sequence; parse the Hebrew vocabulary of Gen 26:5"
+    },
+    {
+      "source": "Garlington (WTJ)",
+      "claim": "Hupakoe pisteos is a unique Pauline coinage, deliberately ambiguous — 'the obedience which is faith' AND 'the obedience which springs from faith'",
+      "directive": "Parse Rom 1:5 and 16:26; test against broader Pauline data on faith producing obedience (Rom 6:16-18, Gal 5:6)"
+    },
+    {
+      "source": "Wilkin (Grace Evangelical Society)",
+      "claim": "Hupakoe pisteos is appositional genitive — faith and obedience are equivalent; 'obedience of faith' = obeying the command to believe",
+      "directive": "Test whether this limited reading accounts for the broader Pauline data on obedience as fruit (Rom 6, Gal 5:6, etc.)"
+    },
+    {
+      "source": "YouTube Critics (Answering Adventism)",
+      "claim": "Rev 14:12 'adds commandment-keeping as works requirement' — legalism",
+      "directive": "Refute through terountes participial grammar (descriptive not prescriptive), faith-love-law chain, Spirit-enablement, and the erga nomou/erga agatha distinction"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "Core identification texts",
+      "description": "The three commandment-keeping identification formulas in Revelation",
+      "refs": [
+        "Rev 14:12",
+        "Rev 12:17",
+        "Rev 22:14"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Inclusio brackets",
+      "description": "The hode inclusio and its immediate context",
+      "refs": [
+        "Rev 13:10",
+        "Rev 14:12",
+        "Rev 14:6-7",
+        "Rev 14:9-11",
+        "Rev 11:19"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Faith-love-law chain",
+      "description": "The five-link chain connecting faith, love, and commandment-keeping",
+      "refs": [
+        "Gal 5:6",
+        "1 John 5:3",
+        "Rom 13:10",
+        "Rom 8:4",
+        "Rom 3:31",
+        "1 Cor 7:19"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Abrahamic pattern",
+      "description": "Faith-then-obedience chronological sequence",
+      "refs": [
+        "Gen 15:6",
+        "Gen 26:5",
+        "Rom 4:3",
+        "Rom 4:10-11",
+        "James 2:22-23",
+        "Heb 11:8",
+        "Gal 3:6-9"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Hupakoe pisteos inclusio",
+      "description": "Paul's obedience-of-faith bookends in Romans",
+      "refs": [
+        "Rom 1:5",
+        "Rom 16:26",
+        "Rom 6:16-18"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Entole = Decalogue test cases",
+      "description": "NT passages where entole clearly refers to Decalogue commands",
+      "refs": [
+        "Rom 7:7-12",
+        "Eph 6:2",
+        "Luke 23:56",
+        "1 Cor 7:19"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Spirit-enablement",
+      "description": "God-powered obedience eliminates legalism charge",
+      "refs": [
+        "Ezek 36:27",
+        "Rom 8:4",
+        "Phil 2:13",
+        "Titus 2:11-12",
+        "Eph 2:8-10"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Me genoito denials",
+      "description": "Paul's emphatic denials of antinomian conclusions",
+      "refs": [
+        "Rom 3:31",
+        "Rom 6:1-2",
+        "Rom 6:15",
+        "Gal 2:17",
+        "Gal 3:21"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Belief-obedience unity",
+      "description": "Passages showing belief and obedience as inseparable",
+      "refs": [
+        "John 3:36",
+        "Heb 11:8",
+        "John 14:15",
+        "John 15:10",
+        "1 John 2:3-4"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Rev 12:1-17",
+    "Rev 13:1-18",
+    "Rom 1:1-7",
+    "Rom 16:25-27",
+    "Gen 15:1-6",
+    "Gen 26:1-5",
+    "Rom 7:1-14",
+    "1 John 5:1-5"
+  ],
+  "research_instructions": "This study is 3am-19 in the Three Angels' Messages series (Arc 4: Result and Defense). It builds directly on 3am-18 (patience of the saints) which established the hode inclusio, terountes as descriptive participle, and left the content of 'commandments of God' and 'faith of Jesus' for this study.\n\nCRITICAL: The primary critic argument to refute is #4 — 'Rev 14:12 adds commandment-keeping as works requirement — legalism.' The grammatical observation (terountes as present active participle = descriptive, not imperative = prescriptive) is the first line of defense. The faith-love-law chain is the second. The Spirit-enablement mechanism is the third. The erga nomou/erga agatha vocabulary distinction is the fourth.\n\nThe entole/nomos objection from Tinker/Answering Adventism must be engaged thoroughly — Rom 7:7-11 is the decisive test case (Paul quotes the tenth commandment and calls it entole).\n\nFor the pistis Iesou question, do NOT force a single reading. Present the evidence for both subjective and objective genitive, note Easter's conclusion that grammar alone cannot resolve it, and consider whether a plenary genitive (both dimensions) best accounts for the data.\n\nCustom instructions (CUSTOM-INSTRUCTIONS.md) specify this study may reference other studies in the library (GSP, LGT, SV, etc.) and prior 3AM series studies, but must go DEEPER with fresh research. Cross-references supplement; they do not substitute for original investigation.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 54,
+    "primary_verses": 31,
+    "supporting_verses": 23,
+    "ot_verses": 6,
+    "nt_verses": 25,
+    "focus_area_count": 12,
+    "word_study_count": 20,
+    "parsing_count": 14,
+    "parallel_count": 4
+  }
+}

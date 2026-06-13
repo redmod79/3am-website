@@ -1,0 +1,56 @@
+# Strong's Lookups — Raw Tool Output
+
+## G2767 kerannymi — to mix/fill wine
+3 total occurrences, 3 unique translations:
+- is poured out (1, 33.3%) — Rev 14:10
+- she hath filled (1, 33.3%) — Rev 18:6
+- fill (1, 33.3%) — Rev 18:6
+
+## G366 ananepho — to sober up again
+1 total occurrence, 1 unique translation:
+- they may recover themselves (1, 100%) — 2 Tim 2:26
+
+## G4222 potizo — to give to drink
+23 total occurrences, 14 unique translations:
+- drink (5, 21.7%)
+- to drink (3, 13.0%)
+- ye gave (2, 8.7%)
+- and gave (2, 8.7%)
+- watereth (2, 8.7%)
+- she made (1, 4.3%) — Rev 14:8
+- made to drink (1, 4.3%)
+[and 7 other translations at 1 each]
+
+## G169 akathartos — unclean
+30 total occurrences, 7 unique translations:
+- unclean (20, 66.7%)
+- an unclean (4, 13.3%)
+- foul (2, 6.7%)
+[and 4 other translations at 1 each]
+
+## Cross-Testament Parallels (from cross_testament_parallels_v2.py)
+
+### Rev 14:8 → OT parallels
+Top matches by hybrid score:
+- Esther 7:2 (0.402) — drink, second, wine
+- Daniel 2:18 (0.362) — babylon
+- Isaiah 28:7 (0.339) — drink, wine
+- Daniel 5:1 (0.328) — drink, great, wine
+Note: Tool does not identify Jer 51:7 in top automated results, but the allusion is confirmed by vocabulary analysis (golden cup, nations drunk, Babylon as agent)
+
+### Rev 14:8 → NT parallels
+- Rev 18:2 (0.469) — babylon, fallen, great
+- Rev 16:19 (0.462) — anger, babylon, great, wine
+- Rev 14:19 (0.452) — angel, anger, great
+- Rev 14:10 (0.443) — angel, anger, drink, wine
+- Rev 18:3 (0.441) — anger, immorality, wine
+
+### Rev 18:23 → OT parallels
+- Jer 25:10 (0.326) — bride, lamp, light
+- Daniel 5:23 (0.304) — (semantic match)
+Note: Isa 47:9 not in top automated results but LXX pharmakeia link is confirmed by Bredenhof and scholarly consensus
+
+### Rev 17:4 → OT parallels
+- Jer 4:30 (0.381) — adorn, gold, scarlet
+- Jer 51:7 (0.324) — cup, gold
+- Ezek 16:13 (0.320) — adorn, gold

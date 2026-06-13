@@ -1,0 +1,42 @@
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: REV 14:7
+======================================================================
+
+  Glosses: saying in a voice loud Fear - God and give Him glory because...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Genesis 28:17          0.416   0.71  0.20  0.00  fear, heaven
+  Genesis 9:2            0.390   0.59  0.30  0.00  fear, heaven, sea
+  Nehemia 1:5            0.383   0.64  0.20  0.00  fear, heaven
+  Jona 1:9               0.383   0.59  0.30  0.00  fear, heaven, sea
+  Ecclesiastes 5:6       0.380   0.69  0.10  0.00  fear
+  Psalmi 66:3            0.379   0.69  0.10  0.00  fear
+  Psalmi 65:6            0.375   0.61  0.20  0.00  fear, sea
+  Psalmi 68:36           0.373   0.67  0.10  0.00  fear
+  Deuteronomium 11:25    0.370   0.65  0.10  0.00  fear
+  Psalmi 76:9            0.370   0.62  0.20  0.00  fear, heaven
+===OT===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: REV 14:7
+======================================================================
+
+  Glosses: saying in a voice loud Fear - God and give Him glory because...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  REV 19:1               0.443   0.62  0.40  0.00  glory, heaven, loud, voice
+  REV 12:10              0.425   0.64  0.30  0.00  because, heaven, voice
+  ACT 4:24               0.424   0.55  0.40  0.00  heaven, made, sea, voice
+  REV 14:15              0.418   0.54  0.40  0.00  because, hour, loud, voice
+  REV 15:4               0.404   0.68  0.20  0.00  because, worship
+  1TH 4:16               0.401   0.62  0.30  0.00  because, heaven, voice
+  REV 12:12              0.398   0.60  0.30  0.00  because, heaven, sea
+  REV 18:10              0.395   0.58  0.30  0.00  fear, hour, judgment
+  ACT 14:15              0.392   0.56  0.30  0.00  heaven, made, sea
+  LUK 19:38              0.386   0.65  0.20  0.00  glory, heaven
+===NT===

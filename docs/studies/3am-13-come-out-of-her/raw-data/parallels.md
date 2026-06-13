@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Rev 18:4 → Jer 51:45 (ot, vocabulary + structural — closest OT verbal parallel: both have 'go out' + 'from midst of her' + 'my people' + reason of avoiding divine judgment)
+- Rev 18:4 → Isa 52:11 (ot, vocabulary — LXX uses exerchomai (G1831), same root as exelthate in Rev 18:4; 'touch no unclean thing' quoted in 2 Cor 6:17)
+- Rev 18:4 → 2 Cor 6:17 (nt, vocabulary — identical verb form exelthate (V-2AAM-2P); both quote Isa 52:11; same come-out theology)
+- Rev 18:5 → Gen 18:20-21 (ot, structural — sins/cry 'reaching' God/heaven triggers judgment sequence in both)
+- Rev 18:2 → Isa 21:9 (ot, vocabulary — doubled 'is fallen, is fallen' in both; LXX peptoken vs NT epesen)
+- John 10:16 → Ezek 34:11-16 (ot, theological — God seeking scattered sheep, gathering from every place; shepherd-seeking-flock motif)
+- John 10:16 → John 10:27 (nt, vocabulary + structural — 'my sheep hear my voice' (0.479 hybrid score); voice-recognition theme)
+- 2 Cor 6:17 → Isa 52:11 (ot, direct quotation — Paul quotes Isa 52:11 in the chiastic catena)
+- 2 Cor 6:16 → Lev 26:12 (ot, direct quotation — 'I will walk among them and be their God, they shall be my people')
+- 2 Cor 6:16 → Ezek 37:27 (ot, direct quotation — 'my tabernacle shall be with them; I will be their God, they shall be my people')
+- 2 Cor 6:18 → 2 Sam 7:14 (ot, modified quotation — Paul changes singular to plural, 'son' to 'sons and daughters'; adds 'saith the Lord Almighty')
+- Rev 18:4 → Num 16:26 (ot, structural + vocabulary — both: separation commanded before judgment, 'touch nothing of theirs,' proximity = shared destruction)
+- Rev 18:4 → Gen 19:12-17 (ot, structural — come-out from corrupt city before divine destruction; 'lest thou be consumed in the iniquity')
+- 1 Pet 2:9-10 → Hos 2:23 (ot, direct quotation — Peter applies Hosea's 'not my people' / 'my people' reversal to the new covenant community)
+- Rom 9:25-26 → Hos 1:9-10 (ot, direct quotation — Paul quotes Hosea reversal for Gentile inclusion)

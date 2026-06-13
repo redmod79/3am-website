@@ -1,0 +1,1327 @@
+{
+  "workflow": "answer-question",
+  "question": "What does phobethete ton theon (\"fear God\") mean as the first imperative of the everlasting gospel? How does the OT yare/phobos tradition inform this command — is it servile terror or reverent awe? How does Deuteronomy 6:13 and 10:12-13 pair fear and love? Does \"fear God\" conflict with \"perfect love casts out fear\" (1 John 4:18)? Parse the 1 John 4:18 text carefully — what does phobos meta kolaseos (\"fear with punishment\") mean, and is that the same kind of fear as Rev 14:7? How does fearing God function as the foundation for refusing to fear the beast and his threats (Rev 13:15, Matt 10:28)? How does Ecclesiastes 12:13 (\"Fear God, and keep his commandments: for this is the whole duty of man\") provide the OT template for the first angel's message?",
+  "required_verses": [
+    {
+      "ref": "Rev 14:7",
+      "reason": "The verse being studied — phobethete ton theon as first imperative of the everlasting gospel; aorist passive imperative of phobeo",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:6",
+      "reason": "Immediate context — the everlasting gospel proclaimed with loud voice to every nation; establishes the gospel framework for the fear command",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:9-10",
+      "reason": "Second angel contrast — those who worship the beast receive wrath; the alternative to fearing God is fearing the beast",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:12",
+      "reason": "Result of the three angels' messages — patience, commandments of God, faith of Jesus; the outcome of fearing God",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 13:15",
+      "reason": "Beast's death threat — image of the beast causes those who refuse worship to be killed; the fear the first angel's message counteracts",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 13:4",
+      "reason": "Beast worship — 'who is like the beast? who is able to make war with him?' — worship motivated by fear of power",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 John 4:18",
+      "reason": "The alleged contradiction — 'perfect love casts out fear, because fear has punishment (kolasin echei)'; requires careful Greek parsing",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 John 4:16-17",
+      "reason": "Immediate context of 4:18 — God is love; boldness in the day of judgment; establishes the kind of fear being discussed",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "OT template — 'Fear God, and keep his commandments: for this is the whole duty of man. For God shall bring every work into judgment'; structural parallel to Rev 14:7,12",
+      "tier": "primary"
+    },
+    {
+      "ref": "Deut 10:12-13",
+      "reason": "Moses' farewell — fear, walk, love, serve, keep commandments; fear comes FIRST in the sequence and is paired with love",
+      "tier": "primary"
+    },
+    {
+      "ref": "Deut 6:13",
+      "reason": "Fear the LORD, serve him, swear by his name — direct command pairing fear with exclusive service",
+      "tier": "primary"
+    },
+    {
+      "ref": "Deut 6:5",
+      "reason": "Greatest commandment — love the LORD with all heart, soul, might; the love command that stands alongside the fear command",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 10:28",
+      "reason": "Jesus' teaching on fear — do not fear those who kill the body; fear him who can destroy both soul and body in hell; foundational for beast/fear contrast",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exod 20:18-20",
+      "reason": "Sinai theophany — the people feared, Moses says 'fear not... that his fear may be before your faces, that ye sin not'; two types of fear distinguished in one passage",
+      "tier": "primary"
+    },
+    {
+      "ref": "Prov 1:7",
+      "reason": "The fear of the LORD is the beginning of knowledge — foundational wisdom saying linking yirah to the entire wisdom tradition",
+      "tier": "primary"
+    },
+    {
+      "ref": "Prov 8:13",
+      "reason": "The fear of the LORD is to hate evil — active moral definition of fear, not passive emotion",
+      "tier": "primary"
+    },
+    {
+      "ref": "Prov 9:10",
+      "reason": "Fear of the LORD is the beginning of wisdom — parallel to 1:7; bookends the first section of Proverbs",
+      "tier": "primary"
+    },
+    {
+      "ref": "Prov 14:26-27",
+      "reason": "In the fear of the LORD is strong confidence, a fountain of life to depart from the snares of death — fear produces confidence, not terror",
+      "tier": "primary"
+    },
+    {
+      "ref": "Prov 16:6",
+      "reason": "By the fear of the LORD men depart from evil — fear as moral compass",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 11:2-3",
+      "reason": "Messianic endowment — the spirit of the fear of the LORD; even the Messiah operates with godly fear",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 22:12",
+      "reason": "Abraham's test — 'now I know that thou fearest God' (yare); fear demonstrated through obedience, not terror",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 12:4-5",
+      "reason": "Parallel to Matt 10:28 — Jesus explicitly contrasts fear of humans with fear of God; 'I will forewarn you whom ye shall fear'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 8:15",
+      "reason": "Spirit of adoption, not bondage to fear again — distinguishes slavish fear from filial relationship; complicates the fear question",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Tim 1:7",
+      "reason": "God has not given us the spirit of fear, but of power, love, and a sound mind — what kind of fear is being denied?",
+      "tier": "primary"
+    },
+    {
+      "ref": "Heb 12:28-29",
+      "reason": "Serve God with reverence and godly fear, for our God is a consuming fire — fear coexists with grace in the same sentence",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Pet 1:17",
+      "reason": "If ye call on the Father... pass the time of your sojourning in fear — same author tradition as 1 John; calling God 'Father' and 'fearing' coexist",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 10:2",
+      "reason": "Cornelius feared God with all his house — practical example of what fearing God looks like: devout, generous, prayerful",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 10:35",
+      "reason": "In every nation he that feareth God and worketh righteousness is accepted — fear linked to acceptance, not terror",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jonah 1:9",
+      "reason": "I fear the LORD, the God of heaven, which hath made the sea and the dry land — miniature Rev 14:7; fear + Creator",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ps 96:4-9",
+      "reason": "Fear before him all the earth; worship the LORD in the beauty of holiness — most complete OT parallel to Rev 14:6-7",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ps 111:10",
+      "reason": "The fear of the LORD is the beginning of wisdom — wisdom psalm echoing Proverbs tradition",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ps 130:4",
+      "reason": "There is forgiveness with thee, that thou mayest be feared — fear is the RESULT of forgiveness, not its opposite",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ps 34:9-11",
+      "reason": "O fear the LORD, ye his saints... I will teach you the fear of the LORD — fear as something taught and cultivated",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Deut 5:29",
+      "reason": "O that there were such a heart in them, that they would fear me, and keep all my commandments — God desires fear",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Deut 13:4",
+      "reason": "Ye shall walk after the LORD your God, and fear him, and keep his commandments — the complete pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mal 1:6",
+      "reason": "If I be a father, where is mine honour? if I be a master, where is my fear? — fear as appropriate response to divine relationship",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mal 3:16",
+      "reason": "They that feared the LORD spake often one to another... a book of remembrance — fear produces community and divine attention",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mal 4:2",
+      "reason": "Unto you that fear my name shall the Sun of righteousness arise with healing — blessing for those who fear",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Lev 19:3",
+      "reason": "Ye shall fear every man his mother and father, and keep my sabbaths — fear connected directly to Sabbath-keeping",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Lev 19:14",
+      "reason": "Thou shalt fear thy God — fear extended to treatment of vulnerable (deaf, blind)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Lev 25:17",
+      "reason": "Ye shall not oppress one another; but thou shalt fear thy God — fear motivates just economic relations",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Neh 5:15",
+      "reason": "Nehemiah's fear of God contrasted with previous governors who oppressed — fear as motive for justice",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Job 28:28",
+      "reason": "The fear of the Lord, that is wisdom; and to depart from evil is understanding — wisdom literature summary",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 29:13",
+      "reason": "Their fear toward me is taught by the precept of men — false fear vs. true fear; Jesus quotes this in Matt 15:8-9",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 4:10",
+      "reason": "Thou shalt worship the Lord thy God, and him only shalt thou serve — Jesus quotes Deut 6:13; worship/fear/service triad",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 25:46",
+      "reason": "Second occurrence of kolasis in NT — eternal punishment; connects to 1 John 4:18's kolasis",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 3:16-18",
+      "reason": "Shadrach, Meshach, Abednego refuse to worship image under death threat — fearing God overrides fear of the king",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 5:3",
+      "reason": "This is the love of God, that we keep his commandments — John's own definition; love = obedience, same author as 4:18",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eccl 3:14",
+      "reason": "God doeth it that men should fear before him — fear as purpose of divine action",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eccl 8:12-13",
+      "reason": "It shall be well with them that fear God... but it shall not be well with the wicked — fear distinguishes righteous from wicked",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Phil 2:12",
+      "reason": "Work out your salvation with fear and trembling — fear as component of sanctification in Pauline theology",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 5:10-11",
+      "reason": "We must all appear before the judgment seat... knowing the terror of the Lord, we persuade men — fear of judgment as evangelistic motivation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 7:1",
+      "reason": "Perfecting holiness in the fear of God — fear as environment for sanctification",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 5:7",
+      "reason": "Jesus offered prayers with strong crying... and was heard in that he feared — even Jesus operated with godly fear",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 11:7",
+      "reason": "Noah moved with fear prepared an ark — fear as motivation for obedience in faith chapter",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 15:4",
+      "reason": "Who shall not fear thee, O Lord, and glorify thy name? — fear + glory + worship in eschatological praise",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 11:18",
+      "reason": "Reward thy servants the prophets and them that fear thy name — fear as characteristic of the redeemed",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 19:5",
+      "reason": "Praise our God, all ye his servants, and ye that fear him — fear in final praise context",
+      "tier": "supporting"
+    },
+    {
+      "ref": "James 2:19",
+      "reason": "Devils also believe and tremble — demonic fear vs. saving fear; different category entirely",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ps 2:11",
+      "reason": "Serve the LORD with fear, and rejoice with trembling — fear and joy coexist",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 8:13",
+      "reason": "Sanctify the LORD of hosts himself; and let him be your fear and your dread — God himself as the object of fear",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": "FA-1",
+      "title": "The Semantic Range of yare/yirah (H3372/H3374) in the OT Fear-of-God Tradition",
+      "what": "Map the full semantic range of the Hebrew fear vocabulary. Distinguish yare/yirah (reverential awe) from eimah (H367, terror) and pachad (H6343, dread). Trace how the LXX translates each — does phobos always render yirah, or does it also cover eimah/pachad?",
+      "why": "The entire study hinges on whether 'fear God' in Rev 14:7 carries the OT yirah tradition (reverent awe) or the eimah/pachad tradition (servile terror). The LXX bridge determines which Hebrew concept the NT command inherits.",
+      "how": "Run `python D:/bible/tools/search/semantic_strongs.py 'fear reverence awe God'` to identify all fear-related Strong's numbers. Use word studies for H3372 and H3374 from the library. Run `python D:/bible/tools/hebrew_parser.py --verse 'Eccl 12:13'` and `python D:/bible/tools/hebrew_parser.py --verse 'Deut 10:12'` to confirm yare usage. Run `--lxx-map` on H3372, H3374, H367, H6343 to trace Greek translation patterns. Check Exod 20:18-20 where two types of fear appear in the same passage.",
+      "narrative": "The OT uses multiple Hebrew words for fear, and their semantic ranges are distinct. H3372 yare and its noun form H3374 yirah carry the primary meaning of reverential awe — the 'fear of the LORD' that is the beginning of wisdom (Prov 1:7), paired with love in Deut 10:12, and defined as hating evil in Prov 8:13. By contrast, H367 eimah denotes terror (Gen 15:12, Exod 15:16) and H6343 pachad denotes dread or being startled. Exodus 20:18-20 is the critical test case: at Sinai the people feared (yare) and Moses said 'fear not' (al-tir'u) — then immediately said God came 'that his fear (yirah) may be before your faces, that ye sin not.' Two different uses of the same root in one passage, distinguishing servile terror from reverent moral orientation. The LXX bridge is crucial: if phobos consistently translates yirah rather than eimah, then NT phobeo inherits the reverence tradition, not the terror tradition.",
+      "verses": [
+        "Prov 1:7",
+        "Prov 8:13",
+        "Prov 9:10",
+        "Prov 14:26-27",
+        "Deut 10:12-13",
+        "Exod 20:18-20",
+        "Gen 22:12",
+        "Job 28:28",
+        "Isa 11:2-3",
+        "Eccl 12:13",
+        "Ps 111:10"
+      ],
+      "strongs": [
+        "H3372",
+        "H3374",
+        "H367",
+        "H6343",
+        "H4172",
+        "G5399",
+        "G5401"
+      ]
+    },
+    {
+      "id": "FA-2",
+      "title": "Phobethete ton Theon — Grammar and Theology of the Imperative in Rev 14:7",
+      "what": "Parse the exact grammar of phobethete ton theon in Rev 14:7. Determine mood, tense, voice. Verify Moskala's claim that this specific imperative form occurs only once in the Bible. Analyze what the aorist passive imperative contributes to the urgency and meaning of the command.",
+      "why": "The grammatical form of the command shapes its theological force. An aorist imperative may convey urgency or summary command. The passive voice (if confirmed) may imply 'let yourselves be moved to fear' rather than 'generate fear.' This is the first imperative of the everlasting gospel — its grammar matters.",
+      "how": "Run `python D:/bible/tools/greek_parser.py --verse 'Rev 14:7'` to get full parsing of phobethete. Search for other occurrences of phobeo in imperative form via `python D:/bible/tools/search/semantic_strongs.py` and word study G5399. Check the grammar-reference library entry for aorist imperative (mood-aorist-imperative.md). Compare with the three other imperatives in Rev 14:7 (dote, proskynesate) for grammatical parallelism.",
+      "narrative": "Moskala claims phobethete ton theon in its specific imperative form occurs only once in the entire Bible. The verb phobeo (G5399) appears 93 times in the NT, but the imperative mood usage needs verification. If phobethete is indeed aorist passive imperative, this is significant: the aorist aspect frames the command as a decisive, whole-action response rather than an ongoing process; the passive voice suggests being moved to fear rather than manufacturing it. The three imperatives of Rev 14:7 (phobethete, dote, proskynesate) may form a climactic triad — fear leads to giving glory leads to worship. The Reading Acts article suggests a 'proleptic aorist or aorist of assurance' for the judgment announcement, which would affect how the fear command relates to the judgment hour declaration.",
+      "verses": [
+        "Rev 14:7",
+        "Rev 14:6",
+        "Rev 15:4",
+        "Matt 10:28",
+        "Luke 12:5",
+        "Acts 10:2"
+      ],
+      "strongs": [
+        "G5399",
+        "G5401",
+        "G1325",
+        "G4352"
+      ]
+    },
+    {
+      "id": "FA-3",
+      "title": "Deuteronomy's Fear-Love-Serve-Obey Pattern (Deut 6:5,13; 10:12-13)",
+      "what": "Analyze the relationship between fear and love in Deuteronomy's covenant theology. Map the sequence in Deut 10:12-13 (fear → walk → love → serve → keep). Examine how Deut 6:5 (love) and 6:13 (fear) function as complementary rather than contradictory commands within the same chapter.",
+      "why": "Critics claim 'fear God' contradicts the gospel of love. Deuteronomy provides the definitive OT answer: fear and love are not alternatives but components of one unified covenantal requirement. Understanding this pairing is essential for resolving the 1 John 4:18 tension.",
+      "how": "Run `python D:/bible/tools/hebrew_parser.py --verse 'Deut 10:12-13'` to parse the Hebrew sequence. Run `python D:/bible/tools/hebrew_parser.py --verse 'Deut 6:5'` and `python D:/bible/tools/hebrew_parser.py --verse 'Deut 6:13'` to compare vocabulary. Check cross-testament parallels for Deut 6:13 (Jesus quotes it in Matt 4:10). Run Nave's COMMANDMENTS and OBEDIENCE entries for the fear-obedience pattern across the OT farewell addresses.",
+      "narrative": "Deuteronomy presents the most developed OT theology of the fear-love relationship. In Deut 10:12-13, Moses asks 'What doth the LORD thy God require of thee?' and answers with a five-part sequence: fear the LORD → walk in all his ways → love him → serve him → keep his commandments. Fear comes FIRST — not as an alternative to love but as its foundation. Chapter 6 places the love command (v.5, 'love the LORD thy God with all thine heart') alongside the fear command (v.13, 'thou shalt fear the LORD thy God, and serve him') within the same covenantal instruction. Jesus quotes 6:13 in Matt 4:10 during the temptation, connecting it to exclusive worship. The pattern recurs in farewell addresses: Moses (Deut), Joshua (Josh 24:14), Samuel (1 Sam 12:14,24), Solomon (Eccl 12:13). Each pairs fear with obedience and love.",
+      "verses": [
+        "Deut 10:12-13",
+        "Deut 6:5",
+        "Deut 6:13",
+        "Deut 5:29",
+        "Deut 13:4",
+        "Josh 24:14",
+        "1 Sam 12:14",
+        "1 Sam 12:24",
+        "Matt 4:10"
+      ],
+      "strongs": [
+        "H3372",
+        "H157",
+        "H5647",
+        "H8104",
+        "H3212"
+      ]
+    },
+    {
+      "id": "FA-4",
+      "title": "Parsing 1 John 4:18 — What Kind of Fear Does Perfect Love Cast Out?",
+      "what": "Perform a precise Greek parsing of 1 John 4:18. Identify the exact phrase structure: is it phobos kolasin echei ('fear has punishment') or phobos meta kolaseos ('fear with punishment')? Verify that kolasis (G2851) appears only twice in the NT (Matt 25:46 and 1 John 4:18). Determine what type of fear is being described and whether it matches or differs from Rev 14:7's phobeo.",
+      "why": "This is the primary objection to the 'fear God' command. If 1 John 4:18 eliminates ALL fear, then Rev 14:7 contradicts it. But if 4:18 addresses only slavish/punitive fear (phobos with kolasis), then a different kind of fear (reverential awe) remains intact. The same author tradition (Johannine) wrote both texts — John saw no contradiction.",
+      "how": "Run `python D:/bible/tools/greek_parser.py --verse '1 John 4:18'` for complete parsing. Check word study G2851 (kolasis) from the library. Run `python D:/bible/tools/greek_parser.py --verse '1 John 4:16'` and `python D:/bible/tools/greek_parser.py --verse '1 John 4:17'` for context. Run `python D:/bible/tools/search/semantic_strongs.py 'punishment correction penalty'` to understand kolasis vs. timoria distinction. Check grammar reference for present active indicative (ballei) and the significance of the continuous action 'casts out.'",
+      "narrative": "First John 4:18 says 'There is no fear in love; but perfect love casteth out fear: because fear hath punishment (he phobos kolasin echei).' The critical phrase is kolasin echei — fear 'has' or 'involves' punishment/torment. G2851 kolasis appears only twice in the NT: here and Matt 25:46 ('everlasting punishment'). Vincent distinguishes kolasis (corrective punishment) from timoria (purely retributive penalty). The fear being cast out is specifically the fear that anticipates punitive consequences — the dread of condemnation. This is NOT the reverential awe commanded in Rev 14:7. Supporting evidence: 1 John 4:17 mentions 'boldness in the day of judgment' — the context is judicial fear. Romans 8:15 distinguishes the 'spirit of bondage to fear' from the 'spirit of adoption.' First Peter 1:17 (same apostolic tradition) shows both coexisting: calling God 'Father' AND passing time 'in fear.' Bengel's progression — no love/no fear → fear without love → fear and love → love without fear — deserves testing against the biblical data.",
+      "verses": [
+        "1 John 4:18",
+        "1 John 4:16-17",
+        "1 John 5:3",
+        "Matt 25:46",
+        "Rom 8:15",
+        "2 Tim 1:7",
+        "1 Pet 1:17",
+        "Heb 12:28-29"
+      ],
+      "strongs": [
+        "G5401",
+        "G2851",
+        "G5046",
+        "G26",
+        "G906",
+        "G1854",
+        "G3954"
+      ]
+    },
+    {
+      "id": "FA-5",
+      "title": "Fearing God as Foundation for Refusing Beast-Worship (Rev 13:15 / Matt 10:28)",
+      "what": "Trace how fearing God functions as the theological and practical antidote to fearing the beast. The beast compels worship through threat of death (Rev 13:15); the first angel calls for worship through gospel proclamation (Rev 14:6-7). Analyze the principle: 'humans obey what they fear most.'",
+      "why": "The first angel's message is not abstract theology — it is a survival strategy for the final crisis. Those who fear God more than they fear death will refuse the mark. Those who fear death more than they fear God will submit. Matt 10:28 establishes this principle directly: fear the one who has ultimate power, not those with merely temporal power.",
+      "how": "Run `python D:/bible/tools/greek_parser.py --verse 'Rev 13:15'` and `python D:/bible/tools/greek_parser.py --verse 'Matt 10:28'` to parse the fear language. Check cross-testament parallels for Matt 10:28. Run the MARTYRDOM and COURAGE Nave's entries for examples of those who feared God more than human threats (Dan 3:16-18, Heb 11:32-37). Analyze the literary structure of Rev 13-14 for the contrast between beast-worship and God-worship.",
+      "narrative": "Revelation 13-14 presents a binary choice: worship the beast (under threat of death, Rev 13:15) or fear God (under the gospel invitation, Rev 14:6-7). The mechanisms are opposite — the beast uses terror (death threat) while God uses gospel (good news). Matt 10:28 provides the foundational principle: 'Fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.' The one who has already settled whom they ultimately fear will not be shaken by the beast's death threat. Daniel 3:16-18 provides the paradigm: Shadrach, Meshach, and Abednego refused the death-penalty worship command because their fear of God exceeded their fear of the furnace. The Ecclesiastes study identified the principle 'humans obey what they fear most.' This is not merely theoretical — it is the existential logic of the final crisis.",
+      "verses": [
+        "Rev 13:15",
+        "Rev 13:4",
+        "Rev 14:6-7",
+        "Rev 14:9-10",
+        "Matt 10:28",
+        "Luke 12:4-5",
+        "Dan 3:16-18",
+        "Dan 6:10",
+        "Heb 11:32-37",
+        "Acts 4:19",
+        "Acts 5:29"
+      ],
+      "strongs": [
+        "G5399",
+        "G5401",
+        "G4352",
+        "G615"
+      ]
+    },
+    {
+      "id": "FA-6",
+      "title": "Ecclesiastes 12:13-14 as OT Template for the First Angel's Message",
+      "what": "Perform a detailed structural comparison between Eccl 12:13-14 and Rev 14:7,12. Map the three-element pattern: fear God (yare → phobeo), keep commandments (mitsvah → entole), judgment (mishpat → krisis). Verify the LXX vocabulary bridges.",
+      "why": "If Eccl 12:13 is the OT template for Rev 14:7, then the first angel's message is not novel but the climactic restatement of the whole duty of humanity. Solomon's conclusion after exhausting worldly pursues is the same message the angel proclaims as earth's history closes.",
+      "how": "Run `python D:/bible/tools/hebrew_parser.py --verse 'Eccl 12:13'` and `python D:/bible/tools/hebrew_parser.py --verse 'Eccl 12:14'` for Hebrew parsing. Run `python D:/bible/tools/greek_parser.py --verse 'Rev 14:7'` and `python D:/bible/tools/greek_parser.py --verse 'Rev 14:12'` for Greek parsing. Use `--lxx-map` on H3372, H4687 (mitsvah), H4941 (mishpat) to verify the LXX bridges. Check word studies for H4941 and G2920 from the library. Run cross-testament parallels on Eccl 12:13.",
+      "narrative": "Ecclesiastes 12:13 — 'Fear God, and keep his commandments: for this is the whole duty of man' — maps structurally onto Rev 14:7,12. The fear God command (yare, H3372) corresponds to phobethete (G5399). 'Keep his commandments' (shamar mitsvotav) corresponds to 'keep the commandments of God' (Rev 14:12). The judgment declaration (Eccl 12:14, 'God shall bring every work into judgment') corresponds to 'the hour of his judgment is come' (Rev 14:7). The prior study (3am-04) verified the LXX bridges: yare → phobeo (241 co-occurrences), mitsvah → entole (153 co-occurrences). This pattern also appears in the farewell addresses of Moses (Deut 10:12-13), Joshua (Josh 24:14), and Samuel (1 Sam 12:14,24). Ecclesiastes represents Solomon's farewell, making four OT leaders who all conclude with the same fear-obedience-judgment triad. The first angel restates this universal pattern on a global scale.",
+      "verses": [
+        "Eccl 12:13",
+        "Eccl 12:14",
+        "Rev 14:7",
+        "Rev 14:12",
+        "Deut 10:12-13",
+        "Josh 24:14",
+        "1 Sam 12:14",
+        "1 Sam 12:24",
+        "Eccl 3:14"
+      ],
+      "strongs": [
+        "H3372",
+        "H8104",
+        "H4687",
+        "H4941",
+        "G5399",
+        "G1785",
+        "G2920"
+      ]
+    },
+    {
+      "id": "FA-7",
+      "title": "Fear and Wisdom — The Fear of the LORD Tradition in Proverbs and Job",
+      "what": "Trace the 'fear of the LORD is the beginning of wisdom' tradition through Proverbs, Job, and Psalms. Examine how fear functions not as emotional terror but as life-orientation, moral compass, and source of confidence.",
+      "why": "The wisdom tradition provides the richest OT exposition of what fearing God means in practice. If 'fear of the LORD' is the foundation of all wisdom, and wisdom is the path to life, then the first angel's message is calling humanity back to the fundamental orientation that makes human flourishing possible.",
+      "how": "Run word studies on H3374 (yirah) from the library. Search for all Proverbs occurrences of yirah via `python D:/bible/tools/hebrew_parser.py --search lemma=H3374 book=Prov`. Run Nave's WISDOM entry for fear-wisdom connections. Check Ps 111:10, Ps 34:9-11 for Psalmic expressions of the tradition.",
+      "narrative": "The wisdom tradition defines fear of the LORD as the epistemological foundation for all knowledge (Prov 1:7), the beginning of wisdom (Prov 9:10), and the source of life itself (Prov 14:27). Proverbs gives fear active moral content: 'The fear of the LORD is to hate evil' (8:13). It produces not terror but 'strong confidence' (14:26) and is 'a fountain of life' (14:27). Job 28:28 places fear as the conclusion of the divine wisdom speech: 'The fear of the Lord, that is wisdom; and to depart from evil is understanding.' Psalm 130:4 makes a remarkable claim: 'There is forgiveness with thee, that thou mayest be feared' — forgiveness produces fear, not eliminates it. This directly contradicts the assumption that grace and fear are opposed. Isaiah 11:2-3 shows that even the Messiah operates with 'the spirit of the fear of the LORD.' If Christ himself delights in the fear of God, the command to fear God cannot be sub-Christian.",
+      "verses": [
+        "Prov 1:7",
+        "Prov 8:13",
+        "Prov 9:10",
+        "Prov 14:26-27",
+        "Prov 16:6",
+        "Prov 15:33",
+        "Prov 19:23",
+        "Prov 22:4",
+        "Job 28:28",
+        "Ps 111:10",
+        "Ps 130:4",
+        "Ps 34:9-11",
+        "Isa 11:2-3"
+      ],
+      "strongs": [
+        "H3374",
+        "H2451",
+        "H998",
+        "H7225"
+      ]
+    },
+    {
+      "id": "FA-8",
+      "title": "Filial vs. Slavish Fear — Two Types Distinguished in Scripture and History",
+      "what": "Test the filial/slavish fear distinction against the biblical text. Examine whether Scripture supports a two-category model of fear. Trace Exodus 20:18-20 (two types in one verse), Rom 8:15 (spirit of bondage vs. adoption), and 1 John 4:18 (fear with punishment). Test Bengel's four-stage progression.",
+      "why": "The resolution of the apparent contradiction between 'fear God' and 'love casts out fear' depends on demonstrating that different types of fear exist in Scripture. If the Bible itself distinguishes these categories, the contradiction dissolves. The EGW corpus claims there are 'two kinds of fear: filial fear, and slavish fear' — this needs biblical verification.",
+      "how": "Run `python D:/bible/tools/hebrew_parser.py --verse 'Exod 20:18-20'` to parse the Sinai passage with its dual fear usage. Run `python D:/bible/tools/greek_parser.py --verse 'Rom 8:15'` for the bondage/adoption contrast. Compare with 2 Tim 1:7 ('spirit of fear' = deilia G1167?). Run `python D:/bible/tools/search/semantic_strongs.py 'terror dread punishment wrath'` for terror-vocabulary. Cross-reference with word study G2851 (kolasis) for the punitive fear category.",
+      "narrative": "The biblical evidence supports at minimum two categories of fear. Exodus 20:18-20 is the paradigm case: Israel 'feared' (yare) at Sinai, and Moses said both 'Do not fear' (al-tir'u, same root) AND 'that his fear (yirah) may be before your faces, that ye sin not.' Moses distinguishes the terror response from the moral orientation in a single breath. Rom 8:15 contrasts the 'spirit of bondage to fear' (douleia eis phobon) with the 'spirit of adoption' (huiothesia) — slavish fear vs. family relationship. Second Timothy 1:7 denies God gives a 'spirit of fear' (deilia, G1169 — cowardice/timidity) while affirming power, love, and a sound mind. First John 4:18 specifies the fear being cast out as fear that 'has punishment' (kolasin echei) — judicial dread. Meanwhile, Heb 12:28 commands serving God 'with reverence and godly fear' (eulabeias kai deous) in the very context of receiving grace. The EGW corpus identifies 'filial fear' arising from love for God's character and 'slavish fear' as its opposite — this maps onto the biblical vocabulary but must be verified text by text rather than assumed.",
+      "verses": [
+        "Exod 20:18-20",
+        "Rom 8:15",
+        "2 Tim 1:7",
+        "1 John 4:18",
+        "Heb 12:28-29",
+        "1 Pet 1:17",
+        "James 2:19",
+        "Ps 2:11",
+        "Phil 2:12",
+        "2 Cor 5:10-11",
+        "2 Cor 7:1"
+      ],
+      "strongs": [
+        "G5401",
+        "G1169",
+        "G1397",
+        "G5206",
+        "G2124",
+        "G2851",
+        "H3372",
+        "H367",
+        "H6343"
+      ]
+    },
+    {
+      "id": "FA-9",
+      "title": "Fear as the Relational Foundation — Fear, Worship, and Obedience Unified",
+      "what": "Demonstrate that the first angel's three imperatives (fear, give glory, worship) form a unified response, not three separate actions. Show how fear is the internal disposition that produces external worship and obedience. Trace the fear-worship-commandments triad across Scripture.",
+      "why": "The first angel does not list three unrelated commands but describes one integrated response from different angles: fear is the heart posture, giving glory is the life testimony, worship is the physical/communal expression. Understanding this unity prevents reducing 'fear God' to mere emotion detached from worship and obedience.",
+      "how": "Run `python D:/bible/tools/greek_parser.py --verse 'Rev 14:7'` for all three imperatives. Check word study G4352 (proskyneo) from the library and H7812 (shachah). Run cross-testament parallels on Rev 14:7. Examine Isa 29:13 (fear → worship → commandments in Jesus' quotation). Check the Nave's WORSHIP and GLORIFYING GOD entries for fear connections.",
+      "narrative": "Revelation 14:7 presents three imperatives: phobethete (fear), dote (give glory), proskynesate (worship). These are not three separate commands but one reality viewed from three angles. The Bohr corpus notes that Jesus interprets Isa 29:13 as connecting fear → worship → commandments: 'their fear toward me is taught by the precept of men' leads to vain worship. When fear is wrong, worship becomes wrong. The Nave's entry for FEAR lists it as 'A MOTIVE OF OBEDIENCE' with extensive scripture citations. Rev 14:12 confirms: the result of responding to the three angels is 'they that keep the commandments of God, and the faith of Jesus.' The prior study (gsp-10) established that the fear word group shows worship (proskyneo) as the behavioral expression of godly fear. Cornelius (Acts 10:2) demonstrates the pattern in practice: fearing God manifested as devout living, generosity, prayer, and righteousness. Fear is not one item on a checklist but the foundation that generates all the others.",
+      "verses": [
+        "Rev 14:7",
+        "Rev 14:12",
+        "Isa 29:13",
+        "Matt 15:8-9",
+        "Acts 10:2",
+        "Acts 10:35",
+        "Deut 6:13",
+        "Matt 4:10",
+        "Ps 96:4-9",
+        "Rev 15:4"
+      ],
+      "strongs": [
+        "G5399",
+        "G1325",
+        "G1391",
+        "G4352",
+        "H7812",
+        "H3372"
+      ]
+    },
+    {
+      "id": "FA-10",
+      "title": "Psalm 130:4 — Forgiveness Produces Fear, Not Eliminates It",
+      "what": "Investigate Psalm 130:4 ('There is forgiveness with thee, that thou mayest be feared') as a counter-intuitive but crucial text. Forgiveness does not eliminate the fear of God — it is the very basis for proper fear. Trace how grace and fear coexist throughout Scripture.",
+      "why": "Modern theology often assumes grace replaces fear. Psalm 130:4 inverts this: grace is the soil from which true fear grows. This text directly challenges the assumption that 1 John 4:18 eliminates all fear in the gospel age. If forgiveness produces fear, then the gospel (which proclaims forgiveness) naturally produces the fear commanded in Rev 14:7.",
+      "how": "Run `python D:/bible/tools/hebrew_parser.py --verse 'Ps 130:4'` for Hebrew parsing. Check whether the fear word is yare (H3372). Run cross-testament parallels. Compare with Ps 34:9-11 where fear is taught to those who have tasted God's goodness. Check Neh 5:15, Mal 1:6, Mal 3:16 for post-exile examples of fear arising from relationship.",
+      "narrative": "Psalm 130:4 is one of the most theologically dense verses in the fear-of-God tradition. The psalmist, having cried 'out of the depths' (v.1) and acknowledged that if God marks iniquities none can stand (v.3), declares: 'But there is forgiveness with thee, that thou mayest be feared.' The purpose clause is remarkable: forgiveness exists SO THAT God may be feared. This demolishes the false dichotomy between grace and fear. The experience of being forgiven — understanding the depth of sin and the magnitude of mercy — produces exactly the kind of reverent awe that constitutes the fear of God. This aligns with the EGW corpus claim that filial fear 'arises from love for God and his character' and 'is fed and kept alive by the word of God and prayer.' It also explains why the 'everlasting gospel' naturally produces the fear command: the gospel IS the grounds for fearing God properly.",
+      "verses": [
+        "Ps 130:4",
+        "Ps 130:1-3",
+        "Ps 34:9-11",
+        "Mal 1:6",
+        "Mal 3:16",
+        "Neh 5:15",
+        "Luke 7:47",
+        "Luke 1:50"
+      ],
+      "strongs": [
+        "H3372",
+        "H5547",
+        "G5399"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "H3372",
+      "word": "yare",
+      "reason": "The primary OT verb for 'fear God' — the root behind the entire yare/phobos tradition; library entry exists"
+    },
+    {
+      "strongs": "H3374",
+      "word": "yirah",
+      "reason": "Noun form of H3372 — 'the fear of the LORD is the beginning of wisdom'; library entry exists"
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "reason": "The NT verb in Rev 14:7 phobethete; inherits OT yare tradition through LXX; library entry exists"
+    },
+    {
+      "strongs": "G5401",
+      "word": "phobos",
+      "reason": "The noun form used in 1 John 4:18 — the fear that 'has punishment'; also used for reverence; library entry exists"
+    },
+    {
+      "strongs": "G2851",
+      "word": "kolasis",
+      "reason": "Punishment/torment in 1 John 4:18 — only 2 NT occurrences (here + Matt 25:46); defines the KIND of fear being cast out; library entry exists"
+    },
+    {
+      "strongs": "G5046",
+      "word": "teleios",
+      "reason": "Perfect/complete in 'perfect love casts out fear' — love that has reached its goal; library entry exists"
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "reason": "Worship in Rev 14:7 — the behavioral expression of fearing God; also used for beast worship in Rev 13; library entry exists"
+    },
+    {
+      "strongs": "H7812",
+      "word": "shachah",
+      "reason": "OT prostration/worship — the Hebrew behind proskyneo in worship contexts; library entry exists"
+    },
+    {
+      "strongs": "G26",
+      "word": "agape",
+      "reason": "Love in 1 John 4:18 — the perfect love that casts out fear; also the love in Deut 6:5 LXX; library entry exists"
+    },
+    {
+      "strongs": "G906",
+      "word": "ballo",
+      "reason": "Casts out in 1 John 4:18 — ballei exo, present active indicative; continuous action of love displacing fear; library entry exists"
+    },
+    {
+      "strongs": "H367",
+      "word": "eimah",
+      "reason": "Terror — distinct from yirah; represents the kind of fear that IS servile/slavish; MISSING from library"
+    },
+    {
+      "strongs": "H6343",
+      "word": "pachad",
+      "reason": "Dread/startled fear — another fear word distinct from yirah; needed for the three-word distinction; MISSING from library"
+    },
+    {
+      "strongs": "G2125",
+      "word": "eulabeomai",
+      "reason": "To be circumspect/reverent — used of Noah in Heb 11:7 'moved with fear'; shows reverent fear in faith chapter; MISSING from library"
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "Glory in Rev 14:7 'give glory to him' — the second imperative connecting fear to glorifying God; library entry exists"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "Judgment in Rev 14:7 'the hour of his judgment is come'; also in 1 John 4:17 'boldness in the day of judgment'; library entry exists"
+    }
+  ],
+  "required_parsing": [
+    {
+      "reason": "Full parsing of all three imperatives (phobethete, dote, proskynesate); verify aorist passive imperative for phobethete; identify the participle legon connecting to v.6",
+      "verse": "Rev 14:7"
+    },
+    {
+      "reason": "Critical parsing — phobos, kolasin echei structure, teleia agape, ballei exo; determine exact phrase relationship between fear and punishment",
+      "verse": "1 John 4:18"
+    },
+    {
+      "reason": "Context for 4:18 — boldness (parresia) in the day of judgment (krisis); the judicial context of the fear discussion",
+      "verse": "1 John 4:16-17"
+    },
+    {
+      "reason": "Hebrew parsing — confirm yare (H3372), shamar (H8104), mitsvah (H4687); verify structural parallel to Rev 14:7",
+      "verse": "Eccl 12:13"
+    },
+    {
+      "reason": "Hebrew parsing — the five-part sequence: yare, halak, ahab, abad, shamar; fear comes first",
+      "verse": "Deut 10:12-13"
+    },
+    {
+      "reason": "Critical dual-fear passage — parse both occurrences of yare/yirah; distinguish the fear Moses rejects from the fear he commends",
+      "verse": "Exod 20:18-20"
+    },
+    {
+      "reason": "Greek parsing — two uses of phobeo with different objects; the fear-of-humans vs. fear-of-God contrast",
+      "verse": "Matt 10:28"
+    },
+    {
+      "reason": "Greek parsing — pneuma douleias eis phobon vs. pneuma huiothesias; bondage-fear vs. adoption",
+      "verse": "Rom 8:15"
+    },
+    {
+      "reason": "Greek parsing — eulabeias kai deous (reverence and godly fear); the specific Greek words for reverent fear",
+      "verse": "Heb 12:28-29"
+    },
+    {
+      "reason": "Hebrew parsing — ki immeka ha-selichah lema'an tivvare; forgiveness as the PURPOSE of fear",
+      "verse": "Ps 130:4"
+    }
+  ],
+  "required_parallels": [
+    {
+      "ref": "Rev 14:7",
+      "reason": "Cross-testament parallels for phobethete ton theon — trace back to Eccl 12:13, Deut 10:12, Ps 96:4-9, Jonah 1:9"
+    },
+    {
+      "ref": "1 John 4:18",
+      "reason": "Cross-testament parallels for fear with punishment — trace to OT terror/dread vocabulary (eimah, pachad) vs. reverential fear (yirah)"
+    },
+    {
+      "ref": "Eccl 12:13",
+      "reason": "Cross-testament parallels — trace forward to Rev 14:7,12; map the fear-commandments-judgment triad"
+    },
+    {
+      "ref": "Matt 10:28",
+      "reason": "Cross-testament parallels — trace back to Isa 8:13, forward to Rev 13:15 and Rev 14:7; the fear hierarchy"
+    },
+    {
+      "ref": "Deut 6:13",
+      "reason": "Cross-testament parallels — trace to Matt 4:10 (Jesus' quotation) and Rev 14:7 (same triad: fear, serve/glorify, worship)"
+    },
+    {
+      "ref": "Exod 20:18-20",
+      "reason": "Cross-testament parallels — trace the dual-fear pattern to Heb 12:18-24 (Sinai vs. Zion) and Rom 8:15"
+    },
+    {
+      "ref": "Prov 1:7",
+      "reason": "Cross-testament parallels — trace the wisdom-fear tradition into NT usage of phobos"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "D:/bible/bible-studies/word-studies/H3372-yare.md",
+        "description": "H3372-yare"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/H3374-yirah.md",
+        "description": "H3374-yirah"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G5399-phobeo.md",
+        "description": "G5399-phobeo"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G5401-phobos.md",
+        "description": "G5401-phobos"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G2851-kolasis.md",
+        "description": "G2851-kolasis"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G5046-teleios.md",
+        "description": "G5046-teleios"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G4352-proskyneo.md",
+        "description": "G4352-proskyneo"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/H7812-shachah.md",
+        "description": "H7812-shachah"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G26-agape.md",
+        "description": "G26-agape"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G25-agapao.md",
+        "description": "G25-agapao"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G906-ballo.md",
+        "description": "G906-ballo"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G1391-doxa.md",
+        "description": "G1391-doxa"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G2919-krino.md",
+        "description": "G2919-krino"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G2920-krisis.md",
+        "description": "G2920-krisis"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/H4941-mishpat.md",
+        "description": "H4941-mishpat"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/H8104-shamar.md",
+        "description": "H8104-shamar"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/H2617-checed.md",
+        "description": "H2617-checed"
+      },
+      {
+        "path": "D:/bible/bible-studies/word-studies/G3954-parrhesia.md",
+        "description": "G3954-parrhesia"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/greek/mood-aorist-imperative.md",
+        "description": "greek/mood-aorist-imperative"
+      },
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/greek/tense-present-active-indicative.md",
+        "description": "greek/tense-present-active-indicative"
+      },
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/greek/tense-aorist-prophetic.md",
+        "description": "greek/tense-aorist-prophetic"
+      },
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/greek/aorist-passive-indicative.md",
+        "description": "greek/aorist-passive-indicative"
+      },
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/hebrew/imperative-mood.md",
+        "description": "hebrew/imperative-mood"
+      },
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/hebrew/stem-niphal.md",
+        "description": "hebrew/stem-niphal"
+      },
+      {
+        "path": "D:/bible/bible-studies/grammar-reference/hebrew/qal-imperfect.md",
+        "description": "hebrew/qal-imperfect"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "H367",
+      "word": "eimah",
+      "reason": "Terror — needed to distinguish from yirah in the three-word fear vocabulary analysis"
+    },
+    {
+      "strongs": "H6343",
+      "word": "pachad",
+      "reason": "Dread — needed to complete the Hebrew fear-word semantic field"
+    },
+    {
+      "strongs": "G2125",
+      "word": "eulabeomai",
+      "reason": "Reverent fear — used in Heb 11:7 of Noah; represents the positive fear category in Greek"
+    },
+    {
+      "strongs": "G2124",
+      "word": "eulabeia",
+      "reason": "Godly fear/reverence — used in Heb 12:28 for the fear that accompanies grace"
+    },
+    {
+      "strongs": "G1169",
+      "word": "deilos",
+      "reason": "Cowardice/timidity — the fear denied in 2 Tim 1:7; distinguishes from the fear commanded in Rev 14:7"
+    },
+    {
+      "strongs": "H157",
+      "word": "ahab",
+      "reason": "Love (Hebrew) — needed for the fear-love pairing in Deut 10:12; the Hebrew counterpart to agape"
+    },
+    {
+      "strongs": "H4172",
+      "word": "mora",
+      "reason": "Terror/dread object — derived from yare but with terrifying connotation; used for objects of fear"
+    },
+    {
+      "strongs": "G4576",
+      "word": "sebomai",
+      "reason": "To venerate/worship — appears in the worship vocabulary alongside proskyneo and phobeo"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "topic": "FEAR",
+      "source": "Nave's",
+      "score": 0.61,
+      "key_refs": [
+        "Gen 22:12",
+        "Exod 20:18-20",
+        "Deut 6:13",
+        "Deut 10:12-13",
+        "Prov 1:7",
+        "Eccl 12:13",
+        "Matt 10:28",
+        "Rev 14:7"
+      ],
+      "subtopics": [
+        "REVERENCE",
+        "A MOTIVE OF OBEDIENCE",
+        "GUILTY FEAR",
+        "CONSPICUOUS INSTANCES"
+      ]
+    },
+    {
+      "topic": "REVERENCE",
+      "source": "Nave's",
+      "score": 0.5,
+      "key_refs": [
+        "Gen 17:3",
+        "Exod 3:5",
+        "Exod 19:16-24",
+        "Isa 45:9"
+      ],
+      "subtopics": [
+        "For God",
+        "For God's house"
+      ]
+    },
+    {
+      "topic": "WORSHIP",
+      "source": "Nave's",
+      "score": 0.63,
+      "key_refs": [
+        "Exod 20:3",
+        "Deut 6:13",
+        "Matt 4:10",
+        "Rev 14:7",
+        "Rev 19:10"
+      ],
+      "subtopics": [
+        "To be rendered only to God",
+        "COMMANDED"
+      ]
+    },
+    {
+      "topic": "COMMANDMENTS",
+      "source": "Nave's",
+      "score": 0.64,
+      "key_refs": [
+        "Exod 20:3-17",
+        "Deut 6:4-9",
+        "Eccl 12:13",
+        "Rev 14:12"
+      ],
+      "subtopics": []
+    },
+    {
+      "topic": "OBEDIENCE",
+      "source": "Nave's",
+      "score": 0.62,
+      "key_refs": [
+        "Deut 10:12-13",
+        "1 Sam 12:24",
+        "Eccl 12:13",
+        "1 John 5:3",
+        "Rev 14:12"
+      ],
+      "subtopics": [
+        "ENJOINED",
+        "EXEMPLIFIED",
+        "FILIAL"
+      ]
+    },
+    {
+      "topic": "LOVE",
+      "source": "Nave's",
+      "score": 0.4,
+      "key_refs": [
+        "Deut 6:5",
+        "Deut 10:12",
+        "Matt 22:37-38",
+        "1 John 4:16-18",
+        "1 John 5:3"
+      ],
+      "subtopics": [
+        "OF MAN FOR GOD"
+      ]
+    },
+    {
+      "topic": "JUDGMENT",
+      "source": "Nave's",
+      "score": 0.63,
+      "key_refs": [
+        "Eccl 12:14",
+        "Dan 7:9-10",
+        "Rev 14:7",
+        "2 Cor 5:10",
+        "1 John 4:17"
+      ],
+      "subtopics": [
+        "THE GENERAL",
+        "ACCORDING TO OPPORTUNITY AND WORKS"
+      ]
+    },
+    {
+      "topic": "WISDOM",
+      "source": "Nave's",
+      "score": 0.58,
+      "key_refs": [
+        "Prov 1:7",
+        "Prov 9:10",
+        "Job 28:28",
+        "Ps 111:10"
+      ],
+      "subtopics": [
+        "SPIRITUAL"
+      ]
+    },
+    {
+      "topic": "ASSURANCE",
+      "source": "Nave's",
+      "score": 0.47,
+      "key_refs": [
+        "1 John 3:14,19",
+        "1 John 4:18",
+        "Heb 10:22",
+        "Isa 32:17"
+      ],
+      "subtopics": [
+        "Confirmed by love"
+      ]
+    },
+    {
+      "topic": "IDOLATRY",
+      "source": "Nave's",
+      "score": 0.57,
+      "key_refs": [
+        "Exod 20:3-6",
+        "Dan 3:5-7",
+        "Rev 13:4",
+        "Rev 9:20"
+      ],
+      "subtopics": [
+        "WICKED PRACTICES OF"
+      ]
+    },
+    {
+      "topic": "MARTYRDOM",
+      "source": "Nave's",
+      "score": 0.71,
+      "key_refs": [
+        "Matt 10:21-22",
+        "Rev 6:9-11",
+        "Rev 12:11",
+        "Rev 13:15"
+      ],
+      "subtopics": []
+    },
+    {
+      "topic": "COURAGE",
+      "source": "Nave's",
+      "score": 0.52,
+      "key_refs": [
+        "Deut 31:7-8",
+        "Dan 3:16-18",
+        "Acts 4:19",
+        "Acts 5:29",
+        "Phil 1:12-14"
+      ],
+      "subtopics": [
+        "Enjoined",
+        "INSTANCES OF"
+      ]
+    },
+    {
+      "topic": "GLORIFYING GOD",
+      "source": "Nave's",
+      "score": 0.5,
+      "key_refs": [
+        "Ps 22:23",
+        "Rev 14:7",
+        "Rev 15:4"
+      ],
+      "subtopics": [
+        "Commanded",
+        "For his holiness"
+      ]
+    },
+    {
+      "topic": "CONFIDENCE",
+      "source": "Nave's",
+      "score": 0.59,
+      "key_refs": [
+        "Prov 14:26",
+        "Eph 3:12",
+        "Heb 10:22",
+        "1 John 4:17-18"
+      ],
+      "subtopics": []
+    },
+    {
+      "topic": "GODLINESS",
+      "source": "Nave's",
+      "score": 0.56,
+      "key_refs": [],
+      "subtopics": [
+        "See HOLINESS",
+        "See RIGHTEOUSNESS"
+      ]
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW (ARSH March 22, 1860, p.141-142)",
+      "claim": "There are two kinds of fear: filial fear and slavish fear. Filial fear arises from love to God and his character; slavish fear is its opposite.",
+      "directive": "Verify this two-category distinction against the biblical text. Check whether yirah consistently maps to filial fear and eimah/pachad to slavish fear. Parse Exod 20:18-20 where both types appear in one passage."
+    },
+    {
+      "source": "EGW (YI Jan 6, 1898, par. 5)",
+      "claim": "Perfect love means knowing God is not seeking to injure us; when we believe God loves us we trust him as a child trusts a parent, and troubles/torments disappear.",
+      "directive": "Test whether 1 John 4:18 addresses the developmental journey from slavish to filial relationship, not the elimination of all fear. Check Romans 8:15 (bondage to fear → spirit of adoption) as parallel."
+    },
+    {
+      "source": "EGW (5TC 208.2 / HF 221.1)",
+      "claim": "The first angel's message predicts a great religious awakening.",
+      "directive": "Search for biblical evidence that the first angel's message produces awakening rather than terror. Check Acts 10:2 (Cornelius feared God → spiritual readiness), Mal 4:2 (healing for those who fear)."
+    },
+    {
+      "source": "Moskala (JATS 2019)",
+      "claim": "Phobethete ton theon in its imperative form occurs only once in the entire Bible.",
+      "directive": "Verify via Greek parser search for G5399 in imperative mood. Check whether other phobeo + theos constructions exist even if not identical in form."
+    },
+    {
+      "source": "Moskala (JATS 2019)",
+      "claim": "Hebrew wordplay between ra'ah (to see) and yare (to fear) — seeing God and fearing God are etymologically connected.",
+      "directive": "Verify etymological relationship via Hebrew lexicon. Check Gen 22:12-14 (yare → Moriah/provision/seeing). Check whether this connection appears in standard Hebrew grammars."
+    },
+    {
+      "source": "Moskala (JATS 2019)",
+      "claim": "The concept of love in the notion of fear is no longer present in modern languages but survives in biblical Hebrew.",
+      "directive": "Verify by checking Deut 10:12 where fear and love appear as co-requirements. Check whether any Hebrew text explicitly defines fear as including love."
+    },
+    {
+      "source": "Vincent (via Precept Austin)",
+      "claim": "Kolasis (G2851) appears only twice in the NT (Matt 25:46 and 1 John 4:18). Kolasis has the idea of discipline/correction while timoria is pure penalty.",
+      "directive": "Verify the occurrence count for G2851 via word study from library. Check whether the kolasis/timoria distinction holds in usage."
+    },
+    {
+      "source": "Bengel (via Precept Austin)",
+      "claim": "Spiritual progression: no love/no fear → fear without love → fear and love → love without fear.",
+      "directive": "Test against biblical data. Check Exod 20:18-20 (fear without love at Sinai → fear with love commanded). Check Rom 8:15 (bondage to fear → adoption). Check 1 John 4:18 (love casting out fear). Does Scripture support this developmental model?"
+    },
+    {
+      "source": "Bohr (3AM Lesson #3)",
+      "claim": "Jesus interprets Isa 29:13 to link fear → worship → commandments. The battle is between written word and unwritten tradition.",
+      "directive": "Verify the Isa 29:13 / Matt 15:8-9 connection. Parse Isa 29:13 in Hebrew to see if yare appears. Check whether Jesus' quotation illuminates the fear-worship connection in Rev 14:7."
+    },
+    {
+      "source": "Bohr (3AM Lesson #3)",
+      "claim": "The most prominent connotation of fear of the Lord is that it always translates into service and loving obedience.",
+      "directive": "Verify whether biblical usage data supports this as the dominant sense. Run occurrence analysis on yare contexts — how many are paired with obedience/commandments vs. used for emotional response?"
+    },
+    {
+      "source": "Reading Acts (P. Long)",
+      "claim": "The judgment announcement in Rev 14:7 may involve a 'proleptic aorist or aorist of assurance.'",
+      "directive": "Parse the tense/mood of elthen in Rev 14:7 ('the hour of his judgment is come'). Check grammar reference for aorist prophetic. Determine whether the aorist here indicates completed action, proleptic certainty, or something else."
+    },
+    {
+      "source": "TheBibleSays.com",
+      "claim": "Humans obey what they fear most — this principle connects fear-of-God to the beast/fear contrast.",
+      "directive": "Verify this principle from Matt 10:28, Dan 3:16-18, Rev 13:15 / 14:7. Check whether the binary choice in Revelation is fundamentally about which fear takes priority."
+    }
+  ],
+  "verse_groups": [
+    {
+      "id": "VG-1",
+      "label": "The First Angel's Command",
+      "verses": [
+        "Rev 14:6",
+        "Rev 14:7",
+        "Rev 14:12",
+        "Rev 15:4",
+        "Rev 11:18",
+        "Rev 19:5"
+      ]
+    },
+    {
+      "id": "VG-2",
+      "label": "The Beast's Counter-Worship",
+      "verses": [
+        "Rev 13:4",
+        "Rev 13:15",
+        "Rev 14:9-10"
+      ]
+    },
+    {
+      "id": "VG-3",
+      "label": "OT Fear-of-God Tradition",
+      "verses": [
+        "Deut 10:12-13",
+        "Deut 6:5",
+        "Deut 6:13",
+        "Deut 5:29",
+        "Deut 13:4",
+        "Exod 20:18-20",
+        "Gen 22:12"
+      ]
+    },
+    {
+      "id": "VG-4",
+      "label": "Wisdom Literature — Fear as Foundation",
+      "verses": [
+        "Prov 1:7",
+        "Prov 8:13",
+        "Prov 9:10",
+        "Prov 14:26-27",
+        "Prov 16:6",
+        "Job 28:28",
+        "Ps 111:10",
+        "Ps 130:4"
+      ]
+    },
+    {
+      "id": "VG-5",
+      "label": "Ecclesiastes 12:13-14 / Rev 14:7 Parallel",
+      "verses": [
+        "Eccl 12:13",
+        "Eccl 12:14",
+        "Eccl 3:14",
+        "Eccl 8:12-13"
+      ]
+    },
+    {
+      "id": "VG-6",
+      "label": "1 John 4:18 — The Love/Fear Question",
+      "verses": [
+        "1 John 4:16-17",
+        "1 John 4:18",
+        "1 John 5:3"
+      ]
+    },
+    {
+      "id": "VG-7",
+      "label": "Slavish vs. Filial Fear",
+      "verses": [
+        "Rom 8:15",
+        "2 Tim 1:7",
+        "Heb 12:28-29",
+        "1 Pet 1:17",
+        "James 2:19"
+      ]
+    },
+    {
+      "id": "VG-8",
+      "label": "Fear as Foundation for Courage",
+      "verses": [
+        "Matt 10:28",
+        "Luke 12:4-5",
+        "Dan 3:16-18",
+        "Acts 4:19",
+        "Acts 5:29",
+        "Heb 11:7"
+      ]
+    },
+    {
+      "id": "VG-9",
+      "label": "Fear and Grace Coexisting",
+      "verses": [
+        "Ps 130:4",
+        "Phil 2:12",
+        "2 Cor 5:10-11",
+        "2 Cor 7:1",
+        "Heb 5:7"
+      ]
+    },
+    {
+      "id": "VG-10",
+      "label": "Farewell Addresses — Fear Pattern",
+      "verses": [
+        "Deut 10:12-13",
+        "Josh 24:14",
+        "1 Sam 12:14",
+        "1 Sam 12:24",
+        "Eccl 12:13"
+      ]
+    }
+  ],
+  "priority_chapter_context": [
+    {
+      "ref": "Revelation 14",
+      "reason": "The chapter containing the three angels' messages — full context for phobethete ton theon"
+    },
+    {
+      "ref": "Revelation 13",
+      "reason": "The beast worship that the first angel's message counteracts — death threat, image worship, mark"
+    },
+    {
+      "ref": "1 John 4",
+      "reason": "The love chapter containing 4:18 — full context needed to understand what fear is being cast out"
+    },
+    {
+      "ref": "Deuteronomy 10",
+      "reason": "Moses' summary of what God requires — the fear-love-serve-obey pattern"
+    },
+    {
+      "ref": "Deuteronomy 6",
+      "reason": "The Shema and the fear command — love (v.5) and fear (v.13) in one chapter"
+    },
+    {
+      "ref": "Exodus 20",
+      "reason": "Sinai theophany and the dual-fear passage (v.18-20) alongside the commandments"
+    },
+    {
+      "ref": "Ecclesiastes 12",
+      "reason": "Solomon's conclusion — the OT template for Rev 14:7"
+    },
+    {
+      "ref": "Proverbs 1",
+      "reason": "The beginning of wisdom tradition — fear as epistemological foundation"
+    },
+    {
+      "ref": "Romans 8",
+      "reason": "Spirit of adoption vs. spirit of bondage to fear — the NT framework for understanding fear types"
+    }
+  ],
+  "stats": {
+    "total_verses": 61,
+    "primary_verses": 27,
+    "supporting_verses": 34,
+    "ot_verses": 11,
+    "nt_verses": 16,
+    "focus_area_count": 10,
+    "word_study_count": 15,
+    "parsing_count": 10,
+    "parallel_count": 7
+  }
+}

@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Rev 14:10 → Rev 19:15 (nt, vocabulary + structural — thumos-orge genitive chain escalation)
+- Rev 14:10 → Rev 14:8 (nt, vocabulary + structural — polarity flip: Babylon's wine → God's wine)
+- Rev 14:10 → Rev 16:19 (nt, vocabulary + structural — cup-wine-thumos-orge chain)
+- Rev 14:11 → Isa 34:10 (ot, vocabulary + theological — smoke ascending forever formula (parallels tool highest match at 0.401))
+- Rev 14:11 → Rev 19:3 (nt, vocabulary — identical smoke-ascending-forever formula applied to Babylon)
+- Rev 14:11 → Rev 4:8 (nt, vocabulary + grammatical — identical anapausis ouk echousin hemeras kai nuktos construction)
+- Rev 14:10 → Psa 75:8 (ot, vocabulary + reversal — mixed wine (mesek) → unmixed wine (akratos))
+- Jud 1:7 → 2Pe 2:6 (nt, vocabulary + theological — eternal fire (Jude) → turned to ashes (Peter))
+- Rev 20:9 → Rev 20:10 (nt, vocabulary differentiation — katephagen (devoured, humans) vs. basanisthesontai (tormented, symbolic entities))
+- Mal 4:1 → Rev 20:9 (nt, theological — fire consuming the wicked (ashes/devoured))
+- Rev 14:10 → Rev 8:4 (nt, vocabulary — enopion (in the presence of) used for both judgment smoke and incense smoke)
+- Rev 20:10 → Eze 28:18-19 (ot, theological — same being (Satan): tormented forever (Rev) vs. ashes and never be any more (Eze))
+- Rev 14:10 → Isa 51:17 (ot, vocabulary — cup of fury/chemah-thumos trajectory)
+- Rev 14:10 → Jer 25:15 (ot, vocabulary — wine cup of fury given to nations)
+- Rev 14:10 → Jer 51:7 (ot, vocabulary + structural — Babylon's golden cup making nations drunk)

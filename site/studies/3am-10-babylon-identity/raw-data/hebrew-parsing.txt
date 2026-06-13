@@ -1,0 +1,36 @@
+HEBREW PARSER RAW OUTPUT — REQUIRED VERSES
+
+=== Gen 11:9 ===
+עַל־כֵּ֞ן קָרָ֤א שְׁמָהּ֙ בָּבֶ֔ל כִּי־שָׁ֛ם בָּלַ֥ל יְהוָ֖ה שְׂפַ֣ת כָּל־הָאָ֑רֶץ
+Key: בָּבֶל (babel, H894, PropN) — בָּלַל (balal, H1101, Verb.Qal.Perf.3ms "moisten, confound")
+Wordplay: sham balal YHWH — "there the LORD confounded" — babel/balal paronomasia
+
+=== Ezek 16:15 ===
+וַתִּבְטְחִ֣י בְיָפְיֵ֔ךְ וַתִּזְנִ֖י עַל־שְׁמֵ֑ךְ וַתִּשְׁפְּכִ֧י אֶת־תַּזְנוּתַ֛יִךְ עַל־כָּל־עֹובֵ֖ר
+Key: תִּזְנִי (zanah H2181, Verb.Qal.Wayq.2fs "you fornicated") — covenant context: God's wife playing the harlot
+תַּזְנוּתַיִךְ (taznuth, "your fornications" fp + 2fs suffix) — poured out on every passer-by
+
+=== Hos 1:2 ===
+כִּֽי־זָנֹ֤ה תִזְנֶה֙ הָאָ֔רֶץ מֵֽאַחֲרֵ֖י יְהוָֽה
+Key: זָנֹה (zanah H2181, Verb.Qal.InfAbs) + תִזְנֶה (zanah H2181, Verb.Qal.Impf.3fs)
+= Doubled construction: ki-zanoh tizneh = "for the land commits great whoredom" (infinitive absolute + imperfect = emphatic habitual action)
+מֵאַחֲרֵי יְהוָה = "from after/behind YHWH" — departing from covenant loyalty
+
+=== Isa 1:21 ===
+אֵיכָה֙ הָיְתָ֣ה לְזֹונָ֔ה קִרְיָ֖ה נֶאֱמָנָ֑ה
+Key: זֹונָה (zanah H2181, Verb.Qal.Ptcp.fs "harlot") — the faithful city (qiryah ne'emanah) became a harlot
+אֵיכָה (how!) — same word opens Lamentations; expresses shocked grief at the transformation
+The verse presupposes prior faithfulness — you cannot "become" a harlot without having been faithful first
+
+=== Exod 28:36 ===
+וְעָשִׂיתָ צִּיץ זָהָב טָהוֹר וּפִתַּחְתָּ עָלָיו פִּתּוּחֵי חֹתָם קֹדֶשׁ לַיהוָה
+Key: קֹדֶשׁ לַיהוָה (qodesh la-YHWH = "HOLINESS TO THE LORD") — the forehead inscription on the high priest's plate
+Contrast with Rev 17:5: ΜΥΣΤΗΡΙΟΝ ΒΑΒΥΛΩΝ Η ΜΕΓΑΛΗ, Η ΜΗΤΗΡ ΤΩΝ ΠΟΡΝΩΝ — harlot's forehead inscription inverts the priestly one
+
+=== Jer 51:7 ===
+כֹּוס־זָהָב בָּבֶל בְּיַד־יְהוָה מְשַׁכֶּרֶת כָּל־הָאָרֶץ מִיֵּינָהּ שָׁתוּ גֹויִם עַל־כֵּן יִתְהֹלְלוּ גֹויִם
+Key: כֹּוס (kos, H3563 "cup") + זָהָב (zahab, H2091 "gold") = "golden cup" — Babylon
+בְּיַד יְהוָה = "in the hand of the LORD" — Babylon is God's instrument
+מְשַׁכֶּרֶת (shakar H7937, Piel.Ptcp.fs "making drunk") — the whole earth
+מִיֵּינָהּ (yayin H3196 + 3fs suffix) = "from her wine"
+Direct source for Rev 17:4 (golden cup) and Rev 14:8 (nations drunk with wine)

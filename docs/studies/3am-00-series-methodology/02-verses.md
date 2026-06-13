@@ -1,0 +1,731 @@
+# Verses
+
+## Question
+What is the purpose of this 22-study series on the Three Angels' Messages? How does it build on but go deeper than the Gospel Series (GSP), which proved the 3AM are the gospel? What is the relationship to the LGT, SV, and other series? Map the text of Rev 14:6-12 verse by verse and show how the 22 studies will cover every phrase, every theological connection, and every major objection. Include Rev 14:1-5 (preceding context) and Rev 14:13-20 (following context).
+
+### The Lamb on Mount Zion with the 144,000 — preceding context establishing the narrative frame
+
+> And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty [and] four thousand, having his Father's name written in their foreheads.
+
+**Context:** Rev 14 opens with a vision of the Lamb (arnion G721) standing on Mount Zion with the 144,000. This follows Rev 13's description of the beast system. The Father's name in foreheads directly contrasts with the beast's mark (Rev 13:16-17). This is the literary frame for the three angels' messages.
+
+- Καὶ (G2532) — CONJ — εἶδον,               ὁράω            G3708    [V-2AAI-1S] Aor Act Ind Sg firstPers
+- τὸ (G3588) — T-NSN — Nom Sg N
+- Ἀρνίον (G721) — N-NSN — Nom Sg N
+- ἑστὸς (G2476) — V-2RAP-NSN — Perf Act Ptcp Nom Sg N
+- ἐπὶ (G1909) — PREP — τὸ                   ὁ               G3588    [T-ASN] Acc Sg N
+- ὄρος (G3735) — N-ASN — Acc Sg N
+- Σιών, (G4622) — N-PRI — Gen Sg F
+- αὐτοῦ (G846) — P-GSN — Gen Sg N
+- ἑκατὸν (G1540) — A-NUI — τεσσεράκοντα         τεσσεράκοντα    G5062    [A-NUI]
+- τέσσαρες (G5064) — A-NPF — Nom Pl F
+- χιλιάδες (G5505) — N-NPF — Nom Pl F
+- ἔχουσαι (G2192) — V-PAP-NPF — Pres Act Ptcp Nom Pl F
+- ὄνομα (G3686) — N-ASN — Acc Sg N
+- Πατρὸς (G3962) — N-GSM — Gen Sg M
+- γεγραμμένον (G1125) — V-RPP-ASN — Perf Pass Ptcp Acc Sg N
+- μετώπων (G3359) — N-GPN — Gen Pl N
+
+**Notes:** Key contrasts: Father's name (14:1) vs. beast's mark (13:16); Lamb standing (hestos, perfect active participle of histemi — settled, permanent position) on Zion vs. beast rising from sea (13:1). The seal/mark contrast is established before the three angels speak. Prior study rev14-144000-sequence established the heavenly setting (throne, four beasts, elders in 14:3). Prior study mark-of-beast-vs-seal-of-god established seal = forehead only (conviction) vs. mark = forehead or hand (conformity or compliance).
+
+---
+
+### The new song of the 144,000 — supporting context
+
+> And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps: And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred [and] forty [and] four thousand, which were redeemed from the earth.
+
+**Context:** The 144,000 sing a unique song before the heavenly throne. They are 'redeemed from the earth' — using agorazo (G59, to purchase), the same commercial metaphor as Rev 5:9. The exclusivity of the song indicates unique experience.
+
+**Notes:** Supporting context verse. The heavenly setting (throne, four beasts, elders) confirms this is a heavenly scene, not earthly. The 144,000 are already with the Lamb, functioning as firstfruits (14:4).
+
+---
+
+### The 144,000 described — firstfruits, virgins, without fault
+
+> These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, [being] the firstfruits unto God and to the Lamb. And in their mouth was found no guile: for they are without fault before the throne of God.
+
+**Context:** Three descriptors of the 144,000: (1) spiritual purity (virgins, not defiled); (2) firstfruits (aparche G536) — the first portion of the harvest pledging the full harvest to come; (3) without fault (amomoi G299) — OT sacrificial purity language (unblemished offering). The LGT series directly connects to 14:5's 'without fault' claim.
+
+- οὗτοί (G3778) — D-NPM — Nom Pl M
+- εἰσιν (G1510) — V-PAI-3P — Pres Act Ind Pl thirdPers
+- οἳ (G3739) — R-NPM — Nom Pl M
+- μετὰ (G3326) — PREP — γυναικῶν             γυνή            G1135    [N-GPF] Gen Pl F
+- οὐκ (G3756) — PRT-N — ἐμολύνθησαν·         μολύνω          G3435    [V-API-3P] Aor Pass Ind Pl thirdPers
+- παρθένοι (G3933) — N-NPF — Nom Pl F
+- γάρ (G1063) — CONJ — εἰσιν.               εἰμί            G1510    [V-PAI-3P] Pres Act Ind Pl thirdPers
+- οἱ (G3588) — T-NPM — Nom Pl M
+- ἀκολουθοῦντες (G190) — V-PAP-NPM — Pres Act Ptcp Nom Pl M
+- Ἀρνίῳ (G721) — N-DSN — Dat Sg N
+- ὅπου (G3699) — ADV — ἂν                   ἄν              G302     [PRT]
+- ὑπάγῃ· (G5217) — V-PAS-3S — Pres Act Subj Sg thirdPers
+- ἠγοράσθησαν (G59) — V-API-3P — Aor Pass Ind Pl thirdPers
+- ἀπὸ (G575) — PREP — τῶν                  ὁ               G3588    [T-GPM] Gen Pl M
+- ἀνθρώπων (G444) — N-GPM — Gen Pl M
+- ἀπαρχὴ (G536) — N-NSF — Nom Sg F
+- Θεῷ (G2316) — N-DSM — Dat Sg M
+- καὶ (G2532) — CONJ — τῷ                   ὁ               G3588    [T-DSN] Dat Sg N
+
+**Notes:** aparche (G536) connects to the grain harvest of 14:14-16 — the firstfruits guarantee a positive full harvest. amomoi (G299) is sacrificial vocabulary — the word used for unblemished offerings in the LXX. pseudos (G5579, lie/guile) absent from their mouth connects to Rev 21:27 and 22:15 where liars are excluded. Prior study rev14-144000-sequence established the firstfruits-harvest typological connection.
+
+---
+
+### FIRST ANGEL — the everlasting gospel proclaimed to every nation
+
+> And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
+
+**Context:** The first angel carries euangelion aionion — the only occurrence of 'everlasting gospel' in all of Scripture. The anarthrous construction (no definite article) is qualitative, emphasizing the character of the gospel rather than distinguishing it from another. The four-fold audience (ethnos, phyle, glossa, laos) matches the Danielic pattern of Dan 7:14. This verse is the structural beginning of the three angels' messages.
+
+- Καὶ (G2532) — CONJ — εἶδον                ὁράω            G3708    [V-2AAI-1S] Aor Act Ind Sg firstPers
+- ἄλλον (G243) — A-ASM — Acc Sg M
+- ἄγγελον (G32) — N-ASM — Acc Sg M
+- πετόμενον (G4072) — V-PNP-ASM — Pres M/P Ptcp Acc Sg M
+- ἐν (G1722) — PREP — μεσουρανήματι,       μεσουράνημα     G3321    [N-DSN] Dat Sg N
+- ἔχοντα (G2192) — V-PAP-ASM — Pres Act Ptcp Acc Sg M
+- εὐαγγέλιον (G2098) — N-ASN — Acc Sg N
+- αἰώνιον (G166) — A-ASN — Acc Sg N
+- εὐαγγελίσαι (G2097) — V-AAN — Aor Act Inf
+- ἐπὶ (G1909) — PREP — τοὺς                 ὁ               G3588    [T-APM] Acc Pl M
+- καθημένους (G2521) — V-PNP-APM — Pres M/P Ptcp Acc Pl M
+- γῆς (G1093) — N-GSF — Gen Sg F
+- πᾶν (G3956) — A-ASN — Acc Sg N
+- ἔθνος (G1484) — N-ASN — Acc Sg N
+
+**Notes:** euangelion (G2098) occurs only once in Revelation — here. aionios (G166) + euangelion is a hapax pairing in all Scripture. euangelisai (aorist active infinitive of euangelizo G2097) connects to OT basar (H1319) through the tightest verb-to-verb LXX bridge (PMI 29.44 per G2097 library entry). mesouranema (G3321) = mid-heaven, the zenith — maximum visibility. The four-fold audience formula overlaps with Rev 10:11 (prophesy again to peoples, nations, tongues, kings) — three of four terms match, confirming the 'prophesy again' content IS the three angels' messages (sv-21).
+
+---
+
+### FIRST ANGEL — Fear God, give glory, hour of judgment, worship the Creator
+
+> Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+
+**Context:** The legon (present active participle of lego G3004) introduces the direct discourse of the euangelisai from v.6 — the commands ARE the gospel's own words. Three aorist imperatives: phobethete (fear!), dote (give glory!), proskynesate (worship!) — decisive, crisis-moment acts. The hoti clause grounds the commands: 'the hour of his judgment HAS COME' (elthen, aorist = accomplished fact). The creation formula directly echoes Exo 20:11.
+
+- λέγων (G3004) — V-PAP-NSM — Pres Act Ptcp Nom Sg M
+- ἐν (G1722) — PREP — φωνῇ                 φωνή            G5456    [N-DSF] Dat Sg F
+- μεγάλῃ· (G3173) — A-DSF — Dat Sg F
+- Φοβήθητε (G5399) — V-AOM-2P — Aor Pass Impv Pl secondPers
+- τὸν (G3588) — T-ASM — Acc Sg M
+- Θεὸν (G2316) — N-ASM — Acc Sg M
+- καὶ (G2532) — CONJ — δότε                 δίδωμι          G1325    [V-2AAM-2P] Aor Act Impv Pl secondPers
+- αὐτῷ (G846) — P-DSM — Dat Sg M
+- δόξαν, (G1391) — N-ASF — Acc Sg F
+- ὅτι (G3754) — CONJ — ἦλθεν                ἔρχομαι         G2064    [V-2AAI-3S] Aor Act Ind Sg thirdPers
+- ὥρα (G5610) — N-NSF — Nom Sg F
+- κρίσεως (G2920) — N-GSF — Gen Sg F
+- ποιήσαντι (G4160) — V-AAP-DSM — Aor Act Ptcp Dat Sg M
+- οὐρανὸν (G3772) — N-ASM — Acc Sg M
+- γῆν (G1093) — N-ASF — Acc Sg F
+- ὑδάτων. (G5204) — N-GPN — Gen Pl N
+
+**Notes:** Structural parallel with Eccl 12:13-14: fear God + commandments + judgment. Prior study gsp-10 verified the Exo 20:11 creation formula (poieo/asah, highest-confidence LXX pair, 2022 co-occurrences). The addition of 'fountains of waters' (pegas hydaton G4077) beyond Exo 20:11's formula may echo Gen 7:11 (fountains of the great deep) or broaden the creation scope. elthen (aorist of erchomai G2064) treats the judgment arrival as fait accompli — not 'is coming' but 'has come.' hora (G5610) with the definite article = THE appointed hour. krisis (G2920) = judicial process, not condemnation (katakrima G2631). LXX chain: dina (Dan 7:10) → mishpat (H4941) → krisis (Rev 14:7). proskyneo (G4352) appears on BOTH sides of the conflict: 14:7 (worship Creator), 14:9,11 (worship beast) — worship is the central unifying theme.
+
+---
+
+### SECOND ANGEL — Babylon is fallen, wine of her fornication
+
+> And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
+
+**Context:** The second angel's message directly quotes Isa 21:9 (naphlah naphlah babel). The doubled aorist (epesen epesen) is prophetic aorist — treating future judgment as already accomplished. pepotiken (perfect active indicative of potizo G4222) shows completed action with lasting results: the nations HAVE BEEN made drunk. The genitive chain: wine → thumos → porneia → hers.
+
+- Καὶ (G2532) — CONJ — ἄλλος                ἄλλος           G243     [A-NSM] Nom Sg M
+- ἄγγελος (G32) — N-NSM — Nom Sg M
+- δεύτερος (G1208) — A-NSM — Nom Sg M
+- ἠκολούθησεν (G190) — V-AAI-3S — Aor Act Ind Sg thirdPers
+- λέγων (G3004) — V-PAP-NSM — Pres Act Ptcp Nom Sg M
+- Ἔπεσεν (G4098) — V-2AAI-3S — Aor Act Ind Sg thirdPers
+- Βαβυλὼν (G897) — N-NSF — Nom Sg F
+- ἡ (G3588) — T-NSF — Nom Sg F
+- μεγάλη, (G3173) — A-NSF — Nom Sg F
+- ἣ (G3739) — R-NSF — Nom Sg F
+- ἐκ (G1537) — PREP — τοῦ                  ὁ               G3588    [T-GSM] Gen Sg M
+- οἴνου (G3631) — N-GSM — Gen Sg M
+- θυμοῦ (G2372) — N-GSM — Gen Sg M
+- πορνείας (G4202) — N-GSF — Gen Sg F
+- αὐτῆς (G846) — P-GSF — Gen Sg F
+- πεπότικεν (G4222) — V-RAI-3S — Perf Act Ind Sg thirdPers
+- πάντα (G3956) — A-APN — Acc Pl N
+- ἔθνη. (G1484) — N-APN — Acc Pl N
+
+**Notes:** OT composite: Isa 21:9 ('Babylon is fallen, is fallen') + Jer 51:7 ('golden cup in the LORD's hand that made all the earth drunken'). porneia (G4202) is covenantal vocabulary from OT zanah (H2181) — requires prior covenant relationship; Babylon is apostate religion, not paganism. Prior study rev-14-babylon-three-angels established the mother-daughter structure (Rev 17:5) and 'my people' inside Babylon (Rev 18:4). thumos (G2372) here modifies Babylon's wine, not God's — the polarity flips in v.10 where God's wine (thumos + orge) is served. Grammar note: prophetic aorist treats the fall as certain though not yet fully visible — see grammar reference greek/tense-aorist-prophetic.md.
+
+---
+
+### THIRD ANGEL — beast worship, mark, God's unmixed wrath, fire and brimstone
+
+> And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive [his] mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
+
+**Context:** The third angel's warning is the most solemn in Scripture. Ei tis (if anyone) + present indicative (proskunei, lambanei) = open condition with present tense, describing an ongoing choice. Two wrath words: thumos (G2372, turbulent passionate fury — the wine's content) and orge (G3709, settled judicial wrath — the cup's nature). kekerasmenou akratou = 'mixed unmixed' — oxymoronic intensifier meaning undiluted, full-strength. Fire and brimstone echoes Gen 19:24-25 (Sodom).
+
+- Καὶ (G2532) — CONJ — ἄλλος                ἄλλος           G243     [A-NSM] Nom Sg M
+- ἄγγελος (G32) — N-NSM — Nom Sg M
+- τρίτος (G5154) — A-NSM — Nom Sg M
+- ἠκολούθησεν (G190) — V-AAI-3S — Aor Act Ind Sg thirdPers
+- αὐτοῖς (G846) — P-DPM — Dat Pl M
+- λέγων (G3004) — V-PAP-NSM — Pres Act Ptcp Nom Sg M
+- ἐν (G1722) — PREP — φωνῇ                 φωνή            G5456    [N-DSF] Dat Sg F
+- μεγάλῃ (G3173) — A-DSF — Dat Sg F
+- Εἴ (G1487) — COND — τις                  τὶς             G5100    [X-NSM] Nom Sg M
+- προσκυνεῖ (G4352) — V-PAI-3S — Pres Act Ind Sg thirdPers
+- τὸ (G3588) — T-ASN — Acc Sg N
+- θηρίον (G2342) — N-ASN — Acc Sg N
+- εἰκόνα (G1504) — N-ASF — Acc Sg F
+- χάραγμα (G5480) — N-ASN — Acc Sg N
+- ἐπὶ (G1909) — PREP — τοῦ                  ὁ               G3588    [T-GSN] Gen Sg N
+- μετώπου (G3359) — N-GSN — Gen Sg N
+- ἢ (G2228) — PRT — ἐπὶ                  ἐπί             G1909    [PREP]
+- χεῖρα (G5495) — N-ASF — Acc Sg F
+
+**Notes:** kekerasmenou (perfect passive participle of kerannymi G2767) + akratou (G194, unmixed/undiluted) = wine prepared at full strength without dilution. poterion (G4221) of orge (G3709) = the cup of settled judicial wrath. basanisthesetai (future passive indicative of basanizo G928) — related to basanismos (G929, torment). theion (G2303, brimstone/sulfur) echoes Gen 19:24. The Lamb (arnion G721) is present during judgment — the same Lamb who stands with the 144,000 in 14:1. The proskyneo binary is complete: worship the Creator (14:7) → OR → face divine wrath for worshiping the beast (14:9-10).
+
+---
+
+### THIRD ANGEL continued — smoke ascending, no rest, the forever language
+
+> And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
+
+**Context:** basanismos (G929, torment/testing) — the smoke ascends as evidence of completed judgment. 'For ever and ever' (eis aionas aionon) resolved by Isa 34:10 pattern: permanent results, not endless conscious process. 'No rest' (ouk echousin anapausin G372) contrasts directly with 14:13 ('rest from labours'). Present tenses (anabainei, echousin, proskynountes) describe ongoing condition.
+
+- καὶ (G2532) — CONJ — ὁ                    ὁ               G3588    [T-NSM] Nom Sg M
+- καπνὸς (G2586) — N-NSM — Nom Sg M
+- τοῦ (G3588) — T-GSM — Gen Sg M
+- βασανισμοῦ (G929) — N-GSM — Gen Sg M
+- αὐτῶν (G846) — P-GPM — Gen Pl M
+- εἰς (G1519) — PREP — αἰῶνας               αἰών            G165     [N-APM] Acc Pl M
+- αἰώνων (G165) — N-GPM — Gen Pl M
+- ἀναβαίνει, (G305) — V-PAI-3S — Pres Act Ind Sg thirdPers
+- ἔχουσιν (G2192) — V-PAI-3P — Pres Act Ind Pl thirdPers
+- ἀνάπαυσιν (G372) — N-ASF — Acc Sg F
+- ἡμέρας (G2250) — N-GSF — Gen Sg F
+- προσκυνοῦντες (G4352) — V-PAP-NPM — Pres Act Ptcp Nom Pl M
+- θηρίον (G2342) — N-ASN — Acc Sg N
+- εἰκόνα (G1504) — N-ASF — Acc Sg F
+- τις (G5100) — X-NSM — Nom Sg M
+- λαμβάνει (G2983) — V-PAI-3S — Pres Act Ind Sg thirdPers
+- χάραγμα (G5480) — N-ASN — Acc Sg N
+- ὀνόματος (G3686) — N-GSN — Gen Sg N
+
+**Notes:** Prior study for-ever-and-ever-revelation established: when applied to judgment (Rev 14:11, 19:3, 20:10), 'for ever and ever' describes permanence of destruction, not endless burning — Isaiah 34:10 uses identical language for Edom, which is not burning today; Jude 1:7 calls Sodom's fire 'eternal' but 2 Pet 2:6 says it reduced them to ashes. The anapausis/anapauō contrast (14:11 vs. 14:13) is built on Sabbath-rest theology — Vos claims beast-worshipers 'never attain the seventh day.' Heb 4:9 (sabbatismos) bridges creation rest to eschatological rest. The proskynountes (present active participle, 'those who worship') describes the ongoing character of beast-worshipers.
+
+---
+
+### The saints described — patience, commandments of God, faith of Jesus
+
+> Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.
+
+**Context:** The summary verse of the three angels' messages. Three elements converge: (1) hupomone (G5281, endurance under pressure — active resistance, not passive waiting); (2) terountes tas entolas tou Theou (present active participle, 'those keeping THE commandments of GOD' — specific, divine law); (3) ten pistin Iesou ('the faith of Jesus' — genitive construction admitting both subjective and objective readings). This verse synthesizes the entire passage.
+
+- Ὧδε (G5602) — ADV — ἡ                    ὁ               G3588    [T-NSF] Nom Sg F
+- ὑπομονὴ (G5281) — N-NSF — Nom Sg F
+- τῶν (G3588) — T-GPM — Gen Pl M
+- ἁγίων (G40) — A-GPM — Gen Pl M
+- ἐστίν, (G1510) — V-PAI-3S — Pres Act Ind Sg thirdPers
+- τηροῦντες (G5083) — V-PAP-NPM — Pres Act Ptcp Nom Pl M
+- ἐντολὰς (G1785) — N-APF — Acc Pl F
+- Θεοῦ (G2316) — N-GSM — Gen Sg M
+- καὶ (G2532) — CONJ — τὴν                  ὁ               G3588    [T-ASF] Acc Sg F
+- πίστιν (G4102) — N-ASF — Acc Sg F
+- Ἰησοῦ. (G2424) — N-GSM — Gen Sg M
+
+**Notes:** hupomone inclusio: Rev 13:10 ('here is the patience and the faith of the saints') → Rev 14:12 (expanded). terountes (present active participle of tereo G5083) describes, does not prescribe — it identifies a group by their habitual action, not commanding that action. The parallel with Rev 12:17 ('keep the commandments of God and have the testimony of Jesus Christ') creates a structural bridge — the remnant defined twice by the same formula. pistis Iesou: subjective genitive ('Jesus' own faithfulness') parallels 'commandments of God' (God is source of commandments, Jesus is source of faith). Both readings produce the same practical outcome. The Eccl 12:13-14 triad is complete: fear God (14:7) + commandments (14:12) + judgment (14:7). Prior study gsp-10 established five lines proving 14:12 describes gospel RESULTS, not additional requirements.
+
+---
+
+### Beatitude — blessed are the dead who die in the Lord, rest from labours
+
+> And I heard a voice from heaven saying unto me, Write, Blessed [are] the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.
+
+**Context:** The second beatitude in Revelation (cf. Rev 1:3). makarios (G3107, blessed) pronounced on those dying 'in the Lord' — aparti (from now on) marks a specific temporal point. anapahesontai (future passive of anapauo G373) = 'they shall rest' — God grants the rest. Direct contrast with 14:11's 'no rest.' The Spirit confirms the blessing.
+
+- Καὶ (G2532) — CONJ — ἤκουσα               ἀκούω           G191     [V-AAI-1S] Aor Act Ind Sg firstPers
+- φωνῆς (G5456) — N-GSF — Gen Sg F
+- ἐκ (G1537) — PREP — τοῦ                  ὁ               G3588    [T-GSM] Gen Sg M
+- οὐρανοῦ (G3772) — N-GSM — Gen Sg M
+- λεγούσης (G3004) — V-PAP-GSF — Pres Act Ptcp Gen Sg F
+- Γράψον (G1125) — V-AAM-2S — Aor Act Impv Sg secondPers
+- Μακάριοι (G3107) — A-NPM — Nom Pl M
+- οἱ (G3588) — T-NPM — Nom Pl M
+- νεκροὶ (G3498) — A-NPM — Nom Pl M
+- ἐν (G1722) — PREP — Κυρίῳ                κύριος          G2962    [N-DSM] Dat Sg M
+- ἀποθνῄσκοντες (G599) — V-PAP-NPM — Pres Act Ptcp Nom Pl M
+- ἀπάρτι. (G534) — ADV — ναί,                 ναί             G3483    [PRT]
+- Πνεῦμα, (G4151) — N-NSN — Nom Sg N
+- ἵνα (G2443) — CONJ — ἀναπαήσονται         ἀναπαύω         G373     [V-2FPI-3P] Fut Pass Ind Pl thirdPers
+- κόπων (G2873) — N-GPM — Gen Pl M
+- αὐτῶν· (G846) — P-GPM — Gen Pl M
+- γὰρ (G1063) — CONJ — ἔργα                 ἔργον           G2041    [N-NPN] Nom Pl N
+- ἀκολουθεῖ (G190) — V-PAI-3S — Pres Act Ind Sg thirdPers
+- μετ' (G3326) — PREP — αὐτῶν.               αὐτός           G846     [P-GPM] Gen Pl M
+
+**Notes:** The rest/no-rest antithesis: 14:11 (ouk echousin anapausin, present — ongoing restlessness) vs. 14:13 (anapahesontai, future passive — God-given rest). Same word family (G372/G373), opposite outcomes. erga (G2041, works) follow them — not as merit but as grace-given evidence. The creation Sabbath (Gen 2:2-3) provides the theological foundation: rest belongs to those who honor the Creator.
+
+---
+
+### Son of Man on white cloud — Dan 7:13 fulfilled, golden crown, sharp sickle
+
+> And I looked, and behold a white cloud, and upon the cloud [one] sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
+
+**Context:** The grain harvest begins. homoion huion anthropou (like a Son of man) echoes Dan 7:13 LXX (hos huios anthropou). stephanos chrysoun (golden victor's crown, not diadema sovereignty crown) marks the victorious reaper. The Son of Man sits EPI (upon) the cloud — settled authority; Dan 7:13 used META (with) — movement toward the Ancient of Days.
+
+- Καὶ (G2532) — CONJ — εἶδον,               ὁράω            G3708    [V-2AAI-1S] Aor Act Ind Sg firstPers
+- νεφέλη (G3507) — N-NSF — Nom Sg F
+- λευκή, (G3022) — A-NSF — Nom Sg F
+- τὴν (G3588) — T-ASF — Acc Sg F
+- καθήμενον (G2521) — V-PNP-ASM — Pres M/P Ptcp Acc Sg M
+- ὅμοιον (G3664) — A-ASM — Acc Sg M
+- υἱὸν (G5207) — N-ASM — Acc Sg M
+- ἀνθρώπου, (G444) — N-GSM — Gen Sg M
+- ἔχων (G2192) — V-PAP-NSM — Pres Act Ptcp Nom Sg M
+- ἐπὶ (G1909) — PREP — τῆς                  ὁ               G3588    [T-GSF] Gen Sg F
+- κεφαλῆς (G2776) — N-GSF — Gen Sg F
+- αὐτοῦ (G846) — P-GSM — Gen Sg M
+- στέφανον (G4735) — N-ASM — Acc Sg M
+- χρυσοῦν (G5552) — A-ASM — Acc Sg M
+- χειρὶ (G5495) — N-DSF — Dat Sg F
+- δρέπανον (G1407) — N-ASN — Acc Sg N
+- ὀξύ. (G3691) — A-ASN — Acc Sg N
+
+**Notes:** Prior study rev-14-harvest-of-earth established: stephanos (G4735) belongs exclusively to positive figures in Revelation — overcomers, elders, woman, first horseman. The Son of Man has received Dan 7:14's investiture ('dominion, glory, kingdom'). The sharp sickle (drepanon oxy) connects to Joel 3:13's harvest command. Cross-testament parallels confirmed Dan 7:13 as the top OT parallel.
+
+---
+
+### The grain harvest — temple angel, earth reaped (therizo)
+
+> And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe. And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
+
+**Context:** The temple angel conveys the Father's timing (elthen he hora, same aorist construction as 14:7). therizo (G2325, to reap grain) — positive harvest verb. No wrath vocabulary in the grain harvest section. The earth is simply reaped (etheristhe, aorist passive).
+
+**Notes:** therizo carries positive connotations in John 4:36 ('he that reapeth receiveth wages and gathereth fruit unto life eternal'). The angel from the naos (inner sanctuary) bears the Father's decree about timing. The absence of wrath language contrasts sharply with the grape harvest (14:17-20). Joel 3:13 is the primary OT source, bifurcated into salvation-harvest and judgment-harvest.
+
+---
+
+### The grape harvest begins — altar-fire angel, grapes fully ripe (trygao)
+
+> And another angel came out of the temple which is in heaven, he also having a sharp sickle. And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.
+
+**Context:** The grape harvest is authorized by the altar-fire angel — continuing the SP037 altar vindication arc from Rev 6:9 through 8:5. trygao (G5166, to vintage/gather grapes) is the negative harvest verb, appearing only in Luk 6:44 and Rev 14:18-19. staphyle (G4718, grapes) — fully ripe for judgment.
+
+**Notes:** Agent distinction: Son of Man performs grain harvest; angel performs grape harvest — mirroring Mat 13's pattern. The altar-fire angel carries authority from the altar where the martyrs' blood cried out (Rev 6:9-10). Prior study rev-14-harvest-of-earth traced the SP037 altar vindication arc through this passage.
+
+---
+
+### The winepress of divine wrath — blood to the horse bridles
+
+> And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast [it] into the great winepress of the wrath of God. And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand [and] six hundred furlongs.
+
+**Context:** The winepress (lenos G3025) of thumos (G2372) of God. etryGesen (aorist of trygao G5166) — gathered the vine. The winepress imagery draws from Joel 3:13 ('the press is full') and Isa 63:1-6 (the Lord treading the winepress alone). Blood to the horse bridles for 1600 stadia — hyperbolic judgment imagery.
+
+- καὶ (G2532) — CONJ — ἔβαλεν               βάλλω           G906     [V-2AAI-3S] Aor Act Ind Sg thirdPers
+- ὁ (G3588) — T-NSM — Nom Sg M
+- ἄγγελος (G32) — N-NSM — Nom Sg M
+- δρέπανον (G1407) — N-ASN — Acc Sg N
+- αὐτοῦ (G846) — P-GSM — Gen Sg M
+- εἰς (G1519) — PREP — τὴν                  ὁ               G3588    [T-ASF] Acc Sg F
+- γῆν, (G1093) — N-ASF — Acc Sg F
+- ἄμπελον (G288) — N-ASF — Acc Sg F
+- ληνὸν (G3025) — N-ASF — Acc Sg F
+- θυμοῦ (G2372) — N-GSM — Gen Sg M
+- Θεοῦ (G2316) — N-GSM — Gen Sg M
+- μέγαν. (G3173) — A-ASM — Acc Sg M
+
+**Notes:** The thumos wrath chain: 14:8 (Babylon's wine of thumos) → 14:10 (God's wine of thumos) → 14:19 (winepress of thumos) → 15:1,7; 16:1,19 (seven bowls of thumos) → 19:15 (treading the winepress). Rev 19:15 connects the winepress to Christ's return. Isa 63:1-6 is the primary OT background. The 'outside the city' detail connects to Heb 13:12 (Jesus suffered 'without the gate').
+
+---
+
+### The Fourth Commandment — creation formula echoed in Rev 14:7
+
+> Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that [is] within thy gates: For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
+
+**Context:** The Sabbath commandment with its creation rationale — the only commandment that embeds God's identity as Creator within a law. The three-element formula (heaven, earth, sea) is verbally paralleled in Rev 14:7 through the LXX (epoiesen/poiesanti, ouranon, gen, thalassan).
+
+**Notes:** Prior study gsp-10 confirmed this as the highest-confidence LXX pair (asah/poieo, 2022 co-occurrences). Rev 14:7 adds 'fountains of waters' beyond Exo 20:11's formula. Other texts using the Creator-formula idiom: Neh 9:6, Psa 146:6, Acts 4:24, Acts 14:15 — but only Exo 20:11 embeds it in a commandment context. In a passage culminating with commandment-keeping (Rev 14:12), the creation formula's strongest link is to the commandment that memorializes creation.
+
+---
+
+### The conclusion of the whole matter — exact triad match with Rev 14:6-7,12
+
+> Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man. For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.
+
+**Context:** Solomon's farewell address contains the same three elements as the first angel's message in the same order: fear God (yare/phobeo), keep commandments (mitsvah/entole), judgment (mishpat/krisis). The 'conclusion of the whole matter' = the 'everlasting gospel.'
+
+**Notes:** Prior study ecclesiastes-12-revelation-14-parallel established the exact triad match with verified LXX bridges: yare→phobeo (241 co-occurrences, PMI 31.55); mitsvah→entole (153 co-occurrences, PMI 34.01); mishpat→krisis (132 co-occurrences). The farewell-address pattern extends to Moses (Deu 10:12), Joshua (Josh 24:14), Samuel (1 Sam 12:14). The first angel delivers the final farewell address of salvation history.
+
+---
+
+### OT source for 'Babylon is fallen, is fallen' — direct verbal parallel
+
+> And, behold, here cometh a chariot of men, [with] a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.
+
+**Context:** The doubled Qal perfect (naphlah naphlah babel) is directly quoted in Rev 14:8 as doubled aorist (epesen epesen Babylon). Isaiah's prophecy against historical Babylon becomes the template for the eschatological announcement against spiritual Babylon.
+
+**Notes:** The doubling intensifies certainty and completeness. Isaiah 21 addresses historical Babylon — an idolatrous empire. Revelation applies this quotation to eschatological Babylon within a harlotry framework implying prior covenant relationship.
+
+---
+
+### Golden cup making nations drunk — direct source for Rev 14:8 wine imagery
+
+> Babylon [hath been] a golden cup in the LORD'S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad. Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.
+
+**Context:** Jeremiah's Babylon oracle provides the wine-cup imagery that Rev 14:8 and 17:4 employ. The golden cup is 'in the LORD's hand' — Babylon once operated under divine authority but corrupted that position. The forced intoxication metaphor (nations made drunk and driven mad) carries directly into Revelation.
+
+**Notes:** Rev 14:8 is a composite of Isa 21:9 ('fallen, fallen') and Jer 51:7 ('made all nations drink wine'). Rev 17:4 shows the harlot holding the golden cup. The reversal pattern: Babylon made others drink her cup → God makes Babylon drink His cup (Rev 16:19).
+
+---
+
+### Dual harvest command — primary OT source for Rev 14:15-20
+
+> Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness [is] great.
+
+**Context:** Joel combines sickle (grain harvest) and winepress (grape harvest) in one verse — both as judgment. Revelation bifurcates Joel's unified image into two separate operations with different agents, vocabularies, and moral characters.
+
+**Notes:** Prior study rev-14-harvest-of-earth established Joel 3:13 as the primary OT source. Revelation's innovation: splitting Joel's single judgment scene into a positive grain harvest (14:14-16) and a negative grape harvest (14:17-20). The sickle (drepanon) and 'harvest is ripe' language map directly. Joel's context is the Valley of Jehoshaphat — God judging the nations.
+
+---
+
+### The winepress of divine judgment — OT background for Rev 14:19-20
+
+> Who [is] this that cometh from Edom, with dyed garments from Bozrah? this [that is] glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save. Wherefore [art thou] red in thine apparel, and thy garments like him that treadeth in the winefat? I have trodden the winepress alone; and of the people [there was] none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment. For the day of vengeance [is] in mine heart, and the year of my redeemed is come. And I looked, and [there was] none to help; and I wondered that [there was] none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me. And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
+
+**Context:** Isaiah's winepress of divine judgment — the Lord treading alone, garments stained with blood. This imagery directly feeds Rev 14:19-20 and Rev 19:15.
+
+**Notes:** The Isa 63 winepress imagery combined with Joel 3:13 forms the OT background for the grape harvest of Rev 14:17-20. Rev 19:15 explicitly connects: 'he treadeth the winepress of the fierceness and wrath of Almighty God.'
+
+---
+
+### Judgment throne scene — source of 'hour of judgment' in Rev 14:7
+
+> I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+
+**Context:** Daniel's throne-room vision — the heavenly court convenes, books are opened. This is the judgment that Rev 14:7 announces as having arrived. The vocabulary chain: dina (Aramaic, Dan 7:10) → mishpat (Hebrew, H4941) → krisis (Greek, G2920, Rev 14:7).
+
+**Notes:** Prior study sv-21 established the complete vocabulary chain from Daniel's judgment to the first angel's announcement. Dan 7:22: judgment given FOR the saints — this is vindication, not condemnation. The first angel announces to the world what Daniel saw in vision.
+
+---
+
+### Son of Man on clouds — fulfilled in Rev 14:14
+
+> I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
+
+**Context:** The Son of Man approaches the Ancient of Days and receives dominion. Rev 14:14 shows the Son of Man already seated on the cloud with the stephanos — the Dan 7:14 investiture has occurred. The harvest is the exercise of received authority.
+
+**Notes:** Preposition shift: Dan 7:13 META (with) clouds = movement; Rev 14:14 EPI (upon) cloud = settled position. The universal audience formula (peoples, nations, languages) in Dan 7:14 matches Rev 14:6's four-fold formula.
+
+---
+
+### Fire and brimstone on Sodom — OT background for Rev 14:10
+
+> Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven; And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground.
+
+**Context:** The Sodom destruction pattern provides the imagery for Rev 14:10's 'fire and brimstone.' Jude 1:7 calls Sodom's fire 'eternal fire' yet 2 Pet 2:6 says it was reduced to ashes — establishing the permanent-results interpretive pattern.
+
+**Notes:** Gen 19:24 + Jude 1:7 + 2 Pet 2:6 together establish the hermeneutical key for 'eternal fire' and 'for ever and ever' in judgment contexts: permanent destruction, not endless conscious torment.
+
+---
+
+### The Galatians test — condemns adding conditions, not content
+
+> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.
+
+**Context:** Paul's heteros/allos distinction: heteros (G2087, different in kind) for the false gospel; allos (G243, another of same kind) denied. The Judaizer problem was adding circumcision as a co-condition for justification — a salvation requirement alongside faith. Paul did not condemn including judgment, creation, or law in gospel preaching.
+
+**Notes:** Prior study gsp-10 established: the Gal 1:8-9 test condemns adding salvation CONDITIONS, not content Paul himself preached. Paul included judgment (Rom 2:16), creation (Acts 17:24), and law (Rom 13:9) in his gospel without violating his own Gal 1 standard. The angel of Rev 14:6 preaches what Paul preached.
+
+---
+
+### Gospel preached to Abraham — proeuangelizomai hapax, everlasting nature
+
+> And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, [saying], In thee shall all nations be blessed.
+
+**Context:** proeuangelizomai (G4283, hapax legomenon) — 'preached the gospel beforehand.' The gospel was proclaimed to Abraham before the cross. This confirms the 'everlasting' nature of the gospel in Rev 14:6.
+
+**Notes:** The hapax proeuangelizomai demonstrates the gospel's pre-existence: it was preached to Abraham, who lived 2000+ years before Christ. Combined with Heb 4:2 (gospel preached to Israel in the wilderness), 2 Pet 2:5 (Noah a preacher of righteousness), and Gen 3:15 (protoevangelium), the chain demonstrates that the gospel has always existed — justifying the modifier 'everlasting.'
+
+---
+
+### Paul at Athens — same content profile as the first angel's message
+
+> Then Paul stood in the midst of Mars' hill, and said, [Ye] men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.
+
+**Context:** Paul's Athens sermon contains the same content profile as Rev 14:6-7: Creator God who made the world (v.24), universal scope — all nations (vv.26,30), call to repentance (v.30), appointed day of judgment (v.31), resurrection as proof (v.31). No one disputes Acts 17 is gospel preaching. This refutes the 'pure natural theism' objection.
+
+**Notes:** Element-by-element correspondence with Rev 14:6-7: Creator who made the world (Acts 17:24 = Rev 14:7 'him that made'); universal scope (Acts 17:26,30 = Rev 14:6 'every nation'); repentance/fear (Acts 17:30 = Rev 14:7 'fear God'); judgment (Acts 17:31 = Rev 14:7 'hour of judgment'); resurrection (Acts 17:31 = Lamb in Rev 14:1,10). Prior study gsp-10 used this parallel to refute the Cambridge Bible's 'natural theism' claim.
+
+---
+
+### Remnant definition — commandments of God + testimony of Jesus
+
+> And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
+
+**Context:** The remnant is defined by two marks: commandments of God and testimony of Jesus Christ. This structurally parallels Rev 14:12 (commandments of God + faith of Jesus). Rev 12:17 is the bridge between Rev 12-13 (the dragon/beast conflict) and Rev 14 (the three angels' counter-messages).
+
+**Notes:** The remnant chain: Rev 12:17 (commandments + testimony) → Rev 14:12 (commandments + faith) → Rev 22:14 (commandments → tree of life). tereo (G5083, to keep/guard) appears in both 12:17 and 14:12. The dragon makes war specifically against those who keep commandments — the three angels' messages are the counter-attack.
+
+---
+
+### Beast from the sea — identity markers for understanding Rev 14:9-11 warning
+
+> And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. And the beast which I saw was like unto a leopard, and his feet were as [the feet] of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority. And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast. And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who [is] like unto the beast? who is able to make war with him? And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty [and] two months. And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. If any man have an ear, let him hear. He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
+
+**Context:** The sea beast is a composite of Daniel 7's four beasts (leopard, bear, lion) — combining their features into one end-time power. proskyneo appears in 13:4,8 (worship the beast) — the same verb as 14:7 (worship the Creator) and 14:9 (worship the beast). Rev 13:10 opens the hupomone inclusio that 14:12 closes.
+
+**Notes:** The competing-messages framework (BRI): beast demands worship (13:4,8,12,15) → first angel calls for Creator worship (14:7). edothe (divine passive, 'it was given to him') in 13:5,7 — the beast operates under divine permission, not independent authority. The 42 months connects to Dan 7:25's 'time, times, and half a time.' Rev 13:10 ('here is the patience and faith of the saints') is the opening bracket; Rev 14:12 is the closing bracket — expanded with commandments.
+
+---
+
+### Beast from the earth — image, mark, 666; direct antecedent to Rev 14:9-11
+
+> And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon. And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed. And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men, And deceiveth them that dwell on the earth by [the means of] those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed. And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name. Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number [is] Six hundred threescore [and] six.
+
+**Context:** The earth beast enforces worship of the sea beast through the image (eikon G1504), the mark (charagma G5480), and economic coercion (buy/sell restriction). The third angel's warning (Rev 14:9-11) directly addresses those who comply with this system.
+
+**Notes:** charagma (G5480, mark) vs. sphragis (G4973, seal) — parody antithesis (Beale). Mark location: forehead OR hand (13:16) vs. seal: forehead ONLY (7:3, 14:1). The preterist identification of 666 with Nero (Hebrew gematria nrwn qsr) is a lead to test against the text's own internal markers (13:1-10 composite beast, Dan 7 connection). The earth beast has 'two horns like a lamb' (lamb-like appearance) but speaks 'as a dragon' (dragon-like authority) — religious deception.
+
+---
+
+### Sealing of the 144,000 — seal vs. mark contrast
+
+> And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea, Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And I heard the number of them which were sealed: [and there were] sealed an hundred [and] forty [and] four thousand of all the tribes of the children of Israel.
+
+**Context:** The sealing of the 144,000 with the seal (sphragis G4973) of the living God — in their foreheads ONLY. This is the direct antithesis of the mark (charagma G5480) of the beast in Rev 13:16-17.
+
+**Notes:** sphragis (G4973) vs. charagma (G5480): God's seal on forehead only (conviction required) vs. beast's mark on forehead or hand (compliance sufficient). Rev 14:1 shows the sealed 144,000 with the Father's name — the seal IS the Father's name/character. Prior study mark-of-beast-vs-seal-of-god established the Exo 13 origin of the forehead/hand motif.
+
+---
+
+### Victory song — those who overcame the beast sing Moses/Lamb song
+
+> And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God. And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, [and] over the number of his name, stand on the sea of glass, having the harps of God. And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints. Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest.
+
+**Context:** The post-3AM outcome: those who overcame the beast sing the vindication song. The dikaios + alethinos word pair (just and true) corresponds to Hebrew tsedeq + emeth — the very attributes the horn attacked. Rev 15:4 echoes Rev 14:7's vocabulary: fear, glorify, nations, worship, judgments.
+
+**Notes:** Prior study sv-21 traced the vindication declaration progression: Rev 14:7 (announcement) → Rev 15:3 (character affirmation, dikaiai kai alethinai) → Rev 16:7 (specific acts) → Rev 19:1-2 (double aorist completion). Rev 15:4's vocabulary overlap with Rev 14:7 (fear, glorify, worship, nations, judgments) confirms they address the same theme.
+
+---
+
+### The loud cry — 'come out of her, my people' extends the three angels' messages
+
+> And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory. And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird. For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies. And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. For her sins have reached unto heaven, and God hath remembered her iniquities.
+
+**Context:** Rev 18:1-5 repeats and amplifies the second angel's message. The angel has 'great power' and the earth is 'lightened with his glory.' This is the 'loud cry' that EGW connects to the repetition of the three angels' messages with 'distinct utterance.'
+
+**Notes:** Rev 18:2 repeats the doubled 'is fallen, is fallen' of Rev 14:8. Rev 18:4 adds 'Come out of her, MY PEOPLE' — God has sincere believers inside Babylon who must separate. This 'my people' detail confirms Babylon is apostate religion containing genuine seekers, not paganism.
+
+---
+
+### The horn attacks times and laws — what the first angel's creation language counters
+
+> And he shall speak [great] words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
+
+**Context:** The little horn's four-fold attack: (1) speak against the Most High, (2) wear out the saints, (3) change times, (4) change laws. The Sabbath commandment is BOTH a time institution and a law. The first angel's creation language (Rev 14:7) quoting the Fourth Commandment directly counters this attack.
+
+**Notes:** Prior study sv-21 established: the horn attacks times (tamid cycle, Sabbath) and laws (Torah, commandments). The first angel responds by quoting the Sabbath commandment's creation rationale. Rev 14:12's 'keep the commandments of God' completes the restoration: what the horn changed, the saints keep. The three angels systematically answer the horn's four-fold attack.
+
+---
+
+### Ark of the covenant revealed — commandments connection to Rev 14:12
+
+> And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.
+
+**Context:** The ark of the covenant seen in heaven's temple at the seventh trumpet — immediately before the Rev 12-14 sequence. The ark contained the Ten Commandments (Deu 10:2; Heb 9:4). Its revelation sets up the commandment theme that runs through Rev 14:7 (Creator worship) and 14:12 (commandments kept).
+
+**Notes:** The ark-law-commandments chain: Rev 11:19 (ark revealed) → 14:7 (Creator worship using Fourth Commandment language) → 14:12 (saints keep the commandments of God). The law in the heavenly ark is the standard the judgment uses and the standard the remnant lives by.
+
+---
+
+### Sabbath rest theology — connects to Rev 14:11 'no rest' and 14:13 'rest'
+
+> Let us therefore fear, lest, a promise being left [us] of entering into his rest, any of you should seem to come short of it. For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard [it]. For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world. For he spake in a certain place of the seventh [day] on this wise, And God did rest the seventh day from all his works. And in this [place] again, If they shall enter into my rest. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief: Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts. For if Jesus had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God [did] from his. Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
+
+**Context:** Hebrews 4 bridges creation rest, Sabbath rest, and eschatological rest. The deliberate switch from katapausis (general rest, 8x) to sabbatismos (G4520, NT hapax, 4:9) at the climax invokes the Sabbath institution specifically. This connects to Rev 14:11 ('no rest' for beast-worshipers) and 14:13 ('rest from labours' for the faithful).
+
+**Notes:** Heb 4:2: 'unto us was the gospel preached, as well as unto them' — the same gospel in both dispensations, confirming 'everlasting.' Heb 4:9: sabbatismos — the ONLY place the NT uses this Sabbath-specific noun (not the general katapausis). Heb 4:10: 'ceased from his own works, as God did from his' — the Sabbath pattern of rest from self-effort.
+
+---
+
+### Pattern for 'for ever and ever' — permanent results, not endless process
+
+> It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.
+
+**Context:** Isaiah's judgment on Edom uses identical language to Rev 14:11 ('smoke ascending for ever'). Edom is not burning today — the language describes permanent results of completed destruction, not endless ongoing burning.
+
+**Notes:** This is the hermeneutical key for Rev 14:11's 'for ever and ever.' Prior study for-ever-and-ever-revelation resolved: 'for ever and ever' in judgment contexts describes permanence of destruction. Jude 1:7 confirms: Sodom suffered 'eternal fire' but 2 Pet 2:6 says it was reduced to ashes. The pattern: fire accomplishes its purpose and ceases; the results are permanent.
+
+---
+
+### Sodom as example of 'eternal fire' — interpretive key for Rev 14:11
+
+> Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
+
+**Context:** Jude presents Sodom as an EXAMPLE of 'eternal fire' (pur aionion). Yet Sodom is not burning today — the fire accomplished its purpose and ceased. The results (ashes, permanent destruction) are eternal. This provides the interpretive framework for Rev 14:10-11's fire-and-brimstone imagery.
+
+**Notes:** 2 Pet 2:6 explicitly states Sodom was 'turning the cities of Sodom and Gomorrha into ashes.' The 'eternal fire' produced ashes — it was destructive in result, not endless in duration.
+
+---
+
+### Final vindication declaration — double aorist completion
+
+> And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
+
+**Context:** The vindication declaration progression culminates: both ekrinen (judged) and exedikesen (avenged) are aorist — the judgment and vindication are completed. What was announced in Rev 14:7 (elthen) reaches completion in Rev 19:2.
+
+**Notes:** Prior study sv-21 traced: Rev 14:7 (announcement, aorist elthen) → Rev 15:3 (character affirmation) → Rev 16:7 (specific acts) → Rev 19:1-2 (double aorist completion). alethinos + dikaios = truth + righteousness restored — undoing what the horn cast to the ground (Dan 8:12).
+
+---
+
+### Man of sin / mystery of iniquity — NT parallel to beast system
+
+> Let no man deceive you by any means: for [that day shall not come], except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things? And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth [will let], until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: [Even him], whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
+
+**Context:** Paul describes the same end-time system that Revelation depicts as the beast: exalts himself above God, sits in God's temple, claims to be God, destroyed at Christ's coming. The 'mystery of iniquity' already working in Paul's day matches the little horn of Dan 7 and the beast of Rev 13.
+
+**Notes:** The man of sin profile matches the sea beast: opposes God, exalts himself, operates in religious sphere ('temple of God'), deceives through signs and wonders. This NT parallel confirms the beast is not merely first-century (Nero) but a system operating from Paul's time through the end.
+
+---
+
+### Chosen before the foundation of the world — gospel planned before creation
+
+> According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
+
+**Context:** The gospel was planned pro kataboles kosmou (before the foundation of the world). This confirms the aionios dimension of the gospel in Rev 14:6 — it reaches backward into God's pre-creation purpose.
+
+**Notes:** Four NT texts place the gospel's origin before creation: Eph 1:4, 2 Tim 1:9, 1 Pet 1:20, Rev 13:8. Prior study gsp-12 traced: the gospel was planned before creation, promised in Eden (Gen 3:15), preached to Abraham (Gal 3:8), enacted in the sacrificial system, and now proclaimed universally (Rev 14:6).
+
+---
+
+### Protoevangelium — first gospel promise, beginning of the everlasting chain
+
+> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+
+**Context:** The first articulation of the gospel — the seed of the woman will bruise the serpent's head. This is the starting point of the 'everlasting gospel' chain that culminates in Rev 14:6.
+
+**Notes:** The singular 'seed' (zera) is picked up by Paul in Gal 3:16 ('not seeds, as of many; but as of one, And to thy seed, which is Christ'). The protoevangelium establishes the paradox the entire gospel arc develops: victory through suffering. Rev 14:6's 'everlasting gospel' encompasses this entire chain from Eden to the final proclamation.
+
+---
+
+### The 144,000 without fault — no guile, amomos before the throne
+
+> And in their mouth was found no guile: for they are without fault before the throne of God.
+
+**Context:** The final descriptor of the 144,000 before the three angels speak. amomoi (G299, without fault/blemish) is OT sacrificial purity language — the word used for unblemished offerings in the LXX. pseudos (G5579, lie/guile) absent from their mouth. This verse directly connects to LGT theology regarding the final generation's character.
+
+- καὶ (G2532) — CONJ — ἐν                   ἐν              G1722    [PREP]
+- τῷ (G3588) — T-DSN — Dat Sg N
+- στόματι (G4750) — N-DSN — Dat Sg N
+- αὐτῶν (G846) — P-GPM — Gen Pl M
+- οὐχ (G3756) — PRT-N — εὑρέθη               εὑρίσκω         G2147    [V-API-3S] Aor Pass Ind Sg thirdPers
+- ψεῦδος· (G5579) — N-NSN — Nom Sg N
+- ἄμωμοί (G299) — A-NPM — Nom Pl M
+- εἰσιν. (G1510) — V-PAI-3P — Pres Act Ind Pl thirdPers
+
+**Notes:** amomoi (G299) appears in Eph 1:4 ('holy and without blame'), Eph 5:27 ('not having spot, or wrinkle'), Phil 2:15 ('blameless and harmless'), 1 Pet 1:19 ('a lamb without blemish and without spot' — applied to Christ). The sacrificial vocabulary links the 144,000 to the Lamb: they share the Lamb's unblemished quality. Prior study lgt-00 identified this verse as one of LGT's key proof texts — the 3AM series must examine what 'without fault' means textually. The LGT series will address whether this describes sinless perfection or covenantal standing.
+
+---
+
+### The Fourth Commandment rationale — creation formula directly echoed in Rev 14:7
+
+> For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
+
+**Context:** The Sabbath commandment's creation rationale — the ONLY commandment that embeds God's identity as Creator within a law. The three-element formula (heaven, earth, sea) is verbally paralleled in Rev 14:7 through the LXX: epoiesen (Exo 20:11 LXX) / poiesanti (Rev 14:7); ton ouranon, ten gen, ten thalassan. This is the highest-confidence LXX pair (asah/poieo, 2022 co-occurrences per G4160 library entry).
+
+**Notes:** The verbal match between Exo 20:11 and Rev 14:7 is not vague allusion but deliberate quotation — three of four elements identical (heaven, earth, sea), same verb (poieo/asah), same function (identifying God as Creator as basis for worship). Rev 14:7 adds 'fountains of waters' (pegas hydaton) as a fourth element. Other texts using the Creator-formula idiom: Neh 9:6, Psa 146:6, Acts 4:24, Acts 14:15 — but only Exo 20:11 embeds it in a commandment context. In a passage culminating with commandment-keeping (Rev 14:12), the creation formula's strongest link is to the commandment that memorializes creation. Prior study gsp-10 confirmed this as the highest-confidence LXX pair.
+
+---
+
+### Vindication of the sanctuary — nitsdaq, SV series foundational verse, judgment-hour connection
+
+> And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.
+
+**Context:** The 2300-day prophecy culminating in the vindication (nitsdaq, Niphal of tsadaq — the ONLY Niphal occurrence in the entire OT) of the sanctuary. KJV translates 'cleansed' but the word is from the tsadaq root (righteousness/justification), not taher (ritual cleansing). This is the prophetic foundation for the first angel's judgment-hour announcement in Rev 14:7.
+
+**Notes:** Prior study sv-21 established: the 2300-year prophecy terminates in 1844, with the DOA calendar correspondence placing the terminus at the season of the Day of Atonement. The first angel's aorist elthen ('has come') treats this commencement as fait accompli. The nitsdaq-matsdiqey-terountes chain (Dan 8:14 → Dan 12:3 → Rev 14:12) connects sanctuary vindication to the remnant's character. The SV series is the most directly relevant prior series for this verse.
+
+---
+
+### Mystery of God finished — contextual bridge from Rev 10 to Rev 14
+
+> But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.
+
+**Context:** The seventh trumpet's sounding brings the mystery of God (mysterion tou Theou) to completion. telesthei (aorist passive subjunctive of teleo G5055) = 'should be finished/completed.' This connects to Rev 11:19 (temple opened, ark revealed) which sets up the three angels' messages in Rev 14.
+
+**Notes:** The Rev 10 → Rev 14 bridge: the 'little book open' (Rev 10:2) is Daniel's sealed prophecy, now permanently unsealed. The recommission 'thou must prophesy again' (Rev 10:11) uses the Danielic audience formula (peoples, nations, tongues, kings) — three of four terms overlap with Rev 14:6's audience formula. The content of 'prophesy again' IS the three angels' messages. chronos ouketi estai (Rev 10:6, 'time shall be no longer') signals the end of prophetic time periods — after the 2300 years terminate, no further prophetic time period remains. Prior study sv-21 established this bridge.
+
+---
+
+### Babylon remembered — wrath of God arc from Rev 14:8 to 16:19
+
+> And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
+
+**Context:** The seventh bowl judgment brings Babylon into God's remembrance for judgment. The cup imagery directly parallels Rev 14:10 — 'the cup of the wine of the fierceness (thumos) of his wrath (orge).' This completes the wrath arc announced in Rev 14:8.
+
+**Notes:** The wrath arc: Rev 14:8 (Babylon's fall announced) → Rev 16:19 (Babylon remembered for judgment) → Rev 17-18 (Babylon's detailed judgment). The cup language matches: Rev 14:10 (cup of orge), Rev 16:19 (cup of thumos + orge). The 'great city' divided into three parts signals the complete dissolution of Babylon's power structure.
+
+---
+
+### Harlot Babylon — mother-daughter structure, golden cup, drunk with saints' blood
+
+> And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters: With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication. So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns. And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication: And upon her forehead [was] a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH. And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
+
+**Context:** The detailed portrait of Babylon as a harlot-woman: sits on many waters (peoples/nations, 17:15), commits fornication with kings, holds a golden cup (echoing Jer 51:7), is called 'Mother of Harlots' (mother-daughter structure), and is drunk with the blood of the saints. This expands the second angel's brief announcement (Rev 14:8) into a full identification.
+
+**Notes:** The harlot-bride literary bracket: Rev 17:1 ('Come hither; I will shew unto thee the judgment of the great whore') parallels Rev 21:9 ('Come hither, I will shew thee the bride, the Lamb's wife'). Babylon is the anti-church — the counterfeit bride. The golden cup (17:4) matches Jer 51:7's golden cup. 'Mother of Harlots' (17:5) indicates a reproductive system producing daughter entities with the same apostate character. The forehead inscription contrasts with the Father's name in the 144,000's foreheads (14:1). Prior study rev-14-babylon-three-angels established the mother-daughter structure and covenantal porneia requirement.
+
+---
+
+### Those who turn many to righteousness — matsdiqey, the nitsdaq chain's human dimension
+
+> And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
+
+**Context:** The maskilim ('those who are wise') and matsdiqey ('those who turn many to righteousness') describe the human participants in vindication. matsdiqey is the Hiphil participle of tsadaq — the same root as nitsdaq in Dan 8:14. The nitsdaq-matsdiqey-terountes chain connects sanctuary vindication (Dan 8:14) to human righteousness-turning (Dan 12:3) to commandment-keeping (Rev 14:12).
+
+**Notes:** Prior study sv-21 established this chain: nitsdaq (Niphal, Dan 8:14) = sanctuary receives vindication from God; matsdiqey (Hiphil participle, Dan 12:3) = the wise cause many to be righteous; terountes (present participle, Rev 14:12) = the saints keep God's commandments and faith. The vindication is not only a heavenly verdict — it has a human dimension. The saints who keep commandments and faith are the living evidence that God's system works.
+
+---
+
+### Coming judgment and rewards — 'my reward is with me'
+
+> And, behold, I come quickly; and my reward [is] with me, to give every man according as his work shall be.
+
+**Context:** Christ's declaration near the end of Revelation: He comes quickly with rewards, distributing to each according to their works. This connects to the judgment announced in Rev 14:7 ('the hour of his judgment is come') and the works that follow the faithful dead in Rev 14:13.
+
+**Notes:** The judgment-rewards chain: Rev 14:7 (judgment announced) → Rev 14:13 (works follow them) → Rev 22:12 (reward according to works). The 'according as his work shall be' echoes Ecc 12:14 ('God shall bring every work into judgment') — completing the Eccl 12/Rev 14 parallel. This is not salvation-by-works but judgment-according-to-evidence: faith produces works (Eph 2:10), and the judgment evaluates the evidence of genuine faith.
+
+---
+
+### OT gospel proclamation — 'O Zion, that bringest good tidings'
+
+> O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift [it] up, be not afraid; say unto the cities of Judah, Behold your God!
+
+**Context:** Isaiah's herald proclaims good tidings (mevasseret, feminine Piel participle of basar H1319) — the OT gospel verb. The LXX renders this with euangelizomenos, the same word family as Rev 14:6's euangelisai. The content: 'Behold your God!' — identifying God as the subject of the good news.
+
+**Notes:** Isa 40:9 is one of three foundational OT gospel passages (with Isa 52:7 and Isa 61:1). The basar→euangelizo LXX bridge (PMI 29.44 per G2097 library entry) makes this a direct linguistic ancestor of Rev 14:6. The content 'Behold your God!' is theocentric — the same character as Rev 14:7's 'worship him that made.' The high mountain proclamation parallels the angel flying in mid-heaven (Rev 14:6) — both positions of maximum visibility.
+
+---
+
+### Beautiful feet publishing peace — OT gospel proclamation, Paul quotes as gospel
+
+> How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
+
+**Context:** Isaiah's most famous gospel-proclamation text. mevasser (masculine Piel participle of basar H1319) — the OT gospel herald. Paul explicitly quotes this as gospel in Rom 10:15 ('How beautiful are the feet of them that preach the gospel of peace'). The content: peace, good news, salvation, God reigns. The context is deliverance from Babylon — four verses later, Isa 52:11 commands 'Depart ye, go ye out from thence... go ye out of the midst of her.'
+
+**Notes:** Paul's quotation of Isa 52:7 as gospel (Rom 10:15) establishes that the OT Babylon-deliverance herald IS a gospel preacher. The second angel in Rev 14:8 does the same thing: announces Babylon's fall. This connects the second angel's message to the OT gospel tradition. The call to leave Babylon (Isa 52:11) parallels Rev 18:4 ('Come out of her, my people'). The basar proclamation and the call to leave Babylon are one message — gospel includes liberation from the oppressor.
+
+---
+
+### Sabbath rest theology — connects to Rev 14:11 'no rest' and 14:13 'rest'
+
+> Let us therefore fear, lest, a promise being left [us] of entering into his rest, any of you should seem to come short of it. For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard [it]. For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world. For he spake in a certain place of the seventh [day] on this wise, And God did rest the seventh day from all his works. And in this [place] again, If they shall enter into my rest. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief: Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts. For if Jesus had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God [did] from his. Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
+
+**Context:** Hebrews 4 bridges creation rest, Sabbath rest, and eschatological rest. The deliberate switch from katapausis (general rest, 8x) to sabbatismos (G4520, NT hapax, 4:9) at the climax invokes the Sabbath institution specifically. This connects to Rev 14:11 ('no rest' for beast-worshipers) and 14:13 ('rest from labours' for the faithful).
+
+**Notes:** Alias for Heb 4:1-11 (expanded range). Heb 4:2: 'unto us was the gospel preached, as well as unto them' — the same gospel in both dispensations, confirming 'everlasting.' Heb 4:9: sabbatismos — the ONLY place the NT uses this Sabbath-specific noun (not the general katapausis). Heb 4:10: 'ceased from his own works, as God did from his' — the Sabbath pattern of rest from self-effort.
+
+---
+
+### Man of sin / mystery of iniquity — NT parallel to beast system
+
+> Let no man deceive you by any means: for [that day shall not come], except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things? And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth [will let], until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: [Even him], whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
+
+**Context:** Paul describes the same end-time system that Revelation depicts as the beast: exalts himself above God, sits in God's temple, claims to be God, destroyed at Christ's coming. The 'mystery of iniquity' already working in Paul's day matches the little horn of Dan 7 and the beast of Rev 13.
+
+**Notes:** Alias for 2 Thess 2:3-12 (expanded range). The man of sin profile matches the sea beast: opposes God, exalts himself, operates in religious sphere ('temple of God'), deceives through signs and wonders. This NT parallel confirms the beast is not merely first-century (Nero) but a system operating from Paul's time through the end.
+
+---

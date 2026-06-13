@@ -1,0 +1,135 @@
+{
+  "strongs": "H6343",
+  "word": "פַּחַד",
+  "transliteration": "pachad",
+  "pos": "Masculine Noun",
+  "occurrences": 51,
+  "definition": "From H6342; a (sudden) alarm (properly, the object feared, by implication, the feeling): — dread(-ful), fear, (thing) great (fear, -ly feared), terror.",
+
+  "translation_distribution": [
+    {"translation": "the fear", "count": 8, "percent": 15.7},
+    {"translation": "fear", "count": 8, "percent": 15.7},
+    {"translation": "Fear", "count": 4, "percent": 7.8},
+    {"translation": "from fear", "count": 3, "percent": 5.9},
+    {"translation": "the fear of them", "count": 2, "percent": 3.9},
+    {"translation": "great", "count": 2, "percent": 3.9},
+    {"translation": "your fear", "count": 2, "percent": 3.9},
+    {"translation": "and the fear", "count": 1, "percent": 2.0},
+    {"translation": "by the fear", "count": 1, "percent": 2.0},
+    {"translation": "and dread", "count": 1, "percent": 2.0},
+    {"translation": "the dread of thee", "count": 1, "percent": 2.0},
+    {"translation": "the fear of you", "count": 1, "percent": 2.0},
+    {"translation": "for the fear", "count": 1, "percent": 2.0},
+    {"translation": "the fear of him", "count": 1, "percent": 2.0},
+    {"translation": "the thing which", "count": 1, "percent": 2.0},
+    {"translation": "greatly", "count": 1, "percent": 2.0},
+    {"translation": "and his dread", "count": 1, "percent": 2.0},
+    {"translation": "dreadful", "count": 1, "percent": 2.0},
+    {"translation": "and fear", "count": 1, "percent": 2.0},
+    {"translation": "a terror", "count": 1, "percent": 2.0},
+    {"translation": "at fear", "count": 1, "percent": 2.0},
+    {"translation": "and a fear", "count": 1, "percent": 2.0},
+    {"translation": "for the terror", "count": 1, "percent": 2.0},
+    {"translation": "for fear of thee", "count": 1, "percent": 2.0},
+    {"translation": "of", "count": 1, "percent": 2.0},
+    {"translation": "of the fear", "count": 1, "percent": 2.0},
+    {"translation": "of fear", "count": 1, "percent": 2.0},
+    {"translation": "a fear", "count": 1, "percent": 2.0},
+    {"translation": "because of fear", "count": 1, "percent": 2.0}
+  ],
+
+  "book_distribution": [
+    {"book": "Job", "count": 11, "density": 1.0},
+    {"book": "Psalm", "count": 9, "density": 0.4},
+    {"book": "Isaiah", "count": 5, "density": 0.4},
+    {"book": "Proverbs", "count": 5, "density": 0.5},
+    {"book": "2 Chronicles", "count": 4, "density": 0.5},
+    {"book": "Jeremiah", "count": 4, "density": 0.3},
+    {"book": "Esther", "count": 3, "density": 1.8},
+    {"book": "Deuteronomy", "count": 3, "density": 0.3},
+    {"book": "Genesis", "count": 2, "density": 0.1},
+    {"book": "1 Samuel", "count": 1, "density": 0.1},
+    {"book": "1 Chronicles", "count": 1, "density": 0.1},
+    {"book": "Exodus", "count": 1, "density": 0.1},
+    {"book": "Song of Solomon", "count": 1, "density": 0.9},
+    {"book": "Lamentations", "count": 1, "density": 0.6}
+  ],
+
+  "lxx_mappings": [
+    {"greek": "G5401 phobos", "count": 35, "pmi": 7.16, "score": 25.66},
+    {"greek": "G999 bothynos", "count": 4, "pmi": 7.74, "score": 12.46},
+    {"greek": "G5156 tromos", "count": 4, "pmi": 6.74, "score": 10.85},
+    {"greek": "G3803 pagis", "count": 5, "pmi": 5.65, "score": 10.13},
+    {"greek": "G1611 ekstasis", "count": 4, "pmi": 6.21, "score": 10.00},
+    {"greek": "G2352 thrauo", "count": 3, "pmi": 6.41, "score": 8.89},
+    {"greek": "G1968 epipipto", "count": 3, "pmi": 5.41, "score": 7.50},
+    {"greek": "G5399 phobeo", "count": 6, "pmi": 3.16, "score": 6.14}
+  ],
+
+  "semantic_categories": [
+    {
+      "name": "1. Sudden Dread / Visceral Terror",
+      "description": "The core sense of pachad: a sudden, startling alarm that seizes a person physically. Unlike yare (H3372), which spans the full spectrum from terror to reverence, pachad emphasizes the involuntary, visceral nature of the fear response — trembling, physical shaking, the feeling of being ambushed by dread.",
+      "key_verses": ["Job 4:14", "Job 3:25", "Psa 119:120", "Isa 24:17-18"]
+    },
+    {
+      "name": "2. The Object of Dread / The Thing Feared",
+      "description": "Pachad frequently denotes not just the emotion but the object that causes it — the feared thing itself. The definition notes this explicitly: 'properly, the object feared.' This objective sense appears when pachad stands as the subject that falls upon people, rather than the feeling they experience.",
+      "key_verses": ["Exo 15:16", "Psa 91:5", "Pro 1:26-27", "Pro 3:25"]
+    },
+    {
+      "name": "3. Pachad as Divine Title (\"The Fear of Isaac\")",
+      "description": "A unique theological usage where pachad functions as a divine name — 'the Fear of Isaac' (pachad yitschaq). This identifies God as the One whom Isaac reverenced, using the word for dread itself as a title. It appears only in Genesis 31 in the Jacob-Laban narrative, where Jacob swears by the God his father feared.",
+      "key_verses": ["Gen 31:42", "Gen 31:53"]
+    },
+    {
+      "name": "4. Dread as an Instrument of Divine Power",
+      "description": "Pachad describes the terror God sends upon nations and enemies as a weapon of deliverance. The dread falls upon people groups, paralyzing them before Israel. This overlaps with eimah (H367) but pachad emphasizes the sudden, overwhelming quality of the terror.",
+      "key_verses": ["Deu 2:25", "Deu 11:25", "1Sa 11:7", "2Ch 14:14", "2Ch 17:10", "2Ch 20:29", "Est 8:17", "Est 9:2-3"]
+    },
+    {
+      "name": "5. Nighttime / Ambush Dread",
+      "description": "Several pachad passages specifically connect it to fear that strikes at night or by surprise — the terror that comes without warning. This aligns with the root meaning of sudden alarm.",
+      "key_verses": ["Psa 91:5", "Sng 3:8", "Deu 28:67", "Job 15:21"]
+    },
+    {
+      "name": "6. Freedom from Pachad (Promised Security)",
+      "description": "Wisdom literature and prophetic texts promise deliverance from pachad as a sign of divine protection and trust. The absence of sudden dread marks the state of the righteous who trust God.",
+      "key_verses": ["Pro 1:33", "Pro 3:25", "Job 21:9", "Job 39:16", "Job 39:22"]
+    }
+  ],
+
+  "collocations": [
+    {"strongs": "H3068", "word": "Yehovah (LORD)", "count": 7, "pattern": "pachad YHWH — the fear/dread of the LORD falling on people"},
+    {"strongs": "H3915", "word": "layil (night)", "count": 3, "pattern": "pachad + night — dread striking in darkness"},
+    {"strongs": "H5307", "word": "naphal (fall)", "count": 5, "pattern": "pachad falling upon — dread descending on enemies"},
+    {"strongs": "H935", "word": "bo (come)", "count": 4, "pattern": "pachad coming upon — dread arriving suddenly"},
+    {"strongs": "H3327", "word": "Yitschaq (Isaac)", "count": 2, "pattern": "pachad Yitschaq — the Fear of Isaac (divine title)"}
+  ],
+
+  "related_words": {
+    "synonyms": [
+      {"strongs": "H367", "word": "eimah", "distinction": "eimah = crushing, paralyzing terror; pachad = sudden alarm/startled dread"},
+      {"strongs": "H3372", "word": "yare", "distinction": "yare = broad fear spectrum (terror through reverence); pachad = the visceral, startling end of that spectrum"},
+      {"strongs": "H2729", "word": "charad", "distinction": "charad = trembling/shuddering fear; similar physical emphasis but charad stresses the shaking response"},
+      {"strongs": "H2865", "word": "chathath", "distinction": "chathath = be shattered/dismayed; focuses on the shattering effect of fear"},
+      {"strongs": "H6206", "word": "arats", "distinction": "arats = to cause dread/be terrifying; emphasizes the threatening source more than the response"}
+    ],
+    "antonyms": [],
+    "word_family": [
+      {"strongs": "H6342", "word": "pachad (verb)", "distinction": "The verbal root: to be startled by a sudden alarm, to dread. 31 occurrences."},
+      {"strongs": "H6344", "word": "pachad", "distinction": "Masculine noun: a testicle (from the sense of trembling/quivering). Only Job 40:17. Same root, different semantic development."}
+    ],
+    "contrast_words": [
+      {"strongs": "H3374", "word": "yirah", "distinction": "yirah = reverent fear/awe (the worshipful side); pachad = sudden dread (the visceral side)"},
+      {"strongs": "H982", "word": "batach", "distinction": "batach = to trust/feel secure — the opposite state to pachad's sudden dread"}
+    ]
+  },
+
+  "raw_tool_output": {
+    "lookup": "H6343 - 51 total occurrences, 29 unique translations:\n\n     8 ( 15.7%) #######                                            the fear\n     8 ( 15.7%) #######                                            fear\n     4 (  7.8%) ###                                                Fear\n     3 (  5.9%) ##                                                 from fear\n     2 (  3.9%) #                                                  the fear of them\n     2 (  3.9%) #                                                  great\n     2 (  3.9%) #                                                  your fear\n     1 (  2.0%)                                                    and the fear\n     1 (  2.0%)                                                    by the fear\n     1 (  2.0%)                                                    and dread\n     1 (  2.0%)                                                    the dread of thee\n     1 (  2.0%)                                                    the fear of you\n     1 (  2.0%)                                                    for the fear\n     1 (  2.0%)                                                    the fear of him\n     1 (  2.0%)                                                    the thing which\n     1 (  2.0%)                                                    greatly\n     1 (  2.0%)                                                    and his dread\n     1 (  2.0%)                                                    dreadful\n     1 (  2.0%)                                                    and fear\n     1 (  2.0%)                                                    a terror\n     1 (  2.0%)                                                    at fear\n     1 (  2.0%)                                                    and a fear\n     1 (  2.0%)                                                    for the terror\n     1 (  2.0%)                                                    for fear of thee\n     1 (  2.0%)                                                    of\n     1 (  2.0%)                                                    of the fear\n     1 (  2.0%)                                                    of fear\n     1 (  2.0%)                                                    a fear\n     1 (  2.0%)                                                    because of fear",
+    "lexicon": "============================================================\n  H6343: פַּחַד\n============================================================\n  Transliteration: pachad\n  Pronunciation:   pakh\n  Part of Speech:  masculine noun (n-m)\n  BLB Count:       49\n\n  Definition:\n    -ad; from ; a (sudden) alarm (properly, the object feared, by\n    implication, the feeling):—dread(-ful), fear, (thing) great (fear, -ly\n    feared), terror.",
+    "lxx_map": "============================================================\n  H6343: פַּחַד (pachad)\n  -ad; from ;  a (sudden) alarm (properly, the object feared, by implica...\n============================================================\n\nGreek LXX translations (ranked by PMI-weighted):\n\n  G5401: φόβος (phóbos)\n          count: 35, PMI: 7.16, score: 25.66\n  G999: βόθυνος (bóthynos)\n          count: 4, PMI: 7.74, score: 12.46\n  G5156: τρόμος (trómos)\n          count: 4, PMI: 6.74, score: 10.85\n  G3803: παγίς (pagís)\n          count: 5, PMI: 5.65, score: 10.13\n  G1611: ἔκστασις (ékstasis)\n          count: 4, PMI: 6.21, score: 10.00\n  G2352: θραύω (thraúō)\n          count: 3, PMI: 6.41, score: 8.89\n  G1968: ἐπιπίπτω (epipíptō)\n          count: 3, PMI: 5.41, score: 7.50\n  G5399: φοβέω (phobéō)\n          count: 6, PMI: 3.16, score: 6.14",
+    "relationships": "## Synonyms & Antonyms: H6343\n\n**Synonyms:**\n- חרד (H2729)\n- רגז (H7264)\n- רְעָדָה (H7461)\n- אֵימָה (H367)\n- חיל (H2342)\n- חֲרָדָה (H2731)\n- חתת (H2865)\n- יגר (H3025)\n- ירא (H3372)\n- יִרְאָה (H3374)\n- מֹורָא (H4172)\n- ערץ (H6206)\n\n**Semantic Domains:**\n- [002001001063] Unsteady\n- [002001002001] Afraid\n- [003001004] Names of Deities"
+  }
+}

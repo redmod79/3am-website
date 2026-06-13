@@ -1,0 +1,1218 @@
+{
+  "question": "What does 'everlasting gospel' (euangelion aionion) mean in Rev 14:6? Is this the same gospel Paul preached, or a different one? What does the anarthrous construction imply? How does euangelisai connect to the OT basar vocabulary chain (Isa 40:9, 52:7, 61:1)? What is the content of a gospel called 'everlasting'? How does the imperial euangelia thesis relate? Does it pass the Galatians 1:6-9 test?",
+  "prior_research_summary": "Eight prior studies address related aspects: GSP-12 proved the gospel was planned before creation (Eph 1:4, 2 Tim 1:9, 1 Pet 1:20, Rev 13:8) and traced the aionios semantic range (71 NT occurrences). GSP-10 proved the three angels' messages ARE the gospel (legon construction, Acts 17 parallel, pistis Iesou). GSP-01 proved the gospel is broader than 1 Cor 15:3-4 (22+ NT designations, en protois = 'among first things'). GSP-02 traced the basar-euangelizo LXX bridge (PMI 29.44). 3am-03 established the three-part gospel+judgment+warning pattern across five NT episodes. law-17 analyzed the Galatian heresy (circumcision as salvation requirement, not broader gospel content). Web research (00-web-research.md) provides scholarly debate on the anarthrous construction (Alford vs. Vincent), the imperial euangelia thesis (DeSilva/BBR 2008, Priene inscription), the basar-euangelizo-euangelion triple in Rev 14:6, and the Gal 1:6-9 objection. This study goes deeper on the specific phrase 'everlasting gospel' with fresh tool-driven investigation.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "Crux text — contains the phrase euangelion aionion, the verb euangelisai, and the content of the first angel's message",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:8",
+      "reason": "Second angel's message — structural component of the everlasting gospel proclamation",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:9-11",
+      "reason": "Third angel's message — completes the three-part proclamation identified as the everlasting gospel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:12",
+      "reason": "Descriptive conclusion — commandments of God and faith of Jesus as gospel results",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 1:6-9",
+      "reason": "Paul's anathema on 'another gospel' — the Galatians test for whether the everlasting gospel is the same or different",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 1:11-12",
+      "reason": "Paul's gospel received by revelation — tests whether the everlasting gospel has the same divine origin",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Cor 15:1-4",
+      "reason": "Paul's 'of first importance' gospel summary — often cited as the exclusive definition of the gospel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:1-4",
+      "reason": "Paul's second gospel summary — different from 1 Cor 15:1-4, proving the gospel is broader than either summary alone",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:16-17",
+      "reason": "Gospel as power of God unto salvation — the gospel includes righteousness by faith",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 2:16",
+      "reason": "Judgment 'according to my gospel' — Paul explicitly includes judgment in gospel content",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 10:15",
+      "reason": "Direct quotation of Isa 52:7 — bridges OT basar to NT gospel proclamation",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 16:25-26",
+      "reason": "Gospel as 'mystery kept secret since the world began' — pre-creation origin of the gospel message",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 40:9",
+      "reason": "OT basar passage — mevasseret, 'O thou that tellest good tidings to Zion'; herald announcing 'Behold your God!'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 52:7",
+      "reason": "OT basar passage — mevasser announcing shalom, tov, yeshuah, malakh; 'Thy God reigneth!'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 61:1-3",
+      "reason": "OT basar passage — levassar, Spirit-anointed herald; quoted by Jesus in Luke 4:18 as his mission statement",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 4:18-21",
+      "reason": "Jesus quotes Isa 61:1 and declares 'This day is this scripture fulfilled' — explicit basar-euangelizo bridge",
+      "tier": "primary"
+    },
+    {
+      "ref": "Mark 1:14-15",
+      "reason": "Jesus preaching 'the gospel of the kingdom' — kerysso + legon structure parallels Rev 14:6-7",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 24:14",
+      "reason": "'This gospel of the kingdom shall be preached in all the world' — universal scope parallel to Rev 14:6",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eph 1:4",
+      "reason": "Chosen 'before the foundation of the world' — pre-creation purpose establishing the gospel as eternal",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Tim 1:9",
+      "reason": "'Before the world began' (pro chronon aionion) — the only NT text using aionion in backward temporal reference",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Pet 1:18-20",
+      "reason": "Lamb foreordained 'before the foundation of the world' — pre-creation gospel plan",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 13:8",
+      "reason": "Lamb slain 'from the foundation of the world' — connects aionion to pre-creation divine purpose",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 3:8",
+      "reason": "Scripture 'preached before the gospel unto Abraham' — proeuangelizomai, hapax legomenon confirming OT gospel presence",
+      "tier": "primary"
+    },
+    {
+      "ref": "Heb 4:2",
+      "reason": "'The gospel preached unto us was preached unto them also' — explicit statement of gospel continuity across testaments",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:22-31",
+      "reason": "Paul at Athens — contains every element of the first angel's message: Creator God, universal scope, judgment, repentance",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 10:7",
+      "reason": "The mystery of God 'as he hath declared (euangelise) to his servants the prophets' — links euangelizo to prophetic revelation",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "OT structural parallel: fear God + keep commandments + judgment — exact triad match with Rev 14:7,12",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 2:2-5",
+      "reason": "Paul's gospel confronted by Judaizers demanding circumcision — defines the nature of the 'different gospel'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 5:1-6",
+      "reason": "Circumcision as yoke vs. faith working through love — clarifies what Paul excludes and what he includes",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 3:15",
+      "reason": "Protoevangelium — the first gospel promise, establishing the gospel as coextensive with human history",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 41:27",
+      "reason": "Additional Isaiah basar passage — 'first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 60:6",
+      "reason": "Additional Isaiah basar passage — 'they shall shew forth the praises of the LORD'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Sam 18:19-20",
+      "reason": "Non-salvific use of basar — Ahimaaz brings tidings of military victory; Expositor's Greek Testament cites this for euangelisai in Rev 14:6",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 2:10-14",
+      "reason": "Angelic euangelizo — 'I bring you good tidings of great joy'; angel using euangelizo parallels Rev 14:6",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 10:36",
+      "reason": "Peter: 'preaching peace by Jesus Christ' — echoes Isa 52:7's shalom announcement",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 1:9-10,13",
+      "reason": "Mystery of his will + gospel of salvation — gospel encompasses God's cosmic purpose",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 3:8-11",
+      "reason": "'Unsearchable riches of Christ' + eternal purpose — gospel breadth exceeds any single summary",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 6:15",
+      "reason": "Gospel of peace — one of 22+ NT designations showing gospel multidimensionality",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Col 1:5-6,23,26-27",
+      "reason": "Gospel preached 'in all the world' + mystery 'hid from ages' — universal scope and eternal hiddenness",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Thess 1:8",
+      "reason": "'Them that obey not the gospel' — gospel demands obedience, not merely intellectual assent",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Tim 1:11",
+      "reason": "'Glorious gospel of the blessed God' — another NT designation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Tit 1:2-3",
+      "reason": "'Eternal life, which God, that cannot lie, promised before the world began' — aionion in temporal backward reference",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:14-16",
+      "reason": "Harvest scene immediately following the three angels — the proclamation leads to the Son of Man's coming",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exod 20:8-11",
+      "reason": "Sabbath commandment echoing creation language — Rev 14:7's 'made heaven, earth, sea' parallels Exod 20:11 exactly",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gal 1:13-14",
+      "reason": "Paul's pre-conversion zeal — context for understanding what the Galatian heresy involved",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 15:1,5",
+      "reason": "Jerusalem Council — 'Except ye be circumcised after the manner of Moses, ye cannot be saved'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Cor 7:19",
+      "reason": "'Circumcision is nothing' — Paul explicitly nullifies circumcision while affirming commandment-keeping",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 3:18",
+      "reason": "John's judgment preaching labeled euangelizo — judgment IS gospel",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 4:3-4",
+      "reason": "'Glorious gospel of Christ' — gospel vocabulary diversity",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Phil 1:27",
+      "reason": "'Striving together for the faith of the gospel' — pistis + euangelion connection",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Thess 2:8-9,13",
+      "reason": "'Gospel of God' + 'word of God' — gospel as divine word, not human invention",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jude 1:3",
+      "reason": "'Faith once delivered unto the saints' — the gospel as a fixed deposit, not an evolving message",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The anarthrous construction of euangelion aionion in Rev 14:6",
+      "what": "Determine whether the absence of the article before euangelion implies indefiniteness ('an eternal gospel'), qualitativeness ('eternal-gospel'), or definiteness despite anarthrous form ('the eternal gospel')",
+      "why": "Scholars divide sharply: Alford argues euangelion is a technical term that remains definite without the article (citing Rom 1:1 as parallel); Vincent emphasizes the qualitative/universal character; DeSilva proposes 'an age-long accession announcement.' The answer determines whether this is THE gospel or a distinct category.",
+      "how": "Check all 77 NT occurrences of euangelion (G2098) for article presence/absence patterns. READ the library entry $WORD_STUDIES/G2098-euangelion.md for occurrence data. Run greek_parser.py on Rev 14:6 and Rom 1:1 to compare constructions. READ the grammar reference $GRAMMAR_REF/greek/anarthrous-predicate-nominative.md for rules on anarthrous nouns. Check whether euangelion is ever used in a non-technical sense in the NT.",
+      "narrative": "This is the decisive linguistic question for distinguishing interpretive camps. READ `$WORD_STUDIES/G2098-euangelion.md` — note the full occurrence count (77x in 74 verses) and how often euangelion appears with vs. without the article. The Alford position holds that euangelion had become 'so technical' a term that no argument can be derived from the missing article. Verify this by checking every anarthrous euangelion in the NT: Rom 1:1, 2 Cor 4:3-4, Gal 1:6-7, Phil 1:27, etc. Run `python greek_parser.py --verse 'REV 14:6'` and `python greek_parser.py --verse 'ROM 1:1'` to compare morphology. READ `$GRAMMAR_REF/greek/anarthrous-predicate-nominative.md` — though Rev 14:6 is not a predicate nominative construction, the principles about qualitative vs. indefinite vs. definite anarthrous nouns apply. The adjective aionion (G166) also lacks the article, making both noun and modifier anarthrous. Does this double-anarthrous pattern occur elsewhere with euangelion? Run `python cross_testament_parallels_v2.py --hybrid-nt 'REV 14:6'` to find structural parallels.",
+      "verses": [
+        "Rev 14:6",
+        "Rom 1:1",
+        "2 Cor 4:3-4",
+        "Gal 1:6-7",
+        "Phil 1:27",
+        "1 Tim 1:11"
+      ],
+      "strongs": [
+        "G2098",
+        "G166",
+        "G3588"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The basar-euangelizo-euangelion vocabulary chain from OT to Rev 14:6",
+      "what": "Trace the Hebrew basar (H1319) through LXX euangelizo (G2097) to the unique noun+verb combination in Rev 14:6",
+      "why": "Rev 14:6 is reportedly the only NT verse where euangelion (noun) and euangelisai (verb) appear together. This makes the verse a deliberate vocabulary convergence point, tying the angel's proclamation to the OT herald tradition in Isaiah.",
+      "how": "READ $WORD_STUDIES/H1319-basar.md and $WORD_STUDIES/G2097-euangelizo.md for full occurrence data. Run search_strongs.py --lxx-map H1319 to verify the basar→euangelizo LXX bridge. Run hebrew_parser.py on Isa 40:9, 52:7, 61:1 for morphological analysis of basar in each passage. Check NT quotations of these Isaiah passages (Rom 10:15 quoting Isa 52:7; Luke 4:18 quoting Isa 61:1). READ $WORD_STUDIES/TR-basar-euangelizo.md for the translation relationship study.",
+      "narrative": "The vocabulary chain is the strongest evidence for gospel continuity across testaments. READ `$WORD_STUDIES/H1319-basar.md` — note the Piel stem in 96% of occurrences and the 5 Isaiah usages (40:9, 41:27, 52:7, 60:6, 61:1). READ `$WORD_STUDIES/G2097-euangelizo.md` for the NT verb data. READ `$WORD_STUDIES/TR-basar-euangelizo.md` for the LXX bridge (PMI 29.44). Run `python hebrew_parser.py --verse 'Isa 40:9'`, `python hebrew_parser.py --verse 'Isa 52:7'`, and `python hebrew_parser.py --verse 'Isa 61:1'` to examine the Piel participle mevasser/mevasseret forms. The three Isaiah passages establish a cumulative herald theology: Isa 40:9 announces 'Behold your God!', Isa 52:7 announces shalom+tov+yeshuah+malakh ('Thy God reigneth!'), and Isa 61:1 announces Spirit-anointed deliverance. Paul explicitly bridges these in Rom 10:15 (quoting Isa 52:7) and Luke records Jesus bridging them in Luke 4:18 (quoting Isa 61:1). The angel in Rev 14:6 uses BOTH the noun and verb from the same root — euangelion + euangelisai — creating a deliberate literary echo of the Isaianic herald. Verify the claim that this is the only NT co-occurrence of noun and verb by searching for G2097 and G2098 co-occurrences in the same verse. Also check 2 Sam 18:19-20 for the non-salvific use of basar that the Expositor's Greek Testament cites.",
+      "verses": [
+        "Rev 14:6",
+        "Isa 40:9",
+        "Isa 52:7",
+        "Isa 61:1-3",
+        "Rom 10:15",
+        "Luke 4:18-21",
+        "2 Sam 18:19-20",
+        "Isa 41:27",
+        "Isa 60:6",
+        "Gal 3:8"
+      ],
+      "strongs": [
+        "H1319",
+        "G2097",
+        "G2098",
+        "H1309",
+        "G4283"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The semantic range of aionios (G166) — 'everlasting,' 'eternal,' or 'age-long'?",
+      "what": "Determine whether aionios in Rev 14:6 means 'eternal/everlasting' (without beginning or end), 'age-long' (spanning the ages, DeSilva's proposal), or something else",
+      "why": "DeSilva proposes translating euangelion aionion as 'an age-long accession announcement,' reducing aionios from 'eternal' to 'spanning an age.' If correct, this changes the theological claim from 'a gospel that is eternal' to 'a gospel announced at a key historical moment.' The distinction affects whether the gospel is identified as transcending time or merely as a timely announcement.",
+      "how": "READ $WORD_STUDIES/G166-aionios.md for the full 71-occurrence dataset. Check 2 Tim 1:9 specifically — pro chronon aionion uses aionios in backward temporal reference, confirming it can reach backward in time (before creation). Check aionios in contexts where duration vs. quality is at issue: Matt 25:46 (eternal punishment/eternal life), John 3:16, John 17:3, Rom 6:23. READ $WORD_STUDIES/G165-aion.md for the root noun. READ $WORD_STUDIES/H5769-owlam.md and $WORD_STUDIES/TR-owlam-aion.md for the Hebrew-Greek bridge.",
+      "narrative": "This focus area settles whether the gospel in Rev 14:6 is being identified by its temporal scope or its essential nature. READ `$WORD_STUDIES/G166-aionios.md` — note the 71 occurrences and the distribution of meanings. The critical test case is 2 Tim 1:9, where pro chronon aionion means 'before eternal times' or 'before ages of time' — here aionios reaches backward before creation. If aionios can refer to pre-creation time, it cannot be reduced to 'age-long' in the sense of a single historical period. Also check Matt 25:46, where aionios modifies BOTH punishment and life — if 'age-long' means temporary for punishment, it means temporary for life too, which no interpreter accepts. READ `$WORD_STUDIES/G165-aion.md` for the noun aion. Run `python search_strongs.py --lookup G166` to verify occurrence count. READ `$WORD_STUDIES/H5769-owlam.md` for the Hebrew equivalent and `$WORD_STUDIES/TR-owlam-aion.md` for the LXX bridge. The Hebrew owlam (199 OT uses in 'everlasting/forever' contexts) is consistently rendered aionios in the LXX, establishing a semantic tradition that Rev 14:6 inherits.",
+      "verses": [
+        "Rev 14:6",
+        "2 Tim 1:9",
+        "Matt 25:46",
+        "John 3:16",
+        "John 17:3",
+        "Rom 6:23",
+        "Tit 1:2-3",
+        "Heb 13:20"
+      ],
+      "strongs": [
+        "G166",
+        "G165",
+        "H5769"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The content of the everlasting gospel — what does the angel actually say?",
+      "what": "Analyze the specific content of Rev 14:7 as the stated content of the euangelion aionion: fear God, give glory, judgment hour, worship the Creator",
+      "why": "Critics (Answering Adventism, Cambridge Bible) argue either that this content is 'pure natural theism' (not the Pauline kerygma) or that any content beyond 1 Cor 15:3-4 corrupts the gospel. The actual text of Rev 14:7 must be examined to determine whether its content is (a) consistent with or (b) alien to the broader NT gospel vocabulary.",
+      "how": "READ $GRAMMAR_REF/passages/rev-14-6-12.md for the full grammar analysis. Parse Rev 14:7 word-by-word: phobethete (fear — aorist passive imperative), dote doxan (give glory), elthen he hora tes kriseos (the hour of judgment came), proskynhsate to poiesanti (worship the one who made). Compare each element to Paul's preaching: Acts 17:22-31 (Creator, judgment, repentance), Rom 2:16 (judgment according to my gospel), 2 Thess 1:8 (gospel obedience). Compare to Eccl 12:13-14 (fear God + commandments + judgment = exact triad match).",
+      "narrative": "The legon construction in Rev 14:7 (present active participle of lego, G3004) introduces the direct discourse of the euangelisai from v.6. What follows legon IS the content of the everlasting gospel. READ `$GRAMMAR_REF/passages/rev-14-6-12.md` — note the aorist imperative cluster (phobethete, dote, proskynhsate) and the causal hoti clause introducing the judgment hour. READ `$GRAMMAR_REF/greek/participle-legon-discourse.md` for the recitative function. The research agent should run `python greek_parser.py --verse 'REV 14:7'` and compare the imperatives with the Pauline vocabulary in Acts 17:24-31. The element-by-element match established in GSP-10 needs verification: Creator God (Acts 17:24 = Rev 14:7), universal scope (Acts 17:26,30 = Rev 14:6), judgment (Acts 17:31 = Rev 14:7), repentance (Acts 17:30 = Rev 14:7). If every element of Rev 14:7 appears in Paul's preaching at Athens, the 'different gospel' objection collapses. Also compare with Eccl 12:13-14, which provides an exact OT triad: fear God + keep commandments + judgment — the three elements of the first angel's message. READ `$WORD_STUDIES/G5399-phobeo.md`, `$WORD_STUDIES/G1391-doxa.md`, `$WORD_STUDIES/G2920-krisis.md`, `$WORD_STUDIES/G4352-proskyneo.md` for the individual vocabulary items.",
+      "verses": [
+        "Rev 14:7",
+        "Acts 17:22-31",
+        "Rom 2:16",
+        "2 Thess 1:8",
+        "Eccl 12:13-14",
+        "Mark 1:14-15",
+        "Luke 3:18"
+      ],
+      "strongs": [
+        "G5399",
+        "G1391",
+        "G2920",
+        "G4352",
+        "G4160",
+        "G5610",
+        "G3004"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Galatians 1:6-9 test — does the everlasting gospel pass?",
+      "what": "Determine what Paul's anathema on 'another gospel' actually targets: additions to gospel content, or perversions of the gospel principle of grace",
+      "why": "The 'Answering Adventism' objection argues that Paul's anathema means the three angels' messages must contain nothing beyond 1 Cor 15:1-4. If adding judgment, Sabbath, or commandment-keeping constitutes preaching 'another gospel,' then Rev 14:6-12 would be cursed by Paul's own standard. This is the central polemic question.",
+      "how": "Parse Gal 1:6-9 for the heteros/allos distinction: heteron (G2087, different in kind) vs. allo (G243, another of the same kind). READ $WORD_STUDIES/G2087-heteros.md and $WORD_STUDIES/G243-allos.md. Identify the specific heresy Paul condemns: circumcision as salvation requirement (Gal 2:3-4, 5:2-3, 6:12-13, Acts 15:1). Does Paul condemn adding eschatological content or adding works-righteousness conditions? Check Paul's OWN gospel for elements beyond death/burial/resurrection: Rom 1:1-4, 2:16, 16:25-26, Eph 3:8-11.",
+      "narrative": "This focus area must be handled with surgical precision. READ `$WORD_STUDIES/G2087-heteros.md` and `$WORD_STUDIES/G243-allos.md` — the heteros/allos distinction in Gal 1:6-7 is NOT a simple synonym pair. Paul says they are turning to heteron euangelion (a gospel different in KIND), then immediately adds ho ouk estin allo ('which is not another of the same kind'). The implication: what the Judaizers preach is so different it does not deserve the name 'gospel' at all. Run `python greek_parser.py --verse 'GAL 1:6'`, `python greek_parser.py --verse 'GAL 1:7'`, `python greek_parser.py --verse 'GAL 1:8'`. The research agent should retrieve the FULL text of Gal 1-2 with chapter context to identify what the Galatian heresy actually was. Gal 2:3-4 names circumcision. Gal 5:2-3: 'if ye be circumcised, Christ shall profit you nothing.' Gal 6:12-13: the troublemakers want to 'glory in your flesh.' The heresy is making circumcision (a works-righteousness condition) necessary for salvation — NOT adding eschatological information. Paul himself includes judgment in his gospel (Rom 2:16), the law in his preaching (Rom 3:31; Gal 5:14), and creation in his theology (Rom 1:20; Acts 17:24). If these inclusions don't violate Gal 1:6-9, neither does Rev 14:7's content. Also check 1 Cor 7:19 — 'circumcision is nothing... but the keeping of the commandments of God' — Paul nullifies circumcision while AFFIRMING commandment-keeping, exactly the position of Rev 14:12.",
+      "verses": [
+        "Gal 1:6-9",
+        "Gal 1:11-12",
+        "Gal 2:2-5",
+        "Gal 5:1-6",
+        "Gal 6:12-13",
+        "Acts 15:1,5",
+        "1 Cor 7:19",
+        "Rom 2:16",
+        "Rom 3:31"
+      ],
+      "strongs": [
+        "G2087",
+        "G243",
+        "G331",
+        "G4059"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The imperial euangelia thesis — Rev 14:6 as counter-proclamation to Caesar",
+      "what": "Evaluate whether Rev 14:6 functions as a deliberate counter-proclamation to Roman imperial announcements, and whether this background illuminates or replaces the theological meaning",
+      "why": "DeSilva (BBR 2008) proposes that euangelion aionion parallels Roman imperial accession proclamations. The Priene inscription (9 BC) called Augustus's birthday 'the beginning of the good tidings for the world.' If John uses imperial vocabulary deliberately, this adds a political dimension to the everlasting gospel. But does the imperial background replace the theological content, or does John subvert the imperial vocabulary to proclaim a higher truth?",
+      "how": "Search for imperial cult vocabulary elsewhere in Revelation to determine if John sustains a counter-imperial pattern: kyrios (Rev 17:14, 19:16), soter, basileus (Rev 19:16), and proskyneo (worship language throughout Rev 13-14). If John consistently subverts imperial titles, the euangelion usage is part of a larger pattern, not an isolated borrowing. Check whether Mark 1:1 ('beginning of the gospel of Jesus Christ, the Son of God') parallels the Priene inscription's 'beginning of the good tidings for the world.'",
+      "narrative": "The imperial euangelia thesis is a legitimate historical-contextual observation that must be evaluated against the text. DeSilva proposes translating euangelion aionion as 'an age-long accession announcement,' paralleling Vespasian's accession sequence. But DeSilva himself acknowledges that 'many are clear to distinguish this gospel from the Gospel.' The research agent should search for imperial cult vocabulary throughout Revelation: Rev 13 (beast demanding worship), Rev 17:14 and 19:16 ('King of kings, Lord of lords' — imperial title usurpation), Rev 1:5 ('ruler of the kings of the earth'). If John consistently uses imperial vocabulary to subvert it, then euangelion in Rev 14:6 is not a neutral borrowing but a deliberate counter-claim: the true euangelion belongs to God, not Caesar. Run `python cross_testament_parallels_v2.py --hybrid-nt 'REV 14:6'` to find NT parallels. The Priene inscription is historical background, not biblical evidence, but it illuminates WHY John's audience would hear euangelion as a politically charged term. Mark 1:1 provides the NT precedent: 'The beginning of the gospel of Jesus Christ, Son of God' directly echoes and subverts the Augustan formula. Run `python greek_parser.py --verse 'MRK 1:1'` to compare vocabulary.",
+      "verses": [
+        "Rev 14:6",
+        "Mark 1:1",
+        "Rev 17:14",
+        "Rev 19:16",
+        "Rev 1:5",
+        "Rev 13:4-8"
+      ],
+      "strongs": [
+        "G2098",
+        "G2097",
+        "G935",
+        "G2962",
+        "G4352"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The pre-creation origin of the gospel — what does 'everlasting' reach back to?",
+      "what": "Determine whether aionion in Rev 14:6 includes backward temporal reference (before creation) or only forward (lasting forever into the future)",
+      "why": "If the gospel is 'everlasting' only in the forward direction, it could be a NT-era message with permanent effects. If it reaches backward before creation, the gospel was always God's plan, and every OT expression of it was the same gospel anticipated. This distinction determines whether the everlasting gospel is a message ABOUT eternal things or a message that IS itself eternal.",
+      "how": "Examine four independent pre-creation texts: Eph 1:4, 2 Tim 1:9, 1 Pet 1:18-20, Rev 13:8. READ $WORD_STUDIES/G166-aionios.md for how aionios handles backward vs. forward temporality. Check Gal 3:8 (proeuangelizomai — 'gospeled-beforehand' to Abraham) and Heb 4:2 ('the gospel preached unto us was preached unto them also'). These texts together establish that the gospel is not a NT invention but a pre-creation divine purpose progressively revealed.",
+      "narrative": "GSP-12 established this in detail, but this study needs to go deeper on the specific linguistic evidence. The key text is 2 Tim 1:9: πρὸ χρόνων αἰωνίων (pro chronon aionion) — 'before times eternal/age-long.' Here aionios explicitly reaches BACKWARD before creation. If aionios can describe pre-temporal reality in 2 Tim 1:9, it does the same in Rev 14:6: the gospel is 'everlasting' in both directions. READ `$WORD_STUDIES/G166-aionios.md` — check the occurrence in 2 Tim 1:9 specifically. Also check Tit 1:2-3: 'eternal life, which God promised before the world began (pro chronon aionion).' The same phrase appears in both 2 Tim 1:9 and Tit 1:2, establishing a Pauline pattern. Eph 1:4 ('chosen in him before the foundation of the world'), 1 Pet 1:20 ('foreordained before the foundation of the world'), and Rev 13:8 ('Lamb slain from the foundation of the world') provide independent witnesses. Run `python greek_parser.py --verse '2TI 1:9'` and `python greek_parser.py --verse 'TIT 1:2'`. Gal 3:8 uses the hapax proeuangelizomai (G4283) — 'gospeled-beforehand' — a word Paul COINED to express that the gospel existed before the NT era. READ `$WORD_STUDIES/G4283-proeuangelizomai.md`.",
+      "verses": [
+        "Rev 14:6",
+        "2 Tim 1:9",
+        "Tit 1:2-3",
+        "Eph 1:4",
+        "1 Pet 1:18-20",
+        "Rev 13:8",
+        "Gal 3:8",
+        "Heb 4:2"
+      ],
+      "strongs": [
+        "G166",
+        "G165",
+        "G4283",
+        "G2602"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Rev 14:12 as gospel result — commandments + faith of Jesus",
+      "what": "Determine whether Rev 14:12 describes the RESULT of accepting the everlasting gospel or an ADDITION to it",
+      "why": "Critics argue that commandment-keeping and faith in Rev 14:12 are 'additions' to the gospel (cf. Gal 1:6-9 objection). If Rev 14:12 is a prescription (things you must DO to be saved), it may conflict with grace. If it is a description (what people who accept the gospel LOOK LIKE), it is consistent with Paul's 'faith working through love' (Gal 5:6).",
+      "how": "Parse Rev 14:12 for the participial construction: hoi terountes (present active participle of tereo, G5083) is DESCRIPTIVE, not IMPERATIVE. The saints are identified BY their keeping, not commanded to keep. Compare with Gal 5:6 ('faith which worketh by love'), Gal 5:22-23 (fruit of the Spirit), Rom 8:4 ('righteousness of the law fulfilled in us'). READ $WORD_STUDIES/G5083-tereo.md, $WORD_STUDIES/G4102-pistis.md, $WORD_STUDIES/G1785-entole.md.",
+      "narrative": "This is where the Galatians 1:6-9 objection meets the text of Revelation. READ `$GRAMMAR_REF/passages/rev-14-6-12.md` — note that hoi terountes (the ones keeping) is an articular present active participle functioning as a substantival descriptor, not an imperative. It identifies the saints, it does not command them. GSP-10 established that terountes is descriptive, not prescriptive. This study should verify that reading by checking the Greek syntax. Run `python greek_parser.py --verse 'REV 14:12'`. The coordination of tas entolas tou Theou (commandments of God) with ten pistin Iesou (faith of Jesus) under ONE participle means these are not separate identities but a single composite description. READ `$WORD_STUDIES/G5083-tereo.md` for tereo's usage pattern, `$WORD_STUDIES/G4102-pistis.md` for pistis Iesou (subjective vs. objective genitive), `$WORD_STUDIES/G1785-entole.md` for entole. Compare Gal 5:6: pistis di agapes energoumene ('faith working through love') — Paul's own formulation combines faith and works-producing love. Compare 1 Cor 7:19: 'circumcision is nothing... but the keeping of the commandments of God' — Paul explicitly values commandment-keeping while rejecting circumcision. Rev 14:12 is not an addition to the gospel but a description of what the gospel produces in those who receive it.",
+      "verses": [
+        "Rev 14:12",
+        "Gal 5:6",
+        "Gal 5:22-23",
+        "Rom 8:4",
+        "1 Cor 7:19",
+        "Jas 2:17-26"
+      ],
+      "strongs": [
+        "G5083",
+        "G4102",
+        "G1785",
+        "G5281",
+        "G40"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The uniqueness of Rev 14:6 — euangelion + euangelisai together",
+      "what": "Verify and analyze the claim that Rev 14:6 is the only NT verse where the noun euangelion (G2098) and the verb euangelizo (G2097) appear together in the same clause",
+      "why": "If this co-occurrence is unique, it represents a deliberate literary and theological intensification — the angel does not merely 'preach' or merely 'have a message' but has 'a gospel to gospel.' This redundancy makes Rev 14:6 the most concentrated gospel-vocabulary verse in the NT.",
+      "how": "Search for all NT co-occurrences of G2097 and G2098 in the same verse using search_strongs.py. Verify the uniqueness claim. If confirmed, analyze the rhetorical effect: the cognate accusative construction (echonta euangelion... euangelisai) functions like 'dreaming a dream' or 'seeing a vision' — it intensifies the action by naming both the object and the act from the same root.",
+      "narrative": "The web research (BiblePortal, G2097 study) claims Rev 14:6 is the only NT verse where noun and verb from the euangel- root appear together. This needs tool verification. Run `python search_strongs.py --verses G2097` and `python search_strongs.py --verses G2098` to get the full verse lists, then cross-reference for any overlap. READ `$WORD_STUDIES/G2098-euangelion.md` and `$WORD_STUDIES/G2097-euangelizo.md` for the complete occurrence data. If the co-occurrence is confirmed as unique, this is a remarkable literary feature: echonta euangelion aionion euangelisai literally says 'having an everlasting gospel to evangelize' — a cognate construction where the object of the infinitive shares the same root as the infinitive itself. This figure of speech (cognate accusative or figura etymologica) intensifies meaning in both Hebrew (e.g., 'dying you shall die,' Gen 2:17) and Greek. The effect in Rev 14:6 is to make the gospel-ness of the proclamation unmistakable. Also note that Rev 14:6 is the LAST occurrence of euangelion in the Bible — the word 'gospel' never appears again after this verse. Run `python search_strongs.py --verses G2098` and verify whether any later verse uses the noun.",
+      "verses": [
+        "Rev 14:6",
+        "Rev 10:7"
+      ],
+      "strongs": [
+        "G2098",
+        "G2097"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Rev 14:7 / Exod 20:11 creation language parallel",
+      "what": "Analyze whether Rev 14:7's 'worship him that made heaven, and the earth, and the sea, and the fountains of waters' deliberately echoes Exodus 20:11's Sabbath commandment language",
+      "why": "If the first angel's creation language is drawn from the fourth commandment, the call to 'worship the Creator' becomes a specific call to honor the Sabbath commandment rather than a generic appeal to theism. This would refute the Cambridge Bible's 'pure natural theism' interpretation and connect the everlasting gospel to a specific commandment.",
+      "how": "Compare the fourfold creation catalog in Rev 14:7 (heaven, earth, sea, fountains) with Exod 20:11 (heaven, earth, sea, and all that in them is). Run hebrew_parser.py on Exod 20:11 and greek_parser.py on Rev 14:7 to compare vocabulary. Check whether John's creation language appears elsewhere in Revelation (Rev 4:11, 10:6). READ $WORD_STUDIES/G4160-poieo.md for the verb 'made.'",
+      "narrative": "Rev 14:7 uses a fourfold creation catalog: ton ouranon kai ten gen kai thalassan kai pegas hydaton ('heaven and earth and sea and fountains of waters'). Exod 20:11 has a parallel structure: 'the LORD made heaven and earth, the sea, and all that in them is.' The overlap is not exact — Rev 14:7 has 'fountains of waters' where Exod 20:11 has 'all that in them is' — but the structural parallel is striking. Check Rev 10:6 for another creation formula in Revelation: 'him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein.' Run `python greek_parser.py --verse 'REV 14:7'`, `python greek_parser.py --verse 'REV 10:6'`, and `python greek_parser.py --verse 'REV 4:11'`. Run `python hebrew_parser.py --verse 'Exo 20:11'`. If the creation language in Rev 14:7 echoes the Sabbath commandment, then the 'everlasting gospel' includes a call to Sabbath worship as part of its Creator-worship imperative. This connects to Rev 14:12's 'commandments of God' — the saints who respond to the first angel's message are those who keep God's commandments, including the one that grounds worship in creation.",
+      "verses": [
+        "Rev 14:7",
+        "Exod 20:8-11",
+        "Rev 10:6",
+        "Rev 4:11",
+        "Neh 9:6",
+        "Ps 146:6"
+      ],
+      "strongs": [
+        "G4160",
+        "G3772",
+        "G1093",
+        "G2281",
+        "G4077",
+        "H6213"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Paul's own gospel as broader than 1 Cor 15:1-4",
+      "what": "Demonstrate from Paul's own writings that 'the gospel' includes more than death, burial, and resurrection",
+      "why": "The critical objection (Answering Adventism) assumes 1 Cor 15:1-4 is the complete and exclusive definition of the gospel. If Paul himself gives different gospel summaries in different letters, this assumption is falsified — both summaries are partial descriptions of a richer reality.",
+      "how": "Compare Paul's gospel summaries: 1 Cor 15:1-4 (death/burial/resurrection), Rom 1:1-4 (descendant of David/declared Son of God), Rom 2:16 (judgment according to my gospel), Rom 16:25-26 (mystery kept secret/now revealed), Eph 3:8-11 (unsearchable riches/eternal purpose). Parse en protois in 1 Cor 15:3 — does it mean 'as the only things' or 'among the first things'? READ $WORD_STUDIES/G2098-euangelion.md for the 22+ NT designations of the gospel.",
+      "narrative": "GSP-01 established this argument in detail, but the research agent should verify the key texts independently. The critical move is 1 Cor 15:3: Paul says he delivered en protois (ἐν πρώτοις) — 'among the first things' or 'of first importance.' Run `python greek_parser.py --verse '1CO 15:3'` to parse en protois. If en protois means 'of first importance,' then 1 Cor 15:3-4 is a priority statement, not an exclusivity statement. Paul is saying 'these are the MOST important things,' not 'these are the ONLY things.' Verify this by checking Rom 1:1-4, where Paul gives a completely different gospel summary (descended from David, declared Son of God with power by the resurrection). If 1 Cor 15:1-4 were the COMPLETE definition, Paul would be preaching a 'different gospel' in Romans — which fails his own Gal 1:6-9 test. Also check Paul's 22+ NT designations for the gospel: gospel of the kingdom (Matt 4:23), gospel of God (Rom 1:1), gospel of Christ (Rom 1:16), gospel of peace (Eph 6:15), gospel of salvation (Eph 1:13), glorious gospel (2 Cor 4:4), etc. Each designation highlights a different facet. READ `$WORD_STUDIES/G2098-euangelion.md` for the full list. READ `$WORD_STUDIES/WG-gospel.md` for the word group.",
+      "verses": [
+        "1 Cor 15:1-4",
+        "Rom 1:1-4",
+        "Rom 2:16",
+        "Rom 16:25-26",
+        "Eph 3:8-11",
+        "Eph 1:13",
+        "Eph 6:15",
+        "2 Cor 4:3-4",
+        "Matt 4:23",
+        "Matt 24:14"
+      ],
+      "strongs": [
+        "G2098",
+        "G4413"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "reason": "The noun in euangelion aionion — must verify all 77 occurrences, article patterns, and NT designations"
+    },
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "reason": "The verb euangelisai in Rev 14:6 — must verify all 55 occurrences and LXX usage"
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "reason": "The adjective modifying euangelion — 71 occurrences, backward vs. forward temporal reference, DeSilva's 'age-long' proposal"
+    },
+    {
+      "strongs": "G165",
+      "word": "aion",
+      "reason": "Root noun for aionios — 128 occurrences, 'age' vs. 'eternity' semantic range"
+    },
+    {
+      "strongs": "H1319",
+      "word": "basar",
+      "reason": "Hebrew verb behind euangelizo — 24 occurrences, Piel stem dominance, Isaiah herald passages"
+    },
+    {
+      "strongs": "G4283",
+      "word": "proeuangelizomai",
+      "reason": "Paul's hapax legomenon in Gal 3:8 — 'gospeled-beforehand,' linguistic proof of OT gospel presence"
+    },
+    {
+      "strongs": "G2087",
+      "word": "heteros",
+      "reason": "Gal 1:6 'different in kind' — critical for understanding what Paul condemns"
+    },
+    {
+      "strongs": "G243",
+      "word": "allos",
+      "reason": "Gal 1:7 'another of same kind' — paired with heteros to define the false gospel"
+    },
+    {
+      "strongs": "G331",
+      "word": "anathema",
+      "reason": "Gal 1:8-9 curse formula — 'let him be accursed'"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "Judgment in Rev 14:7 — must distinguish from krima (G2917) and verify OT riyb background"
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "reason": "'Fear God' imperative in Rev 14:7 — aorist passive imperative, semantic range of fear/reverence"
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "reason": "'Worship the Creator' in Rev 14:7 — worship vocabulary in the Revelation context"
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "'Give glory' in Rev 14:7 — glory-giving as gospel response"
+    },
+    {
+      "strongs": "G5610",
+      "word": "hora",
+      "reason": "'Hour' of judgment in Rev 14:7 — temporal specificity vs. hemera (day)"
+    },
+    {
+      "strongs": "H1309",
+      "word": "besorah",
+      "reason": "Feminine noun form of basar — 7 occurrences, narrative vs. salvific distinction"
+    },
+    {
+      "strongs": "G2782",
+      "word": "kerygma",
+      "reason": "Proclamation/preaching — related to the herald concept in the euangelizo chain"
+    },
+    {
+      "strongs": "G5083",
+      "word": "tereo",
+      "reason": "'Keep' commandments in Rev 14:12 — present participle as descriptive identity"
+    },
+    {
+      "strongs": "G4102",
+      "word": "pistis",
+      "reason": "'Faith of Jesus' in Rev 14:12 — subjective vs. objective genitive"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:6",
+      "reason": "Full morphological analysis — anarthrous euangelion aionion, aorist infinitive euangelisai, echonta participle"
+    },
+    {
+      "verse": "Rev 14:7",
+      "reason": "Aorist imperative cluster (phobethete, dote, proskynhsate), causal hoti clause, aorist elthen"
+    },
+    {
+      "verse": "Rev 14:12",
+      "reason": "Articular present participle hoi terountes, pistis Iesou genitive construction"
+    },
+    {
+      "verse": "Gal 1:6-7",
+      "reason": "heteron euangelion (anarthrous), ho ouk estin allo — heteros/allos contrast"
+    },
+    {
+      "verse": "1 Cor 15:3",
+      "reason": "en protois parsing — dative plural, 'among first things' vs. 'of first importance'"
+    },
+    {
+      "verse": "2 Tim 1:9",
+      "reason": "pro chronon aionion — backward temporal reference of aionios"
+    },
+    {
+      "verse": "Isa 40:9",
+      "reason": "mevasseret — Piel feminine participle of basar, herald identification"
+    },
+    {
+      "verse": "Isa 52:7",
+      "reason": "mevasser — Piel masculine participle of basar, fourfold announcement"
+    },
+    {
+      "verse": "Isa 61:1",
+      "reason": "levassar — Piel infinitive of basar with mashach, Spirit-anointed herald"
+    },
+    {
+      "verse": "Rom 10:15",
+      "reason": "Paul quoting Isa 52:7 — verify euangelizo bridge"
+    },
+    {
+      "verse": "Mark 1:1",
+      "reason": "arche tou euangeliou — beginning of THE gospel, article pattern"
+    },
+    {
+      "verse": "Mark 1:14-15",
+      "reason": "kerysso + legon construction paralleling Rev 14:6-7"
+    },
+    {
+      "verse": "Exod 20:11",
+      "reason": "Creation language comparison with Rev 14:7 — heaven, earth, sea"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:6",
+      "reason": "OT and NT parallels for 'everlasting gospel' — both directions"
+    },
+    {
+      "verse": "Rev 14:7",
+      "reason": "OT parallels for creation-worship language; NT parallels for judgment-hour proclamation"
+    },
+    {
+      "verse": "Isa 52:7",
+      "reason": "NT parallels for the mevasser/herald tradition"
+    },
+    {
+      "verse": "Gal 1:8",
+      "reason": "OT and NT parallels for anathema/curse language"
+    },
+    {
+      "verse": "Mark 1:1",
+      "reason": "NT parallels for 'beginning of the gospel' — possible imperial counter-proclamation"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G2098-euangelion.md",
+        "description": "euangelion (gospel) — 77 NT occurrences, article patterns, 22+ designations"
+      },
+      {
+        "path": "$WORD_STUDIES/G2097-euangelizo.md",
+        "description": "euangelizo (to preach gospel) — 55 NT occurrences, LXX bridge to basar"
+      },
+      {
+        "path": "$WORD_STUDIES/G2099-euangelistes.md",
+        "description": "euangelistes (evangelist) — 3 NT occurrences"
+      },
+      {
+        "path": "$WORD_STUDIES/G166-aionios.md",
+        "description": "aionios (eternal/everlasting) — 71 NT occurrences, backward/forward temporality"
+      },
+      {
+        "path": "$WORD_STUDIES/G165-aion.md",
+        "description": "aion (age/eternity) — 128 NT occurrences, semantic range"
+      },
+      {
+        "path": "$WORD_STUDIES/H1319-basar.md",
+        "description": "basar (to bring good tidings) — Hebrew verb, 24 OT occurrences, Piel stem"
+      },
+      {
+        "path": "$WORD_STUDIES/H1320-basar.md",
+        "description": "basar (flesh) — homophone, etymological distinction"
+      },
+      {
+        "path": "$WORD_STUDIES/G4283-proeuangelizomai.md",
+        "description": "proeuangelizomai (gospeled beforehand) — hapax legomenon, Gal 3:8"
+      },
+      {
+        "path": "$WORD_STUDIES/G2087-heteros.md",
+        "description": "heteros (different in kind) — Gal 1:6 'different gospel'"
+      },
+      {
+        "path": "$WORD_STUDIES/G243-allos.md",
+        "description": "allos (another of same kind) — Gal 1:7 contrast with heteros"
+      },
+      {
+        "path": "$WORD_STUDIES/G2782-kerygma.md",
+        "description": "kerygma (proclamation/preaching) — 8 NT occurrences"
+      },
+      {
+        "path": "$WORD_STUDIES/G2784-kerysso.md",
+        "description": "kerysso (to herald/proclaim) — related proclamation verb"
+      },
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment) — 47 NT occurrences, OT riyb background"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (to fear) — Rev 14:7 imperative"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (to worship) — worship vocabulary in Revelation"
+      },
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory) — Rev 14:7 'give glory'"
+      },
+      {
+        "path": "$WORD_STUDIES/G1392-doxazo.md",
+        "description": "doxazo (to glorify) — verbal form"
+      },
+      {
+        "path": "$WORD_STUDIES/G5610-hora.md",
+        "description": "hora (hour) — temporal specificity in Rev 14:7"
+      },
+      {
+        "path": "$WORD_STUDIES/G4102-pistis.md",
+        "description": "pistis (faith/faithfulness) — Rev 14:12 'faith of Jesus'"
+      },
+      {
+        "path": "$WORD_STUDIES/G5083-tereo.md",
+        "description": "tereo (to keep) — Rev 14:12 'those keeping the commandments'"
+      },
+      {
+        "path": "$WORD_STUDIES/G1785-entole.md",
+        "description": "entole (commandment) — Rev 14:12 'commandments of God'"
+      },
+      {
+        "path": "$WORD_STUDIES/G5281-hupomone.md",
+        "description": "hupomone (patience/endurance) — Rev 14:12 'patience of the saints'"
+      },
+      {
+        "path": "$WORD_STUDIES/G3466-mysterion.md",
+        "description": "mysterion (mystery) — Rev 10:7 'mystery of God'; Eph 3:4 'mystery of Christ'"
+      },
+      {
+        "path": "$WORD_STUDIES/G3321-mesouranema.md",
+        "description": "mesouranema (mid-heaven) — Rev 14:6 angel flying in mid-heaven"
+      },
+      {
+        "path": "$WORD_STUDIES/G897-babylon.md",
+        "description": "Babylon — Rev 14:8 second angel's message"
+      },
+      {
+        "path": "$WORD_STUDIES/G4160-poieo.md",
+        "description": "poieo (to make/do) — Rev 14:7 'the one who made'"
+      },
+      {
+        "path": "$WORD_STUDIES/G2937-ktisis.md",
+        "description": "ktisis (creation/creature) — creation vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G2919-krino.md",
+        "description": "krino (to judge) — verbal form of judgment"
+      },
+      {
+        "path": "$WORD_STUDIES/G5547-christos.md",
+        "description": "christos (Christ/anointed) — Messianic identification"
+      },
+      {
+        "path": "$WORD_STUDIES/H5769-owlam.md",
+        "description": "owlam (everlasting/forever) — Hebrew equivalent of aionios"
+      },
+      {
+        "path": "$WORD_STUDIES/H3372-yare.md",
+        "description": "yare (to fear) — Hebrew background for phobeo"
+      },
+      {
+        "path": "$WORD_STUDIES/G2889-kosmos.md",
+        "description": "kosmos (world) — 'before the foundation of the world' texts"
+      },
+      {
+        "path": "$WORD_STUDIES/G3004-lego.md",
+        "description": "lego (to say) — legon participle in Rev 14:7"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-basar-euangelizo.md",
+        "description": "Translation relationship: basar → euangelizo, PMI 29.44"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-owlam-aion.md",
+        "description": "Translation relationship: owlam → aion/aionios"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-riyb-krisis.md",
+        "description": "Translation relationship: riyb → krisis, covenant lawsuit background"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yare-phobeo.md",
+        "description": "Translation relationship: yare → phobeo, fear/reverence bridge"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shachah-proskyneo.md",
+        "description": "Translation relationship: shachah → proskyneo, worship bridge"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-kabad-doxazo.md",
+        "description": "Translation relationship: kabad → doxazo, glory bridge"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-kabod-doxa.md",
+        "description": "Translation relationship: kabod → doxa, glory noun bridge"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shaphat-krino.md",
+        "description": "Translation relationship: shaphat → krino, judgment bridge"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-gospel.md",
+        "description": "Word group: gospel family — euangelion, euangelizo, euangelistes, proeuangelizomai"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fear.md",
+        "description": "Word group: fear/reverence terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-worship.md",
+        "description": "Word group: worship terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-judgment.md",
+        "description": "Word group: judgment terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-faith.md",
+        "description": "Word group: faith/faithfulness terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-commandment.md",
+        "description": "Word group: commandment terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-commandment-keeping.md",
+        "description": "Word group: commandment-keeping synthesis"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-forever.md",
+        "description": "Word group: forever/eternal/everlasting terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-another.md",
+        "description": "Word group: heteros/allos distinction"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-patience.md",
+        "description": "Word group: patience/endurance terminology"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-mystery.md",
+        "description": "Word group: mystery terminology"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/passages/rev-14-6-12.md",
+        "description": "Full grammar analysis of Rev 14:6-12 — parsing, clause structure, key features"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/anarthrous-predicate-nominative.md",
+        "description": "Rules for anarthrous nouns: qualitative vs. indefinite vs. definite"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-legon-discourse.md",
+        "description": "legon as discourse-introducing participle — recitative function"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/mood-aorist-imperative.md",
+        "description": "Aorist imperative — decisive command (phobethete, dote, proskynhsate)"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/genitive-of-quality-apposition.md",
+        "description": "Genitive constructions — kriseos autou, pistis Iesou"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-14-8-11.md",
+        "description": "Grammar analysis of Rev 14:8-11 — second and third angels"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-10-1-11.md",
+        "description": "Rev 10 grammar — euangelise in Rev 10:7"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G331",
+      "word": "anathema",
+      "reason": "Gal 1:8-9 curse formula — needed for the Galatians test focus area"
+    },
+    {
+      "strongs": "H1309",
+      "word": "besorah",
+      "reason": "Feminine noun form of basar — 7 OT occurrences, narrative tidings"
+    },
+    {
+      "strongs": "G4413",
+      "word": "protos",
+      "reason": "1 Cor 15:3 en protois — 'first' parsing for the exclusivity argument"
+    },
+    {
+      "strongs": "G4059",
+      "word": "peritemno",
+      "reason": "Circumcision verb — the specific act Paul condemns in Galatians"
+    },
+    {
+      "strongs": "",
+      "word": "Greek anarthrous noun in non-predicate position",
+      "reason": "Grammar concept needed for the euangelion aionion construction — the existing anarthrous-predicate-nominative entry covers copulative constructions, not object-position nouns like Rev 14:6"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "GOSPEL",
+      "subtopic": "Called (22+ designations), Prophecies, Unclassified Scriptures",
+      "verse_count": 178
+    },
+    {
+      "name": "PREACHING",
+      "subtopic": "General, Kingdom of God preaching, Effective preaching",
+      "verse_count": 30
+    },
+    {
+      "name": "HERALD",
+      "subtopic": "General, signified by preacher",
+      "verse_count": 5
+    },
+    {
+      "name": "PROCLAMATION",
+      "subtopic": "Imperial, Emancipation",
+      "verse_count": 10
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "Only to God, Commanded, Unclassified",
+      "verse_count": 120
+    },
+    {
+      "name": "GLORIFYING GOD",
+      "subtopic": "Commanded, Accomplished by, Judgments",
+      "verse_count": 40
+    },
+    {
+      "name": "CIRCUMCISION",
+      "subtopic": "Institution, Necessity falsely taught, Abrogated, Figurative",
+      "verse_count": 55
+    },
+    {
+      "name": "REPENTANCE",
+      "subtopic": "General, Subject of Christ's preaching",
+      "verse_count": 60
+    },
+    {
+      "name": "KINGDOM OF HEAVEN",
+      "subtopic": "Compared (parables), General",
+      "verse_count": 25
+    },
+    {
+      "name": "SALVATION",
+      "subtopic": "Illustrated, General",
+      "verse_count": 50
+    },
+    {
+      "name": "PLAN OF SALVATION",
+      "subtopic": "See Jesus Mission, Redemption",
+      "verse_count": 5
+    },
+    {
+      "name": "CREATION",
+      "subtopic": "Beginning, History",
+      "verse_count": 10
+    },
+    {
+      "name": "ANGEL (a spirit)",
+      "subtopic": "Celestial spirit, Morning Stars, Hosts",
+      "verse_count": 80
+    },
+    {
+      "name": "REVELATION",
+      "subtopic": "God reveals himself, Law revealed",
+      "verse_count": 50
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "The three angels' messages ARE the everlasting gospel, not a supplement (2SM 111.3)",
+      "directive": "Verify that Rev 14:6 textually identifies the three angels' content AS euangelion aionion, not as an addition to it"
+    },
+    {
+      "source": "EGW",
+      "claim": "Justification by faith is the third angel's message in verity (3AM 113.4)",
+      "directive": "Verify whether Rev 14:12's pistis Iesou can be read as expressing justification-by-faith theology (subjective genitive: Jesus' own faithfulness)"
+    },
+    {
+      "source": "EGW",
+      "claim": "These truths 'will distinguish the church of Christ at the time of His appearing' (5TC 266.2)",
+      "directive": "Verify whether Rev 14:12 is structurally positioned as a character description of end-time saints following the three warnings"
+    },
+    {
+      "source": "EGW",
+      "claim": "The messages are 'those by which the world is to be tested' (2SM 111.3)",
+      "directive": "Verify whether the beast-mark test in Rev 13-14 functions as a testing truth connected to the everlasting gospel"
+    },
+    {
+      "source": "Bohr",
+      "claim": "The gospel plan was 'laid in the ages of eternity past' (3AM Lesson #3, p. 19)",
+      "directive": "Verify via Eph 1:4, 2 Tim 1:9, 1 Pet 1:20, Rev 13:8 — already established in GSP-12, confirm independently"
+    },
+    {
+      "source": "Bohr",
+      "claim": "The everlasting gospel connects to the Elijah message pattern (3EL, p. 31)",
+      "directive": "Verify the Elijah→John the Baptist→three angels chain via Mal 4:5-6, Matt 11:14, Matt 17:10-12, Rev 14:6-12"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Matt 24:14 'gospel of the kingdom' = Rev 14:6 'everlasting gospel' (BISYE p. 64)",
+      "directive": "Compare vocabulary: euangelion tes basileias (Matt 24:14) vs. euangelion aionion (Rev 14:6) — both use euangelion with universal scope"
+    },
+    {
+      "source": "DeSilva (BBR 2008)",
+      "claim": "Euangelion aionion should be translated 'an age-long accession announcement' paralleling Roman imperial proclamations",
+      "directive": "Verify aionios semantic range against all 71 NT occurrences — does it ever mean 'age-long' vs. 'eternal'? Check whether John uses imperial vocabulary elsewhere in Revelation as sustained counter-proclamation"
+    },
+    {
+      "source": "Alford",
+      "claim": "Euangelion is always technical in the NT; no argument can be derived from the missing article",
+      "directive": "Check all 77 NT occurrences of euangelion (G2098) for article presence/absence patterns and whether context always points to 'the gospel'"
+    },
+    {
+      "source": "Vincent",
+      "claim": "The anarthrous form renders 'an eternal Gospel' emphasizing qualitative/universal character",
+      "directive": "Compare anarthrous euangelion occurrences — does qualitative reading fit the context of Rev 14:6 better than indefinite or definite?"
+    },
+    {
+      "source": "Cambridge Bible",
+      "claim": "The eternal gospel is 'pure, natural theism' broader than Pauline soteriology",
+      "directive": "Compare the content of Rev 14:7 with 'natural theism' — does 'fear God, give glory, judgment hour, worship Creator' reduce to generic theism or contain covenantal/biblical content?"
+    },
+    {
+      "source": "Answering Adventism",
+      "claim": "The everlasting gospel must be identical to 1 Cor 15:1-4; any addition (judgment, Sabbath, etc.) corrupts the gospel",
+      "directive": "Verify whether Paul himself includes judgment in his gospel (Rom 2:16), creation (Acts 17:24-31), and commandment-keeping (1 Cor 7:19) without violating his own Gal 1:6-9 anathema"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "The Everlasting Gospel passage",
+      "description": "Rev 14:6-12 with its immediate context — the crux text",
+      "refs": [
+        "Rev 14:6-7",
+        "Rev 14:8",
+        "Rev 14:9-11",
+        "Rev 14:12",
+        "Rev 14:14-16"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "OT basar herald passages",
+      "description": "Isaiah's herald vocabulary chain — the OT roots of euangelizo",
+      "refs": [
+        "Isa 40:9",
+        "Isa 52:7",
+        "Isa 61:1-3",
+        "Isa 41:27",
+        "Isa 60:6",
+        "2 Sam 18:19-20"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Galatians test passages",
+      "description": "Paul's anathema on 'another gospel' and the Galatian heresy identification",
+      "refs": [
+        "Gal 1:6-9",
+        "Gal 1:11-12",
+        "Gal 1:13-14",
+        "Gal 2:2-5",
+        "Gal 5:1-6",
+        "Gal 6:12-13"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Paul's gospel summaries",
+      "description": "Multiple Pauline gospel descriptions proving the gospel is broader than any single summary",
+      "refs": [
+        "1 Cor 15:1-4",
+        "Rom 1:1-4",
+        "Rom 1:16-17",
+        "Rom 2:16",
+        "Rom 16:25-26",
+        "Eph 3:8-11"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Pre-creation purpose texts",
+      "description": "Four independent witnesses to the gospel's origin before creation",
+      "refs": [
+        "Eph 1:4",
+        "2 Tim 1:9",
+        "1 Pet 1:18-20",
+        "Rev 13:8",
+        "Tit 1:2-3"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "NT basar-euangelizo bridges",
+      "description": "NT texts explicitly quoting or echoing OT basar passages",
+      "refs": [
+        "Rom 10:15",
+        "Luke 4:18-21",
+        "Acts 10:36",
+        "Luke 2:10-14",
+        "Gal 3:8",
+        "Heb 4:2"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Paul at Athens parallel",
+      "description": "Acts 17 as element-by-element parallel to the first angel's message",
+      "refs": [
+        "Acts 17:22-31"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Creation-worship parallel",
+      "description": "Rev 14:7 creation language compared with Exodus 20 and other creation formulae",
+      "refs": [
+        "Rev 14:7",
+        "Exod 20:8-11",
+        "Rev 10:6",
+        "Rev 4:11",
+        "Neh 9:6",
+        "Ps 146:6"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Gal 1:1-24",
+    "Gal 2:1-21",
+    "Isa 40:1-11",
+    "Isa 52:1-15",
+    "Isa 61:1-11",
+    "Acts 17:16-34",
+    "1 Cor 15:1-11",
+    "Rom 1:1-17"
+  ],
+  "research_instructions": "This study is Study 4 of the 3AM series and begins Arc 1: The First Angel. Cross-references to prior GSP and 3AM studies are permitted but must supplement original investigation. The study must go DEEPER than prior studies on the specific phrase 'everlasting gospel' and its implications.\n\n**Critical investigations:**\n1. The anarthrous construction debate requires checking EVERY NT occurrence of euangelion (G2098) for article presence/absence — this has not been done in prior studies.\n2. The imperial euangelia thesis (DeSilva/Priene inscription) needs evaluation of whether John uses imperial vocabulary elsewhere in Revelation as a sustained counter-proclamation pattern.\n3. The verb+noun co-occurrence in Rev 14:6 (euangelisai + euangelion) — verify this is unique in the NT.\n4. The Rev 14:7 / Exod 20:11 creation language parallel needs side-by-side lexical comparison.\n5. The Gal 1:6-9 test must distinguish between Paul condemning additions to gospel CONTENT vs. perversions of gospel PRINCIPLE (substituting works-righteousness for grace).\n\n**Connection to Rev 10:7:** Meyer links euangelisai in Rev 14:6 to euangelise in Rev 10:7. Check this connection — does the 'mystery of God' in Rev 10:7 relate to the 'everlasting gospel' in Rev 14:6?\n\n**Rev 14:6 as the last euangelion:** Verify whether Rev 14:6 is the final occurrence of euangelion (G2098) in the Bible. If so, this is the last time Scripture uses the word 'gospel' — its placement in the final prophetic proclamation is theologically significant.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 52,
+    "primary_verses": 29,
+    "supporting_verses": 23,
+    "ot_verses": 4,
+    "nt_verses": 25,
+    "focus_area_count": 11,
+    "word_study_count": 18,
+    "parsing_count": 13,
+    "parallel_count": 5
+  }
+}

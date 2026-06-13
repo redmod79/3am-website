@@ -1,0 +1,510 @@
+{
+  "verses": {
+    "Rev 14:6-7": {
+      "kjv_text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+      "tier": "primary"
+    },
+    "Exo 20:8-11": {
+      "kjv_text": "Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that [is] within thy gates: For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+      "tier": "primary"
+    },
+    "Psa 146:5-6": {
+      "kjv_text": "Happy [is he] that [hath] the God of Jacob for his help, whose hope [is] in the LORD his God: Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:",
+      "tier": "primary"
+    },
+    "Acts 4:24": {
+      "kjv_text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou [art] God, which hast made heaven, and earth, and the sea, and all that in them is:",
+      "tier": "primary"
+    },
+    "Acts 14:15": {
+      "kjv_text": "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:",
+      "tier": "primary"
+    },
+    "Neh 9:6": {
+      "kjv_text": "Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all [things] that [are] therein, the seas, and all that [is] therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+      "tier": "primary"
+    },
+    "Acts 17:24-31": {
+      "kjv_text": "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by [that] man whom he hath ordained; [whereof] he hath given assurance unto all [men], in that he hath raised him from the dead.",
+      "tier": "primary"
+    },
+    "Gen 2:1-3": {
+      "kjv_text": "Thus the heavens and the earth were finished, and all the host of them. And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+      "tier": "primary"
+    },
+    "Exo 31:13-17": {
+      "kjv_text": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it [is] a sign between me and you throughout your generations; that [ye] may know that I [am] the LORD that doth sanctify you. Ye shall keep the sabbath therefore; for it [is] holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth [any] work therein, that soul shall be cut off from among his people. Six days may work be done; but in the seventh [is] the sabbath of rest, holy to the LORD: whosoever doeth [any] work in the sabbath day, he shall surely be put to death. Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, [for] a perpetual covenant. It [is] a sign between me and the children of Israel for ever: for [in] six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.",
+      "tier": "primary"
+    },
+    "Deut 5:12-15": {
+      "kjv_text": "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee. Six days thou shalt labour, and do all thy work: But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that [is] within thy gates; that thy manservant and thy maidservant may rest as well as thou. And remember that thou wast a servant in the land of Egypt, and [that] the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.",
+      "tier": "primary"
+    },
+    "Rev 11:19": {
+      "kjv_text": "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.",
+      "tier": "primary"
+    },
+    "Rev 12:17": {
+      "kjv_text": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.",
+      "tier": "primary"
+    },
+    "Rev 14:12": {
+      "kjv_text": "Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.",
+      "tier": "primary"
+    },
+    "Heb 4:1-11": {
+      "kjv_text": "Let us therefore fear, lest, a promise being left [us] of entering into his rest, any of you should seem to come short of it. For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard [it]. For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world. For he spake in a certain place of the seventh [day] on this wise, And God did rest the seventh day from all his works. And in this [place] again, If they shall enter into my rest. Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief: Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts. For if Jesus had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God [did] from his. Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.",
+      "tier": "primary"
+    },
+    "Eze 20:12": {
+      "kjv_text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I [am] the LORD that sanctify them.",
+      "tier": "primary"
+    },
+    "Eze 20:20": {
+      "kjv_text": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.",
+      "tier": "primary"
+    },
+    "Rev 13:4-8": {
+      "kjv_text": "And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who [is] like unto the beast? who is able to make war with him? And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty [and] two months. And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.",
+      "tier": "primary"
+    },
+    "Rev 13:14-15": {
+      "kjv_text": "And deceiveth them that dwell on the earth by [the means of] those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.",
+      "tier": "primary"
+    },
+    "Rev 13:16-17": {
+      "kjv_text": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.",
+      "tier": "primary"
+    },
+    "Rev 14:9-11": {
+      "kjv_text": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive [his] mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.",
+      "tier": "primary"
+    },
+    "Isa 66:22-23": {
+      "kjv_text": "For as the new heavens and the new earth, which I will make, shall remain before me, saith the LORD, so shall your seed and your name remain. And it shall come to pass, [that] from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.",
+      "tier": "primary"
+    },
+    "Rev 10:6": {
+      "kjv_text": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
+      "tier": "primary"
+    },
+    "Gen 7:11": {
+      "kjv_text": "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
+      "tier": "primary"
+    },
+    "Ecc 12:13-14": {
+      "kjv_text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man. For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.",
+      "tier": "primary"
+    },
+    "Luke 23:56": {
+      "kjv_text": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.",
+      "tier": "primary"
+    },
+    "Col 2:16-17": {
+      "kjv_text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath [days]: Which are a shadow of things to come; but the body [is] of Christ.",
+      "tier": "primary"
+    },
+    "Rev 21:23": {
+      "kjv_text": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb [is] the light thereof.",
+      "tier": "supporting"
+    },
+    "Heb 4:4": {
+      "kjv_text": "For he spake in a certain place of the seventh [day] on this wise, And God did rest the seventh day from all his works.",
+      "tier": "primary"
+    },
+    "Heb 4:9": {
+      "kjv_text": "There remaineth therefore a rest to the people of God.",
+      "tier": "primary"
+    },
+    "Heb 4:10": {
+      "kjv_text": "For he that is entered into his rest, he also hath ceased from his own works, as God [did] from his.",
+      "tier": "primary"
+    },
+    "Rev 4:11": {
+      "kjv_text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+      "tier": "supporting"
+    },
+    "Lev 23:37-38": {
+      "kjv_text": "These [are] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day: Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.",
+      "tier": "supporting"
+    },
+    "Rev 15:3-4": {
+      "kjv_text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints. Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest.",
+      "tier": "supporting"
+    },
+    "Rev 7:3": {
+      "kjv_text": "Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.",
+      "tier": "supporting"
+    },
+    "Rev 13:6": {
+      "kjv_text": "And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.",
+      "tier": "primary"
+    },
+    "1 Cor 7:19": {
+      "kjv_text": "Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God.",
+      "tier": "supporting"
+    },
+    "Rom 1:20-25": {
+      "kjv_text": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, [even] his eternal power and Godhead; so that they are without excuse: ... Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.",
+      "tier": "supporting"
+    },
+    "Mark 2:27-28": {
+      "kjv_text": "And he said unto them, The sabbath was made for man, and not man for the sabbath: Therefore the Son of man is Lord also of the sabbath.",
+      "tier": "supporting"
+    },
+    "Rev 22:14": {
+      "kjv_text": "Blessed [are] they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.",
+      "tier": "supporting"
+    },
+    "Exo 20:11": {
+      "kjv_text": "For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+      "tier": "primary"
+    },
+    "Psa 95:6-7": {
+      "kjv_text": "O come, let us worship and bow down: let us kneel before the LORD our maker. For he [is] our God; and we [are] the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,",
+      "tier": "supporting"
+    },
+    "Psa 33:6-9": {
+      "kjv_text": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth. He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses. Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him. For he spake, and it was [done]; he commanded, and it stood fast.",
+      "tier": "supporting"
+    },
+    "Psa 96:5-6": {
+      "kjv_text": "For all the gods of the nations [are] idols: but the LORD made the heavens. Honour and majesty [are] before him: strength and beauty [are] in his sanctuary.",
+      "tier": "supporting"
+    },
+    "Psa 100:3": {
+      "kjv_text": "Know ye that the LORD he [is] God: [it is] he [that] hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.",
+      "tier": "supporting"
+    },
+    "Psa 115:15": {
+      "kjv_text": "Ye [are] blessed of the LORD which made heaven and earth.",
+      "tier": "supporting"
+    },
+    "Psa 121:2": {
+      "kjv_text": "My help [cometh] from the LORD, which made heaven and earth.",
+      "tier": "supporting"
+    },
+    "Psa 124:8": {
+      "kjv_text": "Our help [is] in the name of the LORD, who made heaven and earth.",
+      "tier": "supporting"
+    },
+    "Psa 134:3": {
+      "kjv_text": "The LORD that made heaven and earth bless thee out of Zion.",
+      "tier": "supporting"
+    },
+    "Isa 40:28": {
+      "kjv_text": "Hast thou not known? hast thou not heard, [that] the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? [there is] no searching of his understanding.",
+      "tier": "supporting"
+    },
+    "Isa 42:5": {
+      "kjv_text": "Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:",
+      "tier": "supporting"
+    },
+    "Isa 45:18": {
+      "kjv_text": "For thus saith the LORD that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I [am] the LORD; and [there is] none else.",
+      "tier": "supporting"
+    },
+    "Jer 10:12": {
+      "kjv_text": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
+      "tier": "supporting"
+    },
+    "Exo 16:4-30": {
+      "kjv_text": "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no. And it shall come to pass, that on the sixth day they shall prepare [that] which they bring in; and it shall be twice as much as they gather daily. ... And he said unto them, This [is that] which the LORD hath said, To morrow [is] the rest of the holy sabbath unto the LORD ... And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws? See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days ... So the people rested on the seventh day.",
+      "tier": "supporting"
+    },
+    "Rev 21:1": {
+      "kjv_text": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.",
+      "tier": "supporting"
+    },
+    "Psa 92:1-5": {
+      "kjv_text": "A Psalm [or] Song for the sabbath day. [It is a] good [thing] to give thanks unto the LORD, and to sing praises unto thy name, O most High: To shew forth thy lovingkindness in the morning, and thy faithfulness every night, Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound. For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands. O LORD, how great are thy works! [and] thy thoughts are very deep.",
+      "tier": "supporting"
+    },
+    "Isa 56:2-7": {
+      "kjv_text": "Blessed [is] the man [that] doeth this, and the son of man [that] layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil. Neither let the son of the stranger, that hath joined himself to the LORD, speak, saying, The LORD hath utterly separated me from his people: neither let the eunuch say, Behold, I [am] a dry tree. For thus saith the LORD unto the eunuchs that keep my sabbaths, and choose [the things] that please me, and take hold of my covenant; Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off. Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant; Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices [shall be] accepted upon mine altar; for mine house shall be called an house of prayer for all people.",
+      "tier": "supporting"
+    },
+    "Isa 58:13-14": {
+      "kjv_text": "If thou turn away thy foot from the sabbath, [from] doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking [thine own] words: Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken [it].",
+      "tier": "supporting"
+    },
+    "Jer 17:21-27": {
+      "kjv_text": "Thus saith the LORD; Take heed to yourselves, and bear no burden on the sabbath day, nor bring [it] in by the gates of Jerusalem; Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers. But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction. And it shall come to pass, if ye diligently hearken unto me, saith the LORD, to bring in no burden through the gates of this city on the sabbath day, but hallow the sabbath day, to do no work therein; Then shall there enter into the gates of this city kings and princes sitting upon the throne of David ... But if ye will not hearken unto me to hallow the sabbath day ... then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.",
+      "tier": "supporting"
+    },
+    "Mat 12:1-8": {
+      "kjv_text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat. But when the Pharisees saw [it], they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day. But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him; How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests? Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless? But I say unto you, That in this place is [one] greater than the temple. But if ye had known what [this] meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless. For the Son of man is Lord even of the sabbath day.",
+      "tier": "supporting"
+    },
+    "Heb 3:7-11": {
+      "kjv_text": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, Harden not your hearts, as in the provocation, in the day of temptation in the wilderness: When your fathers tempted me, proved me, and saw my works forty years. Wherefore I was grieved with that generation, and said, They do alway err in [their] heart; and they have not known my ways. So I sware in my wrath, They shall not enter into my rest.)",
+      "tier": "supporting"
+    },
+    "Rev 1:10": {
+      "kjv_text": "I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,",
+      "tier": "supporting"
+    },
+    "Isa 65:17": {
+      "kjv_text": "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.",
+      "tier": "supporting"
+    },
+    "2 Pet 3:13": {
+      "kjv_text": "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.",
+      "tier": "supporting"
+    },
+    "John 1:1-3": {
+      "kjv_text": "In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.",
+      "tier": "supporting"
+    },
+    "Heb 1:10-12": {
+      "kjv_text": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands: They shall perish; but thou remainest; and they all shall wax old as doth a garment; And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.",
+      "tier": "supporting"
+    },
+    "Col 1:16-17": {
+      "kjv_text": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether [they be] thrones, or dominions, or principalities, or powers: all things were created by him, and for him: And he is before all things, and by him all things consist.",
+      "tier": "supporting"
+    }
+  },
+  "word_studies": {
+    "G4160": {
+      "word": "poieo",
+      "occurrence_count": 597
+    },
+    "H6213": {
+      "word": "asah",
+      "occurrence_count": 2934
+    },
+    "G2936": {
+      "word": "ktizo",
+      "occurrence_count": 16
+    },
+    "H1254": {
+      "word": "bara",
+      "occurrence_count": 59
+    },
+    "G4352": {
+      "word": "proskyneo",
+      "occurrence_count": 65
+    },
+    "H7812": {
+      "word": "shachah",
+      "occurrence_count": 194
+    },
+    "G4520": {
+      "word": "sabbatismos",
+      "occurrence_count": 1
+    },
+    "G2663": {
+      "word": "katapausis",
+      "occurrence_count": 9
+    },
+    "G4521": {
+      "word": "sabbaton",
+      "occurrence_count": 68
+    },
+    "H7676": {
+      "word": "shabbath",
+      "occurrence_count": 109
+    },
+    "G1785": {
+      "word": "entole",
+      "occurrence_count": 71
+    },
+    "G5083": {
+      "word": "tereo",
+      "occurrence_count": 75
+    },
+    "G4077": {
+      "word": "pege",
+      "occurrence_count": 12
+    },
+    "H226": {
+      "word": "owth",
+      "occurrence_count": 85
+    },
+    "H2142": {
+      "word": "zakar",
+      "occurrence_count": 280
+    },
+    "H7673": {
+      "word": "shabath",
+      "occurrence_count": 112
+    },
+    "H6942": {
+      "word": "qadash",
+      "occurrence_count": 186
+    },
+    "H8104": {
+      "word": "shamar",
+      "occurrence_count": 511
+    },
+    "G4639": {
+      "word": "skia",
+      "occurrence_count": 7
+    },
+    "G2281": {
+      "word": "thalassa",
+      "occurrence_count": 92
+    },
+    "G3772": {
+      "word": "ouranos",
+      "occurrence_count": 284
+    },
+    "G1093": {
+      "word": "ge",
+      "occurrence_count": 252
+    },
+    "G2920": {
+      "word": "krisis",
+      "occurrence_count": 48
+    },
+    "G5399": {
+      "word": "phobeo",
+      "occurrence_count": 110
+    },
+    "G1391": {
+      "word": "doxa",
+      "occurrence_count": 168
+    },
+    "G3551": {
+      "word": "nomos",
+      "occurrence_count": 197
+    },
+    "G2664": {
+      "word": "katapauo",
+      "occurrence_count": 5
+    },
+    "H4496": {
+      "word": "mnuwchah",
+      "occurrence_count": 24
+    },
+    "H5117": {
+      "word": "nuwach",
+      "occurrence_count": 108
+    },
+    "H430": {
+      "word": "elohiym",
+      "occurrence_count": 2689
+    },
+    "G2316": {
+      "word": "theos",
+      "occurrence_count": 1343
+    },
+    "G2962": {
+      "word": "kyrios",
+      "occurrence_count": 748
+    },
+    "H3068": {
+      "word": "yhwh",
+      "occurrence_count": 6534
+    },
+    "H776": {
+      "word": "erets",
+      "occurrence_count": 2665
+    },
+    "H8064": {
+      "word": "shamayim",
+      "occurrence_count": 439
+    },
+    "G372": {
+      "word": "anapausis",
+      "occurrence_count": 5
+    },
+    "H7677": {
+      "word": "shabbathown",
+      "occurrence_count": 11
+    },
+    "H5647": {
+      "word": "abad",
+      "occurrence_count": 332
+    },
+    "G373": {
+      "word": "anapauo",
+      "occurrence_count": 13
+    },
+    "G2889": {
+      "word": "kosmos",
+      "occurrence_count": 187
+    },
+    "H6918": {
+      "word": "qadowsh",
+      "occurrence_count": 119
+    },
+    "H4687": {
+      "word": "mitsvah",
+      "occurrence_count": 190
+    },
+    "G2919": {
+      "word": "krino",
+      "occurrence_count": 132
+    }
+  },
+  "parsing": {
+    "Rev 14:7": "Greek Text: λέγων εν φωνῇ μεγάλῃ· Φοβήθητε τὸν Θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ, καὶ προσκυνήσατε τῷ ποιήσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ θάλασσαν καὶ πηγὰς ὑδάτων.\n\nλέγων G3004 [V-PAP-NSM] Pres Act Ptcp Nom Sg M | εν G1722 [PREP] | φωνῇ G5456 [N-DSF] Dat Sg F | μεγάλῃ G3173 [A-DSF] Dat Sg F | Φοβήθητε G5399 [V-AOM-2P] Aor Pass Impv Pl 2P | τὸν G3588 [T-ASM] Acc Sg M | Θεὸν G2316 [N-ASM] Acc Sg M | καὶ G2532 [CONJ] | δότε G1325 [V-2AAM-2P] Aor Act Impv Pl 2P | αὐτῷ G846 [P-DSM] Dat Sg M | δόξαν G1391 [N-ASF] Acc Sg F | ὅτι G3754 [CONJ] | ἦλθεν G2064 [V-2AAI-3S] Aor Act Ind Sg 3S | ἡ G3588 [T-NSF] Nom Sg F | ὥρα G5610 [N-NSF] Nom Sg F | τῆς G3588 [T-GSF] Gen Sg F | κρίσεως G2920 [N-GSF] Gen Sg F | αὐτοῦ G846 [P-GSM] Gen Sg M | καὶ G2532 [CONJ] | προσκυνήσατε G4352 [V-AAM-2P] Aor Act Impv Pl 2P | τῷ G3588 [T-DSM] Dat Sg M | ποιήσαντι G4160 [V-AAP-DSM] Aor Act Ptcp Dat Sg M | τὸν G3588 [T-ASM] Acc Sg M | οὐρανὸν G3772 [N-ASM] Acc Sg M | καὶ G2532 [CONJ] | τὴν G3588 [T-ASF] Acc Sg F | γῆν G1093 [N-ASF] Acc Sg F | καὶ G2532 [CONJ] | θάλασσαν G2281 [N-ASF] Acc Sg F | καὶ G2532 [CONJ] | πηγὰς G4077 [N-APF] Acc Pl F | ὑδάτων G5204 [N-GPN] Gen Pl N",
+    "Rev 10:6": "Greek Text: καὶ ὤμοσεν εν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὰ εν αὐτῷ καὶ τὴν γῆν καὶ τὰ εν αὐτῇ καὶ τὴν θάλασσαν καὶ τὰ εν αὐτῇ\n\nἔκτισεν G2936 [V-AAI-3S] Aor Act Ind Sg 3S | τὸν G3588 [T-ASM] Acc Sg M | οὐρανὸν G3772 [N-ASM] Acc Sg M | τὴν G3588 [T-ASF] Acc Sg F | γῆν G1093 [N-ASF] Acc Sg F | τὴν G3588 [T-ASF] Acc Sg F | θάλασσαν G2281 [N-ASF] Acc Sg F",
+    "Rev 14:12": "Greek Text: Ῥδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ Θεοῦ καὶ τὴν πίστιν Ἰησοῦ.\n\nτηροῦντες G5083 [V-PAP-NPM] Pres Act Ptcp Nom Pl M | τὰς G3588 [T-APF] Acc Pl F | ἐντολὰς G1785 [N-APF] Acc Pl F | τοῦ G3588 [T-GSM] Gen Sg M | Θεοῦ G2316 [N-GSM] Gen Sg M | τὴν G3588 [T-ASF] Acc Sg F | πίστιν G4102 [N-ASF] Acc Sg F | Ἰησοῦ G2424 [N-GSM] Gen Sg M",
+    "Heb 4:9": "Greek Text: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ.\n\nἄρα G686 [PRT] | ἀπολείπεται G620 [V-PPI-3S] Pres Pass Ind Sg 3S | σαββατισμὸς G4520 [N-NSM] Nom Sg M | τῷ G3588 [T-DSM] Dat Sg M | λαῷ G2992 [N-DSM] Dat Sg M | τοῦ G3588 [T-GSM] Gen Sg M | Θεοῦ G2316 [N-GSM] Gen Sg M",
+    "Heb 4:10": "Greek Text: ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός.\n\nκατέπαυσεν G2664 [V-AAI-3S] Aor Act Ind Sg 3S | ὥσπερ G5618 [ADV]",
+    "Luke 23:56": "Greek Text: ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα. Καὶ τὸ μὲν σάββατον ἡσύχασαν κατὰ τὴν ἐντολήν,\n\nσάββατον G4521 [N-ASN] Acc Sg N | ἡσύχασαν G2270 [V-AAI-3P] Aor Act Ind Pl 3P | κατὰ G2596 [PREP] | τὴν G3588 [T-ASF] Acc Sg F | ἐντολήν G1785 [N-ASF] Acc Sg F",
+    "Rev 12:17": "Greek Text: καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικί, καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς, τῶν τηρούντων τὰς ἐντολὰς τοῦ Θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν Ἰησοῦ\n\nτηρούντων G5083 [V-PAP-GPM] Pres Act Ptcp Gen Pl M | τὰς G3588 [T-APF] Acc Pl F | ἐντολὰς G1785 [N-APF] Acc Pl F | τοῦ G3588 [T-GSM] Gen Sg M | Θεοῦ G2316 [N-GSM] Gen Sg M",
+    "Col 2:16": "Greek Text: Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νεομηνίας ἢ σαββάτων,\n\nκρινέτω G2919 [V-PAM-3S] Pres Act Impv Sg 3S | ἑορτῆς G1859 [N-GSF] Gen Sg F | νεομηνίας G3561 [N-GSF] Gen Sg F | σαββάτων G4521 [N-GPN] Gen Pl N",
+    "Col 2:17": "Greek Text: ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ.\n\nσκιὰ G4639 [N-NSF] Nom Sg F | τῶν G3588 [T-GPN] Gen Pl N | μελλόντων G3195 [V-PAP-GPN] Pres Act Ptcp Gen Pl N | σῶμα G4983 [N-NSN] Nom Sg N | Χριστοῦ G5547 [N-GSM] Gen Sg M",
+    "Rev 21:23": "Greek Text: καὶ ἡ πόλις οὐ χρείαν ἔχει τοῦ ἡλίου οὐδὲ τῆς σελήνης, ἵνα φαίνωσιν αὐτῇ· ἡ γὰρ δόξα τοῦ Θεοῦ ἐφώτισεν αὐτήν, καὶ ὁ λύχνος αὐτῆς τὸ Ἀρνίον.\n\nπόλις G4172 [N-NSF] Nom Sg F | οὐ G3756 [PRT-N] | χρείαν G5532 [N-ASF] Acc Sg F | ἔχει G2192 [V-PAI-3S] Pres Act Ind Sg 3S | τοῦ G3588 [T-GSM] Gen Sg M | ἡλίου G2246 [N-GSM] Gen Sg M | οὐδὲ G3761 [CONJ-N] | τῆς G3588 [T-GSF] Gen Sg F | σελήνης G4582 [N-GSF] Gen Sg F | ἵνα G2443 [CONJ] | φαίνωσιν G5316 [V-PAS-3P] Pres Act Subj Pl 3P",
+    "Gen 2:2": "wayyekal (Verb.Piel.Wayq.3ms of kalah = be complete) elohiym (Noun.mp.Abs = God) bayyom (in the day) hashshebiy'iy (seventh) mela'kto (his work) asher (which) asah (Verb.Qal.Perf.3ms of asah = make) wayyishbot (Verb.Qal.Wayq.3ms of shabath = cease) bayyom (in the day) hashshebiy'iy (seventh) mikkol (from all) mela'kto (his work) asher (which) asah (Verb.Qal.Perf.3ms of asah = make)",
+    "Gen 2:3": "wayebarek (Verb.Piel.Wayq.3ms of barak = bless) elohiym (Noun.mp.Abs = God) et (object marker) yom (day of) hashshebiy'iy (the seventh) wayeqaddesh (Verb.Piel.Wayq.3ms of qadash = be holy/sanctify) oto (it) kiy (because) bo (in it) shabat (Verb.Qal.Perf.3ms of shabath = cease) mikkol (from all) mela'kto (his work) asher (which) bara (Verb.Qal.Perf.3ms of bara = create) elohiym (God) la'asot (Verb.Qal.InfCon of asah = to make)",
+    "Exo 31:17": "beiniy (between me) ubein (and between) beney (sons of) yisra'el (Israel) owth (Noun.s.Abs = sign) hiy (she/it) le'olam (forever) kiy (because) sheshet (six) yamiym (days) asah (Verb.Qal.Perf.3ms of asah = make) yhwh (YHWH) et-hashamayim (the heavens) ve'et-ha'arets (and the earth) ubayyom (and on the day) hashshebiy'iy (the seventh) shabat (Verb.Qal.Perf.3ms of shabath = cease) wayyinnafash (Verb.Niphal.Wayq.3ms of nafash = take breath/be refreshed)"
+  },
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The verbal overlap between Rev 14:7 and Exo 20:11 through the LXX"
+    },
+    {
+      "id": 2,
+      "title": "The poieo vs. ktizo verb distinction in Revelation"
+    },
+    {
+      "id": 3,
+      "title": "The 'fountains of waters' substitution and its significance"
+    },
+    {
+      "id": 4,
+      "title": "The Rev 14:7-to-14:12 inclusio and the commandment thread"
+    },
+    {
+      "id": 5,
+      "title": "The sabbatismos of Hebrews 4:9 — linguistic and theological analysis"
+    },
+    {
+      "id": 6,
+      "title": "Addressing the 'generic creation theology' objection"
+    },
+    {
+      "id": 7,
+      "title": "The Sabbath as owth (sign) — Exodus 31 and Ezekiel 20"
+    },
+    {
+      "id": 8,
+      "title": "The creation-to-new-creation bookend (Gen 2:2-3 to Isa 66:22-23)"
+    },
+    {
+      "id": 9,
+      "title": "The Rev 13-14 Decalogue structure — systematic counterfeit and response"
+    },
+    {
+      "id": 10,
+      "title": "The entole vocabulary — does 'commandments of God' mean the Decalogue?"
+    },
+    {
+      "id": 11,
+      "title": "The Sabbath as memorial vs. shadow — Lev 23:37-38 and Col 2:16-17"
+    }
+  ],
+  "stats": {
+    "total_verses": 66,
+    "primary_verses": 31,
+    "word_studies": 43,
+    "parsing_entries": 13,
+    "focus_areas": 11
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "strongs": "G1169",
+  "word": "δειλός",
+  "transliteration": "deilos",
+  "pos": "Adjective",
+  "occurrences": 3,
+  "definition": "from deos (dread); timid, i.e. (by implication) faithless: -- fearful.",
+
+  "translation_distribution": [
+    {"translation": "fearful", "count": 2, "percent": 66.7},
+    {"translation": "the fearful", "count": 1, "percent": 33.3}
+  ],
+
+  "book_distribution": [
+    {"book": "Matthew", "count": 1, "density": 0.1},
+    {"book": "Mark", "count": 1, "density": 0.1},
+    {"book": "Revelation", "count": 1, "density": 0.2}
+  ],
+
+  "lxx_mappings": [],
+
+  "hebrew_sources": [
+    {"hebrew": "H6153", "word": "ereb", "count": 5, "pmi": 6.68, "score": 11.97},
+    {"hebrew": "H5704", "word": "ad", "count": 4, "pmi": 3.22, "score": 5.18},
+    {"hebrew": "H5971", "word": "am", "count": 4, "pmi": 2.63, "score": 4.24},
+    {"hebrew": "H7725", "word": "shuwb", "count": 3, "pmi": 3.01, "score": 4.17},
+    {"hebrew": "H1004", "word": "bayith", "count": 3, "pmi": 2.18, "score": 3.02},
+    {"hebrew": "H376", "word": "iysh", "count": 3, "pmi": 2.08, "score": 2.88},
+    {"hebrew": "H5921", "word": "al", "count": 5, "pmi": 1.56, "score": 2.80},
+    {"hebrew": "H3808", "word": "lo", "count": 4, "pmi": 1.38, "score": 2.22},
+    {"hebrew": "H559", "word": "amar", "count": 4, "pmi": 1.24, "score": 1.99}
+  ],
+
+  "semantic_categories": [
+    {
+      "name": "Cowardly faithlessness in crisis",
+      "description": "In the Synoptic storm accounts (Mat 8:26; Mark 4:40), Jesus rebukes the disciples for being deilos -- cowardly, timid -- in contrast to having faith. The word implies that their fear of the storm revealed a deficiency of trust in God's power and presence. Jesus directly links deilos to oligopistos (little faith, G3640) in Matthew and to the absence of faith (pistis, G4102) in Mark. This is not mere emotional fright but a spiritual failure: a fearful timidity that contradicts trust in God.",
+      "key_verses": ["Mat 8:26", "Mark 4:40"]
+    },
+    {
+      "name": "Condemned cowardice among the lost",
+      "description": "In Rev 21:8, deilos heads the list of those consigned to the lake of fire: 'the fearful, and unbelieving, and the abominable, and murderers...' The cowardly are listed alongside the apistos (unbelieving, G571), reinforcing the same link between timidity and faithlessness seen in the Synoptics. The placement at the head of the vice list indicates that cowardly retreat from faith under pressure is not a minor failing but a damning one. This is the ultimate consequence of the spiritual condition Jesus rebuked on the sea.",
+      "key_verses": ["Rev 21:8"]
+    },
+    {
+      "name": "Contrast with commanded fear of God",
+      "description": "The deil- word family (G1167 deilia, G1168 deiliao, G1169 deilos) stands in sharp contrast to the phob- word family (G5399 phobeo, G5401 phobos). In Rev 14:7, 'Fear God' uses phobeo -- reverential awe that produces worship and obedience. In 2 Tim 1:7, Paul says God has not given us the spirit of deilia (G1167, cowardly timidity) but of power, love, and a sound mind. The two types of fear are mutually exclusive: phobeo-fear of God produces courage and faithfulness; deilos-fear of circumstances produces retreat and faithlessness. The one who truly fears God (phobeo) will not be deilos (cowardly) in the face of persecution or danger.",
+      "key_verses": ["Rev 14:7", "2 Tim 1:7"]
+    }
+  ],
+
+  "collocations": [
+    {"strongs": "G3640", "word": "oligopistos", "count": 1, "pattern": "fearful + little-faith (Mat 8:26)"},
+    {"strongs": "G571", "word": "apistos", "count": 1, "pattern": "fearful + unbelieving in vice list (Rev 21:8)"},
+    {"strongs": "G948", "word": "bdelysso", "count": 1, "pattern": "fearful + abominable in vice list (Rev 21:8)"},
+    {"strongs": "G2281", "word": "thalassa", "count": 1, "pattern": "fearful + sea (storm context, Mat 8:26)"},
+    {"strongs": "G417", "word": "anemos", "count": 1, "pattern": "fearful + wind (storm context, Mat 8:26)"},
+    {"strongs": "G3041", "word": "limne", "count": 1, "pattern": "fearful + lake (of fire, Rev 21:8)"},
+    {"strongs": "G2288", "word": "thanatos", "count": 1, "pattern": "fearful + death (second death, Rev 21:8)"},
+    {"strongs": "G4102", "word": "pistis", "count": 1, "pattern": "fearful questioned about absence of faith (Mark 4:40)"}
+  ],
+
+  "related_words": {
+    "synonyms": [
+      {"strongs": "G5398", "word": "phoberos", "distinction": "phoberos describes the object that causes fear ('fearful thing'); deilos describes the person who is cowardly/faithless"},
+      {"strongs": "G1630", "word": "ekphobos", "distinction": "ekphobos is 'exceedingly afraid' -- a state of terror; deilos is a character quality of cowardice/timidity"}
+    ],
+    "antonyms": [
+      {"strongs": "G5399", "word": "phobeo", "distinction": "reverential fear of God (phobeo) is the commanded opposite of cowardly fear (deilos); one who truly fears God will not be cowardly"},
+      {"strongs": "G4102", "word": "pistis", "distinction": "faith is the direct antithesis of deilos -- in both Synoptic uses, deilos is contrasted with the presence or absence of faith"}
+    ],
+    "word_family": [
+      {"strongs": "G1167", "word": "deilia", "distinction": "noun form -- 'cowardice, timidity' (2 Tim 1:7: 'God hath not given us the spirit of deilia')"},
+      {"strongs": "G1168", "word": "deiliao", "distinction": "verb form -- 'to be cowardly, to be timid' (John 14:27: 'Let not your heart be troubled, neither let it be afraid')"}
+    ]
+  },
+
+  "raw_tool_output": {
+    "lookup": "G1169 - 3 total occurrences, 2 unique translations:\n\n     2 ( 66.7%) fearful\n     1 ( 33.3%) the fearful",
+    "lexicon": "G1169: δειλός\nTransliteration: deilós\nPronunciation: di-los\nPart of Speech: adjective (adj)\nBLB Count: 3\nDefinition: ; from deos (dread); timid, i.e. (by implication) faithless:—fearful.\nOutline of Biblical Usage: Matthew 8:26 Mark 4:40 Revelation 21:8",
+    "hebrew_source": "Hebrew source words (ranked by PMI-weighted):\n  H6153: ereb count: 5, PMI: 6.68, score: 11.97\n  H5704: ad count: 4, PMI: 3.22, score: 5.18\n  H5971: am count: 4, PMI: 2.63, score: 4.24\n  H7725: shuwb count: 3, PMI: 3.01, score: 4.17\n  H1004: bayith count: 3, PMI: 2.18, score: 3.02\n  H376: iysh count: 3, PMI: 2.08, score: 2.88\n  H5921: al count: 5, PMI: 1.56, score: 2.80\n  H3808: lo count: 4, PMI: 1.38, score: 2.22\n  H559: amar count: 4, PMI: 1.24, score: 1.99"
+  }
+}

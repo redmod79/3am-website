@@ -1,0 +1,153 @@
+# Raw Hebrew Parsing Output
+
+## Dan 7:10
+
+======================================================================
+  Daniel 7:10
+======================================================================
+
+  נְהַ֣ר דִּי־נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן־קֳדָמֹ֔והִי אֶ֤לֶף אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבֹּ֥ו רִבְבָ֖ן קָֽדָמֹ֣והִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  נְהַ֣ר          נהר          Noun.ms.Abs               river
+  דִּי            די           Prep                      <relative>
+  נ֗וּר           נור          Noun.s.Abs                fire
+  נָגֵ֤ד          נגד          Verb.peal.Ptcp.unknownms.Abs flow
+  וְ              ו            Conj.+NAN                 and
+  נָפֵק֙          נפק          Verb.peal.Ptcp.unknownms.Abs go out
+  מִן             מן           Prep                      from
+  קֳדָמֹ֔והִי     קדם          Noun.mp.Abs.+3ms          before
+  אֶ֤לֶף          אלף          Noun.s.Cst                thousand
+  אלפים           אלף          Noun.mp.Abs               thousand
+  יְשַׁמְּשׁוּנֵּ֔הּ שׁמשׁ        Verb.pael.Impf.3mp.+3ms   serve
+  וְ              ו            Conj.+NAN                 and
+  רִבֹּ֥ו         רבו          Noun.fs.Cst               myriad
+  רבון            רבו          Noun.fp.Abs               myriad
+  קָֽדָמֹ֣והִי    קדם          Noun.mp.Abs.+3ms          before
+  יְקוּמ֑וּן      קום          Verb.peal.Impf.3mp        stand
+  דִּינָ֥א        דין          Noun.ms                   judgement
+  יְתִ֖ב          יתב          Verb.peal.Perf.3ms        sit
+  וְ              ו            Conj.+NAN                 and
+  סִפְרִ֥ין       ספר          Noun.mp.Abs               book
+  פְּתִֽיחוּ      פתח          Verb.peil.Perf.3mp        open
+
+## Dan 7:22
+
+======================================================================
+  Daniel 7:22
+======================================================================
+
+  עַ֣ד דִּֽי־אֲתָ֗ה עַתִּיק֙ יֹֽומַיָּ֔א וְדִינָ֣א יְהִ֔ב לְקַדִּישֵׁ֖י עֶלְיֹונִ֑ין וְזִמְנָ֣א מְטָ֔ה וּמַלְכוּתָ֖א הֶחֱסִ֥נוּ קַדִּישִֽׁין׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  עַ֣ד            עד           Prep                      until
+  דִּֽי           די           Prep                      <relative>
+  אֲתָ֗ה          אתה          Verb.peal.Perf.3ms        come
+  עַתִּיק֙        עתיק         Adj.ms.Cst                old
+  יֹֽומַיָּ֔א     יום          Noun.mp                   day
+  וְ              ו            Conj.+NAN                 and
+  דִינָ֣א         דין          Noun.ms                   judgement
+  יְהִ֔ב          יהב          Verb.peil.Perf.3ms        give
+  לְ              ל            Prep                      to
+  קַדִּישֵׁ֖י     קדישׁ        Adj.mp.Cst                holy
+  עֶלְיֹונִ֑ין    עליון        Adj.mp.Abs                most high
+  וְ              ו            Conj.+NAN                 and
+  זִמְנָ֣א        זמן          Noun.ms                   time
+  מְטָ֔ה          מטא          Verb.peal.Perf.3ms        come
+  וּ              ו            Conj.+NAN                 and
+  מַלְכוּתָ֖א     מלכו         Noun.fs                   kingdom
+  הֶחֱסִ֥נוּ      חסן          Verb.haf.Perf.3mp         possess
+  קַדִּישִֽׁין    קדישׁ        Adj.mp.Abs                holy
+
+## Dan 7:26
+
+======================================================================
+  Daniel 7:26
+======================================================================
+
+  וְדִינָ֖א יִתִּ֑ב וְשָׁלְטָנֵ֣הּ יְהַעְדֹּ֔ון לְהַשְׁמָדָ֥ה וּלְהֹובָדָ֖ה עַד־סֹופָֽא׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וְ              ו            Conj.+NAN                 and
+  דִינָ֖א         דין          Noun.ms                   judgement
+  יִתִּ֑ב         יתב          Verb.peal.Impf.3ms        sit
+  וְ              ו            Conj.+NAN                 and
+  שָׁלְטָנֵ֣הּ    שׁלטן        Noun.ms.Abs.+3ms          official
+  יְהַעְדֹּ֔ון    עדה          Verb.haf.Impf.3mp         go
+  לְ              ל            Prep                      to
+  הַשְׁמָדָ֥ה     שׁמד         Verb.haf.InfCon.unknownunknown.Abs exterminate
+  וּ              ו            Conj.+NAN                 and
+  לְ              ל            Prep                      to
+  הֹובָדָ֖ה       אבד          Verb.haf.InfCon.unknownunknown.Abs perish
+  עַד             עד           Prep                      until
+  סֹופָֽא         סוף          Noun.ms                   end
+
+## Zech 3:1-2
+
+======================================================================
+  Zechariah 3:1
+======================================================================
+
+  וַיַּרְאֵ֗נִי אֶת־יְהֹושֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּדֹ֔ול עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינֹ֖ו לְשִׂטְנֹֽו׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וַ              ו            Conj.+NAN                 and
+  יַּרְאֵ֗נִי     ראה          Verb.Hiphil.Wayq.3ms.+1us see
+  אֶת             את           Prep                      <object marker>
+  יְהֹושֻׁ֨עַ֙    יהושׁע       PropN.ms.Abs.+NAN         Joshua
+  הַ              ה            Art.+NAN                  the
+  כֹּהֵ֣ן         כהן          Noun.ms.Abs               priest
+  הַ              ה            Art.+NAN                  the
+  גָּדֹ֔ול        גדול         Adj.ms.Abs                great
+  עֹמֵ֕ד          עמד          Verb.Qal.Ptcp.unknownms.Abs stand
+  לִ              ל            Prep                      to
+  פְנֵ֖י          פנה          Noun.mp.Cst               face
+  מַלְאַ֣ךְ       מלאך         Noun.ms.Cst               messenger
+  יְהוָ֑ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  וְ              ו            Conj.+NAN                 and
+  הַ              ה            Art.+NAN                  the
+  שָּׂטָ֛ן        שׂטן         Noun.ms.Abs               adversary
+  עֹמֵ֥ד          עמד          Verb.Qal.Ptcp.unknownms.Abs stand
+  עַל             על           Prep                      upon
+  יְמִינֹ֖ו       ימין         Noun.fs.Abs.+3ms          right-hand side
+  לְ              ל            Prep                      to
+  שִׂטְנֹֽו       שׂטן         Verb.Qal.InfCon.unknownunknown.Abs.+3ms bear grudge
+
+======================================================================
+  Zechariah 3:2
+======================================================================
+
+  וַיֹּ֨אמֶר יְהוָ֜ה אֶל־הַשָּׂטָ֗ן יִגְעַ֨ר יְהוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהוָה֙ בְּךָ֔ הַבֹּחֵ֖ר בִּירֽוּשָׁלִָ֑ם הֲלֹ֧וא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וַ              ו            Conj.+NAN                 and
+  יֹּ֨אמֶר        אמר          Verb.Qal.Wayq.3ms         say
+  יְהוָ֜ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  אֶל             אל           Prep                      to
+  הַ              ה            Art.+NAN                  the
+  שָּׂטָ֗ן        שׂטן         Noun.ms.Abs               adversary
+  יִגְעַ֨ר        גער          Verb.Qal.Impf.3ms         rebuke
+  יְהוָ֤ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  בְּךָ֙          ב            Prep.+2ms                 in
+  הַ              ה            Art.+NAN                  the
+  שָּׂטָ֔ן        שׂטן         Noun.ms.Abs               adversary
+  וְ              ו            Conj.+NAN                 and
+  יִגְעַ֤ר        גער          Verb.Qal.Impf.3ms         rebuke
+  יְהוָה֙         יהוה         PropN.ms.Abs.+NAN         YHWH
+  בְּךָ֔          ב            Prep.+2ms                 in
+  הַ              ה            Art.+NAN                  the
+  בֹּחֵ֖ר         בחר          Verb.Qal.Ptcp.unknownms.Abs examine
+  בִּ             ב            Prep                      in
+  ירֽוּשָׁלִָ֑ם   ירושׁלם      PropN.s.Abs.+NAN          Jerusalem
+  הֲ              ה            Introg                    <interrogative>
+  לֹ֧וא           לא           Neg.+NAN                  not
+  זֶ֦ה            זה           DemPron.ms.+NAN           this
+  א֖וּד           אוד          Noun.ms.Abs               log
+  מֻצָּ֥ל         נצל          Verb.Hophal.Ptcp.unknownms.Abs deliver
+  מֵ              מן           Prep                      from
+  אֵֽשׁ           אשׁ          Noun.s.Abs                fire

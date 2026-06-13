@@ -1,0 +1,1366 @@
+{
+  "question": "What does dote auto doxan (\"give glory to him\") mean as a gospel imperative? How is glory (doxa/kabod) given to God — through confession (Josh 7:19), character acknowledgment (Isa 42:12), conduct (Matt 5:16, 1 Pet 2:12), fruit-bearing (John 15:8), bodily stewardship (1 Cor 6:20, 10:31), beholding-transformation (2 Cor 3:18), or something else? What is the relationship between giving glory and the judgment announcement that immediately follows? How does Romans 1:21 (\"they glorified him not as God\") describe the exact failure the first angel addresses? Why does Rev 16:9 record that under the plagues they \"repented not to give him glory\" — a precise verbal echo of 14:7? How does John 17:4 (\"I have glorified thee on the earth: I have finished the work\") establish Christ as the model of giving glory?",
+  "prior_research_summary": "Six prior 3AM series studies (00-05) completed. Study 3am-05 established the three aorist imperatives (fear, give glory, worship) as one reality from three angles. Study 3am-02 documented the covenant-lawsuit tradition and 'give glory' idiom in Josh 7:19. Study 3am-03 identified the Romans 1:18-32 degenerative chain as the antiparallel of Rev 14:7. Study 3am-04 confirmed the basar-euangelizo vocabulary chain and 'give glory' as covenant-lawsuit language. A prior standalone study (rev-14-7-fear-glory-worship) covered similar ground at shallower depth. External corpus findings from EGW define 'give glory' as revealing God's character (3AM 55.3), interpret 'glory to glory' as 'character to character' (2 Cor 3:18), and connect bodily glorification to health reform. Bohr distinguishes types of glory and notes the Rev 14:7/16:9 echo. Web research yielded scholarly leads on the kabod/doxa bridge (Running 1963), the confession idiom (Tactical Christianity), commentator analysis of Rev 14:7 and John 17:4, and the Rom 1:18-25 inverse framework.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "Primary text — the three imperatives including 'dote auto doxan'; the glory-judgment-worship triad",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 16:9",
+      "reason": "Precise verbal echo of 14:7 — 'repented not to give him glory' (dounai auto doxan); plagues-as-answer to rejected gospel call",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:18-23",
+      "reason": "The exact inverse of Rev 14:7 — 'they glorified him not as God' (edoxasan); the glory-exchange spiral: knew God → refused to glorify → exchanged glory → idolatry → wrath",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:24-25",
+      "reason": "Continuation of the glory-exchange: God gave them up; 'changed the truth of God into a lie, and worshipped and served the creature' — direct antiparallel of 'worship him that made'",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 17:1-5",
+      "reason": "Christ as model of glorification — 'I have glorified thee on the earth: I have finished the work'; edoxasa/eteliosa pairing; glorification = completed work",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Cor 3:18",
+      "reason": "Beholding-transformation mechanism — 'beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory'; katoptrizomai/metamorphoumetha",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 5:16",
+      "reason": "Conduct-based glorification — 'Let your light so shine before men, that they may see your good works, and glorify your Father'; human observers glorify God through believer conduct",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Pet 2:12",
+      "reason": "Parallel to Matt 5:16 — 'they may by your good works, which they shall behold, glorify God in the day of visitation'; kala erga producing doxazo",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 15:8",
+      "reason": "Fruit-bearing as glorification — 'Herein is my Father glorified, that ye bear much fruit'; fruit = evidence of abiding in Christ",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Cor 6:19-20",
+      "reason": "Bodily stewardship as glorification — 'glorify God in your body'; body as temple (naos); doxasate aorist imperative; purchase-price argument (egorasthete)",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Cor 10:31",
+      "reason": "Universal scope of glorification — 'Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God'; extends glory-giving to all life activity",
+      "tier": "primary"
+    },
+    {
+      "ref": "Josh 7:19",
+      "reason": "The confession idiom — 'give glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done'; ten kabod la-YHWH as judicial oath formula",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 9:24",
+      "reason": "NT parallel of the confession idiom — 'Give God the praise (dos doxan to theo)' in a judicial setting; Pharisees demanding truthful testimony",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exod 33:18-19",
+      "reason": "OT equation of glory with character — Moses requests to see God's glory; God responds by proclaiming goodness and name; glory = revealed character",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exod 34:5-7",
+      "reason": "The actual content of God's glory — 'The LORD, The LORD God, merciful and gracious, longsuffering'; character attributes proclaimed as glory response",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 42:12",
+      "reason": "Character acknowledgment as glorification — 'Let them give glory unto the LORD, and declare his praise in the islands'; commanded in Nave's under GLORIFYING GOD",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 3:23",
+      "reason": "Universal failure to glorify — 'all have sinned, and come short of the glory of God'; husteroumenoi tes doxes = deficit of glory",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 6:1-3",
+      "reason": "The seraphic declaration — 'the whole earth is full of his glory'; kabod fills creation; the recognition template",
+      "tier": "primary"
+    },
+    {
+      "ref": "Hab 2:14",
+      "reason": "Eschatological promise — 'the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea'; parallels Isa 6:3 and Rev 18:1",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:1",
+      "reason": "Earth lightened with glory — the fourth angel's message; the practical outworking of glory-giving on a cosmic scale",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Cor 4:6",
+      "reason": "The glory of God in the face of Jesus Christ — creation-light parallel; God shines in hearts to give the light of the knowledge of His glory",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 1:14",
+      "reason": "Incarnate glory — 'we beheld his glory, the glory as of the only begotten of the Father, full of grace and truth'; doxa made visible in Christ",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 4:20",
+      "reason": "Abraham's faith as glorification — 'He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God'; listed in Nave's GLORIFYING GOD as exemplified",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 5:23",
+      "reason": "Negative example — Belshazzar 'hast not glorified' the God in whose hand is his breath; listed in Nave's as punishment for not glorifying God",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 12:23",
+      "reason": "Herod struck dead for not giving God glory — 'because he gave not God the glory'; immediate divine judgment for glory-theft",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 12:1",
+      "reason": "Living sacrifice as bodily glorification — 'present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service'; bridge between worship and bodily stewardship",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "OT template — 'Fear God, and keep his commandments... For God shall bring every work into judgment'; the first angel restates this universally; glory implicit in the fear-commandment-judgment triad",
+      "tier": "primary"
+    },
+    {
+      "ref": "Phil 1:11",
+      "reason": "Fruits of righteousness through Christ unto God's glory — 'Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 4:11",
+      "reason": "Heavenly pattern of glory-giving — 'Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things'; creation grounds glory",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 15:4",
+      "reason": "Eschatological glorification — 'Who shall not fear thee, O Lord, and glorify thy name?'; post-judgment glorification; combines fear + glorify",
+      "tier": "primary"
+    },
+    {
+      "ref": "Mal 2:2",
+      "reason": "Curse for not glorifying — 'If ye will not hear, and if ye will not lay it to heart, to give glory unto my name'; latheth kabod — same construction as Rev 14:7",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Ch 16:28-29",
+      "reason": "The call to give glory — 'Give unto the LORD glory and strength. Give unto the LORD the glory due unto his name'; habuw la-YHWH kabod",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 22:23",
+      "reason": "Command to glorify — 'glorify him, all ye the seed of Israel'; listed in Nave's GLORIFYING GOD as commanded",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 50:23",
+      "reason": "Praise as glorification mechanism — 'Whoso offereth praise glorifieth me'; todah/doxazo link",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 86:9",
+      "reason": "Universal glorification — 'All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 86:12",
+      "reason": "Personal resolve to glorify — 'I will glorify thy name for evermore'; saints should resolve to glorify (Nave's)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 115:1",
+      "reason": "Not unto us but unto thy name give glory — glory given for mercy and truth",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 25:3",
+      "reason": "Glorifying God for judgments — 'the strong people glorify thee, the city of the terrible nations shall fear thee'; glory connected to judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 60:1-2",
+      "reason": "Rise and shine — 'the glory of the LORD is risen upon thee'; eschatological glory illumination",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 60:21",
+      "reason": "God's people as the planting of the LORD — 'that I might be glorified'; all blessings designed to lead to glorification (Nave's)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 6:4",
+      "reason": "Glory as divine power — 'raised up from the dead by the glory of the Father'; doxa = omnipotence attribute",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 8:18",
+      "reason": "Future glory — 'the sufferings of this present time are not worthy to be compared with the glory which shall be revealed'; eschatological glory promise",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 8:29",
+      "reason": "Conformed to the image of the Son — 'predestinated to be conformed to the image of his Son'; transformation toward glory-image",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 9:23",
+      "reason": "Vessels of mercy prepared unto glory — 'the riches of his glory on the vessels of mercy'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 11:36",
+      "reason": "Doxology — 'For of him, and through him, and to him, are all things: to whom be glory for ever'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 15:6",
+      "reason": "United glorification — 'That ye may with one mind and one mouth glorify God'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 3:9-10",
+      "reason": "The glory of the gospel exceeds the law — the glory-of-ministration comparison",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 4:17",
+      "reason": "Afflictions producing eternal weight of glory — baros doxes; 'weight of glory' echoes kabod etymology",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 9:13",
+      "reason": "Obedience to gospel producing glorification — 'they glorify God for your professed subjection unto the gospel of Christ'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gal 1:24",
+      "reason": "Paul's conversion causing glorification — 'And they glorified God in me'; others glorify God through observing transformation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 1:12",
+      "reason": "To the praise of his glory — 'that we should be to the praise of his glory'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Phil 2:11",
+      "reason": "Every tongue confessing to glory — 'every tongue should confess... to the glory of God the Father'; confession-glory link",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Col 1:15",
+      "reason": "Christ as the image of God — 'the image of the invisible God'; eikon connects to glory-image theme",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Col 3:10",
+      "reason": "Renewed in the image — 'the new man, which is renewed in knowledge after the image of him that created him'; image-renewal as glory restoration",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Th 2:12",
+      "reason": "Called to glory — 'worthy of God, who hath called you unto his kingdom and glory'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Th 1:12",
+      "reason": "Name of Christ glorified in you — 'That the name of our Lord Jesus Christ may be glorified in you'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 1:3",
+      "reason": "Christ as brightness of God's glory — apaugasma tes doxes; the express image",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 2:10",
+      "reason": "Bringing many sons to glory — 'in bringing many sons unto glory'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Pet 1:8",
+      "reason": "Joy full of glory — 'ye rejoice with joy unspeakable and full of glory'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Pet 4:11",
+      "reason": "God glorified through Christ — 'that God in all things may be glorified through Jesus Christ'; faithfulness as glorification",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Pet 4:14-16",
+      "reason": "Suffering as glorification — 'the spirit of glory and of God resteth upon you'; suffering for Christ glorifies God",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Pet 1:3-4",
+      "reason": "Called to glory and virtue — 'his divine power hath given unto us all things... called us to glory and virtue'; partakers of divine nature",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 3:1-3",
+      "reason": "When he shall appear we shall be like him — image-transformation completion; 'we shall see him as he is'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 5:13",
+      "reason": "Universal doxology — 'every creature... Blessing, and honour, and glory, and power, be unto him'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:11",
+      "reason": "No rest for beast worshippers — the ceaseless unrest of those who give glory to the beast instead of God",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 21:11,23",
+      "reason": "The glory of God lightens the New Jerusalem — eschatological glory fully realized",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 2:14",
+      "reason": "Angels giving glory at the birth — 'Glory to God in the highest'; heavenly pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 17:15-18",
+      "reason": "Only one returns to give glory — 'there are not found that returned to give glory to God, save this stranger'; giving glory as gratitude",
+      "tier": "supporting"
+    },
+    {
+      "ref": "John 21:19",
+      "reason": "Death as glorification — 'by what death he should glorify God'; dying for Christ as glory-giving (Nave's GLORIFYING GOD)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 4:21",
+      "reason": "People glorified God for healing — 'all men glorified God for that which was done'; healing prompting glorification",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 11:13",
+      "reason": "Survivors give glory to God — 'the remnant were affrighted, and gave glory to the God of heaven'; earthquake-prompted glorification",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 4:24",
+      "reason": "New man created after God in righteousness — image-restoration language paralleling Col 3:10",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jas 1:23-24",
+      "reason": "Mirror metaphor for self-examination — katoptrizomai background; contrast with 2 Cor 3:18 mirror",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 19:1",
+      "reason": "Creation declares glory — 'The heavens declare the glory of God'; creation as glory-declaration",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 99:9",
+      "reason": "Glorifying God for holiness — listed in Nave's as reason for glorification",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Lev 10:3",
+      "reason": "Nadab and Abihu — 'I will be sanctified/glorified in them that come nigh me'; false worship as failure to glorify",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Num 20:12",
+      "reason": "Moses failed to sanctify/glorify God — 'Because ye believed me not, to sanctify me'; unbelief as failure to glorify",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 9:20-21",
+      "reason": "Under sixth trumpet — 'repented not of the works of their hands'; precursor to the Rev 16:9 refusal",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 50:3-6",
+      "reason": "Judgment scene — God judges and the heavens declare his righteousness; judgment-glory connection in the OT",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The kabod/doxa semantic bridge and the meaning of 'glory'",
+      "what": "Determine the semantic range of kabod (H3519) and doxa (G1391) to establish what 'glory' means when given to God",
+      "why": "The entire study depends on knowing what 'glory' IS before asking how it is 'given'",
+      "how": "READ the canonical word studies for H3519, H3513, G1391, G1392, and the TR-kabod-doxa and TR-kabad-doxazo translation relationships. Parse Exod 33:18-19 and 34:5-7 to verify the glory=character equation. Run greek_parser.py on Rev 14:7 to parse dote auto doxan morphologically. Run cross_testament_parallels_v2.py on Isa 6:3.",
+      "narrative": "This is the foundational linguistic investigation. READ `$WORD_STUDIES/H3519-kabowd.md` and `$WORD_STUDIES/G1391-doxa.md` for the canonical semantic ranges. READ `$WORD_STUDIES/TR-kabod-doxa.md` for the translation bridge showing how the LXX infused doxa (classically 'opinion/reputation') with kabod's meanings ('weight, substance, brightness, character'). Running (Ministry 1963) claims kabod denotes 'the very character or noblest part of man' and when applied to God, 'His character and attributes.' Verify this against Exodus 33:18-19 where Moses asks to see God's glory and God responds by proclaiming His goodness and name, then Exod 34:5-7 where the actual content of the glory proclamation is character attributes. Parse Isa 6:3 ('the whole earth is full of his glory') and Hab 2:14 ('filled with the knowledge of the glory of the LORD'). Run greek_parser.py --verse on Rev 14:7 to establish the exact morphology of dote auto doxan. The 2 Cor 4:17 phrase 'eternal weight of glory' (baros doxes) may preserve the kabod='weight' etymology in Greek dress.",
+      "verses": [
+        "Exod 33:18-19",
+        "Exod 34:5-7",
+        "Isa 6:1-3",
+        "Hab 2:14",
+        "Rev 14:6-7",
+        "2 Cor 4:6",
+        "2 Cor 4:17",
+        "John 1:14",
+        "Heb 1:3"
+      ],
+      "strongs": [
+        "H3519",
+        "H3513",
+        "G1391",
+        "G1392"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The 'give glory' confession idiom (Josh 7:19 → John 9:24 → Rev 14:7)",
+      "what": "Trace the 'give glory' idiom as a judicial truth-telling formula from OT through NT",
+      "why": "This idiom establishes a specific confessional dimension to 'give glory' that goes beyond generic praise",
+      "how": "READ H3034-yadah.md and G3670-homologeo.md. Parse Josh 7:19 for the Hebrew construction (ten kabod la-YHWH). Parse John 9:24 for dos doxan to theo. Compare both to Rev 14:7 dote auto doxan. Check the TR-yadah-exomologeo translation relationship.",
+      "narrative": "The 'give glory' idiom in Joshua 7:19 functions as a judicial oath formula: Achan is commanded to 'give glory to the LORD' and 'make confession' — the two are equated. READ `$WORD_STUDIES/H3034-yadah.md` for yadah's dual meaning of 'praise/confess.' READ `$WORD_STUDIES/TR-yadah-exomologeo.md` for how this transfers to Greek. The Hebrew construction ten kabod la-YHWH appears also in Mal 2:2 (latheth kabod) with a curse attached for failure. In John 9:24 the Pharisees use the identical Greek formula dos doxan to theo when demanding truthful testimony from the healed blind man. READ `$WORD_STUDIES/G3670-homologeo.md` and `$WORD_STUDIES/G1843-exomologeo.md` for the confession vocabulary. READ `$WORD_STUDIES/WG-confess.md`. Run greek_parser.py --verse on Josh 7:19 (LXX), John 9:24, and Rev 14:7. The research agent should determine whether the first angel's command carries this confessional force — acknowledging that God is right and humanity is wrong.",
+      "verses": [
+        "Josh 7:19",
+        "John 9:24",
+        "Rev 14:7",
+        "Mal 2:2",
+        "Phil 2:11",
+        "1 John 1:9"
+      ],
+      "strongs": [
+        "H3034",
+        "G3670",
+        "G1843",
+        "H5414",
+        "G1325"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Romans 1:18-25 as the precise inverse of the first angel's message",
+      "what": "Map the Romans 1 degenerative chain against Rev 14:7 to show that the first angel reverses the exact failure Paul describes",
+      "why": "If Rom 1:21 ('they glorified him not as God') describes THE fundamental human failure, then Rev 14:7 ('give glory to him') is THE corrective — connecting the first angel to the core of Pauline theology",
+      "how": "Parse Rom 1:21 (edoxasan, aorist of doxazo) alongside Rev 14:7 (dote doxan). Map the full degenerative chain: knew God (1:21a) → glorified not (1:21b) → became fools (1:22) → exchanged glory (1:23) → God gave up (1:24-28). Compare with Rev 14:7's three-part command (fear → glory → worship). Run cross_testament_parallels_v2.py on Rom 1:21.",
+      "narrative": "Prior study 3am-03 identified Romans 1:18-32 as a structural antiparallel to the first angel's message. This focus area must verify that claim at the Greek level. Parse Rom 1:21 to confirm edoxasan (V-AAI-3P of doxazo G1392) and compare it morphologically with dote (V-2AAM-2P of didomi G1325) + doxan (N-ASF of doxa G1391) in Rev 14:7. Turpin (AiG 2018) argues Paul employs Genesis 1-3 language in Romans 1:23, 26-27 to show the glory-exchange is a reversal of creation order. READ `$WORD_STUDIES/G1392-doxazo.md` for the verb's full range. Map the five-step chain: (1) knew God through creation (Rom 1:19-20, cf. Rev 14:7 'worship him that made'), (2) glorified him not (Rom 1:21, cf. Rev 14:7 'give him glory'), (3) became fools/darkened (Rom 1:21-22), (4) exchanged glory of incorruptible God for images (Rom 1:23, cf. Rev 13 beast-worship), (5) God gave them up (Rom 1:24-28, cf. Rev 14:9-11 plagues). The research agent should retrieve full chapter context for Romans 1 and compare the vocabulary with Revelation 14.",
+      "verses": [
+        "Rom 1:18-23",
+        "Rom 1:24-25",
+        "Rom 3:23",
+        "Rev 14:6-7",
+        "Rev 13:14-15"
+      ],
+      "strongs": [
+        "G1392",
+        "G1391",
+        "G236",
+        "G1504"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Rev 14:7 / Rev 16:9 verbal echo and the seal-plague inclusio",
+      "what": "Verify whether the Greek phrasing of Rev 16:9 precisely echoes Rev 14:7 and determine the structural significance",
+      "why": "If 'repented not to give him glory' (16:9) deliberately mirrors 'give him glory' (14:7), the plagues answer the rejected gospel — and the two verses frame the seal-plague narrative as an inclusio",
+      "how": "Parse both Rev 14:7 and Rev 16:9 with greek_parser.py --verse. Compare dote auto doxan (14:7) with dounai auto doxan (16:9). Also parse Rev 9:20-21 for the earlier refusal-to-repent passage. Run cross_testament_parallels_v2.py on Rev 16:9.",
+      "narrative": "Bohr (RST ch.7) notes the positive/negative echo: the righteous give glory (Rev 14:7), the wicked refuse to give glory (Rev 16:9). But this needs Greek-level verification. Parse Rev 14:7 to identify the exact construction: dote (2nd aorist active imperative of didomi) auto (dative personal pronoun) doxan (accusative of doxa). Then parse Rev 16:9 to verify dounai (aorist active infinitive of didomi) auto doxan uses the same lexemes. READ `$WORD_STUDIES/G1325-didomi.md` for the verb's morphology. The switch from imperative (14:7) to purpose infinitive (16:9 — 'repented not SO AS TO give') is theologically significant: the imperative offered becomes the infinitive refused. Also examine Rev 11:13 where earthquake survivors 'gave glory to the God of heaven' using edokan doxan — a positive response using the same vocabulary. The research agent should map all Revelation occurrences of doxan + didomi to establish the pattern.",
+      "verses": [
+        "Rev 14:7",
+        "Rev 16:9",
+        "Rev 11:13",
+        "Rev 9:20-21",
+        "Rev 15:4",
+        "Rev 4:11"
+      ],
+      "strongs": [
+        "G1325",
+        "G1391",
+        "G3340",
+        "G3341"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Christ as the model of giving glory (John 17:4)",
+      "what": "Determine how Christ's statement 'I have glorified thee on the earth: I have finished the work' establishes completed-work as the mode of glorification",
+      "why": "If Christ's own model of giving glory is completing the Father's assigned work, this transforms 'give glory' from an abstract ideal into a concrete pattern — finish the work God assigned you",
+      "how": "Parse John 17:4 with greek_parser.py to verify the aorist tenses (edoxasa, eteliosa). Run cross_testament_parallels_v2.py on John 17:4. Compare with John 4:34 (Christ's food is to do the Father's will), John 12:28, and John 13:31-32. READ G5048-teleioo.md and G5055-teleo.md for the completion vocabulary.",
+      "narrative": "Bengel's claim that 'I have finished' EXPLAINS 'I have glorified' (eteliosa as epexegetical to edoxasa) makes John 17:4 the definitive statement: glorification = work-completion. READ `$WORD_STUDIES/G5048-teleioo.md` and `$WORD_STUDIES/G5055-teleo.md` for the perfection/completion vocabulary. Parse John 17:4 to verify both verbs are aorist (edoxasa V-AAI-1S, eteliosa V-AAI-1S), spoken from the vantage of completed work — Meyer notes the aorist treats the entire redemptive mission as one accomplished act. Cross-reference with John 4:34 ('My meat is to do the will of him that sent me, and to finish his work') where the same teleioo appears. Examine John 12:28 ('Father, glorify thy name') where the Father responds 'I have both glorified it, and will glorify it again.' Also John 13:31-32 where the betrayal triggers 'Now is the Son of man glorified.' The research agent should trace the glorification theme through John's Gospel to show that Christ's entire life is a single act of glory-giving through obedient work-completion. This establishes the model believers are called to follow in Rev 14:7.",
+      "verses": [
+        "John 17:1-5",
+        "John 4:34",
+        "John 12:28",
+        "John 13:31-32",
+        "John 17:22",
+        "John 21:19"
+      ],
+      "strongs": [
+        "G1392",
+        "G5048",
+        "G5055",
+        "G2041"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The beholding-transformation mechanism (2 Cor 3:18)",
+      "what": "Analyze the katoptrizomai/metamorphoumetha construction to determine how sustained contemplation of God's glory produces character change",
+      "why": "This establishes a distinct mode of glorifying God — not by external action but by internal transformation that reflects His character, resolving the paradox of how creatures without glory can 'give' glory",
+      "how": "Parse 2 Cor 3:18 with greek_parser.py for katoptrizomenoi and metamorphoumetha. READ the grammar reference for aorist imperative and present passive concepts. Run cross_testament_parallels_v2.py on 2 Cor 3:18. Compare with Rom 8:29 (conformed to image), Col 3:10 (renewed in image), 1 John 3:2 (we shall be like him).",
+      "narrative": "The katoptrizomai debate (beholding-as-in-mirror vs. reflecting-as-mirror) is significant. Meyer argues the middle voice never means 'reflecting' in Greek usage, favoring 'beholding.' READ `$WORD_STUDIES/G1504-eikon.md` for the image vocabulary. Parse the verse: katoptrizomenoi (present middle participle — ongoing action) + metamorphoumetha (present passive indicative — we are being transformed) + apo doxes eis doxan (from glory to glory = progressive transformation). EGW interprets 'from glory to glory' as 'from character to character' (8LtMs Lt 23a 1893; 6MR 342.2; 10LtMs Ms 64 1895). The research agent should verify whether the Greek supports reading doxa as 'character' in this context by checking other Pauline uses of doxa. The metamorphoo verb (G3339) is the same word used for Christ's transfiguration (Matt 17:2), suggesting the transformation is real and radical, not metaphorical. Bohr poses the paradox: 'How can we give glory to God when we don't have any glory to give?' — the beholding-transformation mechanism resolves this: glory is received by contemplation and then reflected in character, making glory-giving a participatory process rather than a unilateral offering.",
+      "verses": [
+        "2 Cor 3:18",
+        "Rom 8:29",
+        "Col 3:10",
+        "1 John 3:1-3",
+        "Matt 17:2",
+        "Eph 4:24",
+        "Jas 1:23-24"
+      ],
+      "strongs": [
+        "G2734",
+        "G3339",
+        "G1504",
+        "G3345"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Conduct-based glorification: good works producing doxa (Matt 5:16, 1 Pet 2:12)",
+      "what": "Analyze how visible believer conduct causes human observers to glorify God — a distinct mode where others give glory because of what they see in believers",
+      "why": "This represents a different mechanism from personal confession or internal transformation — here the glory-giving is indirect, produced in observers through witness",
+      "how": "Parse Matt 5:16 and 1 Pet 2:12 with greek_parser.py. Identify kala erga (beautiful/good works) as the trigger for others' doxazo response. Compare with Gal 1:24 ('they glorified God in me') and 2 Cor 9:13. Run cross_testament_parallels_v2.py on Matt 5:16.",
+      "narrative": "In Matt 5:16, Jesus commands believers to let their light shine so that observers 'may see your good works (kala erga) and glorify (doxasosin) your Father which is in heaven.' READ `$WORD_STUDIES/G2570-kalos.md` for kalos (beautiful/noble, not just agathos/morally good) — the works are aesthetically compelling, attracting glory. Parse both Matt 5:16 and 1 Pet 2:12 where Peter uses nearly identical language: 'by your good works, which they shall behold, glorify God in the day of visitation.' The verb 'behold' (epopteuontes in 1 Pet 2:12) suggests sustained observation, not a glance. Compare with Gal 1:24 where Paul's conversion caused others to glorify God 'in me' — the preposition en suggests Paul became the arena where God's glory was visible. READ `$WORD_STUDIES/G2041-ergon.md` for the 'works' vocabulary. The Nave's entry for GLORIFYING GOD lists 'The holy example of the saints may lead others to' glorify God (Matt 5:16, 1 Pet 2:12) as a distinct subcategory. This mode makes glory-giving communal, not individual.",
+      "verses": [
+        "Matt 5:16",
+        "1 Pet 2:12",
+        "Gal 1:24",
+        "2 Cor 9:13",
+        "2 Th 1:12",
+        "Phil 2:15"
+      ],
+      "strongs": [
+        "G2570",
+        "G2041",
+        "G1392",
+        "G5316"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Bodily stewardship as glorification (1 Cor 6:19-20, 10:31, Rom 12:1)",
+      "what": "Determine the scope of bodily glorification — whether Paul's 'glorify God in your body' extends beyond sexual purity to general health and life-stewardship",
+      "why": "This grounds glory-giving in concrete, everyday practice and resolves whether the first angel's call to 'give glory' includes care of the body",
+      "how": "Parse 1 Cor 6:19-20 for doxasate (aorist imperative), naos (temple), egorasthete (purchased). Parse 1 Cor 10:31 for the universalizing 'whatsoever ye do.' Parse Rom 12:1 for living-sacrifice language. READ G4983-soma.md and G3485-naos.md.",
+      "narrative": "Precept Austin notes doxasate is an aorist imperative — commanding immediate, decisive action, not gradual adjustment. READ `$WORD_STUDIES/G4983-soma.md` for soma (body) and `$WORD_STUDIES/G3485-naos.md` for naos (inner temple, not hieron/temple precinct). The purchase-price argument (egorasthete, aorist passive of agorazo — 'you were bought with a price') establishes that the body's ownership transferred from Sin to Christ, grounding the obligation to glorify God bodily. READ `$WORD_STUDIES/G1805-exagorazo.md` for the redemption vocabulary. EGW connects 1 Cor 6:19-20 directly to health reform (18LtMs Lt 30, 1903). Bohr (3AM Lesson #4 p.33) also connects health to glory-giving capacity. The immediate context in 1 Cor 6 is sexual purity (porneia), but 1 Cor 10:31 universalizes: 'Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.' Romans 12:1 extends this: 'present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service (logiken latreian).' The research agent should parse all three passages and determine whether the scope legitimately extends beyond sexual purity to all bodily stewardship.",
+      "verses": [
+        "1 Cor 6:19-20",
+        "1 Cor 10:31",
+        "Rom 12:1",
+        "1 Cor 3:16-17",
+        "1 Th 5:23"
+      ],
+      "strongs": [
+        "G1392",
+        "G4983",
+        "G3485",
+        "G59",
+        "G3056"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Fruit-bearing as glorification (John 15:8, Phil 1:11)",
+      "what": "Analyze how bearing fruit glorifies the Father and what 'fruit' specifically means in the glory context",
+      "why": "Christ explicitly says 'Herein is my Father glorified, that ye bear much fruit' — making fruit the stated mechanism of glorification in the vine metaphor",
+      "how": "Parse John 15:8 for edoxasthe (aorist passive of doxazo) and the connection to fruit-bearing. READ G2590-karpos.md. Compare with Phil 1:11 ('fruits of righteousness... unto the glory and praise of God'), Gal 5:22-23 (fruit of the Spirit), and John 15:1-8 full chapter context.",
+      "narrative": "In John 15:8, fruit-bearing IS glorification. READ `$WORD_STUDIES/G2590-karpos.md` for the karpos vocabulary. Parse the verse: 'en touto edoxasthe ho pater mou' — 'in this my Father is glorified.' The aorist passive edoxasthe may be gnomic (timeless truth) or proleptic (anticipating the result). The fruit metaphor requires abiding in the vine (menete en emoi, v.4 — present imperative for ongoing action). Fruit is not self-generated but Christ-generated: 'without me ye can do nothing' (v.5). This parallels the beholding-transformation mechanism — the branch does not produce fruit by effort but by connection. Phil 1:11 specifies: 'fruits of righteousness, which are BY Jesus Christ, unto the glory and praise of God' — the dia Iesou Christou makes Christ the source. The Nave's entry lists 'Bringing forth fruits of righteousness' (John 15:8, Phil 1:11) under GLORIFYING GOD 'Accomplished by.' Retrieve full John 15:1-8 context.",
+      "verses": [
+        "John 15:1-8",
+        "Phil 1:11",
+        "Gal 5:22-23",
+        "Col 1:10",
+        "Matt 13:23"
+      ],
+      "strongs": [
+        "G2590",
+        "G1392",
+        "G3306"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The glory-judgment connection: why 'the hour of his judgment is come' follows 'give glory'",
+      "what": "Determine the grammatical and theological relationship between 'give glory to him' and 'for (hoti) the hour of his judgment is come' in Rev 14:7",
+      "why": "The hoti clause may be causal (because judgment is coming, therefore give glory), evidential (this is how you know to give glory), or resultative — the relationship determines whether judgment motivates or explains glory-giving",
+      "how": "Parse Rev 14:7 for the hoti clause relationship. READ G2920-krisis.md for the judgment vocabulary. Compare with Eccl 12:13-14 (fear → commandments → judgment template), Acts 17:30-31 (Paul at Athens: God commands repentance because He has appointed a day of judgment), and Rom 2:16.",
+      "narrative": "The Expositor's Greek Testament claims 'he who has created has the right to judge his creatures, as well as to receive their worship' — linking Creator-right-to-judge as the logic connecting glory and judgment. Parse Rev 14:7 to identify the hoti (G3754) clause: is it causal ('give glory BECAUSE judgment has come') or content-declarative ('the everlasting gospel, WHICH IS THAT the hour of judgment has come')? READ `$WORD_STUDIES/G2920-krisis.md` — prior study gsp-07 established that krisis (judicial process) differs from katakrima (condemnation). READ `$WORD_STUDIES/TR-riyb-krisis.md` for the covenant-lawsuit background where riyb (H7378) translates to krisis. Prior study 3am-02 established the covenant-lawsuit pattern underlying all three angels. Eccl 12:13-14 provides the OT template: fear God → keep commandments → judgment comes. The first angel restates this universally. Acts 17:30-31 shows Paul using the same logic: God 'commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world.' The research agent should parse the hoti clause and retrieve full context for Rev 14:6-7 and the Ecclesiastes passage.",
+      "verses": [
+        "Rev 14:7",
+        "Eccl 12:13-14",
+        "Acts 17:30-31",
+        "Rom 2:16",
+        "Psa 96:13",
+        "Psa 50:3-6",
+        "Dan 7:9-10"
+      ],
+      "strongs": [
+        "G2920",
+        "G3754",
+        "G2064",
+        "H7378",
+        "H4941"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Negative examples: the consequences of refusing to glorify God",
+      "what": "Catalog biblical examples of judgment falling on those who fail to give God glory",
+      "why": "The negative examples establish that glory-refusal is not passive negligence but active rebellion — and that Scripture consistently links it to divine judgment",
+      "how": "Collect all negative examples from Nave's GLORIFYING GOD entry ('the wicked averse to', 'punishment for not'). Parse Dan 5:23, Acts 12:23, Mal 2:2, Rom 1:21. Run cross_testament_parallels_v2.py on Dan 5:23.",
+      "narrative": "Nave's GLORIFYING GOD lists specific punishments: Dan 5:23,30 (Belshazzar praised gods of gold/silver but 'the God in whose hand thy breath is... hast thou not glorified' — judgment that night), Mal 2:2 ('if ye will not lay it to heart, to give glory unto my name... I will curse your blessings'), Acts 12:23 (Herod 'gave not God the glory: and he was eaten of worms'). Rom 1:21 describes the general pattern: 'they glorified him not as God... their foolish heart was darkened.' Rev 16:9 is the eschatological climax: under the fourth plague 'they repented not to give him glory' — the precise verbal echo of the rejected call in 14:7. The research agent should also examine Lev 10:3 (Nadab and Abihu — 'I will be glorified in them that come nigh me') and Num 20:12 (Moses failed to 'sanctify me' by striking the rock). These negative examples establish that glory-giving is not optional — it is the creature's fundamental obligation, and its refusal triggers the most severe divine responses.",
+      "verses": [
+        "Dan 5:23",
+        "Acts 12:23",
+        "Mal 2:2",
+        "Rom 1:21",
+        "Rev 16:9",
+        "Lev 10:3",
+        "Num 20:12"
+      ],
+      "strongs": [
+        "G1392",
+        "H3513",
+        "G3340"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Abraham's faith as glory-giving (Rom 4:20) and the faith-glory connection",
+      "what": "Analyze how Paul frames Abraham's unwavering faith as an act of 'giving glory to God' to establish faith itself as a mode of glorification",
+      "why": "Rom 4:20 explicitly states Abraham was 'strong in faith, giving glory to God' — making faith the mechanism, not merely the context, of glorification",
+      "how": "Parse Rom 4:20 for endynamothe te pistei dous doxan to theo. Identify dous (aorist participle of didomi) + doxan (accusative of doxa) as the same construction as Rev 14:7. Run cross_testament_parallels_v2.py on Rom 4:20.",
+      "narrative": "Romans 4:20 uses the exact 'give glory' construction found in Revelation 14:7: dous doxan to theo. Parse the verse: endynamothe (aorist passive — 'was strengthened') te pistei (instrumental dative — 'by faith') dous (aorist active participle of didomi — 'giving') doxan (accusative — 'glory') to theo (dative — 'to God'). READ `$WORD_STUDIES/G1325-didomi.md`. The participle dous is circumstantial, describing HOW Abraham glorified God — by trusting the promise despite physical impossibility. This means faith = glory-giving. Not wavering (me diakritheis) at the promise through unbelief, but being fully persuaded (plerophoretheis) that God was able to perform. This links directly to Heb 11:6 ('without faith it is impossible to please him') and to the first angel's connection of faith with glory. Nave's GLORIFYING GOD lists 'Relying on his promises' (Rom 4:20) as one way glorification is 'Accomplished by.' The research agent should trace this faith-glory connection through Romans 4.",
+      "verses": [
+        "Rom 4:20",
+        "Heb 11:6",
+        "Rom 4:18-22",
+        "Rev 14:7",
+        "Rev 14:12"
+      ],
+      "strongs": [
+        "G1325",
+        "G1391",
+        "G4102",
+        "G4100"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "The core noun — glory; foundational to the entire study; canonical entry exists"
+    },
+    {
+      "strongs": "G1392",
+      "word": "doxazo",
+      "reason": "The core verb — to glorify; used in Rom 1:21 (edoxasan), John 17:4 (edoxasa), John 15:8 (edoxasthe); canonical entry exists"
+    },
+    {
+      "strongs": "H3519",
+      "word": "kabowd",
+      "reason": "Hebrew glory — the OT foundation; kabod = weight/substance; canonical entry exists"
+    },
+    {
+      "strongs": "H3513",
+      "word": "kabad",
+      "reason": "Hebrew verb — to be heavy, to honor, to glorify; root of kabod; canonical entry exists"
+    },
+    {
+      "strongs": "G1325",
+      "word": "didomi",
+      "reason": "The verb 'give' in 'give glory' (dote doxan); critical for the idiom analysis; canonical entry exists"
+    },
+    {
+      "strongs": "H3034",
+      "word": "yadah",
+      "reason": "Hebrew confession/praise — dual meaning (praise AND confess); Josh 7:19 background; canonical entry exists"
+    },
+    {
+      "strongs": "G3670",
+      "word": "homologeo",
+      "reason": "Greek confess/acknowledge — 'say the same'; confession-glory link; canonical entry exists"
+    },
+    {
+      "strongs": "G3339",
+      "word": "metamorphoo",
+      "reason": "Transform/transfigure — 2 Cor 3:18 beholding-transformation; same verb as Christ's transfiguration; NO canonical entry"
+    },
+    {
+      "strongs": "G2734",
+      "word": "katoptrizomai",
+      "reason": "Beholding as in a mirror — 2 Cor 3:18; hapax legomenon; beholding vs. reflecting debate; NO canonical entry"
+    },
+    {
+      "strongs": "G1504",
+      "word": "eikon",
+      "reason": "Image — used in 2 Cor 3:18 (same image), Rom 1:23 (changed glory into an image), Col 1:15 (image of God); canonical entry exists"
+    },
+    {
+      "strongs": "G2590",
+      "word": "karpos",
+      "reason": "Fruit — John 15:8 fruit-bearing as glorification; Phil 1:11 fruits of righteousness; canonical entry exists"
+    },
+    {
+      "strongs": "G4983",
+      "word": "soma",
+      "reason": "Body — 1 Cor 6:19-20 glorify God in your body; Rom 12:1 present your bodies; canonical entry exists"
+    },
+    {
+      "strongs": "G3485",
+      "word": "naos",
+      "reason": "Temple/sanctuary — body as naos (inner temple) in 1 Cor 6:19; canonical entry exists"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "Judgment — the judgment announcement that follows 'give glory'; canonical entry exists"
+    },
+    {
+      "strongs": "G2570",
+      "word": "kalos",
+      "reason": "Good/beautiful — the kala erga (beautiful works) that cause others to glorify God in Matt 5:16; canonical entry exists"
+    },
+    {
+      "strongs": "G5048",
+      "word": "teleioo",
+      "reason": "To complete/perfect — John 17:4 'I have finished the work'; completion as glorification mode; canonical entry exists"
+    },
+    {
+      "strongs": "G5055",
+      "word": "teleo",
+      "reason": "To finish/complete — related to teleioo; completion vocabulary; canonical entry exists"
+    },
+    {
+      "strongs": "G3340",
+      "word": "metanoeo",
+      "reason": "Repent — Rev 16:9 'repented not to give him glory'; the refusal to repent is the refusal to glorify; canonical entry exists"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "Parse dote auto doxan — aorist imperative of didomi + dative pronoun + accusative of doxa; the core construction"
+    },
+    {
+      "verse": "Rev 16:9",
+      "reason": "Parse dounai auto doxan — aorist infinitive of didomi; compare with Rev 14:7 imperative"
+    },
+    {
+      "verse": "Rom 1:21",
+      "reason": "Parse edoxasan (aorist of doxazo) — the inverse of Rev 14:7; 'they glorified him not as God'"
+    },
+    {
+      "verse": "John 17:4",
+      "reason": "Parse edoxasa se (aorist of doxazo) and eteliosa (aorist of teleioo) — Christ's model of glorification"
+    },
+    {
+      "verse": "2 Cor 3:18",
+      "reason": "Parse katoptrizomenoi (present middle participle) and metamorphoumetha (present passive) — beholding-transformation morphology"
+    },
+    {
+      "verse": "1 Cor 6:20",
+      "reason": "Parse doxasate (aorist imperative of doxazo) — urgent bodily glorification command"
+    },
+    {
+      "verse": "John 15:8",
+      "reason": "Parse edoxasthe (aorist passive of doxazo) — the Father is glorified through fruit-bearing"
+    },
+    {
+      "verse": "Rom 4:20",
+      "reason": "Parse dous doxan to theo (aorist participle of didomi) — faith as giving glory; same construction as Rev 14:7"
+    },
+    {
+      "verse": "Matt 5:16",
+      "reason": "Parse doxasosin (aorist subjunctive of doxazo) — purpose clause for conduct-based glorification"
+    },
+    {
+      "verse": "Mal 2:2",
+      "reason": "Parse latheth kabod lishmi — Hebrew 'to give glory to my name'; compare with Rev 14:7 Greek construction"
+    },
+    {
+      "verse": "Josh 7:19",
+      "reason": "Parse ten kabod la-YHWH (give glory to YHWH) — the confession idiom in its judicial context"
+    },
+    {
+      "verse": "Exod 33:18-19",
+      "reason": "Parse hareni na eth kebodeka (show me thy glory) and God's response — glory = goodness equation"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "OT and NT parallels for 'give glory to him' — expect echoes in Josh 7:19, Mal 2:2, Psa 96:7-9"
+    },
+    {
+      "verse": "Rom 1:21",
+      "reason": "Cross-testament parallels for 'glorified him not as God' — connects to OT idolatry passages"
+    },
+    {
+      "verse": "2 Cor 3:18",
+      "reason": "OT background for beholding-transformation — Exod 34:29-35 (Moses' shining face)"
+    },
+    {
+      "verse": "John 17:4",
+      "reason": "OT parallels for glorification through completed work"
+    },
+    {
+      "verse": "1 Cor 6:20",
+      "reason": "OT background for bodily glorification and the temple-body metaphor"
+    },
+    {
+      "verse": "Rev 16:9",
+      "reason": "Cross-testament parallels for refusal to repent under judgment"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory), G1391 — semantic range, LXX bridge from kabod"
+      },
+      {
+        "path": "$WORD_STUDIES/G1392-doxazo.md",
+        "description": "doxazo (to glorify), G1392 — verb forms and usage"
+      },
+      {
+        "path": "$WORD_STUDIES/H3519-kabowd.md",
+        "description": "kabowd (glory), H3519 — Hebrew glory/weight/honor"
+      },
+      {
+        "path": "$WORD_STUDIES/H3513-kabad.md",
+        "description": "kabad (to be heavy, to honor), H3513 — root verb of kabod"
+      },
+      {
+        "path": "$WORD_STUDIES/G1325-didomi.md",
+        "description": "didomi (to give), G1325 — the verb in 'give glory'"
+      },
+      {
+        "path": "$WORD_STUDIES/H3034-yadah.md",
+        "description": "yadah (to praise/confess), H3034 — dual meaning verb"
+      },
+      {
+        "path": "$WORD_STUDIES/G3670-homologeo.md",
+        "description": "homologeo (to confess), G3670 — confession/acknowledgment"
+      },
+      {
+        "path": "$WORD_STUDIES/G1843-exomologeo.md",
+        "description": "exomologeo (to confess/acknowledge), G1843"
+      },
+      {
+        "path": "$WORD_STUDIES/G1504-eikon.md",
+        "description": "eikon (image), G1504 — image/likeness in transformation passages"
+      },
+      {
+        "path": "$WORD_STUDIES/G2590-karpos.md",
+        "description": "karpos (fruit), G2590 — fruit-bearing vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G4983-soma.md",
+        "description": "soma (body), G4983 — body as arena of glorification"
+      },
+      {
+        "path": "$WORD_STUDIES/G3485-naos.md",
+        "description": "naos (temple/sanctuary), G3485 — body as inner temple"
+      },
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment), G2920 — the judgment announcement"
+      },
+      {
+        "path": "$WORD_STUDIES/G2570-kalos.md",
+        "description": "kalos (good/beautiful), G2570 — kala erga in Matt 5:16"
+      },
+      {
+        "path": "$WORD_STUDIES/G5048-teleioo.md",
+        "description": "teleioo (to complete/perfect), G5048 — completion vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G5055-teleo.md",
+        "description": "teleo (to finish), G5055 — John 17:4 and 19:30"
+      },
+      {
+        "path": "$WORD_STUDIES/G3340-metanoeo.md",
+        "description": "metanoeo (to repent), G3340 — Rev 16:9 refusal"
+      },
+      {
+        "path": "$WORD_STUDIES/G2041-ergon.md",
+        "description": "ergon (work), G2041 — works vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G4100-pisteuo.md",
+        "description": "pisteuo (to believe), G4100 — faith-glory connection"
+      },
+      {
+        "path": "$WORD_STUDIES/G5401-phobos.md",
+        "description": "phobos (fear), G5401 — companion imperative to 'give glory'"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (to fear), G5399 — the fear verb in Rev 14:7"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (to worship), G4352 — third imperative in Rev 14:7"
+      },
+      {
+        "path": "$WORD_STUDIES/H5414-nathan.md",
+        "description": "nathan (to give), H5414 — Hebrew 'give' in OT glory passages"
+      },
+      {
+        "path": "$WORD_STUDIES/G1922-epignosis.md",
+        "description": "epignosis (full knowledge), G1922 — Rom 1:28 knowledge refusal"
+      },
+      {
+        "path": "$WORD_STUDIES/G4561-sarx.md",
+        "description": "sarx (flesh), G4561 — Rom 1:24 flesh/body context"
+      },
+      {
+        "path": "$WORD_STUDIES/G3056-logos.md",
+        "description": "logos (word/reason), G3056 — logiken latreian in Rom 12:1"
+      },
+      {
+        "path": "$WORD_STUDIES/G166-aionios.md",
+        "description": "aionios (eternal), G166 — 'everlasting gospel' context"
+      },
+      {
+        "path": "$WORD_STUDIES/G1805-exagorazo.md",
+        "description": "exagorazo (to redeem/buy out), G1805 — redemption-purchase background"
+      },
+      {
+        "path": "$WORD_STUDIES/G2588-kardia.md",
+        "description": "kardia (heart), G2588 — Rom 1:21 'their foolish heart was darkened'"
+      },
+      {
+        "path": "$WORD_STUDIES/G1849-exousia.md",
+        "description": "exousia (authority/power), G1849"
+      },
+      {
+        "path": "$WORD_STUDIES/G2889-kosmos.md",
+        "description": "kosmos (world), G2889"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-kabod-doxa.md",
+        "description": "Translation relationship: kabod → doxa (glory bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-kabad-doxazo.md",
+        "description": "Translation relationship: kabad → doxazo (glorify bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yadah-exomologeo.md",
+        "description": "Translation relationship: yadah → exomologeo (confess bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-riyb-krisis.md",
+        "description": "Translation relationship: riyb → krisis (lawsuit → judgment bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shachah-proskyneo.md",
+        "description": "Translation relationship: shachah → proskyneo (worship bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yare-phobeo.md",
+        "description": "Translation relationship: yare → phobeo (fear bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-glory.md",
+        "description": "Word group: glory — all OT/NT glory vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-confess.md",
+        "description": "Word group: confess — confession vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-worship.md",
+        "description": "Word group: worship — worship vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-praise-thanksgiving.md",
+        "description": "Word group: praise-thanksgiving — praise vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-glory.md",
+        "description": "Word group: glory — comprehensive glory vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/G3107-makarios.md",
+        "description": "makarios (blessed), G3107"
+      },
+      {
+        "path": "$WORD_STUDIES/G3142-martyrion.md",
+        "description": "martyrion (testimony), G3142"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/mood-aorist-imperative.md",
+        "description": "Aorist imperative — the mood of Rev 14:7 dote and 1 Cor 6:20 doxasate; specific/decisive command"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect.md",
+        "description": "Perfect tense — John 17:4 edoxasa (aorist but treated with perfective force); completion vocabulary"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect-indicative.md",
+        "description": "Perfect indicative — for tetelestai type constructions"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-present-active-indicative.md",
+        "description": "Present active indicative — for metamorphoumetha in 2 Cor 3:18 (ongoing transformation)"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/divine-passive.md",
+        "description": "Divine passive — for edoxasthe in John 15:8 (the Father is glorified, passive with divine agent)"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/aorist-passive-indicative.md",
+        "description": "Aorist passive indicative — for various passive glorification constructions"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-legon-discourse.md",
+        "description": "Present participle legon — the legon introducing the angel's speech in Rev 14:7"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/present-tense-perfect-semantics.md",
+        "description": "Perfective present — for elthen (has come) in Rev 14:7 'the hour of his judgment is come'"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G3339",
+      "word": "metamorphoo",
+      "reason": "Transform/transfigure — central to 2 Cor 3:18; same verb as Matt 17:2 transfiguration; NO canonical entry exists"
+    },
+    {
+      "strongs": "G2734",
+      "word": "katoptrizomai",
+      "reason": "Beholding as in a mirror — hapax legomenon in 2 Cor 3:18; critical for beholding-vs-reflecting debate; NO canonical entry exists"
+    },
+    {
+      "strongs": "G3345",
+      "word": "metaschematizo",
+      "reason": "To transform/disguise — related transformation vocabulary; 2 Cor 11:13-15; NO canonical entry exists"
+    },
+    {
+      "strongs": "G59",
+      "word": "agorazo",
+      "reason": "To purchase in the marketplace — 1 Cor 6:20 'bought with a price'; purchase-price argument for bodily glorification; NO canonical entry exists"
+    },
+    {
+      "strongs": "H8416",
+      "word": "tehillah",
+      "reason": "Praise/glory — Hebrew praise vocabulary connected to glorification; NO canonical entry exists"
+    },
+    {
+      "strongs": "H1984",
+      "word": "halal",
+      "reason": "To praise/shine — root of 'hallelujah'; praise as glory-giving; NO canonical entry exists"
+    },
+    {
+      "strongs": "G134",
+      "word": "aineo",
+      "reason": "To praise God — NT praise vocabulary; NO canonical entry exists"
+    },
+    {
+      "strongs": "G1740",
+      "word": "endoxazo",
+      "reason": "To glorify in — 2 Th 1:10, 12; glorified IN saints; NO canonical entry exists"
+    },
+    {
+      "strongs": "",
+      "word": "Greek middle voice in 2 Cor 3:18",
+      "reason": "The katoptrizomenoi middle voice debate (beholding vs. reflecting) needs grammatical reference; NO entry exists"
+    },
+    {
+      "strongs": "",
+      "word": "Present passive transformation constructions",
+      "reason": "The metamorphoumetha construction in 2 Cor 3:18 — present passive ongoing transformation; helpful grammar reference"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "GLORIFYING GOD",
+      "subtopic": "GENERAL",
+      "verse_count": 45
+    },
+    {
+      "name": "GLORY",
+      "subtopic": "SPIRITUAL AND ETERNAL",
+      "verse_count": 30
+    },
+    {
+      "name": "PRAISE",
+      "subtopic": "UNCLASSIFIED SCRIPTURES",
+      "verse_count": 85
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "COMMANDED AND UNCLASSIFIED",
+      "verse_count": 60
+    },
+    {
+      "name": "CONFESSION",
+      "subtopic": "OF CHRIST AND OF SIN",
+      "verse_count": 20
+    },
+    {
+      "name": "IMAGE",
+      "subtopic": "FIGURATIVE - REGENERATED INTO",
+      "verse_count": 8
+    },
+    {
+      "name": "MIRROR",
+      "subtopic": "FIGURATIVE",
+      "verse_count": 3
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "FOLLY AND DENUNCIATIONS",
+      "verse_count": 90
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 50
+    },
+    {
+      "name": "REPENTANCE",
+      "subtopic": "UNCLASSIFIED AND INSTANCES",
+      "verse_count": 60
+    },
+    {
+      "name": "OBEDIENCE",
+      "subtopic": "GENERAL AND EXEMPLIFIED",
+      "verse_count": 55
+    },
+    {
+      "name": "SANCTIFICATION",
+      "subtopic": "UNCLASSIFIED",
+      "verse_count": 25
+    },
+    {
+      "name": "LIGHT",
+      "subtopic": "FIGURATIVE AND SYMBOLICAL",
+      "verse_count": 20
+    },
+    {
+      "name": "TESTIMONY",
+      "subtopic": "RELIGIOUS",
+      "verse_count": 25
+    },
+    {
+      "name": "TRANSFIGURATION",
+      "subtopic": "OF MOSES AND JESUS",
+      "verse_count": 3
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "Defines 'give glory to God' as 'to reveal His character in our own and thus make Him known' (3AM 55.3; Ms 16, 1890)",
+      "directive": "Verify biblically whether Scripture equates glory with character revelation by examining Exod 33:18-19 with 34:6-7, John 1:14, and 2 Cor 4:6"
+    },
+    {
+      "source": "EGW",
+      "claim": "Interprets 'from glory to glory' in 2 Cor 3:18 as 'from character to character' (8LtMs Lt 23a, 1893; 6MR 342.2; 10LtMs Ms 64, 1895)",
+      "directive": "Verify whether the Greek supports reading doxa as 'character' in this context — check all Pauline uses of doxa to establish semantic range"
+    },
+    {
+      "source": "EGW",
+      "claim": "Connects 1 Cor 6:19-20 (glorify God in body) directly to health reform (18LtMs Lt 30, 1903)",
+      "directive": "Verify whether Paul's context in 1 Cor 6:19-20 supports extending bodily glorification beyond sexual purity to general health stewardship — examine 1 Cor 10:31 universalizing clause"
+    },
+    {
+      "source": "EGW",
+      "claim": "Uses Rom 1:21 as describing the downward trajectory of those who refuse to glorify God (CTr 40.1)",
+      "directive": "Verify the precise verbal connection between edoxasan (Rom 1:21, aorist of doxazo) and doxan (Rev 14:7, noun doxa) — different forms but same root"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Distinguishes types of glory (visible splendor vs. character) and argues the first angel refers specifically to character-glory (3AM Lesson #4, p. 27)",
+      "directive": "Verify against the kabod/doxa semantic range in Exod 33:18-19, Isa 6:3, John 1:14 — determine whether the distinction holds biblically"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Poses the paradox: 'How can we give glory to God when we don't have any glory to give?' (3AM Lesson #4, p. 27)",
+      "directive": "Verify whether the beholding-transformation mechanism (2 Cor 3:18) resolves this by showing glory received before given — and whether Rom 3:23 ('come short of the glory') confirms the deficit"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Notes the Rev 14:7 / Rev 16:9 positive-negative echo (RST ch.7, p. 207)",
+      "directive": "Verify the exact Greek phrasing: dote auto doxan (14:7 aorist imperative) vs. dounai auto doxan (16:9 aorist infinitive) — determine whether this is a precise verbal echo or a thematic parallel"
+    },
+    {
+      "source": "Running (Ministry 1963)",
+      "claim": "Kabod carries root meaning 'weight/heaviness' and doxa in the NT carries kabod's meanings through the LXX bridge",
+      "directive": "Verify by reading TR-kabod-doxa.md translation relationship and checking the kabod root meaning in H3513-kabad.md"
+    },
+    {
+      "source": "Tactical Christianity",
+      "claim": "Hebrew yadah carries dual meaning 'to praise/give glory' AND 'to confess an offence' — confession and glory-giving are unified acts",
+      "directive": "Verify by reading H3034-yadah.md and checking Josh 7:19 where both meanings appear in the same verse"
+    },
+    {
+      "source": "Bengel (via BibleHub)",
+      "claim": "In John 17:4, 'I have finished' (eteliosa) EXPLAINS 'I have glorified' (edoxasa) — work-completion IS glorification",
+      "directive": "Parse John 17:4 to verify grammatical relationship between the two aorist verbs — determine if eteliosa is epexegetical to edoxasa"
+    },
+    {
+      "source": "Precept Austin",
+      "claim": "Doxasate in 1 Cor 6:20 is aorist imperative commanding immediate, urgent action; the agorazo purchase-price argument grounds bodily obligation",
+      "directive": "Parse 1 Cor 6:20 to verify aorist imperative morphology and examine the purchase-price metaphor in context"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "Primary glory-giving passages",
+      "description": "The core texts defining what it means to give glory to God",
+      "refs": [
+        "Rev 14:6-7",
+        "Rev 16:9",
+        "John 17:1-5",
+        "1 Cor 6:19-20",
+        "1 Cor 10:31",
+        "2 Cor 3:18",
+        "Matt 5:16",
+        "John 15:8"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "The kabod/doxa equation passages",
+      "description": "Passages where glory is equated with character, presence, or divine attributes",
+      "refs": [
+        "Exod 33:18-19",
+        "Exod 34:5-7",
+        "Isa 6:1-3",
+        "John 1:14",
+        "2 Cor 4:6",
+        "Heb 1:3",
+        "Hab 2:14"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Romans 1 inverse framework",
+      "description": "The degenerative chain that inverts Rev 14:7",
+      "refs": [
+        "Rom 1:18-23",
+        "Rom 1:24-25",
+        "Rom 3:23"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Confession idiom chain",
+      "description": "The 'give glory' = confession trajectory",
+      "refs": [
+        "Josh 7:19",
+        "John 9:24",
+        "Mal 2:2",
+        "1 John 1:9"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Negative examples",
+      "description": "Judgment for failing to glorify God",
+      "refs": [
+        "Dan 5:23",
+        "Acts 12:23",
+        "Lev 10:3",
+        "Num 20:12",
+        "Rev 9:20-21"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Transformation/image passages",
+      "description": "The beholding-transformation mechanism and image-renewal",
+      "refs": [
+        "2 Cor 3:18",
+        "Rom 8:29",
+        "Col 3:10",
+        "Eph 4:24",
+        "1 John 3:1-3"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Conduct and fruit-bearing",
+      "description": "Visible works and fruit that produce glorification",
+      "refs": [
+        "Matt 5:16",
+        "1 Pet 2:12",
+        "John 15:1-8",
+        "Phil 1:11",
+        "Gal 1:24"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Eschatological glory passages",
+      "description": "Future and cosmic glory themes",
+      "refs": [
+        "Rev 18:1",
+        "Rev 15:4",
+        "Rev 4:11",
+        "Rev 5:13",
+        "Rev 21:11,23",
+        "Hab 2:14"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-12",
+    "Rev 16:1-11",
+    "Rom 1:18-32",
+    "John 17:1-8",
+    "2 Cor 3:7-18",
+    "1 Cor 6:12-20",
+    "1 Cor 10:23-33",
+    "John 15:1-8",
+    "Exod 33:12-34:9",
+    "Matt 5:13-16",
+    "Rom 4:18-25",
+    "Rom 12:1-2"
+  ],
+  "research_instructions": "## Additional Research Directives\n\n1. **Map ALL Revelation occurrences of didomi + doxa** — Rev 4:9, 11:13, 14:7, 16:9, 19:7 — to establish the pattern of glory-giving/refusing across the book. Determine which characters give glory and which refuse.\n\n2. **Verify the hoti clause in Rev 14:7** — Is hoti causal ('because'), content-declarative ('namely that'), or result ('so that')? The grammatical relationship determines whether judgment motivates or explains glory-giving.\n\n3. **Check whether katoptrizomai (2 Cor 3:18) is truly a hapax legomenon** in the NT and trace any LXX usage. The beholding-vs-reflecting debate significantly affects the theology of glory-giving.\n\n4. **Compare John 17:4 with John 19:30 (tetelestai)** — both use the completion vocabulary. Is Christ's dying statement a final act of glorification?\n\n5. **Trace the 'glory exchange' in Rom 1:23** — 'changed (ellaxan) the glory of the uncorruptible God into an image (eikoni)' — and compare with the Revelation beast-image. Is beast-worship the eschatological form of the Rom 1:23 exchange?\n\n6. **Examine Eccl 12:13-14 as the OT template** that the first angel restates: fear God → keep commandments → judgment comes. Where does 'give glory' fit in Ecclesiastes' framing?\n\n7. **Check whether Rev 14:7's 'worship him that made heaven, and earth' echoes Exod 20:11** — the Sabbath commandment's creation language. If so, the three imperatives (fear, glory, worship) may intentionally recall the Decalogue.\n\n8. **From EGW corpus**: The definitive statement 'To give glory to God is to reveal His character in our own and thus make Him known' (3AM 55.3) should be tested against the biblical evidence, not assumed. Does Scripture independently support the equation glory = character revelation?",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 79,
+    "primary_verses": 31,
+    "supporting_verses": 48,
+    "ot_verses": 7,
+    "nt_verses": 24,
+    "focus_area_count": 12,
+    "word_study_count": 18,
+    "parsing_count": 12,
+    "parallel_count": 6
+  }
+}

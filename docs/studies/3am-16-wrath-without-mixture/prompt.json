@@ -1,0 +1,1402 @@
+{
+  "question": "What does 'the wine of the wrath of God, which is poured out without mixture into the cup of his indignation' (Rev 14:10) mean? How do thumos (G2372) and orge (G3709) function together? What does akratos (G194, unmixed) mean? What does 'tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb' (Rev 14:10) mean? What does 'the smoke of their torment ascendeth up for ever and ever' (Rev 14:11) mean — eternal conscious torment or permanent destruction? Address using OT prophetic convention: Isaiah 34:10 (Edom), Jude 7 (Sodom). How does Malachi 4:1-3 define the final outcome? What does 'no rest day nor night' describe?",
+  "prior_research_summary": "12+ prior studies found directly relevant. etc7-11 comprehensively treated smoke-ascending-forever (Isa 34:10/Rev 14:11/19:3), establishing that fivefold 'found no more at all' in Rev 18 proves the formula describes completed destruction. smoke-imagery-hebrew-mind established the fire-as-agent/smoke-as-witness distinction. everlasting-punishment established the Hebrews pattern (aionios + result-noun = permanent result of completed act). eternal-fire established Jude 7/2 Pet 2:6 ashes connection. for-ever-and-ever-revelation catalogued all 13 occurrences. etc7-15-ect-strongest-case evaluated 8 ECT arguments finding 0 at E-tier. 3am-14 established the anapausis/Rev 4:8 inversion. 3am-11 established the cup-of-wrath trajectory and akratos reversal. External corpus (EGW, Bohr, Haskell, Froom, pioneers) uniformly supports conditionalist reading with root-and-branch, ashes vocabulary. Web research documented the full traditionalist case (Peterson, Beale, Blanchard, Pawson) and conditionalist counter (Fudge, Stott, Pinnock, Dear).",
+  "required_verses": [
+    {
+      "ref": "Rev 14:9-11",
+      "reason": "PRIMARY TEXT — the third angel's warning with thumos, orge, akratos, basanismos, smoke ascending forever, no rest",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:8",
+      "reason": "Babylon's wine — polarity flip from seductive wine to judgment wine",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 16:19",
+      "reason": "thumos and orge paired again — 'the cup of the wine of the fierceness of his wrath'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 19:15",
+      "reason": "Five-stacked genitive chain — thumos climax, treading the winepress",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 19:3",
+      "reason": "Smoke ascending forever applied to Babylon — parallel formula to 14:11",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:21-23",
+      "reason": "Fivefold 'found no more at all' cessation language for Babylon",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 4:8",
+      "reason": "Living creatures 'rest not day and night' — identical construction to 14:11 but describing praise, not torment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 20:9-10",
+      "reason": "Subject differentiation — 'devoured' for humans vs. 'tormented' for devil/beast/false prophet",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 20:14-15",
+      "reason": "Second death — final vocabulary for human wicked at lake of fire",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 15:1,7",
+      "reason": "Seven last plagues as 'unmixed wrath' — Haskell's connection",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 15:8",
+      "reason": "Temple filled with smoke, no one could enter — close of intercession",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 21:4-5",
+      "reason": "No more pain, all things new — clean universe incompatible with eternal torment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 34:9-10",
+      "reason": "PRIMARY OT PARALLEL — Edom's smoke ascending forever, fire not quenched day nor night",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 34:11-17",
+      "reason": "Animals dwelling in Edom's ruins — proves 'forever' language was rhetorical",
+      "tier": "primary"
+    },
+    {
+      "ref": "Mal 4:1-3",
+      "reason": "DEFINING PASSAGE — burning like an oven, stubble, neither root nor branch, ashes under feet",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jude 1:7",
+      "reason": "Sodom suffered 'vengeance of eternal fire' yet now ashes (2 Pet 2:6)",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Pet 2:6",
+      "reason": "Sodom turned to ashes — defines the result of 'eternal fire'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Psa 75:8",
+      "reason": "Cup of wine 'full of mixture' (mesek) — Rev 14:10 reverses this to akratos (unmixed)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 51:17,22",
+      "reason": "Cup of wrath trajectory — Jerusalem drank it, then God removes it",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 25:15-28",
+      "reason": "Cup of wrath given to all nations — broadest OT cup-of-wrath passage",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:7",
+      "reason": "Babylon's golden cup — seductive wine that makes nations mad",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 19:24-28",
+      "reason": "Sodom paradigm — fire falls (v.24), smoke seen next morning (v.28): fire-as-agent, smoke-as-witness",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 33:14-16",
+      "reason": "'Who shall dwell with everlasting burnings?' Answer: the righteous — fire characterizes God, not punishment duration",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 25:41,46",
+      "reason": "Everlasting fire/punishment — key ECT proof text requiring engagement",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Cor 15:24-28",
+      "reason": "God 'all in all' — requires evil to cease existing",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Tim 6:16",
+      "reason": "God alone has immortality — wicked cannot endure eternally without divine gift",
+      "tier": "primary"
+    },
+    {
+      "ref": "Ezek 28:18-19",
+      "reason": "Satan reduced to ashes and 'never shalt thou be any more' — same being as Rev 20:10",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 66:24",
+      "reason": "Worm and fire on corpses (peger) — source for Mark 9:43-48",
+      "tier": "primary"
+    },
+    {
+      "ref": "Mark 9:43-48",
+      "reason": "Unquenchable fire, undying worm — ECT proof text, OT source is Isa 66:24 corpses",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 6:23",
+      "reason": "Wages of sin is DEATH — not eternal torment",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 3:16",
+      "reason": "Perish vs. eternal life — fundamental binary",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 10:28",
+      "reason": "Fear him who can DESTROY both soul and body in gehenna",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Thess 1:7-9",
+      "reason": "Everlasting destruction — destruction vocabulary with aionios qualifier",
+      "tier": "primary"
+    },
+    {
+      "ref": "Nah 1:9",
+      "reason": "Affliction shall not rise up the second time — evil fully eradicated",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 12:1",
+      "reason": "Michael stands up — close of probation context for 'without mixture'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 17:8,11",
+      "reason": "Beast destined for 'destruction' — same beast later 'tormented' in 20:10",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 9:12",
+      "reason": "Eternal redemption — Hebrews pattern: aionios + result-noun = permanent result",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 6:2",
+      "reason": "Eternal judgment — same Hebrews pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 5:9",
+      "reason": "Eternal salvation — same Hebrews pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 11:6",
+      "reason": "Fire, brimstone, horrible tempest — cup of portion for the wicked",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 30:33",
+      "reason": "Topheth prepared — brimstone as divine judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Deut 29:23",
+      "reason": "Sodom/Gomorrah comparison — brimstone and salt",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luk 17:29",
+      "reason": "Fire and brimstone rained from heaven — Jesus references Sodom as paradigm",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 21:8",
+      "reason": "Lake of fire and brimstone = second death",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 13:19",
+      "reason": "Babylon overthrown like Sodom — judgment pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Zep 2:9",
+      "reason": "Moab/Ammon like Sodom — perpetual desolation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 9:5-6",
+      "reason": "Basanismos with five-month time limit — proves torment vocabulary has bounded duration",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 18:7,10,15",
+      "reason": "Basanismos applied to Babylon's completed destruction",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 3:12",
+      "reason": "Chaff burned with unquenchable fire — consuming fire, not preserving fire",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 37:10,20",
+      "reason": "Wicked shall not be; consume into smoke",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Obad 1:16",
+      "reason": "They shall be as though they had not been",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 47:14",
+      "reason": "Stubble, fire burns them — 'there shall not be a coal to warm at'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 15:7",
+      "reason": "Stubble consumed — OT consuming fire pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Job 21:18",
+      "reason": "Wicked as stubble before the wind — transience image",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luk 16:23-28",
+      "reason": "Rich man and Lazarus — ECT uses this, but parabolic genre",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:13",
+      "reason": "Blessed are the dead who die in the Lord — they REST from labors (same rest vocabulary)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 4:1-11",
+      "reason": "Sabbatismos rest — thematic connection to anapausis",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Pet 2:12",
+      "reason": "Wicked shall perish in their own corruption — destruction vocabulary",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 68:2",
+      "reason": "As wax melts before fire, so let the wicked perish",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 6:16-17",
+      "reason": "Wrath of the Lamb — orge applied to judgment scene",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Deut 4:24",
+      "reason": "God is a consuming fire — fire characterizes divine nature",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 12:29",
+      "reason": "Our God is a consuming fire — NT reaffirmation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 1:10",
+      "reason": "Israel compared to Sodom — prophetic judgment language",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Amo 4:11",
+      "reason": "Overthrown as God overthrew Sodom — paradigmatic destruction",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "Thumos and orge: the double-wrath vocabulary of Rev 14:10",
+      "what": "Determine how thumos (G2372) and orge (G3709) function together in Rev 14:10 and across Revelation",
+      "why": "Bengel claims thumos = wine content (fierce passion) while orge = cup container (settled judicial anger). If this mapping holds, the two words describe complementary aspects of divine wrath — not synonymous repetition",
+      "how": "Read G2372-thumos.md and G3709-orge.md from library. Read TR-chemah-thymos.md for Hebrew-Greek mapping. Parse Rev 14:10, 16:19, 19:15 for exact grammatical placement of each term. Check WG-wrath.md for the word group overview.",
+      "narrative": "READ `$WORD_STUDIES/G2372-thumos.md` and `$WORD_STUDIES/G3709-orge.md` — the library already has canonical studies for both. Also READ `$WORD_STUDIES/TR-chemah-thymos.md` for the Hebrew chemah-to-Greek thumos translation relationship, and `$WORD_STUDIES/WG-wrath.md` for the word group overview. Bengel's commentary (cited in web research) claims the wine = thumos while the cup = orge, 'a designed difference of words.' Verify this by running greek_parser.py --verse on Rev 14:10, Rev 16:19, and Rev 19:15 to map exactly where each term appears in the genitive chains. The five-stacked genitive chain in Rev 19:15 (τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς τοῦ θεοῦ τοῦ παντοκράτορος) is the climax — trace the escalation from 14:8 to 14:10 to 16:19 to 19:15. Also check: does thumos map to the Hebrew chemah (H2534) in the LXX wrath-cup passages (Ps 75:8, Isa 51:17, Jer 25:15)?",
+      "verses": [
+        "Rev 14:10",
+        "Rev 16:19",
+        "Rev 19:15",
+        "Rev 14:8",
+        "Rev 6:16-17"
+      ],
+      "strongs": [
+        "G2372",
+        "G3709",
+        "H2534",
+        "H639"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Akratos (G194): the unmixed-wine hapax and its OT reversal of Psalm 75:8",
+      "what": "Establish the meaning and significance of akratos (G194) as a hapax legomenon, and whether it deliberately reverses the 'full of mixture' (mesek) in Psalm 75:8",
+      "why": "If akratos intentionally reverses Psalm 75:8's mixed wine, it establishes that mercy-dilution has been withdrawn — the judgment is full-strength. The paradox in 14:10 (kekerasmenou AND akratos) requires resolution",
+      "how": "Read G194-akratos.md from library. Read H4469-mamcak.md for the Hebrew 'mixture.' Check the LXX of Psalm 75:8 for krasis/akratos vocabulary. Parse Rev 14:10 for the kekerasmenou akratou paradox.",
+      "narrative": "READ `$WORD_STUDIES/G194-akratos.md` — the canonical study exists and should document all occurrences. Also READ `$WORD_STUDIES/H4469-mamcak.md` for the Hebrew 'mixture/mixed wine.' The critical question is the LXX connection: does the LXX of Psalm 75:8 (= LXX 74:9) use any form related to krasis or kerannymi that akratos would directly reverse? Run greek_parser.py --verse on Rev 14:10 to identify the exact form kekerasmenou (from G2767 kerannymi, 'to mix') and how akratou ('unmixed') relates to it. This is the oxymoron Barnes identified — 'wine mixed (prepared) unmixed (undiluted)' — meaning fully prepared judgment with no mercy tempering. Also READ `$WORD_STUDIES/TR-yayin-oinos.md` and `$WORD_STUDIES/WG-wine.md` for the broader wine vocabulary. Check whether Isa 51:17,22 and Jer 25:15 use wine/cup terminology that connects to the Rev 14:10 vocabulary.",
+      "verses": [
+        "Rev 14:10",
+        "Psa 75:8",
+        "Isa 51:17,22",
+        "Jer 25:15-28",
+        "Jer 51:7"
+      ],
+      "strongs": [
+        "G194",
+        "G2767",
+        "H4469",
+        "H3196",
+        "G3631"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The smoke-ascending-forever formula: Isa 34:10 → Rev 14:11 → Rev 19:3",
+      "what": "Trace the 'smoke ascending forever' formula from its OT origin to its Revelation applications and determine whether it describes ongoing burning or completed destruction",
+      "why": "This is the central interpretive crux. If the formula in Isa 34:10 describes completed destruction (Edom is not still burning), then its reuse in Rev 14:11 and 19:3 carries the same semantics",
+      "how": "Read the kapnos and ashan word studies. Compare the exact LXX Greek of Isa 34:10 with Rev 14:11 and 19:3. Verify Isa 34:11-17 describes animals dwelling in the ruins.",
+      "narrative": "READ `$WORD_STUDIES/G2586-kapnos.md` for the Greek smoke vocabulary. READ `$WORD_STUDIES/H6227-ashan.md` and `$WORD_STUDIES/H6225-ashan.md` for the Hebrew smoke root. READ `$WORD_STUDIES/TR-ashan-kapnos.md` for the translation relationship. READ `$WORD_STUDIES/WG-smoke.md` for the word group. Also READ `$WORD_STUDIES/H7008-qiytowr.md` for qitor (Sodom's smoke in Gen 19:28, sharing the q-t-r root with incense). The web research identified a key LXX comparison: LXX Isa 34:10 uses aiona chronon while Rev uses eis aionas aionon — the intensified form. Run cross_testament_parallels_v2.py on Isa 34:10 and Rev 14:11 to identify verbal parallels. The prior study (smoke-imagery-hebrew-mind) established the fire-as-agent/smoke-as-witness distinction using Gen 19:24-28 as the paradigm. Verify the fivefold 'found no more at all' in Rev 18:21-23 that proves the same formula in 19:3 describes a COMPLETED entity.",
+      "verses": [
+        "Isa 34:9-10",
+        "Isa 34:11-17",
+        "Rev 14:11",
+        "Rev 19:3",
+        "Rev 18:21-23",
+        "Gen 19:24-28"
+      ],
+      "strongs": [
+        "G2586",
+        "H6227",
+        "H6225",
+        "H7008",
+        "H6999"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "'No rest day nor night' — Rev 14:11 vs. Rev 4:8 identical construction",
+      "what": "Analyze the 'no rest (anapausis) day nor night' phrase in Rev 14:11 by comparing it to the structurally identical construction in Rev 4:8",
+      "why": "Peterson's strongest ECT argument is that 'annihilation would be a kind of rest,' so 'no rest' requires ongoing consciousness. But the same author uses the same phrase for the living creatures' praise — which is not ontologically eternal activity but characteristic quality",
+      "how": "Read G372-anapausis.md and TR-nuwach-anapauo.md from library. Parse both Rev 14:11 and Rev 4:8. Check the verbal tense shift in Rev 14:11 (future basanisthēsetai vs. present ouk echousin).",
+      "narrative": "READ `$WORD_STUDIES/G372-anapausis.md` — the canonical study exists. Also READ `$WORD_STUDIES/TR-nuwach-anapauo.md` for the Hebrew-Greek rest vocabulary mapping and `$WORD_STUDIES/WG-rest.md` for the word group. Run greek_parser.py --verse on Rev 14:11 and Rev 4:8 to compare the exact grammatical construction. The 3am-14 study already identified this inversion but it needs fresh verification. The web research (Rethinking Hell) flagged a critical tense shift: basanisthēsetai (future passive) vs. ouk echousin anapausin (present indicative). READ `$GRAMMAR_REF/greek/future-passive-indicative.md` which specifically discusses Rev 14:10 basanisthēsetai as an eschatological judgment passive. If the tense shift is real, the 'no rest' clause may describe the PRESENT condition of beast-worshippers (restless allegiance) rather than their eternal fate. Also address Peterson's point directly: does 'no rest' require ongoing conscious existence, or does it describe the quality of experience during the judgment process before destruction?",
+      "verses": [
+        "Rev 14:11",
+        "Rev 4:8",
+        "Rev 14:13",
+        "Heb 4:1-11",
+        "Heb 4:9"
+      ],
+      "strongs": [
+        "G372",
+        "G373",
+        "G4520"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Basanizo/basanismos: touchstone testing or ongoing conscious torment?",
+      "what": "Determine the semantic range of basanizo (G928) and basanismos (G929) across Revelation and whether the vocabulary requires ongoing conscious experience",
+      "why": "Peterson/Beale claim basanismos 'is used nowhere in Revelation or biblical literature in the sense of annihilation.' This claim must be tested against every NT occurrence",
+      "how": "Read G928-basanizo.md and G929-basanismos.md from library. Catalogue every NT occurrence and assess whether any allow a completed-process reading.",
+      "narrative": "READ `$WORD_STUDIES/G928-basanizo.md` (or `G928-basanízō.md` — there appear to be two entries). Also READ `$WORD_STUDIES/G929-basanismos.md`. The web research documented the etymology: basanizo originally meant 'to test metals by the touchstone' (basanos = black testing stone), then 'to question by applying torture.' Run greek_parser.py --lemma on basanizo and basanismos to get all NT occurrences with morphological data. The prior study (etc7-11) found that basanismos appears 6x in NT, ALL in Revelation: 3 describe Babylon's COMPLETED destruction, 1 has a five-month time limit (Rev 9:5). If 4 of 6 occurrences describe bounded/completed events, the claim that basanismos 'never means annihilation' requires qualification. Also check basanistes (G930) in Matt 18:34 — the 'tormentors' in the parable of the unforgiving servant.",
+      "verses": [
+        "Rev 14:10-11",
+        "Rev 9:5",
+        "Rev 18:7,10,15",
+        "Rev 20:10",
+        "Matt 18:34"
+      ],
+      "strongs": [
+        "G928",
+        "G929",
+        "G930",
+        "G931"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Malachi 4:1-3 — the definitive eschatological outcome",
+      "what": "Establish Malachi 4:1-3 as the clearest OT passage defining the final outcome: oven, stubble, 'neither root nor branch,' ashes under feet",
+      "why": "This passage uses the most explicit destruction vocabulary in the prophets. The wicked become ASHES — not conscious eternal sufferers. The root-and-branch idiom means total elimination",
+      "how": "Parse Mal 4:1-3 in Hebrew. Check the Hebrew vocabulary (tanur, qash, shoresh, anap). Verify the eschatological context (Mal 3:14-4:6).",
+      "narrative": "Run hebrew_parser.py on Mal 4:1-3 for full morphological analysis. Key Hebrew vocabulary: tanur (H8574, oven/furnace), qash (H7179, stubble/chaff), shoresh (H8328, root), anap (H6057, branch), epher (H665, ashes). READ `$WORD_STUDIES/H665-epher.md` for the ashes word study and `$WORD_STUDIES/TR-epher-spodos.md` for the translation relationship. Also READ `$WORD_STUDIES/H8313-saraph.md` and `$WORD_STUDIES/TR-saraph-katakaio.md` for the burning/consuming vocabulary. The web research (Joseph Dear) argued that 'neither root nor branch' is an idiom for total elimination. EGW interprets 'root' = Satan, 'branches' = followers (verify against the text itself). The passage's eschatological status must be verified: Mal 3:14-4:6 describes distinguishing righteous from wicked in a manner unfulfilled in history. Also connect to the STUBBLE figurative tradition from Nave's (Exo 15:7, Job 21:18, Psa 83:13, Isa 5:24, 40:24, 41:2, 47:14, Jer 13:24, Joel 2:5, Nah 1:10, Mal 4:1).",
+      "verses": [
+        "Mal 4:1-3",
+        "Mal 3:14-18",
+        "Isa 47:14",
+        "Nah 1:9-10",
+        "Obad 1:16"
+      ],
+      "strongs": [
+        "H8574",
+        "H7179",
+        "H8328",
+        "H6057",
+        "H665"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Sodom-Edom paradigm: 'eternal fire' produces ashes",
+      "what": "Establish from Jude 7 and 2 Peter 2:6 that 'eternal fire' in Scripture describes fire producing permanent results (ashes), not fire burning endlessly",
+      "why": "Jude 7 says Sodom suffered the vengeance of 'eternal fire' (pur aionion), yet 2 Pet 2:6 says Sodom was turned to ashes. This is a decisive test case for what 'eternal fire' means in Matt 25:41",
+      "how": "Parse Jude 7 and 2 Pet 2:6. Check the Hebrew behind Gen 19:24-28. Read the brimstone word studies.",
+      "narrative": "Run greek_parser.py --verse on Jude 1:7 and 2 Pet 2:6. The key phrase in Jude 7 is πυρὸς αἰωνίου δίκην ὑπέχουσαι — 'suffering the vengeance of eternal fire.' READ `$WORD_STUDIES/G166-aionios.md` and `$WORD_STUDIES/G165-aion.md` for the aionios/aion word studies. READ `$WORD_STUDIES/WG-forever.md` and `$WORD_STUDIES/TR-owlam-aion.md` for the broader 'forever' vocabulary. In 2 Pet 2:6, tephroo (G5077, 'to turn to ashes') is used — check if a word study exists. READ `$WORD_STUDIES/H1614-gophriyth.md` for the Hebrew brimstone vocabulary and `$WORD_STUDIES/G2303-theion.md` and `$WORD_STUDIES/G2306-theiodes.md` for the Greek brimstone words. Also READ `$WORD_STUDIES/G2304-theios.md` — note that theion (brimstone) and theios (divine) share the same root, suggesting a connection between brimstone and divine presence. Run cross_testament_parallels_v2.py on Jude 1:7 for OT parallels. Connect to the Edom case: Isa 34:9-10 describes Edom's 'eternal' desolation, yet Isa 34:11-17 describes animals dwelling there — the 'forever' language was rhetorical convention, not literal endless burning.",
+      "verses": [
+        "Jude 1:7",
+        "2 Pet 2:6",
+        "Gen 19:24-28",
+        "Matt 25:41",
+        "Deut 29:23"
+      ],
+      "strongs": [
+        "G166",
+        "G165",
+        "G4442",
+        "H1614",
+        "G2303"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "'In the presence of the holy angels and in the presence of the Lamb' — judicial witness or spectated suffering?",
+      "what": "Determine whether enopion ('in the presence of') in Rev 14:10 describes a judicial verdict scene or ongoing spectated punishment",
+      "why": "ECT reads this as the righteous witnessing eternal torment. Conditionalists read it as a judicial testimony scene (smoke as witness, not entertainment). The web research identified enopion as carrying formal judicial weight",
+      "how": "Read G1799-enopion.md from library. Survey how John uses enopion throughout Revelation. Check whether enopion ever means 'witnessed as spectacle' vs. 'before the court.'",
+      "narrative": "READ `$WORD_STUDIES/G1799-enopion.md` — the library has a canonical entry. Run greek_parser.py --lemma on enopion to get every Revelation occurrence and check the usage pattern. The web research (Bible Study Express) argued enopion 'is more formal than just where I can see you — it's more like you are requested to appear before the high court.' The prior study (smoke-imagery-hebrew-mind) established the incense-judgment symmetry: qitor (judgment smoke) and qetoreth (worship smoke) share the q-t-r root, both ascending 'before God.' Check Rev 8:3-4 where incense (prayers of the saints) ascends enopion tou theou — the same 'in the presence of' language. If smoke ascending 'in the presence of the Lamb' parallels incense ascending 'in the presence of God,' then the smoke is judicial testimony, not a punishment spectacle. Also check Psa 11:6 — fire and brimstone as 'the portion of their cup' — same cup imagery.",
+      "verses": [
+        "Rev 14:10",
+        "Rev 8:3-4",
+        "Psa 11:6",
+        "Rev 3:5",
+        "Rev 19:20"
+      ],
+      "strongs": [
+        "G1799",
+        "G2586",
+        "G2303",
+        "G2306"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Subject differentiation at the lake of fire: humans vs. symbolic entities",
+      "what": "Establish that Revelation differentiates the fate vocabulary for humans (devoured, second death) from symbolic entities (tormented forever)",
+      "why": "The ECT argument links Rev 20:10 (devil/beast/false prophet tormented forever) to the fate of human wicked. But the text itself uses different vocabulary: kataphago for humans (20:9), basanizo for symbolic entities (20:10), and 'second death' for the human dead (20:14-15)",
+      "how": "Parse Rev 20:9-15 for exact vocabulary. Read the relevant destruction word studies. Check whether the beast/false prophet are consistently symbolic.",
+      "narrative": "Run greek_parser.py --verse on Rev 20:9, 20:10, 20:14, and 20:15 for the exact vocabulary used for each subject. READ `$WORD_STUDIES/G2719-katesthio.md` for kataphago/katesthio (devour). READ `$WORD_STUDIES/G622-apollymi.md` for the primary destruction verb. READ `$WORD_STUDIES/G2288-thanatos.md` and `$WORD_STUDIES/TR-maveth-thanatos.md` and `$WORD_STUDIES/WG-death.md` for the death vocabulary. The prior study (etc7-11) established this differentiation: (1) Rev 20:9 uses katephagen ('devoured') for human followers — a consuming fire that finishes its work; (2) Rev 20:10 uses basanisthēsontai ('shall be tormented') for the devil, beast, and false prophet — non-human or symbolic entities; (3) Rev 20:14-15 uses 'second death' for humans cast into the lake. Stott (via Gospel Coalition) argues the beast and false prophet are 'powers of evil, not individual persons.' Check whether Revelation treats them as consistently symbolic (Rev 13, 17, 19). If torment-for-ever-and-ever is ONLY applied to symbolic entities, never to generic human wicked, that is a decisive textual datum.",
+      "verses": [
+        "Rev 20:9",
+        "Rev 20:10",
+        "Rev 20:14-15",
+        "Rev 17:8,11",
+        "Rev 19:20"
+      ],
+      "strongs": [
+        "G2719",
+        "G622",
+        "G2288",
+        "G684",
+        "G928"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The didactic vs. apocalyptic genre distribution of destruction/torment vocabulary",
+      "what": "Map the distribution of torment vocabulary (basanizo, basanismos) vs. destruction vocabulary (apollymi, thanatos, olethros) across NT genres",
+      "why": "The prior study (etc7-11) found that torment vocabulary for judgment appears ONLY in Revelation's apocalyptic framework, while destruction/death vocabulary spans all genres and authors. If ECT rests entirely on apocalyptic imagery while systematic teaching uses destruction, the interpretive weight shifts",
+      "how": "Catalogue basanizo/basanismos occurrences vs. apollymi/thanatos/olethros occurrences. Map by genre (Gospels-didactic, Epistles, Apocalyptic).",
+      "narrative": "READ `$WORD_STUDIES/G622-apollymi.md`, `$WORD_STUDIES/G2288-thanatos.md`, `$WORD_STUDIES/G3639-olethros.md`, `$WORD_STUDIES/G2851-kolasis.md`, `$WORD_STUDIES/G684-apoleia.md` for the destruction/punishment vocabulary. READ `$WORD_STUDIES/WG-destroy.md` and `$WORD_STUDIES/WG-destroy-demolish.md` for the word groups. Also READ `$WORD_STUDIES/TR-shamad-apollymi.md` for the Hebrew-Greek destruction mapping. Cross-check: in how many didactic passages (Gospels, Epistles) does Jesus or Paul use destruction/death/perish to describe the fate of the wicked? (John 3:16, Rom 6:23, Matt 10:28, 2 Thess 1:9, Phil 3:19, etc.) In how many do they use torment? This genre distribution is a structural argument the study must make.",
+      "verses": [
+        "John 3:16",
+        "Rom 6:23",
+        "Matt 10:28",
+        "2 Thess 1:9",
+        "Phil 3:19",
+        "1 Cor 15:24-28"
+      ],
+      "strongs": [
+        "G622",
+        "G2288",
+        "G3639",
+        "G2851",
+        "G684"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The cup-of-wrath trajectory: Psalm 75 → Isaiah 51 → Jeremiah 25/51 → Revelation 14/16/19",
+      "what": "Trace the complete cup-of-wrath trajectory from OT to Revelation showing how the imagery builds, inverts, and climaxes",
+      "why": "3am-11 already established this trajectory. This study must show how 'without mixture' fits as the climactic escalation — the polarity flip from Babylon's deceptive wine to God's unmixed judgment",
+      "how": "Read the cup/poterion word studies. Parse key cup-of-wrath passages. Trace the genitive chain structures.",
+      "narrative": "READ `$WORD_STUDIES/H3563-kowc.md` for the Hebrew cup vocabulary. READ `$WORD_STUDIES/TR-kowc-poterion.md` for the translation relationship. The Nave's CUP entry lists the figurative usage: Psa 11:6, 73:10, 75:8, Isa 51:17,22, Jer 25:15-28, Ezek 23:31-34, Matt 20:22-23, 26:39, Rev 14:10. Run greek_parser.py --verse on key passages to trace the vocabulary. 3am-11 established that the genitive chain in Rev 14:8 (τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς) becomes Rev 14:10 (τοῦ οἴνου τοῦ θυμοῦ τοῦ θεοῦ τοῦ κεκερασμένου ἀκράτου) — the terminal genitive swaps from 'her fornication' to 'God's [judgment].' The research agent should verify this structural parallel and trace it through to the five-genitive climax in 19:15. Also check the Ezekiel 23:31-34 sister-cup passage for vocabulary parallels.",
+      "verses": [
+        "Psa 75:8",
+        "Isa 51:17,22",
+        "Jer 25:15-28",
+        "Jer 51:7",
+        "Ezek 23:31-34",
+        "Rev 14:10"
+      ],
+      "strongs": [
+        "H3563",
+        "G4094",
+        "G2767",
+        "H4469",
+        "H2534"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The clean-universe argument: eternal torment vs. 'God all in all'",
+      "what": "Test whether eternal conscious torment is compatible with the biblical vision of a restored universe where God is 'all in all'",
+      "why": "If evil, suffering, and sin persist eternally in a corner of the universe, the promise of Rev 21:4 (no more pain) and 1 Cor 15:28 (God all in all) and Nah 1:9 (affliction not rising a second time) cannot be fulfilled",
+      "how": "Retrieve and parse the clean-universe passages. Check the conditional immortality passages.",
+      "narrative": "Run greek_parser.py --verse on 1 Cor 15:24-28 (God all in all), Rev 21:4-5 (no more death, pain, crying), and Nah 1:9 (affliction not rising a second time). READ `$WORD_STUDIES/G110-athanasia.md` for the immortality word study. The argument is structural: (1) 1 Tim 6:16 says God ALONE has immortality — the wicked cannot burn eternally unless granted immortality they do not possess; (2) 1 Cor 15:24-28 describes a final state where God is 'all in all' with all enemies destroyed (including death itself); (3) Rev 21:4 promises 'no more pain' — eternal conscious torment IS pain continuing forever; (4) Nah 1:9 promises affliction will not rise a second time — if evil persists eternally, this is falsified. Froom's argument (from 00-references.md) adds: eternal torment perpetuates an ancient dualism where evil coexists eternally with God. READ `$WORD_STUDIES/G5590-psyche.md` and `$WORD_STUDIES/TR-nephesh-psyche.md` for the soul vocabulary — does 'soul' mean an immortal entity that cannot be destroyed?",
+      "verses": [
+        "1 Cor 15:24-28",
+        "Rev 21:4-5",
+        "Nah 1:9",
+        "1 Tim 6:16",
+        "Ezek 28:18-19"
+      ],
+      "strongs": [
+        "G110",
+        "G5590",
+        "G2288",
+        "G622"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G2372",
+      "word": "thumos",
+      "reason": "fierce passion/wrath — paired with orge in Rev 14:10"
+    },
+    {
+      "strongs": "G3709",
+      "word": "orge",
+      "reason": "settled judicial anger — paired with thumos in Rev 14:10"
+    },
+    {
+      "strongs": "G194",
+      "word": "akratos",
+      "reason": "unmixed/without mixture — hapax legomenon, the reversal of Psalm 75:8"
+    },
+    {
+      "strongs": "G928",
+      "word": "basanizo",
+      "reason": "to torment/test — core verb in the ECT debate"
+    },
+    {
+      "strongs": "G929",
+      "word": "basanismos",
+      "reason": "torment — 6x in NT, all in Revelation"
+    },
+    {
+      "strongs": "G372",
+      "word": "anapausis",
+      "reason": "rest — 'no rest day nor night' vs. Rev 4:8 identical construction"
+    },
+    {
+      "strongs": "G2586",
+      "word": "kapnos",
+      "reason": "smoke — 'the smoke of their torment ascendeth'"
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "reason": "eternal/age-long — 'everlasting punishment/fire' debate"
+    },
+    {
+      "strongs": "G165",
+      "word": "aion",
+      "reason": "age/eon — 'eis tous aionas ton aionon' formula"
+    },
+    {
+      "strongs": "G1799",
+      "word": "enopion",
+      "reason": "in the presence of — judicial witness or spectated suffering?"
+    },
+    {
+      "strongs": "G622",
+      "word": "apollymi",
+      "reason": "to destroy/perish — primary destruction verb across genres"
+    },
+    {
+      "strongs": "G2288",
+      "word": "thanatos",
+      "reason": "death — 'second death' as final fate vocabulary"
+    },
+    {
+      "strongs": "G4442",
+      "word": "pyr",
+      "reason": "fire — God as consuming fire, lake of fire"
+    },
+    {
+      "strongs": "G2303",
+      "word": "theion",
+      "reason": "brimstone/sulfur — divine judgment agent"
+    },
+    {
+      "strongs": "H665",
+      "word": "epher",
+      "reason": "ashes — Mal 4:3 'ashes under the soles of your feet'"
+    },
+    {
+      "strongs": "H5769",
+      "word": "owlam",
+      "reason": "forever/eternity — Hebrew behind 'forever' in Isa 34:10"
+    },
+    {
+      "strongs": "H2534",
+      "word": "chemah",
+      "reason": "fury/heat — Hebrew equivalent of thumos in wrath-cup passages"
+    },
+    {
+      "strongs": "H6227",
+      "word": "ashan",
+      "reason": "smoke — Hebrew smoke vocabulary in OT judgment passages"
+    },
+    {
+      "strongs": "G2719",
+      "word": "katesthio",
+      "reason": "devour — Rev 20:9 fire DEVOURED humans (consuming, not preserving)"
+    },
+    {
+      "strongs": "G3639",
+      "word": "olethros",
+      "reason": "destruction — 2 Thess 1:9 'everlasting destruction'"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:10",
+      "reason": "thumos/orge placement, kekerasmenou akratou paradox, basanisthesetai tense"
+    },
+    {
+      "verse": "Rev 14:11",
+      "reason": "anabainei (present tense smoke), ouk echousin (present tense no rest), tense shift from 14:10"
+    },
+    {
+      "verse": "Rev 4:8",
+      "reason": "identical 'rest not day and night' construction for comparison"
+    },
+    {
+      "verse": "Rev 16:19",
+      "reason": "thumos/orge genitive chain — compare with 14:10"
+    },
+    {
+      "verse": "Rev 19:15",
+      "reason": "five-stacked genitive chain — thumos climax"
+    },
+    {
+      "verse": "Rev 20:9-10",
+      "reason": "katephagen (devoured) vs. basanisthēsontai (tormented) — vocabulary differentiation"
+    },
+    {
+      "verse": "Mal 4:1-3",
+      "reason": "Hebrew vocabulary: tanur, qash, shoresh, anap, epher"
+    },
+    {
+      "verse": "Isa 34:9-10",
+      "reason": "Hebrew 'forever' vocabulary — le-olam, le-netsach netsachim"
+    },
+    {
+      "verse": "Jude 1:7",
+      "reason": "puros aioniou diken — 'vengeance of eternal fire'"
+    },
+    {
+      "verse": "2 Pet 2:6",
+      "reason": "tephroo — 'turning to ashes'"
+    },
+    {
+      "verse": "Psa 75:8",
+      "reason": "mesek (mixture) vocabulary — what akratos reverses"
+    },
+    {
+      "verse": "1 Cor 15:24-28",
+      "reason": "God all in all — clean-universe passage"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:10-11",
+      "reason": "OT and NT parallels for the entire passage — cup of wrath, fire and brimstone, smoke ascending"
+    },
+    {
+      "verse": "Isa 34:9-10",
+      "reason": "NT parallels for the smoke-ascending formula"
+    },
+    {
+      "verse": "Mal 4:1-3",
+      "reason": "NT echoes of the ashes/stubble/root-and-branch destruction"
+    },
+    {
+      "verse": "Jude 1:7",
+      "reason": "OT background for 'eternal fire' applied to Sodom"
+    },
+    {
+      "verse": "Rev 20:10",
+      "reason": "Parallels for torment of symbolic entities"
+    },
+    {
+      "verse": "Psa 75:8",
+      "reason": "NT echoes of the mixed wine of God's wrath"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G2372-thumos.md",
+        "description": "thumos (wrath/fierce passion), G2372"
+      },
+      {
+        "path": "$WORD_STUDIES/G3709-orge.md",
+        "description": "orge (settled judicial anger), G3709"
+      },
+      {
+        "path": "$WORD_STUDIES/G194-akratos.md",
+        "description": "akratos (unmixed/without mixture), G194 — hapax legomenon"
+      },
+      {
+        "path": "$WORD_STUDIES/G928-basanizo.md",
+        "description": "basanizo (to torment/test), G928"
+      },
+      {
+        "path": "$WORD_STUDIES/G929-basanismos.md",
+        "description": "basanismos (torment), G929"
+      },
+      {
+        "path": "$WORD_STUDIES/G372-anapausis.md",
+        "description": "anapausis (rest), G372"
+      },
+      {
+        "path": "$WORD_STUDIES/G2586-kapnos.md",
+        "description": "kapnos (smoke), G2586"
+      },
+      {
+        "path": "$WORD_STUDIES/G166-aionios.md",
+        "description": "aionios (eternal/age-long), G166"
+      },
+      {
+        "path": "$WORD_STUDIES/G165-aion.md",
+        "description": "aion (age/eon), G165"
+      },
+      {
+        "path": "$WORD_STUDIES/G1799-enopion.md",
+        "description": "enopion (in the presence of), G1799"
+      },
+      {
+        "path": "$WORD_STUDIES/G622-apollymi.md",
+        "description": "apollymi (to destroy/perish), G622"
+      },
+      {
+        "path": "$WORD_STUDIES/G2288-thanatos.md",
+        "description": "thanatos (death), G2288"
+      },
+      {
+        "path": "$WORD_STUDIES/G4442-pyr.md",
+        "description": "pyr (fire), G4442"
+      },
+      {
+        "path": "$WORD_STUDIES/G2303-theion.md",
+        "description": "theion (brimstone/sulfur), G2303"
+      },
+      {
+        "path": "$WORD_STUDIES/G2306-theiodes.md",
+        "description": "theiodes (brimstone-like), G2306"
+      },
+      {
+        "path": "$WORD_STUDIES/G2304-theios.md",
+        "description": "theios (divine), G2304"
+      },
+      {
+        "path": "$WORD_STUDIES/G2719-katesthio.md",
+        "description": "katesthio (to devour), G2719"
+      },
+      {
+        "path": "$WORD_STUDIES/G3639-olethros.md",
+        "description": "olethros (destruction), G3639"
+      },
+      {
+        "path": "$WORD_STUDIES/G2851-kolasis.md",
+        "description": "kolasis (punishment), G2851"
+      },
+      {
+        "path": "$WORD_STUDIES/G684-apoleia.md",
+        "description": "apoleia (destruction/perdition), G684"
+      },
+      {
+        "path": "$WORD_STUDIES/G110-athanasia.md",
+        "description": "athanasia (immortality), G110"
+      },
+      {
+        "path": "$WORD_STUDIES/G5590-psyche.md",
+        "description": "psyche (soul/life), G5590"
+      },
+      {
+        "path": "$WORD_STUDIES/G3631-oinos.md",
+        "description": "oinos (wine), G3631"
+      },
+      {
+        "path": "$WORD_STUDIES/H665-epher.md",
+        "description": "epher (ashes), H665"
+      },
+      {
+        "path": "$WORD_STUDIES/H5769-owlam.md",
+        "description": "owlam (forever/eternity), H5769"
+      },
+      {
+        "path": "$WORD_STUDIES/H5331-netsach.md",
+        "description": "netsach (perpetuity/strength), H5331"
+      },
+      {
+        "path": "$WORD_STUDIES/H2534-chemah.md",
+        "description": "chemah (fury/heat/wrath), H2534"
+      },
+      {
+        "path": "$WORD_STUDIES/H639-aph.md",
+        "description": "aph (nose/anger), H639"
+      },
+      {
+        "path": "$WORD_STUDIES/H6227-ashan.md",
+        "description": "ashan (smoke), H6227"
+      },
+      {
+        "path": "$WORD_STUDIES/H6225-ashan.md",
+        "description": "ashan (to smoke, verb), H6225"
+      },
+      {
+        "path": "$WORD_STUDIES/H7008-qiytowr.md",
+        "description": "qiytowr (smoke/vapor), H7008"
+      },
+      {
+        "path": "$WORD_STUDIES/H6999-qatar.md",
+        "description": "qatar (to burn incense), H6999"
+      },
+      {
+        "path": "$WORD_STUDIES/H1614-gophriyth.md",
+        "description": "gophriyth (brimstone), H1614"
+      },
+      {
+        "path": "$WORD_STUDIES/H3563-kowc.md",
+        "description": "kowc (cup), H3563"
+      },
+      {
+        "path": "$WORD_STUDIES/H3196-yayin.md",
+        "description": "yayin (wine), H3196"
+      },
+      {
+        "path": "$WORD_STUDIES/H4469-mamcak.md",
+        "description": "mamcak (mixed wine/mixture), H4469"
+      },
+      {
+        "path": "$WORD_STUDIES/H8313-saraph.md",
+        "description": "saraph (to burn), H8313"
+      },
+      {
+        "path": "$WORD_STUDIES/H6083-aphar.md",
+        "description": "aphar (dust/ashes), H6083"
+      },
+      {
+        "path": "$WORD_STUDIES/H3615-kalah.md",
+        "description": "kalah (to complete/consume), H3615"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (to worship), G4352"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-chemah-thymos.md",
+        "description": "Translation: chemah → thumos (fury)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-ashan-kapnos.md",
+        "description": "Translation: ashan → kapnos (smoke)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-epher-spodos.md",
+        "description": "Translation: epher → spodos (ashes)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-esh-pyr.md",
+        "description": "Translation: esh → pyr (fire)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-kowc-poterion.md",
+        "description": "Translation: kowc → poterion (cup)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-nuwach-anapauo.md",
+        "description": "Translation: nuwach → anapauo (rest)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-owlam-aion.md",
+        "description": "Translation: owlam → aion (forever/age)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-saraph-katakaio.md",
+        "description": "Translation: saraph → katakaio (burn)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yayin-oinos.md",
+        "description": "Translation: yayin → oinos (wine)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-maveth-thanatos.md",
+        "description": "Translation: maveth → thanatos (death)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shamad-apollymi.md",
+        "description": "Translation: shamad → apollymi (destroy)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-nephesh-psyche.md",
+        "description": "Translation: nephesh → psyche (soul)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-aph-orge.md",
+        "description": "Translation: aph → orge (anger)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-qatar-thymiao.md",
+        "description": "Translation: qatar → thymiao (burn incense)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-qtoreth-thymiama.md",
+        "description": "Translation: qetoreth → thymiama (incense)"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wrath.md",
+        "description": "Word group: wrath vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-smoke.md",
+        "description": "Word group: smoke vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-forever.md",
+        "description": "Word group: forever/eternal vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-burning.md",
+        "description": "Word group: burning vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-destroy.md",
+        "description": "Word group: destroy vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-destroy-demolish.md",
+        "description": "Word group: destroy/demolish vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-death.md",
+        "description": "Word group: death vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-rest.md",
+        "description": "Word group: rest vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wine.md",
+        "description": "Word group: wine vocabulary"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/future-passive-indicative.md",
+        "description": "Future passive indicative — specifically discusses Rev 14:10 basanisthēsetai and Rev 9:5 as eschatological judgment passives"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-aorist-prophetic.md",
+        "description": "Prophetic/proleptic aorist — Rev 14:8 ἔπεσεν ἔπεσεν Βαβυλών doubled formula"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-present-active-indicative.md",
+        "description": "Present active indicative — relevant for the present-tense 'ouk echousin' in Rev 14:11"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect.md",
+        "description": "Perfect tense — relevant for kekerasmenou (perfect passive participle) in Rev 14:10"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-legon-discourse.md",
+        "description": "Present participle legon — Rev 14 parallel structure"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-perfect-passive-state.md",
+        "description": "Perfect passive participle — state-describing aspect, relevant for kekerasmenou"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/apocalyptic-narrative-prolepsis.md",
+        "description": "Apocalyptic narrative prolepsis — genre convention relevant to Revelation's judgment visions"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/ezk-28-16-18-divine-judgment-verb-chain.md",
+        "description": "Ezekiel 28:16-18 divine judgment verb chain — fire as feminine grammatical subject reducing to ashes"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G4094",
+      "word": "poterion",
+      "reason": "cup — critical for the cup-of-wrath trajectory (Rev 14:10, Matt 26:39, etc.)"
+    },
+    {
+      "strongs": "G2767",
+      "word": "kerannymi",
+      "reason": "to mix — kekerasmenou in Rev 14:10, the paradoxical 'mixed unmixed'"
+    },
+    {
+      "strongs": "G930",
+      "word": "basanistes",
+      "reason": "tormentor — Matt 18:34 parable of the unforgiving servant"
+    },
+    {
+      "strongs": "G931",
+      "word": "basanos",
+      "reason": "torment/touchstone — the etymological root of the basanizo family"
+    },
+    {
+      "strongs": "G5077",
+      "word": "tephroo",
+      "reason": "to turn to ashes — 2 Pet 2:6 Sodom's fate, hapax"
+    },
+    {
+      "strongs": "H8574",
+      "word": "tanur",
+      "reason": "oven/furnace — Mal 4:1 'burning like an oven'"
+    },
+    {
+      "strongs": "H7179",
+      "word": "qash",
+      "reason": "stubble/chaff — Mal 4:1 wicked as stubble"
+    },
+    {
+      "strongs": "H8328",
+      "word": "shoresh",
+      "reason": "root — Mal 4:1 'neither root nor branch'"
+    },
+    {
+      "strongs": "H6057",
+      "word": "anaph",
+      "reason": "branch — Mal 4:1 'neither root nor branch'"
+    },
+    {
+      "strongs": "",
+      "word": "Greek tense shift in Rev 14:10-11",
+      "reason": "Future basanisthēsetai (14:10) vs. present ouk echousin (14:11) — significant for temporal referent question"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "BRIMSTONE",
+      "subtopic": "FIGURATIVE",
+      "verse_count": 10
+    },
+    {
+      "name": "TORMENTS",
+      "subtopic": "Of the wicked",
+      "verse_count": 3
+    },
+    {
+      "name": "WICKED (PEOPLE)",
+      "subtopic": "PUNISHMENT OF",
+      "verse_count": 200
+    },
+    {
+      "name": "SECOND DEATH",
+      "subtopic": "GENERAL",
+      "verse_count": 1
+    },
+    {
+      "name": "CUP",
+      "subtopic": "FIGURATIVE — Of sorrow",
+      "verse_count": 12
+    },
+    {
+      "name": "WINE",
+      "subtopic": "FIGURATIVE — Of divine judgments",
+      "verse_count": 4
+    },
+    {
+      "name": "STUBBLE",
+      "subtopic": "FIGURATIVE — Of wicked people",
+      "verse_count": 11
+    },
+    {
+      "name": "SODOM",
+      "subtopic": "Destroyed on account of wickedness",
+      "verse_count": 14
+    },
+    {
+      "name": "FIRE",
+      "subtopic": "FIGURATIVE — Of destruction of the wicked",
+      "verse_count": 8
+    },
+    {
+      "name": "FIRE",
+      "subtopic": "EVERLASTING FIRE",
+      "verse_count": 4
+    },
+    {
+      "name": "ANGER",
+      "subtopic": "ANGER OF GOD",
+      "verse_count": 80
+    },
+    {
+      "name": "REST",
+      "subtopic": "SPIRITUAL",
+      "verse_count": 5
+    },
+    {
+      "name": "ASHES",
+      "subtopic": "GENERAL",
+      "verse_count": 8
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 50
+    },
+    {
+      "name": "IMMORTALITY",
+      "subtopic": "GENERAL",
+      "verse_count": 60
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "Wicked destroyed 'root and branch' — Satan = root, followers = branches (FLB 358.3)",
+      "directive": "Verify whether Mal 4:1 root-and-branch idiom supports EGW's identification or is simply an idiom for totality"
+    },
+    {
+      "source": "EGW",
+      "claim": "Same fire is 'consuming fire' to wicked, 'sun and shield' to righteous (CFL 88.4)",
+      "directive": "Verify against Isa 33:14-16 (who dwells with everlasting burnings?) and Mal 4:1-2 (burning oven for wicked, Sun of righteousness for righteous)"
+    },
+    {
+      "source": "EGW",
+      "claim": "Eternal torment means sin goes on forever — contradicts God's justice (ARSH Dec 8, 1859)",
+      "directive": "Verify against 1 Cor 15:24-28 (God all in all) and Rev 21:4 (no more pain)"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Destruction process is not eternal but RESULT is permanent (MTSD Lesson #15)",
+      "directive": "Verify the process/result distinction against Hebrews pattern: eternal redemption (Heb 9:12), eternal judgment (Heb 6:2), eternal salvation (Heb 5:9)"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Satan will become ashes and be no more (MTSD Lesson #15)",
+      "directive": "Verify against Ezek 28:18-19 (ashes, never shalt thou be any more) — same being as Rev 20:10"
+    },
+    {
+      "source": "Haskell",
+      "claim": "Unmixed wrath = seven last plagues (BHB 58.3)",
+      "directive": "Verify whether akratos in Rev 14:10 maps to the plagues (Rev 15:1,7) or to eschatological fire or both"
+    },
+    {
+      "source": "Smith/Loughborough",
+      "claim": "'Without mixture' connected to close of probation and absence of intercessor (DAR1909 681.1, QSM 44.2)",
+      "directive": "Verify against Rev 15:8 (temple filled, no entry) and Dan 12:1 (Michael stands up)"
+    },
+    {
+      "source": "Froom",
+      "claim": "Eternal torment requires wicked to possess immortality they do not have (CFF1 494.5)",
+      "directive": "Verify against 1 Tim 6:16 (God alone has immortality)"
+    },
+    {
+      "source": "Froom",
+      "claim": "Eternal torment perpetuates ancient dualism — evil coexists eternally with God (CFF1 413.1)",
+      "directive": "Verify against 1 Cor 15:24-28, Nah 1:9, Rev 21:4-5"
+    },
+    {
+      "source": "Peterson/Beale",
+      "claim": "Basanismos never means annihilation in biblical literature (CRJ 2007)",
+      "directive": "Test against every NT occurrence of basanizo/basanismos — 3 of 6 basanismos occurrences describe Babylon's COMPLETED destruction"
+    },
+    {
+      "source": "Peterson",
+      "claim": "'No rest day or night' demonstrates continued suffering since annihilation would be rest (CRJ 2007)",
+      "directive": "Counter-test with Rev 4:8 identical construction describing living creatures' praise — not ontologically eternal"
+    },
+    {
+      "source": "CARM",
+      "claim": "NT must interpret OT, so Rev 14:11 should be read in its own context before importing Isaiah 34 (CARM)",
+      "directive": "Counter-test: Revelation is the most OT-saturated NT book. John's audience heard echoes. Methodological question — does genre precedent flow from didactic to apocalyptic or from apocalyptic source imagery?"
+    },
+    {
+      "source": "Rethinking Hell",
+      "claim": "Verbal tense shift in Rev 14:11 — future basanisthēsetai vs. present ouk echousin (RH 2017)",
+      "directive": "Verify the Greek text directly — if confirmed, the 'no rest' clause may describe present beast-worshipping condition, not eternal torment duration"
+    },
+    {
+      "source": "Bengel",
+      "claim": "Wine = thumos, cup = orge — a 'designed difference of words' (Bengel's Gnomon)",
+      "directive": "Verify by parsing Rev 14:10 and mapping each noun in the genitive chain to thumos vs. orge"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "Primary text — Rev 14:9-11 and immediate context",
+      "description": "The passage itself with full chapter context",
+      "refs": [
+        "Rev 14:9-11",
+        "Rev 14:8",
+        "Rev 14:12-13",
+        "Rev 15:1,7-8"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Thumos/orge escalation through Revelation",
+      "description": "Trace the wrath vocabulary from 14:8 to 19:15",
+      "refs": [
+        "Rev 14:8",
+        "Rev 14:10",
+        "Rev 16:19",
+        "Rev 19:15",
+        "Rev 6:16-17"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Cup-of-wrath trajectory (OT)",
+      "description": "Retrieve with full chapter context for trajectory analysis",
+      "refs": [
+        "Psa 75:8",
+        "Isa 51:17,22",
+        "Jer 25:15-28",
+        "Jer 51:7",
+        "Ezek 23:31-34"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Smoke-ascending-forever parallels",
+      "description": "OT source and Revelation applications",
+      "refs": [
+        "Isa 34:9-17",
+        "Gen 19:24-28",
+        "Rev 14:11",
+        "Rev 19:3",
+        "Rev 18:21-23"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Malachi eschatological fire",
+      "description": "Definitive OT outcome passage",
+      "refs": [
+        "Mal 4:1-3",
+        "Mal 3:14-18"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Sodom-Edom paradigm",
+      "description": "Eternal fire producing ashes",
+      "refs": [
+        "Jude 1:7",
+        "2 Pet 2:6",
+        "Gen 19:24-28",
+        "Deut 29:23"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Lake of fire — subject differentiation",
+      "description": "Human vs. symbolic entity vocabulary",
+      "refs": [
+        "Rev 20:9-15",
+        "Rev 19:20",
+        "Rev 17:8,11"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Didactic destruction passages",
+      "description": "Non-apocalyptic passages using destruction vocabulary",
+      "refs": [
+        "John 3:16",
+        "Rom 6:23",
+        "Matt 10:28",
+        "2 Thess 1:7-9",
+        "Phil 3:19",
+        "1 Cor 15:24-28"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Clean-universe passages",
+      "description": "Passages requiring evil's cessation",
+      "refs": [
+        "1 Cor 15:24-28",
+        "Rev 21:4-5",
+        "Nah 1:9",
+        "1 Tim 6:16",
+        "Ezek 28:18-19"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "ECT proof texts requiring engagement",
+      "description": "Strongest traditionalist passages",
+      "refs": [
+        "Matt 25:41,46",
+        "Mark 9:43-48",
+        "Isa 66:24",
+        "Luk 16:23-28",
+        "Rev 20:10"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Rev 19:1-21",
+    "Rev 20:1-15",
+    "Rev 21:1-8",
+    "Isa 34:1-17",
+    "Mal 3:14-4:6",
+    "Jer 25:15-38",
+    "Psa 75:1-10",
+    "1 Cor 15:20-28"
+  ],
+  "research_instructions": "## Special Research Directives\n\n### LXX Verification (Critical)\nThe research agent MUST verify the following LXX connections:\n1. Compare LXX Isa 34:10 Greek with Rev 14:11 Greek — identify verbal parallels or divergences\n2. Check LXX Psalm 74:9 (= Hebrew 75:8) for any form of krasis/kerannymi/akratos vocabulary\n3. Compare LXX Gen 19:28 smoke vocabulary with Rev 14:11 and Isa 34:10\n\n### Engage ECT Arguments Directly\nThis study must not sidestep the traditionalist case. Specifically:\n- Peterson's 'annihilation would be a kind of rest' argument must be addressed head-on\n- The beast destined for 'destruction' (Rev 17:8) yet later 'tormented' (Rev 20:10) — ECT uses this to argue destruction ≠ cessation\n- The personal pronoun 'their' in 'the smoke of their torment' — Blanchard's argument\n- The parallel between 'eternal punishment' and 'eternal life' in Matt 25:46\n\n### Prior Studies Integration\nThe following prior studies contain directly relevant findings. Do not duplicate their scope — build on them:\n- etc7-11 (smoke ascending forever) — use its findings on basanismos distribution and fivefold cessation language\n- smoke-imagery-hebrew-mind — use its fire-as-agent/smoke-as-witness distinction\n- everlasting-punishment — use its Hebrews pattern (aionios + result-noun)\n- eternal-fire — use its Jude 7/2 Pet 2:6 ashes connection\n- for-ever-and-ever-revelation — use its 13-occurrence catalogue\n- etc7-15-ect-strongest-case — use its 0 E-tier ECT finding\n- 3am-11 (wine of Babylon) — use its cup trajectory and polarity flip\n- 3am-14 (worship binary) — use its anapausis/Rev 4:8 inversion finding\n\n### No Alcohol Assumptions\nPer project feedback: do not assume wine passages involve alcohol. Use grape-product framing when fermentation is not the point. In this study, the 'wine' is metaphorical (judgment), so the grape-product question is less relevant — but note it.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 64,
+    "primary_verses": 34,
+    "supporting_verses": 30,
+    "ot_verses": 14,
+    "nt_verses": 20,
+    "focus_area_count": 12,
+    "word_study_count": 20,
+    "parsing_count": 12,
+    "parallel_count": 6
+  }
+}

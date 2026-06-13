@@ -1,0 +1,69 @@
+# External Corpus Verification Notes
+
+## 1. Babylon's wine = false doctrines from church-state union (GC 388)
+VERIFICATION: Rev 14:8's porneia vocabulary supports covenant-unfaithfulness reading.
+zanah/porneia overwhelmingly applies to covenant people (3am-10 confirmed).
+The "church-state union" reading maps to porneia's commercial-exchange etymology (from pernemi, to sell).
+VERDICT: Partially supported. porneia covers covenant-breaking broadly, not limited to political union.
+
+## 2. Four specific doctrines: soul immortality, eternal torment, Christ's pre-existence denial, Sunday (TM 61-62)
+VERIFICATION against towebah/bdelygma categories:
+- Soul immortality → maps to sorcery/necromancy category (Deut 18:11 — "necromancer" = doresh el-hammethim, one who seeks the dead). If the dead are unconscious, necromancy is impossible; if conscious, it becomes plausible.
+- Sunday exaltation → maps to idolatry/sun-worship category (Ezek 8:16 — sun worship between porch and altar; the fourth and highest escalation of abomination in the temple).
+- Eternal torment → maps to false witness/character violation against God (Pro 6:19, bearing false witness attributed to God's character).
+- Christ's pre-existence denial → less clear mapping; possibly relates to "turning from the law" or "violations of divine distinctions."
+VERDICT: These are applications of the towebah categories, not direct biblical identifications. The text provides categories; EGW provides specific applications.
+
+## 3. Immortality and Sunday as "the two great errors" (GrH_a 40.6)
+VERIFICATION: Deut 18:10-12 connects necromancy to the broader sorcery category.
+If the dead are alive (immortality premise), then consulting them is possible → foundation for spiritualism.
+The genealogical chain is logically valid: immortality assumption → possibility of communication with dead → spiritism.
+VERDICT: The logical chain is sound. Scripture does not explicitly trace this genealogy but Deut 18:10-12 classifies necromancy as towebah.
+
+## 4. Seven-item list from OFAH 39.1
+Each item checked against towebah categories:
+- Immortality of soul → sorcery/necromancy
+- Sprinkling as baptism → possibly hypocritical worship (altering God's ordinances)
+- Sunday as Sabbath → idolatry/sun-worship
+- Millennium of peace → does not clearly map to a towebah category
+- Saints' inheritance immaterial → unclear mapping
+- Second advent spiritual/at death → possibly false prophecy
+- No need to separate from world → possibly "turning from the law"
+VERDICT: Some map well; others are theological deductions. The text gives categories, not lists.
+
+## 5. Genealogy of error from soul immortality (Uriah Smith, DAR 609.2)
+VERIFICATION: Scripture does not present an explicit genealogical-error pattern where one false premise generates derivative doctrines. However, the intoxication metaphor itself implies progressive impairment: one drink leads to more (Isa 28:7-8 — the tables are FULL of vomit).
+VERDICT: The genealogical pattern is an inference, not a direct biblical claim. Supported by the intoxication metaphor's progressive nature.
+
+## 6. Fermented/unfermented wine binary (Bohr, ETDP p. 390)
+VERIFICATION: wine-symbolism-unified study already showed this binary CANNOT be built from biblical vocabulary. The same word yayin (H3196) is used for drink offerings to God (Exo 29:40, Num 15:5) AND for the wine that makes nations drunk (Jer 51:7). The same word oinos (G3631) is used for the wine at Cana (John 2:9) AND Babylon's wine (Rev 14:8). The metaphor works on WHAT FILLS YOU, not on fermentation state.
+VERDICT: NOT SUPPORTED by biblical vocabulary. The binary is imported from outside the text.
+
+## 7. Pharmakeia/Isa 47:9 connection (Bohr, FTSAT p. 29)
+VERIFICATION: Bredenhof confirms LXX of Isa 47:9 uses pharmakeia for Babylon's "sorceries." KJV "sorceries" translates Hebrew keshaphim (H3785, from kashaph H3784). This makes Rev 18:23 a DIRECT allusion to historical Babylon's sorcery via LXX vocabulary.
+The cognitive-impairment reading IS supported: Isa 28:7 (err in vision, stumble in judgment), Hos 4:11 (take away the heart), Isa 44:20 (deceived heart turned aside, cannot deliver his soul).
+VERDICT: SUPPORTED. The pharmakeia/Isa 47 connection is real. The cognitive-impairment reading is biblically grounded.
+
+## 8. Triple genitive as polarity flip (Meyer)
+VERIFICATION: Rev 14:8 = ek tou oinou tou thumou tes porneias autes. Rev 16:19 = tou oinou tou thumou tes orges autou. SAME oinou, SAME thumou, DIFFERENT terminal genitive (porneias autes → orges autou). The polarity flip is morphologically visible.
+VERDICT: CONFIRMED by parser output. The grammar encodes the reversal.
+
+## 9. Bdelygmata/akatharta distinction in Rev 17:4 (Alford)
+VERIFICATION: Parser confirms bdelygmaton [N-GPN] = genitive; ta akatharta [A-APN] = accusative. The case shift is real. gemon governs genitive of content ("full of bdelygmata") then kai introduces accusative ("and the akatharta of her fornication").
+VERDICT: CONFIRMED by parser output. The text distinguishes abstract categories (genitive) from concrete instances (accusative).
+
+## 10. Walvoord's insider-apostasy principle
+VERIFICATION: Survey of OT zanah usage — overwhelmingly applied to Israel/Judah (Exo 34:15-16, Num 25:1, Jdg 2:17, Hos, Ezek 16, 23). Two possible exceptions: Tyre (Isa 23:17) and Nineveh (Nah 3:4). But even Nah 3:4 may reflect Nineveh's assumed treaty obligations. The 3am-10 study confirmed: the pattern supports Walvoord's principle with minor exceptions.
+VERDICT: SUPPORTED with qualifications. The two exceptions do not overthrow the pattern.
+
+## 11. Bredenhof: pharmakeia in LXX of Isa 47
+VERIFICATION: KJV "sorceries" at Isa 47:9,12 translates keshaphim (H3785). LXX renders this with pharmakeia-family vocabulary. This makes Rev 18:23's "by thy pharmakeia" a direct lexical allusion to historical Babylon.
+VERDICT: CONFIRMED by scholarly consensus. The allusion is real.
+
+## 12. Four-category framework (Bible-Is-History.com)
+VERIFICATION against Rev 17-18 text:
+- Religious apostasy: YES — bdelygmata, porneia, harlot imagery
+- Political alliance: YES — "kings of the earth committed fornication" (17:2, 18:3,9)
+- Economic exploitation: YES — "merchants" (18:3,11-13, "slaves and souls of men")
+- Occult practices: YES — pharmakeia (18:23), Rev 9:20-21 sorceries
+VERDICT: SUPPORTED. Rev 17-18 does naturally divide into these four domains.

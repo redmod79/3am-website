@@ -1,0 +1,1631 @@
+{
+  "question": "What is the literary structure of Revelation 12-14 and how does the placement of the three angels' messages within this macro-structure determine their meaning? What comes before (Rev 12's cosmic conflict, Rev 13's two beasts), what comes after (Rev 14:13-20's harvest), and how does the Lamb-on-Zion unit (14:1-5) frame the messages? How does Rev 11:19 (the ark of the covenant revealed) open the entire sequence? Are the three angels literal angels or symbolic movements — what does the apocalyptic genre require?",
+  "topics": [
+    {
+      "name": "DRAGON",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Deu 32:33",
+        "Psa 91:13",
+        "Isa 34:13",
+        "Jer 9:11",
+        "Jer 51:37",
+        "Mal 1:3",
+        "Psa 74:13",
+        "Isa 27:1",
+        "Mic 1:8",
+        "Gen 1:21",
+        "Job 7:12",
+        "Exo 7:9",
+        "Isa 51:9",
+        "Rev 20:2",
+        "Ezk 29:3",
+        "Ezk 32:2",
+        "Rev 12",
+        "Rev 13",
+        "Rev 16:13"
+      ],
+      "entry_text": "A poisonous serpent DEU 32:33. A serpent of the desert PSA 91:13; ISA 34:13; JER 9:11; 51:37; MAL 1:3. Of the sea PSA 74:13; ISA 27:1. A wolf MIC 1:8. Interpreted as whale, in GEN 1:21; JOB 7:12. Serpent EXO 7:9. A term applied: To Pharaoh ISA 51:9. To Satan REV 20:2. Symbolical EZK 29:3; 32:2; REV 12; 13; 16:13"
+    },
+    {
+      "name": "HARVEST",
+      "subtopic": "FIGURATIVE",
+      "verse_refs": [
+        "Job 24:6",
+        "Pro 10:5",
+        "Jer 8:20",
+        "Joel 3:13",
+        "Mat 9:37",
+        "Mat 13:39",
+        "Luk 10:2",
+        "Rev 14:15"
+      ],
+      "entry_text": "FIGURATIVE JOB 24:6; PRO 10:5; JER 8:20; JOL 3:13; MAT 9:37; 13:39; LUK 10:2; REV 14:15. See PENTECOST, FEAST OF. See TABERNACLES, FEAST OF. See FIRST FRUITS. See REAPING. See GLEANING."
+    },
+    {
+      "name": "BABYLON",
+      "subtopic": "FIGURATIVE",
+      "verse_refs": [
+        "Rev 14:8",
+        "Rev 16:19",
+        "Rev 17",
+        "Rev 18"
+      ],
+      "entry_text": "FIGURATIVE REV 14:8; 16:19; 17; 18. City of Babylon: Built by Nimrod GEN 10:10. Capital of the kingdom DAN 4:30. Prophecies concerning PSA 87:4; 137:8,9; ISA 13; 14:4-26; JER 50; 51."
+    },
+    {
+      "name": "ANGEL (a spirit)",
+      "subtopic": "FUNCTIONS OF",
+      "verse_refs": [
+        "Rev 14:6",
+        "Rev 14:8",
+        "Rev 14:9",
+        "Rev 12:7",
+        "Rev 8:2",
+        "Mat 13:39",
+        "Mat 25:31",
+        "Heb 1:14",
+        "Rev 1:20"
+      ],
+      "entry_text": "ANGEL (a spirit) — FUNCTIONS OF / APPEARANCES. Angels serve as messengers (Rev 14:6-9), warriors (Rev 12:7), judgment executors (Rev 8:2, Mat 13:39-41), attendants at the Second Coming (Mat 25:31), and ministering spirits (Heb 1:14). In Revelation the seven stars are the angels of the seven churches (Rev 1:20). Nave's lists approximately 80 verse references for angel functions and appearances."
+    },
+    {
+      "name": "ARK",
+      "subtopic": "IN THE TABERNACLE",
+      "verse_refs": [
+        "Exo 25:10-22",
+        "Exo 25:16",
+        "Exo 25:21",
+        "Deu 10:5",
+        "1 Ki 8:9",
+        "Rev 11:19",
+        "Heb 9:4"
+      ],
+      "entry_text": "ARK — IN THE TABERNACLE. Made of shittim wood overlaid with gold (Exo 25:10-11). Contains the testimony/law (Exo 25:16,21; Deu 10:5; 1 Ki 8:9). Mercy seat with cherubim on top (Exo 25:17-22). God meets with Israel from above the mercy seat (Exo 25:22). Seen in heavenly temple (Rev 11:19). Nave's lists approximately 50 verse references."
+    },
+    {
+      "name": "LAMB OF GOD",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "John 1:29",
+        "John 1:36",
+        "Rev 5:6",
+        "Rev 5:12",
+        "Rev 14:1",
+        "Rev 14:4",
+        "Rev 14:10"
+      ],
+      "entry_text": "LAMB OF GOD — GENERAL. John the Baptist identifies Jesus (John 1:29,36). In Revelation: the Lamb enthroned (Rev 5:6), worthy of worship (Rev 5:12), on Mount Zion with 144,000 (Rev 14:1,4), present at judgment (Rev 14:10). Nave's lists approximately 18 verse references."
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "TO BE RENDERED ONLY TO GOD",
+      "verse_refs": [
+        "Exo 20:3-5",
+        "Deu 6:13",
+        "Mat 4:10",
+        "Rev 4:10-11",
+        "Rev 14:7",
+        "Rev 13:4",
+        "Rev 13:12",
+        "Rev 13:15",
+        "Rev 14:9",
+        "Rev 14:11"
+      ],
+      "entry_text": "WORSHIP — TO BE RENDERED ONLY TO GOD. Central theme in Rev 12-14 conflict: true worship of Creator (Rev 14:7, cf. Exo 20:11) vs. beast worship (Rev 13:4,12,15). Third angel warns against worshiping the beast (Rev 14:9,11). Nave's lists approximately 60 verse references."
+    },
+    {
+      "name": "COVENANT",
+      "subtopic": "OF GOD WITH MEN",
+      "verse_refs": [
+        "Gen 9:9-17",
+        "Gen 15:18",
+        "Exo 19:5",
+        "Exo 24:7-8",
+        "Exo 25:16",
+        "Deu 10:5",
+        "Rev 11:19"
+      ],
+      "entry_text": "COVENANT — OF GOD WITH MEN. The ark of the covenant contains the Ten Commandments (Exo 25:16; Deu 10:5). In Rev 11:19, the ark of his testament (diatheke) is seen in the heavenly temple, reopening the covenant-law theme that threads through 12:17 and 14:12. Nave's lists approximately 40 verse references."
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_refs": [
+        "Ecc 12:14",
+        "Mat 12:36",
+        "Mat 25:31-46",
+        "Rom 2:16",
+        "Rev 14:7",
+        "Rev 20:12"
+      ],
+      "entry_text": "JUDGMENT — THE GENERAL. The hour of his judgment is come (Rev 14:7). God shall judge the secrets of men (Rom 2:16). Every idle word accountable (Mat 12:36). Books opened (Rev 20:12). Nave's lists approximately 50 verse references."
+    },
+    {
+      "name": "ZION",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Psa 2:6",
+        "Psa 48:2",
+        "Isa 2:3",
+        "Heb 12:22",
+        "Rev 14:1"
+      ],
+      "entry_text": "ZION — GENERAL. Called the city of David (2 Sam 5:7). God's holy hill (Psa 2:6). In Heb 12:22 Mount Sion = the heavenly Jerusalem. Rev 14:1: the Lamb stood on Mount Sion with 144,000. Nave's lists approximately 25 verse references."
+    },
+    {
+      "name": "TEMPLE",
+      "subtopic": "HEAVENLY",
+      "verse_refs": [
+        "Rev 3:12",
+        "Rev 7:15",
+        "Rev 11:19",
+        "Rev 14:15",
+        "Rev 14:17",
+        "Rev 15:5-8",
+        "Rev 16:1"
+      ],
+      "entry_text": "TEMPLE — HEAVENLY. The temple of God opened in heaven (Rev 11:19). Angels come out of the temple (Rev 14:15,17; 15:6). Temple of the tabernacle of the testimony opened (Rev 15:5). Temple filled with smoke, none able to enter (Rev 15:8). Nave's lists approximately 70 verse references for temple topics."
+    },
+    {
+      "name": "SATAN",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Gen 3:1-15",
+        "Isa 14:12-14",
+        "Ezk 28:12-17",
+        "Mat 4:1-11",
+        "Rev 12:7-9",
+        "Rev 20:2"
+      ],
+      "entry_text": "SATAN — GENERAL. Identified as the serpent of Eden (Gen 3:1-15; Rev 12:9; 20:2). Fall narrative (Isa 14:12-14). Cast out of heaven (Rev 12:7-9). Accuser cast down (Rev 12:10). Dragon, that old serpent, called the Devil and Satan (Rev 12:9; 20:2). Nave's lists approximately 45 verse references."
+    },
+    {
+      "name": "SERPENT",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Gen 3:1-15",
+        "Num 21:6-9",
+        "Isa 27:1",
+        "Rev 12:9",
+        "Rev 12:14-15",
+        "Rev 20:2"
+      ],
+      "entry_text": "SERPENT — GENERAL. The serpent in Eden (Gen 3:1-15). Leviathan the piercing serpent (Isa 27:1). In Revelation: that old serpent = the dragon = the Devil and Satan (Rev 12:9; 20:2). The serpent cast water as a flood after the woman (Rev 12:15). Nave's lists approximately 20 verse references."
+    },
+    {
+      "name": "GOSPEL",
+      "subtopic": "UNCLASSIFIED SCRIPTURES",
+      "verse_refs": [
+        "Mat 4:23",
+        "Mat 24:14",
+        "Mat 28:19-20",
+        "Mark 16:15",
+        "Rom 1:16",
+        "Rev 14:6"
+      ],
+      "entry_text": "GOSPEL — UNCLASSIFIED SCRIPTURES. The everlasting gospel (Rev 14:6). Preach the gospel to every creature (Mark 16:15). Go and teach all nations (Mat 28:19). The gospel of the kingdom preached in all the world (Mat 24:14). Nave's lists approximately 55 verse references."
+    },
+    {
+      "name": "PERSEVERANCE",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rom 5:3-4",
+        "2 Thes 1:4",
+        "Heb 10:36",
+        "Heb 12:1",
+        "Jam 1:3-4",
+        "Rev 13:10",
+        "Rev 14:12"
+      ],
+      "entry_text": "PERSEVERANCE — GENERAL. Patience/endurance of the saints (Rev 13:10; 14:12). Tribulation worketh patience (Rom 5:3-4). Ye have need of patience (Heb 10:36). Run with patience (Heb 12:1). The trying of your faith worketh patience (Jam 1:3). Nave's lists approximately 35 verse references."
+    },
+    {
+      "name": "WINE PRESS",
+      "subtopic": "FIGURATIVE",
+      "verse_refs": [
+        "Isa 63:2-3",
+        "Lam 1:15",
+        "Joel 3:13",
+        "Rev 14:19-20",
+        "Rev 19:15"
+      ],
+      "entry_text": "WINE PRESS — FIGURATIVE. I have trodden the winepress alone (Isa 63:3). The Lord hath trodden the daughter of Judah as in a winepress (Lam 1:15). The press is full, the fats overflow (Joel 3:13). Cast into the great winepress of the wrath of God (Rev 14:19-20). He treadeth the winepress of the fierceness and wrath of Almighty God (Rev 19:15). Nave's lists 5 verse references."
+    },
+    {
+      "name": "ANGEL OF THE CHURCHES",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rev 1:20",
+        "Rev 2:1",
+        "Rev 2:8",
+        "Rev 2:12",
+        "Rev 2:18",
+        "Rev 3:1",
+        "Rev 3:7",
+        "Rev 3:14"
+      ],
+      "entry_text": "ANGEL OF THE CHURCHES — GENERAL. The seven stars are the angels of the seven churches (Rev 1:20). Each of the seven letters in Rev 2-3 is addressed to 'the angel of the church' in a specific city. Whether these are literal guardian angels, human pastors/bishops, or personified spirits of the congregations is disputed."
+    },
+    {
+      "name": "KINGDOM OF SATAN",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Mat 12:26"
+      ],
+      "entry_text": "KINGDOM OF SATAN — GENERAL. If Satan cast out Satan, he is divided against himself; how shall then his kingdom stand? (Mat 12:26). Nave's lists 1 verse reference."
+    }
+  ],
+  "verses": [
+    {
+      "reference": "Rev 11:19",
+      "heading": "Structural introduction — ark of covenant opened, theophany phenomena",
+      "kjv_text": "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.",
+      "context": "Final verse of the seventh trumpet sequence. Functions as a structural hinge: concludes the trumpet series while simultaneously introducing the cosmic conflict vision of Rev 12-14. The opening of the naos (inner sanctuary) in heaven reveals the ark of the covenant (diatheke), immediately followed by theophany phenomena matching the Sinai theophany (Exo 19:16-19). This verse marks the transition from Holy Place furniture (lampstands in 1:12-13, incense altar in 8:3-5) to Most Holy Place furniture (ark).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Key structural pivot. Two aorist passives: enoige (was opened, V-2API-3S) and ophthe (was seen, V-API-3S). Both are divine passives — God opens His own temple and reveals His ark. The theophany phenomena (astrapai, phonai, brontai, seismos, chalaza megale) parallel Exo 19:16-19 (thunders, lightnings, thick cloud, earthquake). The parallel to Rev 8:5 is striking — the same phenomena appear there after the altar-censer scene, but 11:19 adds 'great hail' (chalaza megale), escalating the Sinai parallel. Cross-testament parallels confirm: REV 16:18 (highest match, 0.504) shares earthquake+lightning+thunder; REV 8:5 (0.444) shares earthquake+lightning+thunder; REV 15:5 (0.411) shares temple+heaven+open — the structural bookend."
+    },
+    {
+      "reference": "Rev 12:1-6",
+      "heading": "First sign (semeion) — woman, dragon, manchild",
+      "kjv_text": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars: And she being with child cried, travailing in birth, and pained to be delivered. And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born. And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne. And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days.",
+      "context": "Opens with semeion mega ('a great sign/wonder in heaven') at 12:1 — the first of three semeion markers (12:1, 12:3, 15:1) forming the inclusio that brackets the cosmic conflict unit. The woman represents God's faithful people; the dragon is identified in 12:9. The manchild is Christ (rules with rod of iron, caught up to God's throne). The 1260 days parallel the 42 months of 13:5 and the time, times, and half a time of 12:14.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Two semeion occurrences: 12:1 (semeion mega, 'great sign') and 12:3 (allo semeion, 'another sign'). The grammar reference on apocalyptic-narrative-prolepsis shows this is a summary-tableau opening: the perfect participle peribeblemene (clothed, V-RPP-NSF) in 12:1 presents the woman in her resultant state before the events that produced it are narrated. The sequence on the page is NOT the timeline sequence — birth (v.5), ascension (v.5b), war (v.7), and persecution (v.13-17) are recounted out of chronological order."
+    },
+    {
+      "reference": "Rev 12:7-12",
+      "heading": "War in heaven — Michael defeats dragon; victory through blood of Lamb",
+      "kjv_text": "And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, And prevailed not; neither was their place found any more in heaven. And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him. And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night. And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death. Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.",
+      "context": "Central to Shea's chiastic structure claim — 12:10-11 is proposed as the chiastic center of both this section and of the entire book of Revelation. Michael (G3413) and his angels vs. the dragon (G1404) and his angels. The fourfold identification chain in 12:9 definitively identifies the dragon. Verse 11 declares the mechanism of victory: 'the blood of the Lamb' (arnion). Verse 12 transitions from heavenly victory to earthly woe.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Greek parser confirms all key verb tenses: egeneto polemos (V-2ADI-3S, 'there was war' — bounded aorist), epolemesen (V-AAI-3S, 'fought' — aorist, bounded event), ischysan (V-AAI-3P, 'prevailed' — aorist), eblethe (V-API-3S, 'was cast out' — aorist passive, divine passive), eblethsan (V-API-3P, 'were cast out' — aorist passive). The fourfold identification in 12:9: ho drakon ho megas (the great dragon) + ho ophis ho archaios (that old serpent) + ho kaloumenos Diabolos (called the Devil, present passive participle V-PPP-NSM) + kai ho Satanas (and Satan). The present participle planon (V-PAP-NSM, 'deceiving') shows ongoing deception. EGW claim that the war 'continues into the last days' — the text uses bounded aorists for the heavenly war itself, but the present participle planon and 12:12's 'short time' motif suggest ongoing conflict in its earthly phase."
+    },
+    {
+      "reference": "Rev 12:13-17",
+      "heading": "Dragon's pursuit of woman and remnant — commandments and testimony",
+      "kjv_text": "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.",
+      "context": "Climax of Rev 12: the dragon, defeated in heaven, redirects his war toward the remnant (loipon, G3062) of the woman's seed. The remnant is defined by two characteristics: (1) keeping the commandments (entolas, G1785) of God and (2) having the testimony (martyrian, G3141) of Jesus. This language recurs verbatim at 14:12, forming the thematic inclusio.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: orgisthe (V-API-3S, aorist passive of orgizo, 'was wroth') — the dragon's wrath is a bounded response to being cast down. apelthen (V-2AAI-3S, 'went') + poiesai polemon (V-AAN + N-ASM, 'to make war') — purpose clause. terounton (V-PAP-GPM, 'keeping' — present active participle) and echonton (V-PAP-GPM, 'having' — present active participle) — both present participles describe the ongoing, characteristic activity of the remnant. The entolas tou Theou (commandments of God) in 12:17 connects directly back to 11:19's ark of the testament (which contained the commandments) and forward to 14:12."
+    },
+    {
+      "reference": "Rev 13:1-10",
+      "heading": "Sea beast — composite Daniel 7 entity, 42-month authority, hupomone marker",
+      "kjv_text": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy. And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority. And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast. And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him? And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months. And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. If any man have an ear, let him hear. He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+      "context": "The sea beast is a composite of all four Daniel 7 beasts (leopard + bear + lion = 7 heads and 10 horns total). The dragon delegates power, throne, and authority to the beast (13:2). The verbatim quotation stoma laloun megala ('a mouth speaking great things') in 13:5 = Dan 7:8 LXX. The edothe (V-API-3S, divine passive, 'it was given') pattern in 13:5,7 shows God's sovereign permission. Rev 13:7 has the fourfold universal formula (phylen kai laon kai glossan kai ethnos) — the same formula appears in 14:6, creating structural contrast. 13:10 closes with the hupomone formula ('here is the patience and the faith of the saints'), which will be reprised at 14:12.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms stoma laloun megala (mouth speaking great things): stoma (G4750, N-NSN), laloun (G2980, V-PAP-NSN, present active participle), megala (G3173, A-APN). This matches Dan 7:8 LXX. The edothe (V-API-3S) appears 3x in 13:5-7 — divine passive showing bounded permission: 'was given a mouth,' 'was given authority to act 42 months,' 'was given to make war with the saints.' The fourfold formula in 13:7: phylen (G5443) kai laon (G2992) kai glossan (G1100) kai ethnos (G1484). Compare 14:6: ethnos (G1484) kai phylen (G5443) kai glossan (G1100) kai laon (G2992) — same four words in different order."
+    },
+    {
+      "reference": "Rev 13:11-18",
+      "heading": "Earth beast — lamb-like horns but dragon speech, image and mark",
+      "kjv_text": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon. And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed. And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men, And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed. And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name. Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.",
+      "context": "The earth beast has two horns 'like a lamb' (hos arnion) but speaks 'as a dragon' (hos drakon) — direct phonetic contrast with the true Lamb (arnion) of 14:1. The earth beast enforces the sea beast's worship claim through image-worship compulsion (paralleling Dan 3:1-7) and the mark (charagma, G5480) on forehead or hand. The mark/name on the beast-worshiper's forehead directly contrasts with the Father's name on the 144,000's foreheads (14:1). Later identified as 'the false prophet' (Rev 16:13; 19:20), completing the counterfeit trinity: dragon (counterfeit Father) + sea beast (counterfeit Christ) + earth beast/false prophet (counterfeit Spirit).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Key contrast: the earth beast has kerata duo homoia arniou ('two horns like a lamb,' 13:11) — arnion is the diminutive form, exactly matching the Christological title in 14:1. But it elalei hos drakon ('spoke as a dragon') — the speech reveals the true allegiance despite the lamb-like appearance. The semeion (signs/miracles, G4592) in 13:13-14 are deceptive signs, contrasting with the true signs (semeion) of 12:1 and 12:3."
+    },
+    {
+      "reference": "Rev 14:1-5",
+      "heading": "Lamb on Mount Zion with 144,000 — contrast-frame to Rev 13",
+      "kjv_text": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads. And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps: And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth. These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb. And in their mouth was found no guile: for they are without fault before the throne of God.",
+      "context": "Deliberate contrast-frame to Rev 13: (1) Lamb (arnion) vs. beast (therion) — near-homophone; (2) Father's name (onoma) on forehead vs. mark (charagma) on forehead/hand; (3) singing a new song vs. compelled worship; (4) 'not defiled with women' (holy war consecration) vs. Babylon's fornication; (5) firstfruits (aparche) as guarantee of coming harvest (14:14-16). The 144,000 sing 'before the throne' (14:3) and are 'without fault before the throne of God' (14:5) — locating this scene in the heavenly Jerusalem (Heb 12:22-23). The kai eidon ('and I saw/looked') at 14:1 marks a new scene transition.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: Arnion (G721, N-NSN) hestos (G2476, V-2RAP-NSN, perfect active participle — 'standing' in resultant state) epi to oros Sion (on Mount Zion). The perfect participle hestos shows the Lamb in a state of standing — already positioned, already victorious. The 144,000 have echousai to onoma autou kai to onoma tou Patros autou gegrammenon epi ton metopon auton ('having his name and the name of his Father written on their foreheads'). gegrammenon (G1125, V-RPP-ASN, perfect passive participle) — the name is in a state of having been written, a settled condition. Contrast with the mark: in 13:16, they 'receive' (labein) a mark — it is imposed. Here, the name is already present. aparche (G536, N-NSF) to Theo kai to Arnio — 'firstfruits unto God and to the Lamb.' This connects directly to the grain harvest of 14:14-16: the 144,000 are the representative sample guaranteeing the full harvest."
+    },
+    {
+      "reference": "Rev 14:6-7",
+      "heading": "First angel's message — eternal gospel, fear God, give glory, judgment, worship Creator",
+      "kjv_text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+      "context": "The first angel proclaims the 'everlasting gospel' (euangelion aionion) — the only occurrence of euangelion in all of Revelation. The audience formula (pan ethnos kai phylen kai glossan kai laon) directly mirrors the beast's dominion formula in 13:7 — the angel proclaims to the same universal audience the beast claims to rule. The content counters the beast's worship claim: phobethete ton Theon ('fear God'), dote auto doxan ('give him glory'), proskynesate to poiesanti ton ouranon kai ten gen kai thalassan kai pegas hydaton ('worship him that made heaven, and earth, and the sea, and the fountains of waters'). This creation language echoes Exo 20:11 (the Sabbath commandment rationale).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms the structure: eidon (V-2AAI-1S, 'I saw') — kai eidon scene marker opening a new unit. allon aggelon (G32, N-ASM, 'another angel') — allon implies 'another of the same kind,' connecting to the preceding angel(s). echonta euangelion aionion (having everlasting gospel) — euangelion (G2098, N-ASN) aionion (G166, A-ASN). euangelisai (G2097, V-AAN, aorist active infinitive, 'to preach good news') — shares the aggel- root with aggelos ('angel/messenger'), creating a wordplay: the messenger (aggelos) good-messages (euangelisai). Phobethete (G5399, V-AOM-2P, aorist passive imperative) — 'fear!' as a command. dote (G1325, V-2AAM-2P, aorist active imperative) — 'give!' proskynesate (G4352, V-AAM-2P, aorist active imperative) — 'worship!' Three sharp commands. elthen (V-2AAI-3S, 'is come/came') — aorist, the hour of judgment arrived as a bounded, decisive event. poiesanti (G4160, V-AAP-DSM, aorist active participle) — 'him that made' — points to a completed past act of creation."
+    },
+    {
+      "reference": "Rev 14:8",
+      "heading": "Second angel's message — Babylon is fallen, wine of fornication",
+      "kjv_text": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.",
+      "context": "The second angel announces Babylon's fall using language from Jer 51:7-8 and Isa 21:9. The doubled 'fallen, fallen' (epesen epesen) echoes the OT formulae. The wine-chain begins here: oinos tou thymou tes porneias ('wine of the wrath/passion of her fornication') — thumos (G2372) connects to 14:10 (wine of God's wrath), 14:19 (winepress of God's wrath), and the bowl plagues (15:1, 16:1). The genitive chain (oinou tou thymou tes porneias) creates deliberate ambiguity: is the wine Babylon's passionate fornication, or God's wrathful response to it?",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: Epesen (G4098, V-2AAI-3S, aorist, 'fell') repeated twice — prophetic aorist, announcing a future event as already accomplished. pepotiken (G4222, V-RAI-3S, perfect active indicative, 'has made to drink / has caused to drink') — perfect tense indicates the effect has been completed and its result persists. The thumos (G2372, N-GSM) chain is critical: 14:8 (thumos of Babylon's fornication) -> 14:10 (thumos of God) -> 14:19 (lenos tou thymou tou Theou, 'winepress of the wrath of God'). OT parallel: Jer 51:7 ('Babylon hath been a golden cup in the LORD'S hand, that made all the earth drunken: the nations have drunken of her wine') — nearly verbatim."
+    },
+    {
+      "reference": "Rev 14:9-11",
+      "heading": "Third angel's message — beast worship warning, mark, wine of wrath, torment",
+      "kjv_text": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.",
+      "context": "The third angel warns against exactly what Rev 13 established: worshipping the beast (proskyneo to therion) and receiving his mark (charagma). The consequence is drinking God's wrath-wine (oinos tou thymou tou Theou) poured out akratou (unmixed/without dilution). The torment occurs 'in the presence of the holy angels and in the presence of the Lamb' (enopion aggelon hagion kai enopion tou Arniou) — the same Lamb of 14:1. The 'no rest day nor night' (ouk echousin anapausin hemeras kai nyktos) in 14:11 inverts Rev 4:8 where the living creatures 'rest not day and night' worshiping God — ceaseless false worship results in ceaseless unrest.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: proskunei (G4352, V-PAI-3S, present active indicative, 'worships') and lambanei (G2983, V-PAI-3S, present active indicative, 'receives') — present tenses describe the ongoing condition. proskunountes (G4352, V-PAP-NPM, present active participle, 'those worshiping') in 14:11 — substantive participle defining who suffers. thumos (G2372) and orge (G3709) both appear in 14:10: 'the wine of the wrath (thumos) of God... in the cup of his indignation (orge)' — double wrath language. Rev 4:8 comparison: 'rest not day and night' (anapausin ouk echousin hemeras kai nyktos) praising God vs. 14:11 'have no rest day nor night' (ouk echousin anapausin hemeras kai nyktos) in torment — exact lexical inversion."
+    },
+    {
+      "reference": "Rev 14:12",
+      "heading": "Hupomone conclusion — patience, commandments, faith of Jesus; inclusio with 13:10",
+      "kjv_text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.",
+      "context": "The hupomone (patience/endurance) formula that closes the three angels' messages. This verse forms an inclusio with Rev 13:10 ('Here is the patience and the faith of the saints'). Compare: 13:10 has 'he hupomone kai he pistis ton hagion' while 14:12 has 'he hupomone ton hagion... hoi terountes tas entolas tou Theou kai ten pistin Iesou.' The 14:12 formula is expanded: it adds 'keeping the commandments of God' (connecting back to 11:19's ark/covenant and 12:17's remnant description) and specifies 'the faith OF Jesus' (pistin Iesou).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: Hode (G5602, ADV, 'here') — the same marker used at 13:10. hupomone (G5281, N-NSF) ton hagion (of the saints). terountes (G5083, V-PAP-NPM, present active participle, 'keeping') — same verb and form as 12:17 (terounton, V-PAP-GPM). entolas (G1785, N-APF) tou Theou (of God) — same phrase as 12:17. pistin (G4102, N-ASF) Iesou (G2424, N-GSM) — the genitive Iesou can be objective ('faith in Jesus') or subjective ('faith of Jesus / Jesus' faithfulness'). The thematic arc from 11:19 (ark/covenant revealed) through 12:17 (remnant keeps commandments) to 14:12 (saints keep commandments and have faith of Jesus) is a continuous vocabulary chain: diatheke (11:19) -> entole (12:17, 14:12)."
+    },
+    {
+      "reference": "Rev 14:13",
+      "heading": "Beatitude — blessed are the dead who die in the Lord; transition to harvest",
+      "kjv_text": "And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.",
+      "context": "A transitional beatitude between the three angels' messages and the dual harvest. The dead who 'die in the Lord' are contrasted with those who worship the beast and 'have no rest' (14:11). These blessed dead 'rest from their labours' — the anapausis (rest) denied to beast-worshipers is granted to the faithful. The Spirit's affirmation (nai, legei to Pneuma) adds divine authentication.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "This is the second of seven beatitudes in Revelation (1:3; 14:13; 16:15; 19:9; 20:6; 22:7; 22:14). The contrast with 14:11 is pointed: beast-worshipers 'have no rest (anapausin) day nor night' while the faithful 'rest (anapaesontai) from their labours.' The word anapausis/anapauo links the two verses."
+    },
+    {
+      "reference": "Rev 14:14-16",
+      "heading": "Grain harvest — Son of Man on cloud with sickle; positive harvest",
+      "kjv_text": "And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle. And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe. And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.",
+      "context": "The grain harvest uses Dan 7:13 language: 'one like unto the Son of man' on a cloud. The kai eidon ('and I looked/saw') at 14:14 marks another scene transition. The preposition shift from Dan 7:13 META ton nephelon ('with the clouds' — approaching) to Rev 14:14 EPI ten nephelen ('upon the cloud' — enthroned/seated) indicates the Son of Man has already received His kingdom (Dan 7:14) and now exercises harvest authority. The verb therizo (G2325, 'reap') is used for this harvest — distinct from trygao (G5166, 'gather grapes') in the next harvest. No wrath language accompanies the grain harvest; the outcome is simply 'the earth was reaped.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: eidon (V-2AAI-1S, 'I saw/looked') — kai eidon scene marker. kathemenon (G2521, V-PNP-ASM, present middle/passive participle, 'sitting/seated') — the enthroned posture. homoion huion anthropou ('like a Son of man') — echoing Dan 7:13 LXX. echon (V-PAP-NSM, 'having') stephanon chrysoun (golden crown) kai drepanon (G1407, sickle) oxu (sharp). epi (G1909, preposition) ten nephelen — EPI + accusative = 'upon' — the Son of Man sits ON the cloud, not coming WITH clouds. Cross-testament parallel confirms: Dan 7:13 is the top OT match (0.399) — 'behold, cloud, like.' The harvest is authorized by an angel from the temple (naos) — connecting back to the temple opened in 11:19."
+    },
+    {
+      "reference": "Rev 14:17-20",
+      "heading": "Grape harvest — angel from temple, altar-fire angel, winepress of wrath",
+      "kjv_text": "And another angel came out of the temple which is in heaven, he also having a sharp sickle. And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe. And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God. And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs.",
+      "context": "The grape harvest is morally distinct from the grain harvest. The verb trygao (G5166, 'gather grapes') replaces therizo. The agent is an angel (not the Son of Man). An 'angel from the altar, which had power over fire' (14:18) continues the altar-fire vindication arc from Rev 6:9 (altar souls) through 8:3-5 (censer scene). The gathered grapes are cast into the 'great winepress of the wrath (thumos) of God' — the thumos chain reaches its culmination. Joel 3:13 is the OT bifurcation source — John splits Joel's unified harvest/winepress image into two morally distinct operations.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "trygao (G5166) vs. therizo (G2325) is a deliberate lexical distinction. lenos (G3025, winepress) appears in 14:19,20 — the great winepress of the thumos (G2372) of God. The angel from the altar (ek tou thysiasteriou) with authority over fire (exousian epi tou pyros) connects to the censer scene of 8:5 where fire from the altar was cast into the earth, producing the same phenomena (voices, thunders, lightnings, earthquake) as 11:19. drepanon (G1407, sickle) appears in both harvests, but the verbs and agents differ. Joel 3:13 is the background: 'Put ye in the sickle (drepanon LXX), for the harvest is ripe: come, get you down; for the press (lenos LXX) is full.'"
+    },
+    {
+      "reference": "Rev 15:1-4",
+      "heading": "Victory over the beast scene — semeion at 15:1",
+      "kjv_text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God. And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God. And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints. Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy: for all nations shall come and worship before thee; for thy judgments are made manifest.",
+      "context": "The third semeion occurrence (allo semeion, 'another sign') at 15:1 brackets the cosmic conflict unit with the semeion at 12:1 and 12:3 — completing the inclusio. 15:2-4 shows the victors over the beast singing 'the song of Moses and the song of the Lamb' — combining Exodus-deliverance with Lamb-redemption. The content of their song echoes the first angel's message: 'Who shall not fear thee?' (15:4, cf. 14:7), 'glorify thy name' (15:4, cf. 14:7), 'all nations shall come and worship' (15:4, cf. 14:7). Rev 15:5-8 then opens a new temple scene parallel to 11:19.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The semeion inclusio: 12:1 (semeion mega, 'great sign'), 12:3 (allo semeion, 'another sign'), 15:1 (allo semeion... mega kai thaumaston, 'another sign... great and marvellous'). The three semeion markers bracket the cosmic conflict unit (12:1-15:4). Victory vocabulary: nikontas (present active participle, 'those conquering/overcoming') the beast AND his image AND his mark AND the number of his name — a fourfold victory over a fourfold oppression system. The song content verbally parallels the first angel's message, confirming the structural relationship."
+    },
+    {
+      "reference": "Rev 15:5-8",
+      "heading": "Temple opened in heaven — structural parallel to 11:19; no one able to enter",
+      "kjv_text": "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened: And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles. And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever. And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.",
+      "context": "Structural bookend to 11:19. Both describe the temple/naos being opened in heaven. 15:5 adds 'the tabernacle of the testimony (martyrion)' — the testimony/law connection from the ark of the covenant. No one able to enter the temple (15:8) parallels Lev 16:17 ('no man shall be in the tabernacle') — the Day of Atonement parallel.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The naos (G3485) of the skene (tabernacle) of the martyrion (testimony) in heaven was opened (enoige) — combining temple, tabernacle, and testimony/law vocabulary. The 'no one able to enter' motif parallels both Lev 16:17 and Exo 40:35 (Moses could not enter because of the glory-cloud). This confirms the DOA parallel noted in the day-of-atonement-revelation-chiasm prior study."
+    },
+    {
+      "reference": "Isa 14:12-14",
+      "heading": "Lucifer's fall — OT background for Rev 12:7-9",
+      "kjv_text": "How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: I will ascend above the heights of the clouds; I will be like the most High.",
+      "context": "OT background for the dragon's fall in Rev 12:7-9. The five 'I will' statements describe the ambition that led to the war in heaven. 'Fallen from heaven' corresponds to 'was cast out into the earth' (Rev 12:9). The self-exaltation speech formula is studied in the grammar reference at passages/ezk-28-isa-14-rev-18-self-deification-speech-formulas.md.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The grammar reference entry on self-deification speech formulas connects Isa 14, Ezk 28, and Rev 18:7 as parallel instances of the pride-fall pattern. The 'mount of the congregation' (har mo'ed) has been connected by some scholars to the 'Mount Zion' of Rev 14:1 — the dragon sought to usurp God's mountain; the Lamb stands on it."
+    },
+    {
+      "reference": "Exo 19:16-19",
+      "heading": "Sinai theophany — parallels to Rev 11:19 phenomena",
+      "kjv_text": "And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that was in the camp trembled. And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount. And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly. And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.",
+      "context": "The Sinai theophany — the giving of the law. The phenomena listed here (thunders, lightnings, cloud, earthquake/quaking, voice/trumpet) closely parallel Rev 11:19 (lightnings, voices, thunderings, earthquake, great hail). Both accompany the revelation of the law/covenant — at Sinai in stone tablets, in Rev 11:19 in the ark containing those tablets. This parallel supports the claim that Rev 11:19 re-presents the law's authority in a new phase of redemptive history.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Comparison of phenomena: Exo 19:16 has thunders (qolot), lightnings (beraqim), cloud (anan), trumpet (shofar), trembling (charad). Rev 11:19 has lightnings (astrapai), voices (phonai), thunders (brontai), earthquake (seismos), great hail (chalaza megale). Both share: thunders, lightnings. Exo has cloud + trumpet; Rev has earthquake + hail. Not exact one-to-one, but the theophany-genre connection is clear. The Sinai phenomena accompany law-giving; the Rev 11:19 phenomena accompany ark-revelation."
+    },
+    {
+      "reference": "Joel 3:13",
+      "heading": "Harvest and winepress — OT source for Rev 14:14-20 dual harvest",
+      "kjv_text": "Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.",
+      "context": "The OT bifurcation source for Rev 14's dual harvest. Joel combines the grain harvest ('put ye in the sickle, for the harvest is ripe') and the grape harvest ('the press is full, the fats overflow') in a single verse. John separates them into two morally distinct operations: the grain harvest (14:14-16, positive, no wrath) and the grape harvest (14:17-20, negative, wrath of God). The sickle (drepanon in LXX) and winepress (lenos in LXX) are the same vocabulary used in Rev 14.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Joel 3:13 LXX uses exaposteilate drepanon ('send forth the sickle') and patein ('to tread') for the winepress — the same vocabulary (drepanon, pateo) that appears in Rev 14:14-20. The prior study rev-14-harvest-of-earth established five independent indicators distinguishing the two harvests."
+    },
+    {
+      "reference": "Dan 7:7-8",
+      "heading": "Fourth beast — source text for Rev 13:1-7 composite beast",
+      "kjv_text": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns. I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.",
+      "context": "Source text for Rev 13:1-7. Dan 7:7 provides the ten horns; Dan 7:8 provides the 'mouth speaking great things' (stoma laloun megala in LXX) — quoted verbatim in Rev 13:5. The four beasts of Daniel (lion, bear, leopard, terrifying fourth beast) are combined in Rev 13's composite beast, which has features of all four (leopard body, bear feet, lion mouth). This composite beast absorbs all four empires into a single entity.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The verbatim Greek quotation from Dan 7:8 LXX to Rev 13:5: stoma laloun megala. The prior study hist-12-revelation-13-14-beast-three-angels confirmed that this phrase appears nowhere else in the Greek Bible. The composite structure: Dan 7 has four separate beasts with a total of 7 heads (1+1+4+1) and 10 horns — Rev 13:1 combines them into one beast with 7 heads and 10 horns."
+    },
+    {
+      "reference": "Dan 7:13-14",
+      "heading": "Son of Man coming with clouds — background for Rev 14:14",
+      "kjv_text": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.",
+      "context": "The Son of Man passage that Rev 14:14 draws from. In Daniel, the Son of Man comes WITH (meta) the clouds TO the Ancient of Days to RECEIVE the kingdom. In Rev 14:14, the Son of Man sits UPON (epi) the cloud — already enthroned, already possessing authority, now exercising harvest judgment. The preposition shift (meta -> epi) signals a change in temporal position: approaching (Dan 7) vs. ruling (Rev 14).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Dan 7:14 'all people, nations, and languages' (pantes hoi laoi, phulai, glossai in LXX) uses three of the four terms from the fourfold universal formula in Rev 13:7 and 14:6. This confirms the intertextual relationship."
+    },
+    {
+      "reference": "Rev 1:20",
+      "heading": "Angels of the seven churches — key test for literal vs. symbolic angelos",
+      "kjv_text": "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.",
+      "context": "Key test case for the literal vs. symbolic angelos question. Jesus explains the 'mystery' (mysterion): the seven stars ARE (eisin) the angels (aggeloi) of the seven churches. If these angels are literal celestial beings, then the letters in Rev 2-3 are addressed to guardian angels. If they are human leaders (pastors/bishops), this establishes a precedent for angelos as symbolic of human agents in Revelation's own usage.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: aggeloi (G32, N-NPM, 'angels/messengers') ton hepta ekklesion (of the seven churches). The letters address these 'angels' with singular second-person pronouns and hold them accountable for their congregations' spiritual condition. The word mysterion (G3466) indicates that the stars/angels are symbols requiring interpretation — they are not self-evident. This is within the same book as the three angels of 14:6-9."
+    },
+    {
+      "reference": "Rev 2:1",
+      "heading": "Angel of Ephesus — church angel as possible human leader/messenger",
+      "kjv_text": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+      "context": "The first of seven letters addressed to the 'angel' of a specific church. The letter content addresses internal church issues (leaving first love, Nicolaitans), which would be odd if directed to a celestial guardian angel. The angel is instructed to 'repent' (2:5) — a command typically given to human moral agents.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The instruction to 'remember therefore from whence thou art fallen, and repent' (2:5) — a celestial angel being told to repent is theologically unusual, supporting the human-leader interpretation. However, the symbolic-visionary framework of Revelation means the 'angel' could be a symbolic representative of the congregation's spiritual state."
+    },
+    {
+      "reference": "Exo 25:16-22",
+      "heading": "Ark of the covenant — contents (testimony/law) and God's meeting place",
+      "kjv_text": "And thou shalt put into the ark the testimony which I shall give thee. And thou shalt make a mercy seat of pure gold: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof. And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof. And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be. And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee. And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel.",
+      "context": "The ark's purpose: to contain 'the testimony' (the Ten Commandments) and to serve as God's meeting place ('there I will meet with thee'). When Rev 11:19 reveals the ark in the heavenly temple, it reopens the question of God's covenant standard — the law contained in the ark. This directly connects to the commandment-keeping theme of 12:17 and 14:12.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The testimony (eduwth, H5715) = the tablets of the law (cf. Exo 31:18; 32:15). 1 Ki 8:9 confirms 'nothing in the ark save the two tables of stone.' Deu 10:5 confirms Moses placed the tablets in the ark. When Rev 11:19 opens the heavenly ark, it is the covenant-law that is being revealed — the standard by which the judgment of 14:7 proceeds."
+    },
+    {
+      "reference": "Rev 6:9-11",
+      "heading": "Altar souls — beginning of the altar vindication arc",
+      "kjv_text": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held: And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth? And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.",
+      "context": "The beginning of the altar vindication arc. Souls under the altar cry 'How long?' — their blood demands vindication. This arc continues through Rev 8:3-5 (altar-censer scene) to Rev 14:18 (angel from the altar with power over fire authorizing the grape harvest). The altar-fire angel of 14:18 answers the cry of 6:10.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The martyrian (testimony) they held connects to 12:17 (have the testimony of Jesus) and 11:7 (finished their testimony). The altar (thysiasteriou) location anchors the vindication chain."
+    },
+    {
+      "reference": "Rev 8:3-5",
+      "heading": "Censer scene — altar-fire imagery connecting to 14:18 harvest authorization",
+      "kjv_text": "And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne. And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hand. And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.",
+      "context": "The censer scene: an angel takes fire from the altar and casts it into the earth, producing the same theophany phenomena as 11:19 (voices, thunderings, lightnings, earthquake). This connects the altar-fire chain from the crying souls (6:9-11) through the censer (8:3-5) to the harvest angel from the altar (14:18). The prayers of the saints ascend with the incense; the fire returns to earth as judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Holy Place furniture: the golden altar 'before the throne' = the incense altar (Holy Place). This is BEFORE 11:19's ark-revelation (Most Holy Place). Bohr's sanctuary-transition claim is supported: chapters 1-11 reference Holy Place furniture (lampstands in 1:12-13, incense altar in 8:3-5); 11:19 introduces Most Holy Place furniture (ark)."
+    },
+    {
+      "reference": "Gen 3:1-15",
+      "heading": "Original serpent/woman conflict — protoevangelium behind Rev 12",
+      "kjv_text": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? ... And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life: And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.",
+      "context": "The protoevangelium — the first gospel promise. Rev 12 recapitulates the Gen 3 conflict: the serpent (ophis, identified as the dragon in 12:9) wars against the woman and her seed. Gen 3:15's enmity between serpent and woman, between his seed and her seed, becomes Rev 12:17's dragon making war with the remnant of her seed. The woman, the serpent, the seed, and the enmity — all four elements transfer from Genesis to Revelation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The vocabulary chain: Gen 3 serpent (nachash, H5175) = Rev 12:9 ophis ho archaios ('that old serpent') = the dragon = the Devil and Satan. Gen 3:15 'her seed' (zarah) = Rev 12:17 'the remnant of her seed' (loipon tou spermatos autes). The cosmic scope of the conflict visible in Gen 3 becomes fully explicit in Rev 12."
+    },
+    {
+      "reference": "Isa 63:2-3",
+      "heading": "Winepress of divine wrath — OT background for Rev 14:19-20",
+      "kjv_text": "Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat? I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.",
+      "context": "The divine warrior treading the winepress — the OT background for Rev 14:19-20 and 19:15. The red garments stained with 'blood' (actually grape juice as metaphor) = the blood from the winepress in Rev 14:20. This imagery transfers the winepress from agricultural metaphor to divine-wrath execution.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The LXX uses lenos for the winepress here, matching Rev 14:19-20. Rev 19:15 explicitly combines this with the Lamb imagery: 'he treadeth the winepress of the fierceness and wrath of Almighty God.'"
+    },
+    {
+      "reference": "Jer 51:7-8",
+      "heading": "Babylon's golden cup / nations drunk — OT source for Rev 14:8",
+      "kjv_text": "Babylon hath been a golden cup in the LORD'S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad. Babylon is suddenly fallen and destroyed: howl for her; take balm for her pain, if so be she may be healed.",
+      "context": "The primary OT source for the second angel's message (Rev 14:8). 'Babylon... made all the earth drunken' = Rev 14:8 'she made all nations drink.' 'The nations have drunken of her wine' = Rev 14:8 'the wine of the wrath of her fornication.' 'Babylon is suddenly fallen' = Rev 14:8 'Babylon is fallen, is fallen.' Nearly verbatim quotation across the testaments.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The verbal parallels are striking: Jer 51:7 'made all the earth drunken' -> Rev 14:8 pepotiken panta ta ethne ('made all nations drink'). Jer 51:8 'Babylon is fallen' -> Rev 14:8 epesen epesen Babylon. The doubled 'fallen fallen' in Rev 14:8 also echoes Isa 21:9 ('Babylon is fallen, is fallen'). The cross-testament parallel tool confirmed REV 18:2 (0.469) and REV 16:19 (0.462) as the top NT matches for Rev 14:8."
+    },
+    {
+      "reference": "Exo 20:11",
+      "heading": "Sabbath commandment rationale — parallel to Rev 14:7 Creator worship call",
+      "kjv_text": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+      "context": "The creation language in Rev 14:7 ('worship him that made heaven, and earth, and the sea, and the fountains of waters') echoes the Sabbath commandment rationale (Exo 20:11: 'the LORD made heaven and earth, the sea'). Both passages list the same three domains of creation: heaven, earth, sea. The first angel's call to worship the Creator uses covenant-law language, connecting back to the ark/commandments revealed in 11:19.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Comparison: Exo 20:11 'heaven and earth, the sea' vs. Rev 14:7 'heaven, and earth, and the sea, and the fountains of waters.' The Rev 14:7 version adds 'fountains of waters' (pegas hydaton). The three shared terms (heaven, earth, sea) are identical. This is the strongest linguistic link between the first angel's message and the Ten Commandments."
+    },
+    {
+      "reference": "Rev 13:10",
+      "heading": "Hupomone formula at sea beast conclusion — inclusio partner with 14:12",
+      "kjv_text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+      "context": "The first hupomone formula, closing the sea beast pericope. 'Here is the patience (hupomone) and the faith (pistis) of the saints.' Compare with 14:12: 'Here is the patience (hupomone) of the saints: here are they that keep the commandments (entolas) of God, and the faith (pistin) of Jesus.' The two verses bracket the entire three-angels section (13:10 -> 14:12), forming a hupomone inclusio. The 14:12 version adds 'commandments of God' and specifies 'faith of Jesus.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The inclusio: 13:10 hode estin he hupomone kai he pistis ton hagion. 14:12 hode he hupomone ton hagion estin, hoi terountes tas entolas tou Theou kai ten pistin Iesou. Both share: hode, hupomone, pistis, hagios. 14:12 adds entolas and substitutes Iesou for the generic ton hagion as the source of faith."
+    },
+    {
+      "reference": "Rev 4:8",
+      "heading": "Living creatures — 'rest not day and night' praising God",
+      "kjv_text": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+      "context": "The ceaseless worship of the living creatures: 'they rest not day and night' (anapausin ouk echousin hemeras kai nyktos). Rev 14:11 inverts this: beast worshipers 'have no rest day nor night' (ouk echousin anapausin hemeras kai nyktos). The exact same phrase applied to two opposite activities: ceaseless praise of God vs. ceaseless consequence of false worship.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Lexical identity: both use anapausin (G372) + ouk echousin + hemeras kai nyktos. The inversion is structural: what is joyful and voluntary in 4:8 becomes tormented and inescapable in 14:11."
+    },
+    {
+      "reference": "Rev 4:11",
+      "heading": "Creator worship — parallel to Rev 14:7 Creator-worship call",
+      "kjv_text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+      "context": "The creation-worship theme: 'thou hast created all things.' Rev 14:7 calls to 'worship him that made (poiesanti) heaven, and earth, and the sea.' Rev 4:11's creation worship establishes the theological basis for the first angel's command.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Both 4:11 and 14:7 identify the Creator as the proper object of worship. 4:11 uses ktizo ('created'); 14:7 uses poieo ('made'). The verb differs but the theology is identical: worship belongs to the One who brought all things into existence."
+    },
+    {
+      "reference": "Heb 12:22-23",
+      "heading": "Mount Zion as heavenly Jerusalem — interpretive key for Rev 14:1",
+      "kjv_text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels, To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,",
+      "context": "Identifies Mount Zion as the heavenly Jerusalem, not earthly geography. This is the interpretive key for Rev 14:1 — the Lamb standing on Mount Zion with the 144,000 is in the heavenly Jerusalem, consistent with 14:3 ('before the throne') and 14:5 ('before the throne of God'). The 'church of the firstborn' (prototokoi) connects to the 144,000 as 'firstfruits' (aparche) in 14:4.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Heb 12:22 oros Sion = the city of the living God = the heavenly Jerusalem. This equation supports reading Rev 14:1's Mount Zion as the heavenly location where the Lamb and 144,000 are pictured, not as earthly Palestine."
+    },
+    {
+      "reference": "Rev 7:1-4",
+      "heading": "Sealing of 144,000 — earlier sealing connecting to Rev 14:1",
+      "kjv_text": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea, Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.",
+      "context": "The earlier sealing scene. The 'seal of the living God' on the foreheads of the servants of God directly parallels Rev 14:1 where the 144,000 have 'his Father's name written in their foreheads.' The seal/name on the forehead = divine ownership mark, contrasting with the charagma (mark) of the beast on the forehead/hand in 13:16.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The seal (sphragis, G4973) in 7:2 vs. the mark (charagma, G5480) in 13:16 — these are contrasting loyalty markers. The 144,000 sealed in 7:4 = the 144,000 with the Father's name in 14:1 — the same group seen at two different points in the narrative."
+    },
+    {
+      "reference": "Rev 12:3",
+      "heading": "Second sign (semeion) — the great red dragon",
+      "kjv_text": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.",
+      "context": "The second semeion marker: 'another sign/wonder' (allo semeion). The dragon's seven heads, ten horns, and seven crowns mirror (but are distinct from) the sea beast's seven heads, ten horns, and ten crowns (13:1). The dragon's crowns are on his heads (diadems); the beast's crowns are on his horns.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Part of the semeion inclusio: 12:1 semeion mega, 12:3 allo semeion, 15:1 allo semeion mega kai thaumaston. The dragon's form (7 heads, 10 horns) anticipates the beast form (13:1), showing the beast as the dragon's earthly agent."
+    },
+    {
+      "reference": "Rev 13:5",
+      "heading": "stoma laloun megala — verbatim from Dan 7:8 LXX; edothe divine passive",
+      "kjv_text": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.",
+      "context": "The verbatim quotation: stoma laloun megala = Dan 7:8 LXX 'a mouth speaking great things.' The double edothe (V-API-3S, divine passive) frames the beast's activity as divinely permitted: (1) given a mouth speaking blasphemies, (2) given authority to act for 42 months. Both are bounded, authorized grants — God permits but limits the beast's career.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "See grammar references: aorist-passive-indicative.md (edothe as divine passive), divine-passive.md (Revelation's edothe pattern), aorist-infinitive-accusative-of-duration.md (poiesai menas construction). The 42 months = 1260 days (12:6) = 'time, times, and half a time' (12:14) = Dan 7:25's 'time and times and the dividing of time.'"
+    },
+    {
+      "reference": "Rev 13:7",
+      "heading": "Fourfold universal formula — beast dominion paralleling 14:6 angel proclamation",
+      "kjv_text": "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.",
+      "context": "The fourfold universal formula: phylen kai laon kai glossan kai ethnos (tribe, people, tongue, nation). The same four words appear in Rev 14:6: ethnos kai phylen kai glossan kai laon. The beast claims universal dominion (13:7); the angel proclaims a universal counter-message (14:6). The structural contrast is deliberate.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Parser confirms: edothe (V-API-3S, divine passive) again — even the beast's war against the saints is divinely permitted. The fourfold formula order differs: 13:7 has phylen-laon-glossan-ethnos; 14:6 has ethnos-phylen-glossan-laon. Same words, different order — structural pairing, not identical repetition. The formula appears elsewhere in Revelation: 5:9, 7:9, 10:11, 11:9, 17:15."
+    },
+    {
+      "reference": "Lev 16:13-15",
+      "heading": "Day of Atonement ark ritual — background for Rev 11:19",
+      "kjv_text": "And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not: And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times. Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:",
+      "context": "The Day of Atonement ritual — the only annual occasion when the ark was approached. Blood sprinkled on and before the mercy seat that is 'upon the testimony' (the law). When Rev 11:19 opens the heavenly temple to reveal the ark, it evokes the Yom Kippur moment — judgment is proceeding according to the standard contained in the ark.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The DOA connection: Lev 16:17 says 'there shall be no man in the tabernacle' during the high priest's ministry — paralleling Rev 15:8 'no man was able to enter into the temple.' The day-of-atonement-revelation-chiasm prior study confirmed this structural parallel."
+    },
+    {
+      "reference": "Deu 10:5",
+      "heading": "Tables of the law placed in the ark",
+      "kjv_text": "And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.",
+      "context": "Confirms the ark's contents: the tables of the law. When Rev 11:19 reveals the ark, it reveals the law contained within it.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting evidence for the ark-commandment-judgment chain."
+    },
+    {
+      "reference": "1 Ki 8:9",
+      "heading": "Nothing in the ark but the two tables of stone — covenant law",
+      "kjv_text": "There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the LORD made a covenant with the children of Israel, when they came out of the land of Egypt.",
+      "context": "At the dedication of Solomon's temple, the ark contained only the two tables of stone = the Ten Commandments. The word 'covenant' (beriyth, H1285) appears explicitly: the LORD made a covenant. This confirms the ark-covenant-commandment chain that Rev 11:19 activates.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The ark is specifically the ark of the covenant (diatheke in Greek, beriyth in Hebrew). Its contents are the covenant standard = the Ten Commandments."
+    },
+    {
+      "reference": "Rev 16:13",
+      "heading": "Dragon, beast, false prophet — counterfeit trinity named",
+      "kjv_text": "And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.",
+      "context": "The three adversaries named together: dragon, beast, false prophet. The earth beast of 13:11-18 is now identified as 'the false prophet.' This confirms the counterfeit trinity: dragon (counterfeit Father), sea beast (counterfeit Christ), earth beast/false prophet (counterfeit Spirit). All three oppose the three angels' messages.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The triad dragon-beast-false prophet appears here and in 19:20, 20:10. The false prophet performs the same 'signs' (semeion) as the earth beast (19:20 confirms the identification). The unclean spirits from their mouths contrast with the everlasting gospel from the angel's mouth."
+    },
+    {
+      "reference": "Rev 19:20",
+      "heading": "False prophet identification — earth beast/false prophet equation",
+      "kjv_text": "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.",
+      "context": "Confirms the earth beast = the false prophet. The false prophet 'wrought miracles (semeion) before him' = the earth beast 'doeth great wonders (semeion)' in 13:13-14. 'Deceived them that had received the mark' = earth beast 'causeth all... to receive a mark' in 13:16. Both cast into the lake of fire.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The identification chain: earth beast (13:11-18) = false prophet (16:13; 19:20; 20:10). This confirms the symbolic nature of the beast figures — they represent powers/systems, not literal animals."
+    },
+    {
+      "reference": "Rev 20:2",
+      "heading": "Dragon identified — confirms Rev 12:9 identification chain",
+      "kjv_text": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
+      "context": "Repeats the fourfold identification of 12:9: dragon = old serpent = Devil = Satan. This redundancy confirms the symbolic identification system: the dragon is not a literal creature but a symbolic representation of Satan.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Same four titles as 12:9: drakon, ophis archaios, Diabolos, Satanas. The text itself provides the interpretive key — the dragon IS identified, leaving no ambiguity."
+    },
+    {
+      "reference": "Rev 10:11",
+      "heading": "'Prophesy again' — three of four terms from Rev 14:6 audience formula",
+      "kjv_text": "And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.",
+      "context": "The command to 'prophesy again' uses three of four terms from the 14:6 audience formula: peoples (laois), nations (ethnesin), tongues (glossais). The fourth (phylais/kindreds) is replaced by 'kings' (basileusin). This connects the 'prophesy again' mandate to the content of the three angels' messages — what is prophesied again IS the three angels' messages.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Three of four terms shared: laois (peoples), ethnesin (nations), glossais (tongues). The prior study 3am-00-series-methodology identified this as the Rev 10-14 bridge."
+    },
+    {
+      "reference": "Psa 74:13",
+      "heading": "Dragon/sea monster defeated — OT divine warrior tradition",
+      "kjv_text": "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.",
+      "context": "OT divine warrior tradition: God defeats the sea-dragon(s). 'The heads of the dragons' (tanninim in Hebrew, LXX drakonton) — multiple heads, as in Rev 12:3's seven-headed dragon. The defeat of chaos-monsters in the waters becomes the defeat of the dragon in Rev 12:7-9.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The Hebrew tanninim (H8577) is the primary OT equivalent for the Revelation drakon (G1404). The multiple heads in Psa 74:13 anticipate the seven heads of Rev 12:3."
+    },
+    {
+      "reference": "Isa 27:1",
+      "heading": "Leviathan/dragon in the sea — OT dragon tradition",
+      "kjv_text": "In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.",
+      "context": "OT eschatological dragon-defeat: 'In that day' (eschatological marker) the LORD slays the dragon (tannin) in the sea. This becomes part of the OT background for Rev 12's dragon. The 'dragon in the sea' anticipates the beast 'rising out of the sea' in Rev 13:1.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The tannin in the sea (Isa 27:1) -> the drakon cast to the earth (Rev 12:9) -> the therion rising from the sea (Rev 13:1). The chaos-sea creature tradition flows from OT through intertestamental literature into Revelation."
+    },
+    {
+      "reference": "Ezk 29:3",
+      "heading": "Pharaoh as dragon (tannin) — OT background for dragon symbolism",
+      "kjv_text": "Speak, and say, Thus saith the Lord GOD; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.",
+      "context": "Pharaoh is called 'the great dragon' (tannin gadol) — a political-religious power described with dragon imagery. This establishes the OT precedent for dragon language describing earthly power systems, supporting the symbolic reading of Revelation's dragon/beast figures.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The self-deification speech ('My river is mine own, and I have made it for myself') connects to the grammar reference on self-deification speech formulas (Isa 14, Ezk 28, Rev 18:7)."
+    },
+    {
+      "reference": "Dan 3:1-7",
+      "heading": "Image worship compulsion — OT parallel to Rev 13's image-worship",
+      "kjv_text": "Nebuchadnezzar the king made an image of gold... Then an herald cried aloud, To you it is commanded, O people, nations, and languages, That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image... And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.",
+      "context": "The Dan 3 parallel to Rev 13: an image set up by the state, universal worship commanded ('people, nations, and languages'), death penalty for non-compliance. Rev 13:15 echoes this: 'cause that as many as would not worship the image of the beast should be killed.' The audience formula 'people, nations, and languages' in Dan 3:4,7 uses the same triad as the fourfold formula in Rev 13:7 and 14:6.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Structural parallel: Dan 3 image = Rev 13 image (eikon, G1504). Dan 3 universal worship command = Rev 13:12-15 universal worship compulsion. Dan 3 death penalty for refusal = Rev 13:15 death penalty for refusal. Dan 3 audience ('people, nations, languages') = Rev 13:7/14:6 fourfold formula."
+    },
+    {
+      "reference": "Dan 12:1",
+      "heading": "Michael standing up — connects to Rev 12:7",
+      "kjv_text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+      "context": "Michael the great prince 'stands up' for God's people in a time of unparalleled trouble. In Rev 12:7, Michael and his angels fight against the dragon. Both passages show Michael as the champion who intervenes on behalf of God's people. The 'book' (writing) parallels the Lamb's book of life (Rev 13:8).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Michael (G3413/H4317) appears in both Daniel and Revelation in a warrior-champion role. Dan 12:1 'time of trouble' -> Rev 12:12 'great wrath.' Dan 12:1 'written in the book' -> Rev 13:8 'written in the book of life of the Lamb.'"
+    },
+    {
+      "reference": "Rev 1:12-13",
+      "heading": "Seven golden candlesticks — Holy Place furniture before 11:19 transition",
+      "kjv_text": "And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks; And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.",
+      "context": "The lampstands (lychnia) — Holy Place furniture. Jesus walks among the lampstands (representing the seven churches, 1:20). This is the first sanctuary furniture mentioned in Revelation, corresponding to the menorah in the Holy Place. Before 11:19, all sanctuary furniture references are Holy Place items (lampstands 1:12-13; incense altar 8:3-5). After 11:19, the ark (Most Holy Place) appears.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "This supports Bohr's sanctuary-transition claim. Mapping sanctuary furniture in Revelation: 1:12-13 lampstands (Holy Place), 8:3 golden altar of incense (Holy Place), 11:19 ark of the covenant (Most Holy Place). The progression matches the earthly sanctuary layout from entrance inward."
+    },
+    {
+      "reference": "Mat 28:19-20",
+      "heading": "Great Commission — gospel proclamation given to human agents",
+      "kjv_text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+      "context": "The Great Commission given to human disciples. 'Teach all nations' (matheteusate panta ta ethne) = universal scope, matching Rev 14:6's 'every nation, kindred, tongue, people.' The gospel proclamation to all nations was commanded to HUMAN agents, supporting the reading that the three angels of Rev 14 symbolize human gospel messengers.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The universal-scope language ('all nations') matches Rev 14:6. The content — teaching, baptizing, obeying commands — is given to humans, not angels."
+    },
+    {
+      "reference": "Mark 16:15",
+      "heading": "Preach the gospel to every creature — human commission parallel to Rev 14:6",
+      "kjv_text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+      "context": "Parallel Great Commission: 'preach the gospel (euangelion) to every creature.' Rev 14:6 has an angel 'having the everlasting gospel (euangelion) to preach.' The same word euangelion, the same universal scope, and the same verb concept (preach/evangelize) — but in the Gospels the commission is given to human beings.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "euangelion in Mark 16:15 = euangelion in Rev 14:6. The gospel-proclamation mandate is a human task in the Gospels. The angel of Rev 14:6 may symbolize the fulfillment of this commission."
+    },
+    {
+      "reference": "Exo 25:10-22",
+      "heading": "Ark of the Covenant Construction",
+      "kjv_text": "And they shall make an ark [of] shittim wood: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof. And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about. And thou shalt cast four rings of gold for it, and put [them] in the four corners thereof; and two rings [shall be] in the one side of it, and two rings in the other side of it. And thou shalt make staves [of] shittim wood, and overlay them with gold. And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them. The staves shall be in the rings of the ark: they shall not be taken from it. And thou shalt put into the ark the testimony which I shall give thee. And thou shalt make a mercy seat [of] pure gold: two cubits and a half [shall be] the length thereof, and a cubit and a half the breadth thereof. And thou shalt make two cherubims [of] gold, [of] beaten work shalt thou make them, in the two ends of the mercy seat. And make one cherub on the one end, and the other cherub on the other end: [even] of the mercy seat shall ye make the cherubims on the two ends thereof. And the cherubims shall stretch forth [their] wings on high, covering the mercy seat with their wings, and their faces [shall look] one to another; toward the mercy seat shall the faces of the cherubims be. And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee. And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which [are] upon the ark of the testimony, of all [things] which I will give thee in commandment unto the children of Israel.",
+      "context": "God instructs Moses on building the ark — contents include the law tablets, with the mercy seat and cherubim on top",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "The ark contained the tables of the law (Deut 10:1-5). Rev 11:19 reveals this ark in heaven, connecting the commandment theme to the three angels sequence."
+    },
+    {
+      "reference": "Mat 13:39",
+      "heading": "Harvest as End of the World",
+      "kjv_text": "The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.",
+      "context": "Jesus explains the parable of the tares — the harvest is the end of the world and the reapers are angels",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Jesus defines harvest (therismos G2326) as sunteleia tou aionos (end of the age) and reapers (theristai G2327) as angels (aggeloi G32). Direct background for Rev 14:14-20 dual harvest."
+    }
+  ],
+  "word_studies": [
+    {
+      "strongs": "G32",
+      "word": "aggelos",
+      "source_file": "D:/bible/bible-studies/word-studies/G32-aggelos.md",
+      "occurrence_count": 186,
+      "summary": "From aggello (to bring tidings); a messenger, especially an angel. 186 NT occurrences. Predominantly supernatural heavenly beings (approx. 175 of 186). 76 occurrences in Revelation alone (most of any book). Human messenger usage: 7 occurrences (John the Baptist in Matt 11:10, Mark 1:2, Luke 7:27; human scouts in Luke 7:24, 9:52; Rahab's spies in James 2:25). The seven 'angels' of the seven churches (Rev 1:20-3:14) are a contested category — they could be literal guardian angels, human pastors/bishops, or personified spirits. This is the key interpretive crux for the literal vs. symbolic question in Rev 14.",
+      "semantic_categories": [
+        "supernatural heavenly beings",
+        "human messengers/envoys",
+        "angels of the seven churches (disputed)",
+        "fallen angelic beings",
+        "judgment-executing angels"
+      ],
+      "key_verses": [
+        "Rev 14:6",
+        "Rev 14:8",
+        "Rev 14:9",
+        "Rev 12:7",
+        "Rev 1:20",
+        "Rev 2:1",
+        "Matt 11:10",
+        "James 2:25"
+      ],
+      "relevance": "Core to the literal vs. symbolic angels question. The word's semantic range includes both celestial beings and human messengers. In Revelation, angels are predominantly celestial actors (trumpets, bowls, harvest). But the church 'angels' of Rev 1:20-3:14 may be human leaders, establishing a precedent for symbolic angelos usage within Revelation itself."
+    },
+    {
+      "strongs": "G1404",
+      "word": "drakon",
+      "source_file": "D:/bible/bible-studies/word-studies/G1404-drakon.md",
+      "occurrence_count": 13,
+      "summary": "Dragon — 13 tokens in 12 unique verses, exclusively in Revelation. Identified with Satan, the Devil, and the ancient serpent (Rev 12:9; 20:2). Appears with seven heads, ten horns, seven crowns (12:3). The dragon is the source of the beast's power (13:2) and the channel of deception through unclean spirits (16:13).",
+      "semantic_categories": [
+        "identified with Satan/Devil/serpent",
+        "heavenly adversary",
+        "persecutor of the woman and remnant",
+        "source of beast's power",
+        "channel of deception"
+      ],
+      "key_verses": [
+        "Rev 12:3",
+        "Rev 12:7-9",
+        "Rev 12:17",
+        "Rev 13:2",
+        "Rev 13:4",
+        "Rev 16:13",
+        "Rev 20:2"
+      ],
+      "relevance": "The dragon is the primary antagonist of Rev 12 and the power behind the beasts of Rev 13. The fourfold identification chain in 12:9 removes ambiguity. The dragon's pursuit of the woman's remnant (12:17) is the immediate context for the three angels' counter-proclamation (14:6-12)."
+    },
+    {
+      "strongs": "G2342",
+      "word": "therion",
+      "source_file": "D:/bible/bible-studies/word-studies/G2342-therion.md",
+      "occurrence_count": 46,
+      "summary": "Wild beast — 46 NT occurrences, 38 in Revelation (84%). Composite Daniel 7 entity (Rev 13:1-2). Object of false worship (Rev 14:9). The beast is the structural antagonist that the three angels' messages counter.",
+      "semantic_categories": [
+        "literal wild animal",
+        "apocalyptic political/religious power",
+        "object of false worship"
+      ],
+      "key_verses": [
+        "Rev 13:1-2",
+        "Rev 13:11",
+        "Rev 14:9",
+        "Rev 14:11",
+        "Rev 19:20"
+      ],
+      "relevance": "The beast is the target of the third angel's warning (14:9-11). Universally understood as symbolic of earthly powers — if the antagonists (beasts) are symbolic, consistency suggests the protagonists (angels) are symbolic too."
+    },
+    {
+      "strongs": "G721",
+      "word": "arnion",
+      "source_file": "D:/bible/bible-studies/word-studies/G721-arnion.md",
+      "occurrence_count": 30,
+      "summary": "Lamb — 30 tokens, 27 in Revelation. Christological title: enthroned (5:6), slain (5:12), worshiped (5:13), warrior-judge (6:16, 17:14), bridegroom (19:7). The Lamb of 14:1 stands on Mount Zion with the 144,000, providing the contrast-frame to the beast.",
+      "semantic_categories": [
+        "enthroned Lamb",
+        "slain Lamb",
+        "object of worship",
+        "warrior-judge",
+        "bridegroom"
+      ],
+      "key_verses": [
+        "Rev 5:6",
+        "Rev 14:1",
+        "Rev 14:4",
+        "Rev 14:10",
+        "Rev 13:11"
+      ],
+      "relevance": "The Lamb (14:1) is the structural counterpart to the beast (13:1). The earth beast has horns 'like a lamb' (13:11) but speaks 'as a dragon' — a near-homophone contrast. The three angels' messages emerge from the Lamb's victory position."
+    },
+    {
+      "strongs": "G4592",
+      "word": "semeion",
+      "source_file": "D:/bible/bible-studies/word-studies/G4592-semeion.md",
+      "occurrence_count": 77,
+      "summary": "Sign — 77 tokens in 69 verses, 7 in Revelation. A pointer that signifies deeper meaning. In Revelation: heavenly/apocalyptic sign (12:1, 12:3, 15:1) and deceptive signs of the beast (13:13-14, 16:14, 19:20).",
+      "semantic_categories": [
+        "authenticating signs of Jesus",
+        "demanded sign",
+        "eschatological sign",
+        "deceptive signs",
+        "heavenly/apocalyptic sign"
+      ],
+      "key_verses": [
+        "Rev 12:1",
+        "Rev 12:3",
+        "Rev 15:1",
+        "Rev 13:13-14"
+      ],
+      "relevance": "The semeion inclusio (12:1, 12:3, 15:1) brackets the cosmic conflict unit. These three 'sign' markers define the literary boundaries of the section containing the three angels' messages."
+    },
+    {
+      "strongs": "G5480",
+      "word": "charagma",
+      "source_file": "D:/bible/bible-studies/word-studies/G5480-charagma.md",
+      "occurrence_count": 9,
+      "summary": "Mark — 9 verses, 8 in Revelation. An engraved mark/stamp imposed as badge of servitude. The mark of the beast (13:16-17) is contrasted with the seal/name of God on the 144,000 foreheads (14:1).",
+      "semantic_categories": [
+        "engraved artwork",
+        "mark compulsorily imposed",
+        "mark linked to worship",
+        "mark as basis for judgment",
+        "victory over the mark"
+      ],
+      "key_verses": [
+        "Rev 13:16-17",
+        "Rev 14:9",
+        "Rev 14:11",
+        "Rev 15:2",
+        "Rev 19:20"
+      ],
+      "relevance": "The mark is the specific thing the third angel warns against receiving. It contrasts with the Father's name on the 144,000's foreheads — two competing loyalty markers."
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "source_file": "D:/bible/bible-studies/word-studies/G4352-proskyneo.md",
+      "occurrence_count": 65,
+      "summary": "Worship — to prostrate, do homage. The central verb of the competing-messages framework. Beast worship (Rev 13:4,8,12,15) vs. Creator worship (Rev 14:7). The third angel warns against worshiping (proskyneo) the beast (14:9,11).",
+      "semantic_categories": [
+        "prostration before God/Christ",
+        "beast worship",
+        "Creator worship call"
+      ],
+      "key_verses": [
+        "Rev 13:4",
+        "Rev 13:8",
+        "Rev 13:12",
+        "Rev 13:15",
+        "Rev 14:7",
+        "Rev 14:9",
+        "Rev 14:11"
+      ],
+      "relevance": "The pivot word of Rev 12-14. The entire conflict is about WHO is worshiped. proskyneo appears on both sides: beast-worship (Rev 13) and Creator-worship (Rev 14:7)."
+    },
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "source_file": "D:/bible/bible-studies/word-studies/G2098-euangelion.md",
+      "occurrence_count": 77,
+      "summary": "Gospel — 77 tokens, 74 unique verses. A good message. The only occurrence in Revelation is Rev 14:6 — 'everlasting gospel' (euangelion aionion). Shares the aggel- root with aggelos, creating a wordplay: the messenger good-messages.",
+      "semantic_categories": [
+        "the gospel of the kingdom",
+        "Paul's gospel",
+        "everlasting gospel"
+      ],
+      "key_verses": [
+        "Rev 14:6",
+        "Matt 4:23",
+        "Mark 16:15",
+        "Rom 1:16"
+      ],
+      "relevance": "Rev 14:6 is the ONLY use of euangelion in Revelation — making it structurally emphatic. The 'everlasting gospel' (euangelion aionion) is the first angel's defining content."
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "source_file": "D:/bible/bible-studies/word-studies/G166-aionios.md",
+      "occurrence_count": 71,
+      "summary": "Eternal/everlasting — modifies euangelion in Rev 14:6 ('everlasting gospel'). The gospel is described as aionios — not a new message but one with eternal standing.",
+      "semantic_categories": [
+        "eternal life",
+        "everlasting punishment",
+        "eternal gospel"
+      ],
+      "key_verses": [
+        "Rev 14:6",
+        "John 3:16",
+        "Matt 25:46"
+      ],
+      "relevance": "The modifier that makes 14:6's gospel transcendent — not a time-bound message but an eternal proclamation."
+    },
+    {
+      "strongs": "G5281",
+      "word": "hupomone",
+      "source_file": "D:/bible/bible-studies/word-studies/G5281-hupomone.md",
+      "occurrence_count": 32,
+      "summary": "Patience/endurance — 32 tokens in 31 verses. Active, steadfast endurance rather than passive resignation. Forms the inclusio bracketing the three angels' messages: Rev 13:10 and Rev 14:12 both use 'here is the hupomone of the saints.'",
+      "semantic_categories": [
+        "patient endurance under trial",
+        "perseverance in faith"
+      ],
+      "key_verses": [
+        "Rev 13:10",
+        "Rev 14:12",
+        "Rom 5:3-4",
+        "Jam 1:3-4"
+      ],
+      "relevance": "The hupomone inclusio (13:10 + 14:12) brackets the three angels' messages, marking them as the content that requires and sustains patient endurance."
+    },
+    {
+      "strongs": "G1785",
+      "word": "entole",
+      "source_file": "D:/bible/bible-studies/word-studies/G1785-entole.md",
+      "occurrence_count": 71,
+      "summary": "Commandment — 71 tokens in 65 verses. An authoritative prescription. Appears in the thematic arc: ark of the covenant/testament (11:19) -> remnant keeps commandments (12:17) -> saints keep commandments (14:12).",
+      "semantic_categories": [
+        "divine commandments",
+        "love commandments",
+        "covenant law"
+      ],
+      "key_verses": [
+        "Rev 12:17",
+        "Rev 14:12",
+        "Exo 20:1-17"
+      ],
+      "relevance": "The commandment theme threads from 11:19 (ark containing commandments) through 12:17 (remnant keeps commandments) to 14:12 (saints keep commandments). This is the covenant-law chain."
+    },
+    {
+      "strongs": "G4102",
+      "word": "pistis",
+      "source_file": "D:/bible/bible-studies/word-studies/G4102-pistis.md",
+      "occurrence_count": 244,
+      "summary": "Faith — appears in both hupomone formulas: 13:10 ('the faith of the saints') and 14:12 ('the faith of Jesus'). The genitive Iesou can be objective (faith IN Jesus) or subjective (faith OF Jesus / Jesus' faithfulness).",
+      "semantic_categories": [
+        "saving faith",
+        "faithfulness",
+        "the faith (doctrinal content)"
+      ],
+      "key_verses": [
+        "Rev 13:10",
+        "Rev 14:12"
+      ],
+      "relevance": "Paired with hupomone in the inclusio formulas. The shift from 'faith of the saints' (13:10) to 'faith of Jesus' (14:12) may indicate the source of endurance."
+    },
+    {
+      "strongs": "G536",
+      "word": "aparche",
+      "source_file": "D:/bible/bible-studies/word-studies/G536-aparche.md",
+      "occurrence_count": 8,
+      "summary": "Firstfruits — the 144,000 are aparche to God and to the Lamb (14:4). As firstfruits, they are the representative sample guaranteeing the full harvest (14:14-16).",
+      "semantic_categories": [
+        "firstfruits offering",
+        "representative sample",
+        "eschatological guarantee"
+      ],
+      "key_verses": [
+        "Rev 14:4"
+      ],
+      "relevance": "Connects the 144,000 (14:1-5) to the grain harvest (14:14-16): firstfruits guarantee the coming full harvest."
+    },
+    {
+      "strongs": "G1504",
+      "word": "eikon",
+      "source_file": "D:/bible/bible-studies/word-studies/G1504-eikon.md",
+      "occurrence_count": 23,
+      "summary": "Image — the image of the beast (13:14-15). Parallels Dan 3's golden image worship. The third angel warns against worshiping the beast AND his image (14:9,11).",
+      "semantic_categories": [
+        "image of the beast",
+        "idol worship"
+      ],
+      "key_verses": [
+        "Rev 13:14-15",
+        "Rev 14:9",
+        "Rev 14:11",
+        "Rev 15:2"
+      ],
+      "relevance": "The image (eikon) is part of the beast-worship system that the third angel opposes."
+    },
+    {
+      "strongs": "G2372",
+      "word": "thumos",
+      "source_file": "D:/bible/bible-studies/word-studies/G2372-thumos.md",
+      "occurrence_count": 18,
+      "summary": "Wrath/fury — the thumos chain through Revelation: 14:8 (wine of thumos of Babylon's fornication), 14:10 (wine of thumos of God), 14:19 (winepress of thumos of God), 15:1, 16:1, 19:15. 10 of 18 NT occurrences are in Revelation.",
+      "semantic_categories": [
+        "divine wrath",
+        "passionate anger",
+        "winepress imagery"
+      ],
+      "key_verses": [
+        "Rev 14:8",
+        "Rev 14:10",
+        "Rev 14:19",
+        "Rev 15:1",
+        "Rev 19:15"
+      ],
+      "relevance": "The wrath-chain is a sustained trajectory through the second angel's message (14:8), the third angel's message (14:10), the grape harvest (14:19), and the bowl plagues (15:1, 16:1). thumos links all these sections."
+    },
+    {
+      "strongs": "G2325",
+      "word": "therizo",
+      "source_file": "D:/bible/bible-studies/word-studies/G2325-therizo.md",
+      "occurrence_count": 24,
+      "summary": "Reap/harvest — the grain harvest verb in Rev 14:15-16. Distinct from trygao (G5166, gather grapes) in 14:18-19. therizo = positive grain ingathering; trygao = negative grape judgment.",
+      "semantic_categories": [
+        "grain harvest",
+        "eschatological reaping"
+      ],
+      "key_verses": [
+        "Rev 14:15",
+        "Rev 14:16",
+        "Matt 13:39",
+        "Joel 3:13"
+      ],
+      "relevance": "The therizo/trygao distinction is the lexical key to the dual-harvest eschatology of Rev 14:14-20."
+    },
+    {
+      "strongs": "G1242",
+      "word": "diatheke",
+      "source_file": "D:/bible/bible-studies/word-studies/G1242-diatheke.md",
+      "occurrence_count": 33,
+      "summary": "Covenant/testament — the ark of his testament (diatheke) in Rev 11:19. The covenant standard (Ten Commandments) contained in the ark connects to the commandment-keeping theme of 12:17 and 14:12.",
+      "semantic_categories": [
+        "old covenant",
+        "new covenant",
+        "ark of the covenant"
+      ],
+      "key_verses": [
+        "Rev 11:19",
+        "Heb 8:6",
+        "Heb 9:4"
+      ],
+      "relevance": "The diatheke in Rev 11:19 opens the covenant-commandment thread that runs through the entire cosmic conflict unit to 14:12."
+    },
+    {
+      "strongs": "G3485",
+      "word": "naos",
+      "source_file": "D:/bible/bible-studies/word-studies/G3485-naos.md",
+      "occurrence_count": 46,
+      "summary": "Temple/sanctuary — the inner sanctuary where deity dwells, distinct from hieron (the temple complex). 16 occurrences in Revelation. The naos is opened in 11:19 and again in 15:5. The harvest angels come out of the naos (14:15,17).",
+      "semantic_categories": [
+        "inner sanctuary",
+        "heavenly temple",
+        "believers as temple"
+      ],
+      "key_verses": [
+        "Rev 11:19",
+        "Rev 14:15",
+        "Rev 14:17",
+        "Rev 15:5",
+        "Rev 15:8"
+      ],
+      "relevance": "The naos provides the structural frame: opened at 11:19 (beginning of unit) and 15:5 (end of unit). The harvest is authorized from the naos."
+    },
+    {
+      "strongs": "G897",
+      "word": "Babylon",
+      "source_file": "D:/bible/bible-studies/word-studies/G897-babylon.md",
+      "occurrence_count": 12,
+      "summary": "Babylon — the second angel declares 'Babylon is fallen, is fallen' (14:8). Babylon makes all nations drink the wine of her fornication. OT background in Jer 51:7-8, Isa 21:9.",
+      "semantic_categories": [
+        "OT Babylon empire",
+        "eschatological Babylon system"
+      ],
+      "key_verses": [
+        "Rev 14:8",
+        "Rev 16:19",
+        "Rev 17:5",
+        "Rev 18:2"
+      ],
+      "relevance": "The target of the second angel's message. Babylon is a system, not a literal city — supporting the symbolic reading of the entire Rev 12-14 section."
+    },
+    {
+      "strongs": "G3789",
+      "word": "ophis",
+      "source_file": "D:/bible/bible-studies/word-studies/G3789-ophis.md",
+      "occurrence_count": 14,
+      "summary": "Serpent — 13 NT verses. Explicitly equated with the dragon in Rev 12:9 and 20:2 ('that old serpent'). Connects the Revelation dragon to the Eden serpent of Gen 3.",
+      "semantic_categories": [
+        "Eden serpent",
+        "literal snakes",
+        "dragon identification"
+      ],
+      "key_verses": [
+        "Rev 12:9",
+        "Rev 12:14-15",
+        "Rev 20:2",
+        "Gen 3:1"
+      ],
+      "relevance": "Part of the fourfold identification chain in 12:9: dragon = old serpent = Devil = Satan."
+    },
+    {
+      "strongs": "G1849",
+      "word": "exousia",
+      "source_file": "D:/bible/bible-studies/word-studies/G1849-exousia.md",
+      "occurrence_count": 103,
+      "summary": "Authority/power — the beast receives exousia from the dragon (13:2). The edothe pattern gives the beast bounded authority (13:5,7). The angel from the altar has exousia over fire (14:18).",
+      "semantic_categories": [
+        "delegated authority",
+        "divine authority",
+        "beast authority"
+      ],
+      "key_verses": [
+        "Rev 13:2",
+        "Rev 13:5",
+        "Rev 13:7",
+        "Rev 14:18"
+      ],
+      "relevance": "The authority chain: God permits (edothe) -> dragon delegates (13:2) -> beast exercises (13:5-7). All authority is ultimately bounded by God's sovereign grant."
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "source_file": "D:/bible/bible-studies/word-studies/G5399-phobeo.md",
+      "occurrence_count": 110,
+      "summary": "Fear — the first angel commands 'Fear God' (phobethete ton Theon, 14:7). Aorist passive imperative — a decisive call to reverence the Creator rather than fearing the beast's threats.",
+      "semantic_categories": [
+        "reverence for God",
+        "fear of judgment",
+        "fear of persecution"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 15:4"
+      ],
+      "relevance": "The opening command of the first angel's message — sets up the competing-fear dynamic: fear God (14:7) vs. fear the beast (13:4's implied 'who is able to make war with him?')."
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "source_file": "D:/bible/bible-studies/word-studies/G1391-doxa.md",
+      "occurrence_count": 168,
+      "summary": "Glory — 'give glory to him' (dote auto doxan, 14:7). Part of the first angel's threefold command: fear God + give glory + worship the Creator.",
+      "semantic_categories": [
+        "divine glory",
+        "glory given to God"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 15:4",
+        "Rev 4:11"
+      ],
+      "relevance": "The second command of the first angel's message. Giving glory to God rather than to the beast."
+    },
+    {
+      "strongs": "G2919",
+      "word": "krino",
+      "source_file": "D:/bible/bible-studies/word-studies/G2919-krino.md",
+      "occurrence_count": 132,
+      "summary": "Judge — 'the hour of his judgment (krisis, G2920) is come' (14:7). The judgment hour is presented as having arrived (elthen, aorist).",
+      "semantic_categories": [
+        "divine judgment",
+        "judicial process"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 20:12"
+      ],
+      "relevance": "The judgment announcement is the urgency behind the first angel's message — the hour has come, demanding an immediate response."
+    },
+    {
+      "strongs": "G4160",
+      "word": "poieo",
+      "source_file": "D:/bible/bible-studies/word-studies/G4160-poieo.md",
+      "occurrence_count": 597,
+      "summary": "Make/do — 'worship him that made (poiesanti) heaven, and earth, and the sea' (14:7). The Creator-worship call uses poieo (aorist participle) to identify God as the one who made all things.",
+      "semantic_categories": [
+        "creative activity",
+        "general action"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 13:5"
+      ],
+      "relevance": "The Creator identity in Rev 14:7 uses the same verb (poieo) with the same creation domains (heaven, earth, sea) as Exo 20:11, linking the first angel's message to the Sabbath commandment."
+    },
+    {
+      "strongs": "G4098",
+      "word": "pipto",
+      "source_file": "D:/bible/bible-studies/word-studies/G4098-pipto.md",
+      "occurrence_count": 93,
+      "summary": "Fall — 'Babylon is fallen, is fallen' (epesen epesen, 14:8). Doubled aorist for emphatic, prophetic announcement.",
+      "semantic_categories": [
+        "literal falling",
+        "prophetic fall of powers"
+      ],
+      "key_verses": [
+        "Rev 14:8",
+        "Rev 18:2"
+      ],
+      "relevance": "The doubled epesen in the second angel's message echoes Isa 21:9 and anticipates Rev 18:2."
+    },
+    {
+      "strongs": "G3709",
+      "word": "orge",
+      "source_file": "D:/bible/bible-studies/word-studies/G3709-orge.md",
+      "occurrence_count": 36,
+      "summary": "Wrath/anger — 'the cup of his indignation (orge)' (14:10). Distinguished from thumos (fiery passion): orge is settled judicial wrath.",
+      "semantic_categories": [
+        "divine judicial wrath",
+        "human anger"
+      ],
+      "key_verses": [
+        "Rev 14:10",
+        "Rev 6:16-17"
+      ],
+      "relevance": "Paired with thumos in Rev 14:10 — both words for wrath appear together, intensifying the judgment warning."
+    },
+    {
+      "strongs": "G2784",
+      "word": "kerysso",
+      "source_file": "D:/bible/bible-studies/word-studies/G2784-kerysso.md",
+      "occurrence_count": 63,
+      "summary": "Preach/proclaim — the standard verb for gospel proclamation (Mark 16:15 'preach the gospel'). Not used directly in Rev 14:6 (which uses euangelizo), but the concept of proclamation underlies the angel's mission.",
+      "semantic_categories": [
+        "herald proclamation",
+        "gospel preaching"
+      ],
+      "key_verses": [
+        "Mark 16:15",
+        "Matt 24:14"
+      ],
+      "relevance": "The Great Commission uses kerysso for human preaching. Rev 14:6 uses the cognate euangelizo. Both describe universal gospel proclamation."
+    },
+    {
+      "strongs": "G5166",
+      "word": "trygao",
+      "source_file": "D:/bible/bible-studies/word-studies/G5166-trygao.md",
+      "occurrence_count": 3,
+      "summary": "Gather grapes — 3 NT occurrences (Luke 6:44, Rev 14:18-19). The grape harvest verb, distinct from therizo (grain harvest). In Rev 14:18-19, trygao describes the angel gathering the vine of the earth for the winepress of God's wrath.",
+      "semantic_categories": [
+        "grape harvest",
+        "judgment harvest"
+      ],
+      "key_verses": [
+        "Rev 14:18",
+        "Rev 14:19",
+        "Luke 6:44"
+      ],
+      "relevance": "The therizo/trygao lexical distinction is a key indicator that Rev 14:14-16 (grain) and 14:17-20 (grape) are morally distinct harvests."
+    },
+    {
+      "strongs": "G1407",
+      "word": "drepanon",
+      "source_file": "D:/bible/bible-studies/word-studies/G1407-drepanon.md",
+      "occurrence_count": 8,
+      "summary": "Sickle — 8 occurrences (Mark 4:29, Rev 14:14-19). 100% translated 'sickle.' Used for both grain harvest (14:14-16) and grape harvest (14:17-19). The same tool is used for both operations, but the verbs and agents differ.",
+      "semantic_categories": [
+        "grain harvest tool",
+        "grape harvest tool"
+      ],
+      "key_verses": [
+        "Rev 14:14",
+        "Rev 14:15",
+        "Rev 14:17",
+        "Rev 14:18",
+        "Rev 14:19",
+        "Mark 4:29"
+      ],
+      "relevance": "The sickle (drepanon) appears in Joel 3:13 LXX and in both Rev 14 harvests, connecting the OT source to both NT applications."
+    },
+    {
+      "strongs": "G3025",
+      "word": "lenos",
+      "source_file": "D:/bible/bible-studies/word-studies/G3025-lenos.md",
+      "occurrence_count": 5,
+      "summary": "Winepress — 5 occurrences (Matt 21:33, Rev 14:19-20, Rev 19:15). The great winepress of the wrath (thumos) of God (14:19). OT background: Isa 63:2-3 (divine warrior treading), Joel 3:13 (press is full), Lam 1:15 (God trod the daughter of Judah as in a winepress).",
+      "semantic_categories": [
+        "agricultural winepress",
+        "eschatological judgment winepress"
+      ],
+      "key_verses": [
+        "Rev 14:19",
+        "Rev 14:20",
+        "Rev 19:15"
+      ],
+      "relevance": "The winepress is the culmination of the grape harvest — the thumos chain reaches its endpoint. The winepress of God's wrath is the final consequence for those who reject the three angels' messages."
+    },
+    {
+      "strongs": "G2316",
+      "word": "theos",
+      "source_file": "D:/bible/bible-studies/word-studies/G2316-theos.md",
+      "occurrence_count": 1343,
+      "summary": "God — appears throughout: the temple of God (11:19), commandments of God (12:17, 14:12), wrath of God (14:10,19), the Lamb and God paired (14:4). The competing worship claim centers on who is theos.",
+      "semantic_categories": [
+        "God the Creator",
+        "God the Judge"
+      ],
+      "key_verses": [
+        "Rev 11:19",
+        "Rev 14:7",
+        "Rev 14:10",
+        "Rev 14:12",
+        "Rev 14:19"
+      ],
+      "relevance": "The God whose temple is opened (11:19), whose commandments define the remnant (12:17, 14:12), and whose judgment the first angel announces (14:7)."
+    },
+    {
+      "strongs": "G1484",
+      "word": "ethnos",
+      "source_file": "D:/bible/bible-studies/word-studies/G1484-ethnos.md",
+      "occurrence_count": 164,
+      "summary": "Nation — part of the fourfold universal formula. Beast has authority over every ethnos (13:7); angel proclaims to every ethnos (14:6). Babylon made all ethne drink (14:8).",
+      "semantic_categories": [
+        "nations/Gentiles",
+        "universal audience"
+      ],
+      "key_verses": [
+        "Rev 13:7",
+        "Rev 14:6",
+        "Rev 14:8"
+      ],
+      "relevance": "The fourfold formula (ethnos, phyle, glossa, laos) connects beast-dominion (13:7) to angel-proclamation (14:6) as structural counterparts."
+    },
+    {
+      "strongs": "G5456",
+      "word": "phone",
+      "source_file": "D:/bible/bible-studies/word-studies/G5456-phone.md",
+      "occurrence_count": 141,
+      "summary": "Voice — 'saying with a loud voice' (legon en phone megale, 14:7,9). The angels proclaim en phone megale — the proclamation has urgency and authority.",
+      "semantic_categories": [
+        "loud voice",
+        "divine voice",
+        "proclamation"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 14:9",
+        "Rev 14:15"
+      ],
+      "relevance": "The 'loud voice' marks the angels' proclamation as urgent and authoritative."
+    },
+    {
+      "strongs": "G3173",
+      "word": "megas",
+      "source_file": "D:/bible/bible-studies/word-studies/G3173-megas.md",
+      "occurrence_count": 212,
+      "summary": "Great — pervasive in Rev 12-14: great sign (12:1), great dragon (12:3,9), great authority (13:2), great wonders (13:13), great city Babylon (14:8), great winepress (14:19). The conflict is characterized by its cosmic scale.",
+      "semantic_categories": [
+        "size/scale",
+        "importance/authority"
+      ],
+      "key_verses": [
+        "Rev 12:1",
+        "Rev 12:3",
+        "Rev 13:2",
+        "Rev 14:8",
+        "Rev 14:19"
+      ],
+      "relevance": "The repeated megas emphasizes the cosmic scale of the Rev 12-14 conflict."
+    },
+    {
+      "strongs": "G1027",
+      "word": "bronte",
+      "source_file": "D:/bible/bible-studies/word-studies/G1027-bronte.md",
+      "occurrence_count": 12,
+      "summary": "Thunder — part of the theophany phenomena at Rev 11:19 and the Sinai parallel (Exo 19:16). Also appears in Rev 14:2 ('voice of a great thunder').",
+      "semantic_categories": [
+        "theophany phenomena",
+        "divine presence marker"
+      ],
+      "key_verses": [
+        "Rev 11:19",
+        "Rev 14:2"
+      ],
+      "relevance": "Part of the theophany formula linking Rev 11:19 to the Sinai law-giving and to 14:2's introduction of the 144,000's song."
+    },
+    {
+      "strongs": "H1285",
+      "word": "beriyth",
+      "source_file": "D:/bible/bible-studies/word-studies/H1285-beriyth.md",
+      "occurrence_count": 317,
+      "summary": "Covenant — the Hebrew counterpart to diatheke (G1242). The ark of the covenant (beriyth/diatheke) contains the commandment tablets.",
+      "semantic_categories": [
+        "divine covenant",
+        "covenant law"
+      ],
+      "key_verses": [
+        "Exo 25:16",
+        "1 Ki 8:9",
+        "Deu 10:5"
+      ],
+      "relevance": "The Hebrew covenant concept behind Rev 11:19's 'ark of his testament.'"
+    },
+    {
+      "strongs": "H5715",
+      "word": "eduwth",
+      "source_file": "D:/bible/bible-studies/word-studies/H5715-eduwth.md",
+      "occurrence_count": 66,
+      "summary": "Testimony — the tablets of the law placed in the ark (Exo 25:16,21). The 'ark of the testimony' = the ark containing the Ten Commandments.",
+      "semantic_categories": [
+        "law tablets",
+        "covenant testimony"
+      ],
+      "key_verses": [
+        "Exo 25:16",
+        "Exo 25:21",
+        "Exo 31:18"
+      ],
+      "relevance": "The testimony (eduwth) in the ark becomes the diatheke (testament/covenant) in Rev 11:19's 'ark of his testament.'"
+    }
+  ],
+  "parallels": [
+    {
+      "source_verse": "Rev 11:19",
+      "parallel_verse": "Rev 16:18",
+      "direction": "nt",
+      "connection_type": "vocabulary (earthquake, lightning, thunder, great)"
+    },
+    {
+      "source_verse": "Rev 11:19",
+      "parallel_verse": "Rev 8:5",
+      "direction": "nt",
+      "connection_type": "vocabulary + structural (same theophany phenomena; altar-censer scene)"
+    },
+    {
+      "source_verse": "Rev 11:19",
+      "parallel_verse": "Rev 15:5",
+      "direction": "nt",
+      "connection_type": "structural (temple opened in heaven; bookend pair)"
+    },
+    {
+      "source_verse": "Rev 11:19",
+      "parallel_verse": "Exo 19:16-19",
+      "direction": "ot",
+      "connection_type": "vocabulary + theological (Sinai theophany parallel — thunders, lightnings, earthquake)"
+    },
+    {
+      "source_verse": "Rev 11:19",
+      "parallel_verse": "1 Chr 16:6",
+      "direction": "ot",
+      "connection_type": "vocabulary (ark, covenant)"
+    },
+    {
+      "source_verse": "Rev 12:7",
+      "parallel_verse": "Rev 13:4",
+      "direction": "nt",
+      "connection_type": "vocabulary + structural (dragon, war — beast-worship response to dragon's power)"
+    },
+    {
+      "source_verse": "Rev 12:7",
+      "parallel_verse": "Rev 12:17",
+      "direction": "nt",
+      "connection_type": "structural (dragon's war continues from heaven to remnant)"
+    },
+    {
+      "source_verse": "Rev 12:7",
+      "parallel_verse": "Dan 12:1",
+      "direction": "ot",
+      "connection_type": "vocabulary + theological (Michael as warrior-champion)"
+    },
+    {
+      "source_verse": "Rev 13:5",
+      "parallel_verse": "Rev 13:7",
+      "direction": "nt",
+      "connection_type": "vocabulary (edothe divine passive, authority)"
+    },
+    {
+      "source_verse": "Rev 13:5",
+      "parallel_verse": "Dan 7:8",
+      "direction": "ot",
+      "connection_type": "verbatim quotation (stoma laloun megala)"
+    },
+    {
+      "source_verse": "Rev 13:5",
+      "parallel_verse": "Dan 7:25",
+      "direction": "ot",
+      "connection_type": "vocabulary (time duration — 42 months = time, times, half a time)"
+    },
+    {
+      "source_verse": "Rev 14:6",
+      "parallel_verse": "Rev 18:1",
+      "direction": "nt",
+      "connection_type": "vocabulary + structural (angel + another + saw — scene markers)"
+    },
+    {
+      "source_verse": "Rev 14:6",
+      "parallel_verse": "Rev 8:13",
+      "direction": "nt",
+      "connection_type": "vocabulary (angel/eagle, fly, mid-heaven, dwell)"
+    },
+    {
+      "source_verse": "Rev 14:6",
+      "parallel_verse": "Luke 1:19",
+      "direction": "nt",
+      "connection_type": "vocabulary (angel, tidings — Gabriel brings good tidings)"
+    },
+    {
+      "source_verse": "Rev 14:6",
+      "parallel_verse": "Mat 28:19",
+      "direction": "nt",
+      "connection_type": "theological (universal gospel commission to all nations)"
+    },
+    {
+      "source_verse": "Rev 14:14",
+      "parallel_verse": "Dan 7:13",
+      "direction": "ot",
+      "connection_type": "vocabulary + structural (cloud, Son of Man, like — direct OT allusion)"
+    },
+    {
+      "source_verse": "Rev 14:14",
+      "parallel_verse": "Rev 10:1",
+      "direction": "nt",
+      "connection_type": "vocabulary (cloud, head, like)"
+    },
+    {
+      "source_verse": "Rev 14:14",
+      "parallel_verse": "Rev 1:13",
+      "direction": "nt",
+      "connection_type": "vocabulary (like, Son of Man figure)"
+    },
+    {
+      "source_verse": "Rev 14:19",
+      "parallel_verse": "Rev 14:18",
+      "direction": "nt",
+      "connection_type": "vocabulary (angel, sickle, gather — grape harvest sequence)"
+    },
+    {
+      "source_verse": "Rev 14:19",
+      "parallel_verse": "Joel 3:13",
+      "direction": "ot",
+      "connection_type": "vocabulary + structural (sickle, harvest, winepress — OT bifurcation source)"
+    },
+    {
+      "source_verse": "Rev 14:19",
+      "parallel_verse": "Isa 63:2-3",
+      "direction": "ot",
+      "connection_type": "vocabulary + theological (winepress treading, divine warrior, blood/garments)"
+    },
+    {
+      "source_verse": "Rev 14:8",
+      "parallel_verse": "Rev 18:2",
+      "direction": "nt",
+      "connection_type": "vocabulary (Babylon, fallen, great)"
+    },
+    {
+      "source_verse": "Rev 14:8",
+      "parallel_verse": "Jer 51:7-8",
+      "direction": "ot",
+      "connection_type": "verbatim quotation (nations drunk on wine, Babylon fallen)"
+    },
+    {
+      "source_verse": "Rev 14:8",
+      "parallel_verse": "Isa 21:9",
+      "direction": "ot",
+      "connection_type": "vocabulary (Babylon is fallen, is fallen — doubled formula)"
+    }
+  ],
+  "raw_parsing": {
+    "greek": {
+      "Rev 11:19": "Greek Text: καὶ ἠνοίγη ὁ ναὸς τοῦ Θεοῦ ὁ ἐν τῷ οὐρανῷ, καὶ ὤφθη ἡ κιβωτὸς τῆς διαθήκης αὐτοῦ ἐν τῷ ναῷ αὐτοῦ, καὶ ἐγένοντο ἀστραπαὶ καὶ φωναὶ καὶ βρονταὶ καὶ σεισμὸς καὶ χάλαζα μεγάλη.\nWords: καί(G2532,CONJ) ἠνοίγη(ἀνοίγω,G455,V-2API-3S) ὁ(ὁ,G3588,T-NSM) ναὸς(ναός,G3485,N-NSM) τοῦ(ὁ,G3588,T-GSM) Θεοῦ(θεός,G2316,N-GSM) ὁ(ὁ,G3588,T-NSM) ἐν(ἐν,G1722,PREP) τῷ(ὁ,G3588,T-DSM) οὐρανῷ(οὐρανός,G3772,N-DSM) καί(G2532,CONJ) ὤφθη(ὁράω,G3708,V-API-3S) ἡ(ὁ,G3588,T-NSF) κιβωτὸς(κιβωτός,G2787,N-NSF) τῆς(ὁ,G3588,T-GSF) διαθήκης(διαθήκη,G1242,N-GSF) αὐτοῦ(αὐτός,G846,P-GSM) ἐν(ἐν,G1722,PREP) τῷ(ὁ,G3588,T-DSM) ναῷ(ναός,G3485,N-DSM) αὐτοῦ(αὐτός,G846,P-GSM) καί(G2532,CONJ) ἐγένοντο(γίνομαι,G1096,V-2ADI-3P) ἀστραπαί(ἀστραπή,G796,N-NPF) καί(G2532,CONJ) φωναί(φωνή,G5456,N-NPF) καί(G2532,CONJ) βρονταί(βροντή,G1027,N-NPF) καί(G2532,CONJ) σεισμός(σεισμός,G4578,N-NSM) καί(G2532,CONJ) χάλαζα(χάλαζα,G5464,N-NSF) μεγάλη(μέγας,G3173,A-NSF)",
+      "Rev 12:7": "Greek Text: Καὶ ἐγένετο πόλεμος ἐν τῷ οὐρανῷ, ὁ Μιχαὴλ καὶ οἱ ἄγγελοι αὐτοῦ τοῦ πολεμῆσαι μετὰ τοῦ δράκοντος. καὶ ὁ δράκων ἐπολέμησεν καὶ οἱ ἄγγελοι αὐτοῦ\nWords: Καί(G2532,CONJ) ἐγένετο(γίνομαι,G1096,V-2ADI-3S) πόλεμος(πόλεμος,G4171,N-NSM) ἐν(ἐν,G1722,PREP) τῷ(ὁ,G3588,T-DSM) οὐρανῷ(οὐρανός,G3772,N-DSM) ὁ(ὁ,G3588,T-NSM) Μιχαήλ(Μιχαήλ,G3413,N-PRI) καί(G2532,CONJ) οἱ(ὁ,G3588,T-NPM) ἄγγελοι(ἄγγελος,G32,N-NPM) αὐτοῦ(αὐτός,G846,P-GSM) τοῦ(ὁ,G3588,T-GSN) πολεμῆσαι(πολεμέω,G4170,V-AAN) μετά(μετά,G3326,PREP) τοῦ(ὁ,G3588,T-GSM) δράκοντος(δράκων,G1404,N-GSM) καί(G2532,CONJ) ὁ(ὁ,G3588,T-NSM) δράκων(δράκων,G1404,N-NSM) ἐπολέμησεν(πολεμέω,G4170,V-AAI-3S) καί(G2532,CONJ) οἱ(ὁ,G3588,T-NPM) ἄγγελοι(ἄγγελος,G32,N-NPM) αὐτοῦ(αὐτός,G846,P-GSM)",
+      "Rev 12:8": "Words: καί(G2532,CONJ) οὐκ(οὐ,G3756,PRT-N) ἴσχυσαν(ἰσχύω,G2480,V-AAI-3P) οὐδέ(οὐδέ,G3761,CONJ-N) τόπος(τόπος,G5117,N-NSM) εὑρέθη(εὑρίσκω,G2147,V-API-3S) αὐτῶν(αὐτός,G846,P-GPM) ἔτι(ἔτι,G2089,ADV) ἐν(ἐν,G1722,PREP) τῷ(ὁ,G3588,T-DSM) οὐρανῷ(οὐρανός,G3772,N-DSM)",
+      "Rev 12:9": "Greek Text: καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος, ὁ καλούμενος Διάβολος καὶ Ὁ Σατανᾶς, ὁ πλανῶν τὴν οἰκουμένην ὅλην, ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ μετ' αὐτοῦ ἐβλήθησαν.\nWords: καί(G2532,CONJ) ἐβλήθη(βάλλω,G906,V-API-3S) ὁ(ὁ,G3588,T-NSM) δράκων(δράκων,G1404,N-NSM) ὁ(ὁ,G3588,T-NSM) μέγας(μέγας,G3173,A-NSM) ὁ(ὁ,G3588,T-NSM) ὄφις(ὄφις,G3789,N-NSM) ὁ(ὁ,G3588,T-NSM) ἀρχαῖος(ἀρχαῖος,G744,A-NSM) ὁ(ὁ,G3588,T-NSM) καλούμενος(καλέω,G2564,V-PPP-NSM) Διάβολος(διάβολος,G1228,A-NSM) καί(G2532,CONJ) Ὁ(ὁ,G3588,T-NSM) Σατανᾶς(Σατανᾶς,G4567,N-NSM) ὁ(ὁ,G3588,T-NSM) πλανῶν(πλανάω,G4105,V-PAP-NSM) τήν(ὁ,G3588,T-ASF) οἰκουμένην(οἰκουμένη,G3625,N-ASF) ὅλην(ὅλος,G3650,A-ASF) ἐβλήθη(βάλλω,G906,V-API-3S) εἰς(εἰς,G1519,PREP) τήν(ὁ,G3588,T-ASF) γῆν(γῆ,G1093,N-ASF) καί(G2532,CONJ) οἱ(ὁ,G3588,T-NPM) ἄγγελοι(ἄγγελος,G32,N-NPM) αὐτοῦ(αὐτός,G846,P-GSM) μετ'(μετά,G3326,PREP) αὐτοῦ(αὐτός,G846,P-GSM) ἐβλήθησαν(βάλλω,G906,V-API-3P)",
+      "Rev 12:17": "Greek Text: καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικί, καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς, τῶν τηρούντων τὰς ἐντολὰς τοῦ Θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν Ἰησοῦ\nWords: καί(G2532,CONJ) ὠργίσθη(ὀργίζω,G3710,V-API-3S) ὁ(ὁ,G3588,T-NSM) δράκων(δράκων,G1404,N-NSM) ἐπί(ἐπί,G1909,PREP) τῇ(ὁ,G3588,T-DSF) γυναικί(γυνή,G1135,N-DSF) καί(G2532,CONJ) ἀπῆλθεν(ἀπέρχομαι,G565,V-2AAI-3S) ποιῆσαι(ποιέω,G4160,V-AAN) πόλεμον(πόλεμος,G4171,N-ASM) μετά(μετά,G3326,PREP) τῶν(ὁ,G3588,T-GPM) λοιπῶν(λοιπός,G3062,A-GPM) τοῦ(ὁ,G3588,T-GSN) σπέρματος(σπέρμα,G4690,N-GSN) αὐτῆς(αὐτός,G846,P-GSF) τῶν(ὁ,G3588,T-GPM) τηρούντων(τηρέω,G5083,V-PAP-GPM) τάς(ὁ,G3588,T-APF) ἐντολάς(ἐντολή,G1785,N-APF) τοῦ(ὁ,G3588,T-GSM) Θεοῦ(θεός,G2316,N-GSM) καί(G2532,CONJ) ἐχόντων(ἔχω,G2192,V-PAP-GPM) τήν(ὁ,G3588,T-ASF) μαρτυρίαν(μαρτυρία,G3141,N-ASF) Ἰησοῦ(Ἰησοῦς,G2424,N-GSM)",
+      "Rev 13:1": "Words: Καί(G2532,CONJ) εἶδον(ὁράω,G3708,V-2AAI-1S) ἐκ(ἐκ,G1537,PREP) τῆς(ὁ,G3588,T-GSF) θαλάσσης(θάλασσα,G2281,N-GSF) θηρίον(θηρίον,G2342,N-ASN) ἀναβαῖνον(ἀναβαίνω,G305,V-PAP-ASN) ἔχον(ἔχω,G2192,V-PAP-ASN) κέρατα(κέρας,G2768,N-APN) δέκα(δέκα,G1176,A-NUI) καί(G2532,CONJ) κεφαλάς(κεφαλή,G2776,N-APF) ἑπτά(ἑπτά,G2033,A-NUI)",
+      "Rev 13:2": "Words: καί(G2532,CONJ) τό(ὁ,G3588,T-NSN) θηρίον(θηρίον,G2342,N-NSN) ... ἔδωκεν(δίδωμι,G1325,V-AAI-3S) αὐτῷ(αὐτός,G846,P-DSN) ὁ(ὁ,G3588,T-NSM) δράκων(δράκων,G1404,N-NSM) τήν(ὁ,G3588,T-ASF) δύναμιν(δύναμις,G1411,N-ASF) αὐτοῦ(αὐτός,G846,P-GSM) καί(G2532,CONJ) τόν(ὁ,G3588,T-ASM) θρόνον(θρόνος,G2362,N-ASM) αὐτοῦ(αὐτός,G846,P-GSM) καί(G2532,CONJ) ἐξουσίαν(ἐξουσία,G1849,N-ASF) μεγάλην(μέγας,G3173,A-ASF)",
+      "Rev 13:5": "Words: καί(G2532,CONJ) ἐδόθη(δίδωμι,G1325,V-API-3S) αὐτῷ(αὐτός,G846,P-DSN) στόμα(στόμα,G4750,N-NSN) λαλοῦν(λαλέω,G2980,V-PAP-NSN) μεγάλα(μέγας,G3173,A-APN) καί(G2532,CONJ) βλασφημίας(βλασφημία,G988,N-APF) καί(G2532,CONJ) ἐδόθη(δίδωμι,G1325,V-API-3S) αὐτῷ(αὐτός,G846,P-DSN) ἐξουσία(ἐξουσία,G1849,N-NSF) ποιῆσαι(ποιέω,G4160,V-AAN) μῆνας(μήν,G3376,N-APM) τεσσεράκοντα(τεσσεράκοντα,G5062,A-NUI) δύο(δύο,G1417,A-NUI)",
+      "Rev 13:7": "Words: καί(G2532,CONJ) ἐδόθη(δίδωμι,G1325,V-API-3S) αὐτῷ(αὐτός,G846,P-DSN) ποιῆσαι(ποιέω,G4160,V-AAN) πόλεμον(πόλεμος,G4171,N-ASM) μετά(μετά,G3326,PREP) τῶν(ὁ,G3588,T-GPM) ἁγίων(ἅγιος,G40,A-GPM) καί(G2532,CONJ) νικῆσαι(νικάω,G3528,V-AAN) αὐτούς(αὐτός,G846,P-APM) καί(G2532,CONJ) ἐδόθη(δίδωμι,G1325,V-API-3S) αὐτῷ(αὐτός,G846,P-DSN) ἐξουσία(ἐξουσία,G1849,N-NSF) ἐπί(ἐπί,G1909,PREP) πᾶσαν(πᾶς,G3956,A-ASF) φυλήν(φυλή,G5443,N-ASF) καί(G2532,CONJ) λαόν(λαός,G2992,N-ASM) καί(G2532,CONJ) γλῶσσαν(γλῶσσα,G1100,N-ASF) καί(G2532,CONJ) ἔθνος(ἔθνος,G1484,N-ASN)",
+      "Rev 14:1": "Words: Καί(G2532,CONJ) εἶδον(ὁράω,G3708,V-2AAI-1S) καί(G2532,CONJ) ἰδού(ὁράω,G3708,V-2AMM-2S) τό(ὁ,G3588,T-NSN) Ἀρνίον(ἀρνίον,G721,N-NSN) ἑστός(ἵστημι,G2476,V-2RAP-NSN) ἐπί(ἐπί,G1909,PREP) τό(ὁ,G3588,T-ASN) ὄρος(ὄρος,G3735,N-ASN) Σιών(Σιών,G4622,N-PRI) ... γεγραμμένον(γράφω,G1125,V-RPP-ASN) ἐπί(ἐπί,G1909,PREP) τῶν(ὁ,G3588,T-GPN) μετώπων(μέτωπον,G3359,N-GPN)",
+      "Rev 14:6": "Words: Καί(G2532,CONJ) εἶδον(ὁράω,G3708,V-2AAI-1S) ἄλλον(ἄλλος,G243,A-ASM) ἄγγελον(ἄγγελος,G32,N-ASM) πετόμενον(πέτομαι,G4072,V-PNP-ASM) ἐν(ἐν,G1722,PREP) μεσουρανήματι(μεσουράνημα,G3321,N-DSN) ἔχοντα(ἔχω,G2192,V-PAP-ASM) εὐαγγέλιον(εὐαγγέλιον,G2098,N-ASN) αἰώνιον(αἰώνιος,G166,A-ASN) εὐαγγελίσαι(εὐαγγελίζω,G2097,V-AAN) ... ἔθνος(ἔθνος,G1484,N-ASN) καί(G2532,CONJ) φυλήν(φυλή,G5443,N-ASF) καί(G2532,CONJ) γλῶσσαν(γλῶσσα,G1100,N-ASF) καί(G2532,CONJ) λαόν(λαός,G2992,N-ASM)",
+      "Rev 14:7": "Words: λέγων(λέγω,G3004,V-PAP-NSM) ἐν(ἐν,G1722,PREP) φωνῇ(φωνή,G5456,N-DSF) μεγάλῃ(μέγας,G3173,A-DSF) Φοβήθητε(φοβέω,G5399,V-AOM-2P) τόν(ὁ,G3588,T-ASM) Θεόν(θεός,G2316,N-ASM) καί(G2532,CONJ) δότε(δίδωμι,G1325,V-2AAM-2P) αὐτῷ(αὐτός,G846,P-DSM) δόξαν(δόξα,G1391,N-ASF) ὅτι(ὅτι,G3754,CONJ) ἦλθεν(ἔρχομαι,G2064,V-2AAI-3S) ἡ(ὁ,G3588,T-NSF) ὥρα(ὥρα,G5610,N-NSF) τῆς(ὁ,G3588,T-GSF) κρίσεως(κρίσις,G2920,N-GSF) αὐτοῦ(αὐτός,G846,P-GSM) καί(G2532,CONJ) προσκυνήσατε(προσκυνέω,G4352,V-AAM-2P) τῷ(ὁ,G3588,T-DSM) ποιήσαντι(ποιέω,G4160,V-AAP-DSM) τόν(ὁ,G3588,T-ASM) οὐρανόν(οὐρανός,G3772,N-ASM) καί(G2532,CONJ) τήν(ὁ,G3588,T-ASF) γῆν(γῆ,G1093,N-ASF) καί(G2532,CONJ) θάλασσαν(θάλασσα,G2281,N-ASF) καί(G2532,CONJ) πηγάς(πηγή,G4077,N-APF) ὑδάτων(ὕδωρ,G5204,N-GPN)",
+      "Rev 14:8": "Words: Καί(G2532,CONJ) ἄλλος(ἄλλος,G243,A-NSM) ἄγγελος(ἄγγελος,G32,N-NSM) δεύτερος(δεύτερος,G1208,A-NSM) ἠκολούθησεν(ἀκολουθέω,G190,V-AAI-3S) λέγων(λέγω,G3004,V-PAP-NSM) Ἔπεσεν(πίπτω,G4098,V-2AAI-3S) ἔπεσεν(πίπτω,G4098,V-2AAI-3S) Βαβυλών(Βαβυλών,G897,N-NSF) ἡ(ὁ,G3588,T-NSF) μεγάλη(μέγας,G3173,A-NSF) ... θυμοῦ(θυμός,G2372,N-GSM) τῆς(ὁ,G3588,T-GSF) πορνείας(πορνεία,G4202,N-GSF) αὐτῆς(αὐτός,G846,P-GSF) πεπότικεν(ποτίζω,G4222,V-RAI-3S) πάντα(πᾶς,G3956,A-APN) τά(ὁ,G3588,T-APN) ἔθνη(ἔθνος,G1484,N-APN)",
+      "Rev 14:9": "Words: Καί(G2532,CONJ) ἄλλος(ἄλλος,G243,A-NSM) ἄγγελος(ἄγγελος,G32,N-NSM) τρίτος(τρίτος,G5154,A-NSM) ... προσκυνεῖ(προσκυνέω,G4352,V-PAI-3S) τό(ὁ,G3588,T-ASN) θηρίον(θηρίον,G2342,N-ASN) καί(G2532,CONJ) τήν(ὁ,G3588,T-ASF) εἰκόνα(εἰκών,G1504,N-ASF) αὐτοῦ(αὐτός,G846,P-GSN) καί(G2532,CONJ) λαμβάνει(λαμβάνω,G2983,V-PAI-3S) χάραγμα(χάραγμα,G5480,N-ASN)",
+      "Rev 14:10": "Words: ... οἴνου(οἶνος,G3631,N-GSM) τοῦ(ὁ,G3588,T-GSM) θυμοῦ(θυμός,G2372,N-GSM) τοῦ(ὁ,G3588,T-GSM) Θεοῦ(θεός,G2316,N-GSM) ... ποτηρίῳ(ποτήριον,G4221,N-DSN) τῆς(ὁ,G3588,T-GSF) ὀργῆς(ὀργή,G3709,N-GSF) αὐτοῦ(αὐτός,G846,P-GSM) ... ἐνώπιον(ἐνώπιον,G1799,PREP) ἀγγέλων(ἄγγελος,G32,N-GPM) ἁγίων(ἅγιος,G40,A-GPM) καί(G2532,CONJ) ἐνώπιον(ἐνώπιον,G1799,PREP) τοῦ(ὁ,G3588,T-GSN) Ἀρνίου(ἀρνίον,G721,N-GSN)",
+      "Rev 14:11": "Words: ... οὐκ(οὐ,G3756,PRT-N) ἔχουσιν(ἔχω,G2192,V-PAI-3P) ἀνάπαυσιν(ἀνάπαυσις,G372,N-ASF) ἡμέρας(ἡμέρα,G2250,N-GSF) καί(G2532,CONJ) νυκτός(νύξ,G3571,N-GSF) οἱ(ὁ,G3588,T-NPM) προσκυνοῦντες(προσκυνέω,G4352,V-PAP-NPM) τό(ὁ,G3588,T-ASN) θηρίον(θηρίον,G2342,N-ASN) ... χάραγμα(χάραγμα,G5480,N-ASN)",
+      "Rev 14:12": "Words: ὦδε(ὦδε,G5602,ADV) ἡ(ὁ,G3588,T-NSF) ὑπομονή(ὑπομονή,G5281,N-NSF) τῶν(ὁ,G3588,T-GPM) ἁγίων(ἅγιος,G40,A-GPM) ἐστίν(εἰμί,G1510,V-PAI-3S) οἱ(ὁ,G3588,T-NPM) τηροῦντες(τηρέω,G5083,V-PAP-NPM) τάς(ὁ,G3588,T-APF) ἐντολάς(ἐντολή,G1785,N-APF) τοῦ(ὁ,G3588,T-GSM) Θεοῦ(θεός,G2316,N-GSM) καί(G2532,CONJ) τήν(ὁ,G3588,T-ASF) πίστιν(πίστις,G4102,N-ASF) Ἰησοῦ(Ἰησοῦς,G2424,N-GSM)",
+      "Rev 14:14": "Words: Καί(G2532,CONJ) εἶδον(ὁράω,G3708,V-2AAI-1S) καί(G2532,CONJ) ἰδού(ὁράω,G3708,V-2AMM-2S) νεφέλη(νεφέλη,G3507,N-NSF) λευκή(λευκός,G3022,A-NSF) καί(G2532,CONJ) ἐπί(ἐπί,G1909,PREP) τήν(ὁ,G3588,T-ASF) νεφέλην(νεφέλη,G3507,N-ASF) καθήμενον(κάθημαι,G2521,V-PNP-ASM) ὅμοιον(ὅμοιος,G3664,A-ASM) υἱόν(υἱός,G5207,N-ASM) ἀνθρώπου(ἄνθρωπος,G444,N-GSM) ἔχων(ἔχω,G2192,V-PAP-NSM) ... δρέπανον(δρέπανον,G1407,N-ASN) ὀξύ(ὀξύς,G3691,A-ASN)",
+      "Rev 1:20": "Words: τό(ὁ,G3588,T-NSN) μυστήριον(μυστήριον,G3466,N-NSN) ... οἱ(ὁ,G3588,T-NPM) ἑπτά(ἑπτά,G2033,A-NUI) ἀστέρες(ἀστήρ,G792,N-NPM) ἄγγελοι(ἄγγελος,G32,N-NPM) τῶν(ὁ,G3588,T-GPF) ἑπτά(ἑπτά,G2033,A-NUI) ἐκκλησιῶν(ἐκκλησία,G1577,N-GPF) εἰσίν(εἰμί,G1510,V-PAI-3P)"
+    },
+    "hebrew": {}
+  }
+}

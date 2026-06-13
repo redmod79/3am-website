@@ -1,0 +1,54 @@
+# Greek Parsing — Raw Tool Output
+
+## Rev 14:8 — Genitive Chain
+pepotiken = ποτίζω G4222 [V-RAI-3S] Perf Act Ind 3S — completed action with ongoing results
+oinou = οἶνος G3631 [N-GSM] Gen Sg M
+thumou = θυμός G2372 [N-GSM] Gen Sg M
+porneias = πορνεία G4202 [N-GSF] Gen Sg F
+autes = αὐτός G846 [P-GSF] Gen Sg F
+Epesen = πίπτω G4098 [V-2AAI-3S] Aor Act Ind (doubled prophetic aorist)
+
+## Rev 14:10 — Polarity Flip
+oinou = G3631 [N-GSM], thumou = G2372 [N-GSM], Theou = G2316 [N-GSM]
+kekerasmenou = κεράννυμι G2767 [V-RPP-GSM] Perf Pass Ptcp Gen Sg M
+akratou = ἄκρατος G194 [A-GSM] Gen Sg M (hapax)
+poterion = G4221 [N-DSN], orges = G3709 [N-GSF], autou = G846 [P-GSM]
+
+## Rev 16:19 — Polarity Flip Complete
+poterion [N-ASN], oinou [N-GSM] G3631, thumou [N-GSM] G2372, orges [N-GSF] G3709, autou [P-GSM]
+
+## Rev 17:4 — Bdelygmata/Akatharta Case Shift
+gemon [V-PAP-ASN] G1073 — Pres Act Ptcp Acc Sg N (governs genitive of content)
+bdelygmaton [N-GPN] G946 — Gen Pl N (GENITIVE = abstract categories)
+ta akatharta [A-APN] G169 — Acc Pl N (ACCUSATIVE = concrete impurities)
+porneias [N-GSF] G4202, autes [P-GSF] G846
+
+## Rev 18:23 — Pharmakeia Instrumental Dative
+pharmakia [N-DSF] G5331 — Dat Sg F (INSTRUMENTAL DATIVE = by means of)
+eplanesthesan [V-API-3P] G4105 πλανάω — Aor Pass Ind 3P (all nations WERE deceived)
+
+## Eph 5:18 — Wine/Spirit Contrast
+methyskesthe [V-PPM-2P] G3182 — Pres Pass Impv 2P (present passive imperative)
+plerousthe [V-PPM-2P] G4137 — Pres Pass Impv 2P (IDENTICAL grammar)
+
+## Gal 5:20 — Pharmakeia-Idolatry Adjacency
+eidololatreia [N-NSF] G1495 Nom Sg F
+pharmakeia [N-NSF] G5331 Nom Sg F (IMMEDIATELY FOLLOWS idolatry)
+
+## Rev 18:3 — Repetition of Genitive Chain
+oinou [N-GSM] G3631, thumou [N-GSM] G2372, porneias [N-GSF] G4202
+pepokan [V-RAI-3P] G4095 πίνω — Perf Act Ind 3P (they HAVE drunk)
+eporneusan [V-AAI-3P] G4203 πορνεύω — Aor Act Ind 3P (kings fornicated)
+
+## Rev 9:21 — Impenitent Category List
+pharmakon [N-GPF] G5331 Gen Pl F
+porneias [N-GSF] G4202
+klemmaton [N-GPN] G2809
+
+## 1 Cor 10:21 — Two Cups
+poterion [N-ASN] G4221 Kyriou [N-GSM] G2962
+poterion [N-ASN] G4221 daimonion [N-GPN] G1140
+ou dynasthe — you CANNOT (absolute exclusion)
+
+## Rev 19:15 — Terminal Thumos Chain
+oinou [N-GSM] G3631, thumou [N-GSM] G2372, orges [N-GSF] G3709, Theou [N-GSM] G2316, Pantokratoros [N-GSM] G3841

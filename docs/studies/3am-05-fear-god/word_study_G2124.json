@@ -1,0 +1,57 @@
+{
+  "strongs": "G2124",
+  "word": "εὐλάβεια",
+  "transliteration": "eulabeia",
+  "pos": "Feminine Noun (n-f)",
+  "occurrences": 2,
+  "definition": "From G2126 (eulabes); properly, caution, i.e. (religiously) reverence, piety; godly fear.",
+
+  "translation_distribution": [
+    {"translation": "he feared", "count": 1, "percent": 50.0},
+    {"translation": "godly fear", "count": 1, "percent": 50.0}
+  ],
+
+  "book_distribution": [
+    {"book": "Hebrews", "count": 2, "density": 0.65}
+  ],
+
+  "lxx_mappings": [],
+
+  "semantic_categories": [
+    {
+      "name": "Reverent caution before God",
+      "description": "In Hebrews 5:7, Christ's prayers during His earthly life were heard 'for his godly fear' (KJV: 'in that he feared'). The noun conveys not terror but the careful, reverent disposition that takes God seriously — a well-placed caution (eu + labein, 'to take well') that shapes how one approaches the divine. Christ's eulabeia was the reverential posture underlying His submission to the Father's will.",
+      "key_verses": ["Heb 5:7"]
+    },
+    {
+      "name": "Worship disposition accompanying grace",
+      "description": "In Hebrews 12:28, believers receiving an unshakable kingdom are told to 'serve God acceptably with reverence and godly fear.' Here eulabeia is paired with aidos (G127, 'reverence/modesty'), forming a compound expression for the appropriate worship disposition. Grace does not eliminate reverent caution; it grounds it. The worshipper who understands what God has done responds not with casual familiarity but with awe-infused gratitude.",
+      "key_verses": ["Heb 12:28"]
+    }
+  ],
+
+  "collocations": [
+    {"word": "aidos", "strongs": "G127", "count": 1, "pattern": "paired in Heb 12:28 — 'reverence and godly fear'"},
+    {"word": "latreuomen", "strongs": "G3000", "count": 1, "pattern": "eulabeia as manner of acceptable worship (Heb 12:28)"}
+  ],
+
+  "related_words": {
+    "synonyms": [
+      {"strongs": "G5401", "word": "phobos", "distinction": "General fear/terror (47 occ); can be negative (fright) or positive (reverence). Eulabeia is always positive — caution arising from proper regard, never raw terror."},
+      {"strongs": "G2150", "word": "eusebeia", "distinction": "Godliness/piety as habitual conduct (15 occ); eulabeia is the internal disposition (reverent caution) whereas eusebeia is the outward pattern of devout living."},
+      {"strongs": "G127", "word": "aidos", "distinction": "Shame-based modesty/reverence (2 occ); paired with eulabeia in Heb 12:28. Aidos is self-restraint from a sense of propriety; eulabeia is caution from a sense of God's greatness."}
+    ],
+    "antonyms": [],
+    "word_family": [
+      {"strongs": "G2125", "word": "eulabeomai", "distinction": "Verb form (2 occ): 'to act with reverent caution.' Used of Noah 'moved with fear' (Heb 11:7) and of Paul's rescuers 'fearing' (Acts 23:10)."},
+      {"strongs": "G2126", "word": "eulabes", "distinction": "Adjective form (3 occ): 'devout, cautious.' Used of Simeon (Luke 2:25), Jews at Pentecost (Acts 2:5), and those who buried Stephen (Acts 8:2)."}
+    ]
+  },
+
+  "raw_tool_output": {
+    "lookup": "G2124 - 2 total occurrences, 2 unique translations:\n\n     1 ( 50.0%) #########################                          he feared\n     1 ( 50.0%) #########################                          godly fear",
+    "lexicon": "============================================================\n  G2124: εὐλάβεια\n============================================================\n  Transliteration: eulábeia\n  Pronunciation:   yoo-lab\n  Part of Speech:  feminine noun (n-f)\n  BLB Count:       2\n\n  Definition:\n    -i-ah; from ; properly, caution, i.e. (religiously) reverence (piety);\n    by\n\n  Outline of Biblical Usage:\n    Joshua 22:24 Proverbs 28:14 Hebrews 5:7 ; 5:7 ; 5:7 ; 12:28",
+    "hebrew_source": "No Hebrew sources found for G2124",
+    "relationships": "## Synonyms & Antonyms: G2124\n\n**Semantic Domains:**\n- [053] Religious Activities\n  Other words: ἁγιάζω (G37), ἁγιασμός (G38), ἅγιος (G40), ἁγιωσύνη (G42), ἁγνίζω (G48), ἁγνισμός (G49)\n\n**Referenced in word studies:**\n- G2413-hieros\n- G3008-leitourgeo\n- G3009-leitourgia"
+  }
+}

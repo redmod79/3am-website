@@ -1,0 +1,611 @@
+{
+  "verses": {
+    "Rev 14:6-7": {
+      "kjv_text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+      "tier": "primary"
+    },
+    "Rev 14:8": {
+      "kjv_text": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.",
+      "tier": "primary"
+    },
+    "Rev 14:9-11": {
+      "kjv_text": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive [his] mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.",
+      "tier": "primary"
+    },
+    "Rev 14:12": {
+      "kjv_text": "Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.",
+      "tier": "primary"
+    },
+    "Gal 1:6-9": {
+      "kjv_text": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.",
+      "tier": "primary"
+    },
+    "Acts 17:22-31": {
+      "kjv_text": "Then Paul stood in the midst of Mars' hill, and said, [Ye] men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by [that] man whom he hath ordained; [whereof] he hath given assurance unto all [men], in that he hath raised him from the dead.",
+      "tier": "primary"
+    },
+    "Ecc 12:13-14": {
+      "kjv_text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man. For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.",
+      "tier": "primary"
+    },
+    "Rom 2:16": {
+      "kjv_text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
+      "tier": "primary"
+    },
+    "Luke 3:18": {
+      "kjv_text": "And many other things in his exhortation preached he unto the people.",
+      "tier": "primary"
+    },
+    "Rom 7:7-12": {
+      "kjv_text": "What shall we say then? [Is] the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin [was] dead. For I was alive without the law once: but when the commandment came, sin revived, and I died. And the commandment, which [was ordained] to life, I found [to be] unto death. For sin, taking occasion by the commandment, deceived me, and by it slew [me]. Wherefore the law [is] holy, and the commandment holy, and just, and good.",
+      "tier": "primary"
+    },
+    "Eph 6:2": {
+      "kjv_text": "Honour thy father and mother; (which is the first commandment with promise;)",
+      "tier": "primary"
+    },
+    "Luke 23:56": {
+      "kjv_text": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.",
+      "tier": "primary"
+    },
+    "Rev 12:17": {
+      "kjv_text": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.",
+      "tier": "primary"
+    },
+    "1 John 4:17-18": {
+      "kjv_text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world. There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "tier": "primary"
+    },
+    "Exo 20:20": {
+      "kjv_text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
+      "tier": "primary"
+    },
+    "1 Pet 1:17": {
+      "kjv_text": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning [here] in fear:",
+      "tier": "primary"
+    },
+    "Ps 130:4": {
+      "kjv_text": "But [there is] forgiveness with thee, that thou mayest be feared.",
+      "tier": "primary"
+    },
+    "Exo 20:11": {
+      "kjv_text": "For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+      "tier": "primary"
+    },
+    "Rev 11:19": {
+      "kjv_text": "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.",
+      "tier": "primary"
+    },
+    "Heb 4:9": {
+      "kjv_text": "There remaineth therefore a rest to the people of God.",
+      "tier": "primary"
+    },
+    "Isa 34:9-10": {
+      "kjv_text": "And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch. It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.",
+      "tier": "primary"
+    },
+    "Isa 34:11-17": {
+      "kjv_text": "But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness. They shall call the nobles thereof to the kingdom, but none [shall be] there, and all her princes shall be nothing. And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, [and] a court for owls. The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest. There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate. Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them. And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.",
+      "tier": "supporting"
+    },
+    "Rev 19:3": {
+      "kjv_text": "And again they said, Alleluia. And her smoke rose up for ever and ever.",
+      "tier": "primary"
+    },
+    "Rev 20:9-10": {
+      "kjv_text": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them. And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.",
+      "tier": "primary"
+    },
+    "Mal 4:1-3": {
+      "kjv_text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch. But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall. And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do [this], saith the LORD of hosts.",
+      "tier": "primary"
+    },
+    "Dan 7:9-10": {
+      "kjv_text": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+      "tier": "primary"
+    },
+    "Dan 7:22": {
+      "kjv_text": "Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.",
+      "tier": "primary"
+    },
+    "Rom 8:1": {
+      "kjv_text": "[There is] therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "tier": "primary"
+    },
+    "Rom 8:33-34": {
+      "kjv_text": "Who shall lay any thing to the charge of God's elect? [It is] God that justifieth. Who [is] he that condemneth? [It is] Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
+      "tier": "primary"
+    },
+    "Rev 22:11-12": {
+      "kjv_text": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still. And, behold, I come quickly; and my reward [is] with me, to give every man according as his work shall be.",
+      "tier": "primary"
+    },
+    "Rev 15:8": {
+      "kjv_text": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.",
+      "tier": "primary"
+    },
+    "Dan 12:1": {
+      "kjv_text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation [even] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+      "tier": "primary"
+    },
+    "Exo 31:13": {
+      "kjv_text": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it [is] a sign between me and you throughout your generations; that [ye] may know that I [am] the LORD that doth sanctify you.",
+      "tier": "primary"
+    },
+    "Exo 31:17": {
+      "kjv_text": "It [is] a sign between me and the children of Israel for ever: for [in] six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.",
+      "tier": "primary"
+    },
+    "Ezek 20:12": {
+      "kjv_text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I [am] the LORD that sanctify them.",
+      "tier": "primary"
+    },
+    "Rom 4:11": {
+      "kjv_text": "And he received the sign of circumcision, a seal of the righteousness of the faith which [he had yet] being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:",
+      "tier": "primary"
+    },
+    "Rev 7:1-4": {
+      "kjv_text": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea, Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And I heard the number of them which were sealed: [and there were] sealed an hundred [and] forty [and] four thousand of all the tribes of the children of Israel.",
+      "tier": "primary"
+    },
+    "Rev 17:1-5": {
+      "kjv_text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters: With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication. So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns. And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication: And upon her forehead [was] a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.",
+      "tier": "primary"
+    },
+    "Rev 18:4-5": {
+      "kjv_text": "And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. For her sins have reached unto heaven, and God hath remembered her iniquities.",
+      "tier": "primary"
+    },
+    "Ezek 16:15-17": {
+      "kjv_text": "But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was. And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: [the like things] shall not come, neither shall it be [so]. Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,",
+      "tier": "primary"
+    },
+    "2 Tim 1:9": {
+      "kjv_text": "Who hath saved us, and called [us] with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+      "tier": "primary"
+    },
+    "Rev 14:1": {
+      "kjv_text": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty [and] four thousand, having his Father's name written in their foreheads.",
+      "tier": "supporting"
+    },
+    "Rev 21:9-10": {
+      "kjv_text": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife. And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+      "tier": "supporting"
+    },
+    "Rev 13:7": {
+      "kjv_text": "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.",
+      "tier": "supporting"
+    },
+    "Rev 13:10": {
+      "kjv_text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+      "tier": "supporting"
+    },
+    "2 Thess 2:10-12": {
+      "kjv_text": "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness.",
+      "tier": "supporting"
+    },
+    "Gen 7:16": {
+      "kjv_text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.",
+      "tier": "supporting"
+    },
+    "Matt 25:10": {
+      "kjv_text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+      "tier": "supporting"
+    },
+    "Luke 13:25": {
+      "kjv_text": "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:",
+      "tier": "supporting"
+    },
+    "1 John 5:13": {
+      "kjv_text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.",
+      "tier": "supporting"
+    },
+    "Eph 1:13-14": {
+      "kjv_text": "In whom ye also [trusted], after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+      "tier": "supporting"
+    },
+    "Rom 5:9-10": {
+      "kjv_text": "Much more then, being now justified by his blood, we shall be saved from wrath through him. For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.",
+      "tier": "supporting"
+    },
+    "Mal 3:16-17": {
+      "kjv_text": "Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard [it], and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name. And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+      "tier": "supporting"
+    },
+    "Zech 3:1-5": {
+      "kjv_text": "And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him. And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: [is] not this a brand plucked out of the fire? Now Joshua was clothed with filthy garments, and stood before the angel. And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment. And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by.",
+      "tier": "supporting"
+    },
+    "Rev 12:10": {
+      "kjv_text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.",
+      "tier": "supporting"
+    },
+    "1 Cor 15:24-28": {
+      "kjv_text": "Then [cometh] the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. The last enemy [that] shall be destroyed [is] death. For he hath put all things under his feet. But when he saith, all things are put under [him, it is] manifest that he is excepted, which did put all things under him. And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.",
+      "tier": "supporting"
+    },
+    "Rev 21:4": {
+      "kjv_text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+      "tier": "supporting"
+    },
+    "Nah 1:9": {
+      "kjv_text": "What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.",
+      "tier": "supporting"
+    },
+    "1 Tim 6:16": {
+      "kjv_text": "Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom [be] honour and power everlasting. Amen.",
+      "tier": "supporting"
+    },
+    "Matt 25:46": {
+      "kjv_text": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+      "tier": "supporting"
+    },
+    "Rev 4:8": {
+      "kjv_text": "And the four beasts had each of them six wings about [him]; and [they were] full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+      "tier": "supporting"
+    },
+    "Gal 5:6": {
+      "kjv_text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+      "tier": "supporting"
+    },
+    "1 John 5:3": {
+      "kjv_text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous.",
+      "tier": "supporting"
+    },
+    "Rom 13:10": {
+      "kjv_text": "Love worketh no ill to his neighbour: therefore love [is] the fulfilling of the law.",
+      "tier": "supporting"
+    },
+    "Rom 8:4": {
+      "kjv_text": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+      "tier": "supporting"
+    },
+    "Rom 3:31": {
+      "kjv_text": "Do we then make void the law through faith? God forbid: yea, we establish the law.",
+      "tier": "supporting"
+    },
+    "Ezek 36:27": {
+      "kjv_text": "And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do [them].",
+      "tier": "supporting"
+    },
+    "Phil 2:13": {
+      "kjv_text": "For it is God which worketh in you both to will and to do of [his] good pleasure.",
+      "tier": "supporting"
+    },
+    "Gen 15:6": {
+      "kjv_text": "And he believed in the LORD; and he counted it to him for righteousness.",
+      "tier": "supporting"
+    },
+    "Gen 26:5": {
+      "kjv_text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+      "tier": "supporting"
+    },
+    "1 Cor 15:3-4": {
+      "kjv_text": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures:",
+      "tier": "supporting"
+    },
+    "Rom 1:1-4": {
+      "kjv_text": "Paul, a servant of Jesus Christ, called [to be] an apostle, separated unto the gospel of God, (Which he had promised afore by his prophets in the holy scriptures,) Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; And declared [to be] the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:",
+      "tier": "supporting"
+    },
+    "Gal 3:8": {
+      "kjv_text": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, [saying], In thee shall all nations be blessed.",
+      "tier": "supporting"
+    },
+    "Rev 22:14": {
+      "kjv_text": "Blessed [are] they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.",
+      "tier": "supporting"
+    },
+    "Eph 4:30": {
+      "kjv_text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+      "tier": "supporting"
+    },
+    "2 Cor 1:22": {
+      "kjv_text": "Who hath also sealed us, and given the earnest of the Spirit in our hearts.",
+      "tier": "supporting"
+    },
+    "Ezek 9:4-6": {
+      "kjv_text": "And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof. And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity: Slay utterly old [and] young, both maids, and little children, and women: but come not near any man upon whom [is] the mark; and begin at my sanctuary. Then they began at the ancient men which [were] before the house.",
+      "tier": "supporting"
+    },
+    "Ezek 20:20": {
+      "kjv_text": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.",
+      "tier": "supporting"
+    },
+    "Rev 12:1": {
+      "kjv_text": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:",
+      "tier": "supporting"
+    },
+    "Rev 15:1": {
+      "kjv_text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.",
+      "tier": "supporting"
+    },
+    "Hos 2:1-5": {
+      "kjv_text": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah. Plead with your mother, plead: for she [is] not my wife, neither [am] I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts; Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst. And I will not have mercy upon her children; for they [be] the children of whoredoms. For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give [me] my bread and my water, my wool and my flax, mine oil and my drink.",
+      "tier": "supporting"
+    },
+    "Num 15:38-39": {
+      "kjv_text": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue: And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:",
+      "tier": "supporting"
+    },
+    "Rev 18:21-23": {
+      "kjv_text": "And a mighty angel took up a stone like a great millstone, and cast [it] into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all. And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft [he be], shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee; And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.",
+      "tier": "supporting"
+    },
+    "Dan 12:2": {
+      "kjv_text": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame [and] everlasting contempt.",
+      "tier": "supporting"
+    },
+    "Rev 20:14-15": {
+      "kjv_text": "And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire.",
+      "tier": "supporting"
+    },
+    "Rom 1:24-28": {
+      "kjv_text": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen. For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature: And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet. And even as they did not like to retain God in [their] knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;",
+      "tier": "supporting"
+    },
+    "Luke 12:47-48": {
+      "kjv_text": "And that servant, which knew his lord's will, and prepared not [himself], neither did according to his will, shall be beaten with many [stripes]. But he that knew not, and did commit things worthy of stripes, shall be beaten with few [stripes]. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+      "tier": "supporting"
+    },
+    "1 Tim 1:13": {
+      "kjv_text": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did [it] ignorantly in unbelief.",
+      "tier": "supporting"
+    },
+    "Rev 17:4": {
+      "kjv_text": "And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:",
+      "tier": "supporting"
+    },
+    "Rev 4:11": {
+      "kjv_text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+      "tier": "supporting"
+    },
+    "Rev 10:6": {
+      "kjv_text": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
+      "tier": "supporting"
+    },
+    "Ps 146:6": {
+      "kjv_text": "Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:",
+      "tier": "supporting"
+    },
+    "Acts 4:24": {
+      "kjv_text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou [art] God, which hast made heaven, and earth, and the sea, and all that in them is:",
+      "tier": "supporting"
+    },
+    "Acts 14:15": {
+      "kjv_text": "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:",
+      "tier": "supporting"
+    },
+    "Neh 9:6": {
+      "kjv_text": "Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all [things] that [are] therein, the seas, and all that [is] therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+      "tier": "supporting"
+    },
+    "Rev 13:16-17": {
+      "kjv_text": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.",
+      "tier": "supporting"
+    },
+    "Dan 7:13-14": {
+      "kjv_text": "I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.",
+      "tier": "supporting"
+    },
+    "Dan 7:27": {
+      "kjv_text": "And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.",
+      "tier": "supporting"
+    },
+    "2 Cor 5:10": {
+      "kjv_text": "For we must all appear before the judgment seat of Christ; that every one may receive the things [done] in [his] body, according to that he hath done, whether [it be] good or bad.",
+      "tier": "supporting"
+    },
+    "1 Pet 4:17": {
+      "kjv_text": "For the time [is come] that judgment must begin at the house of God: and if [it] first [begin] at us, what shall the end [be] of them that obey not the gospel of God?",
+      "tier": "supporting"
+    },
+    "Rev 12:3": {
+      "kjv_text": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.",
+      "tier": "supporting"
+    }
+  },
+  "word_studies": {
+    "G2098": {
+      "word": "euangelion",
+      "occurrence_count": 77
+    },
+    "G2097": {
+      "word": "euangelizo",
+      "occurrence_count": 61
+    },
+    "G166": {
+      "word": "aionios",
+      "occurrence_count": 71
+    },
+    "G5399": {
+      "word": "phobeo",
+      "occurrence_count": 110
+    },
+    "G5401": {
+      "word": "phobos",
+      "occurrence_count": 47
+    },
+    "G2851": {
+      "word": "kolasis",
+      "occurrence_count": 2
+    },
+    "G1785": {
+      "word": "entole",
+      "occurrence_count": 71
+    },
+    "G3551": {
+      "word": "nomos",
+      "occurrence_count": 197
+    },
+    "G4102": {
+      "word": "pistis",
+      "occurrence_count": 244
+    },
+    "G4160": {
+      "word": "poieo",
+      "occurrence_count": 597
+    },
+    "G4520": {
+      "word": "sabbatismos",
+      "occurrence_count": 1
+    },
+    "G2920": {
+      "word": "krisis",
+      "occurrence_count": 47
+    },
+    "G2631": {
+      "word": "katakrima",
+      "occurrence_count": 3
+    },
+    "G165": {
+      "word": "aion",
+      "occurrence_count": 120
+    },
+    "H5769": {
+      "word": "owlam",
+      "occurrence_count": 432
+    },
+    "H226": {
+      "word": "owth",
+      "occurrence_count": 85
+    },
+    "G4972": {
+      "word": "sphragizo",
+      "occurrence_count": 28
+    },
+    "G4973": {
+      "word": "sphragis",
+      "occurrence_count": 16
+    },
+    "G5480": {
+      "word": "charagma",
+      "occurrence_count": 9
+    },
+    "H2181": {
+      "word": "zanah",
+      "occurrence_count": 107
+    },
+    "G4202": {
+      "word": "porneia",
+      "occurrence_count": 26
+    },
+    "H1101": {
+      "word": "balal",
+      "occurrence_count": 45
+    },
+    "G4352": {
+      "word": "proskyneo",
+      "occurrence_count": 65
+    },
+    "H1319": {
+      "word": "basar",
+      "occurrence_count": 27
+    },
+    "G5281": {
+      "word": "hupomone",
+      "occurrence_count": 32
+    },
+    "H3372": {
+      "word": "yare",
+      "occurrence_count": 414
+    },
+    "H7676": {
+      "word": "shabbath",
+      "occurrence_count": 109
+    },
+    "G4077": {
+      "word": "pege",
+      "occurrence_count": 12
+    },
+    "G968": {
+      "word": "bema",
+      "occurrence_count": 13
+    },
+    "G5083": {
+      "word": "tereo",
+      "occurrence_count": 75
+    },
+    "G26": {
+      "word": "agape",
+      "occurrence_count": 116
+    }
+  },
+  "parsing": {
+    "Rev 14:6": "======================================================================\n  Revelation 14:6 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Καὶ εἶδον ἄλλον ἄγγελον πετόμενον ἐν μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ἐπὶ τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν,\n\nWORD                 LEMMA           STRONG   PARSING\nΚαὶ                  καί             G2532    [CONJ]\nεἶδον                ὁράω            G3708    [V-2AAI-1S] Aor Act Ind Sg firstPers\nἄλλον                ἄλλος           G243     [A-ASM] Acc Sg M\nἄγγελον              ἄγγελος         G32      [N-ASM] Acc Sg M\nπετόμενον            πέτομαι         G4072    [V-PNP-ASM] Pres M/P Ptcp Acc Sg M\nἐν                   ἐν              G1722    [PREP]\nμεσουρανήματι,       μεσουράνημα     G3321    [N-DSN] Dat Sg N\nἔχοντα               ἔχω             G2192    [V-PAP-ASM] Pres Act Ptcp Acc Sg M\nεὐαγγέλιον           εὐαγγέλιον      G2098    [N-ASN] Acc Sg N\nαἰώνιον              αἰώνιος         G166     [A-ASN] Acc Sg N\nεὐαγγελίσαι          εὐαγγελίζω      G2097    [V-AAN] Aor Act Inf\nἐπὶ                  ἐπί             G1909    [PREP]\nτοὺς                 ὁ               G3588    [T-APM] Acc Pl M\nκαθημένους           κάθημαι         G2521    [V-PNP-APM] Pres M/P Ptcp Acc Pl M\nἐπὶ                  ἐπί             G1909    [PREP]\nτῆς                  ὁ               G3588    [T-GSF] Gen Sg F\nγῆς                  γῆ              G1093    [N-GSF] Gen Sg F\nκαὶ                  καί             G2532    [CONJ]\nἐπὶ                  ἐπί             G1909    [PREP]\nπᾶν                  πᾶς             G3956    [A-ASN] Acc Sg N\nἔθνος                ἔθνος           G1484    [N-ASN] Acc Sg N\nκαὶ                  καί             G2532    [CONJ]\nφυλὴν                φυλή            G5443    [N-ASF] Acc Sg F\nκαὶ                  καί             G2532    [CONJ]\nγλῶσσαν              γλῶσσα          G1100    [N-ASF] Acc Sg F\nκαὶ                  καί             G2532    [CONJ]\nλαόν,                λαός            G2992    [N-ASM] Acc Sg M",
+    "Rev 14:7": "======================================================================\n  Revelation 14:7 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: λέγων ἐν φωνῇ μεγάλῃ· Φοβήθητε τὸν Θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ, καὶ προσκυνήσατε τῷ ποιήσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ θάλασσαν καὶ πηγὰς ὑδάτων.\n\nWORD                 LEMMA           STRONG   PARSING\nλέγων                λέγω            G3004    [V-PAP-NSM] Pres Act Ptcp Nom Sg M\nΦοβήθητε             φοβέω           G5399    [V-AOM-2P] Aor Pass Impv Pl secondPers\nδότε                 δίδωμι          G1325    [V-2AAM-2P] Aor Act Impv Pl secondPers\nδόξαν,               δόξα            G1391    [N-ASF] Acc Sg F\nἦλθεν                ἔρχομαι         G2064    [V-2AAI-3S] Aor Act Ind Sg thirdPers\nὥρα                  ὥρα             G5610    [N-NSF] Nom Sg F\nκρίσεως              κρίσις          G2920    [N-GSF] Gen Sg F\nπροσκυνήσατε         προσκυνέω       G4352    [V-AAM-2P] Aor Act Impv Pl secondPers\nποιήσαντι            ποιέω           G4160    [V-AAP-DSM] Aor Act Ptcp Dat Sg M\nοὐρανὸν              οὐρανός         G3772    [N-ASM] Acc Sg M\nγῆν                  γῆ              G1093    [N-ASF] Acc Sg F\nθάλασσαν             θάλασσα         G2281    [N-ASF] Acc Sg F\nπηγὰς                πηγή            G4077    [N-APF] Acc Pl F\nὑδάτων.              ὕδωρ            G5204    [N-GPN] Gen Pl N",
+    "Rev 14:12": "======================================================================\n  Revelation 14:12 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ Θεοῦ καὶ τὴν πίστιν Ἰησοῦ.\n\nWORD                 LEMMA           STRONG   PARSING\nΩδε                  ὧδε             G5602    [ADV]\nὑπομονὴ              ὑπομονή         G5281    [N-NSF] Nom Sg F\nτηροῦντες            τηρέω           G5083    [V-PAP-NPM] Pres Act Ptcp Nom Pl M\nἐντολὰς              ἐντολή          G1785    [N-APF] Acc Pl F\nΘεοῦ                 θεός            G2316    [N-GSM] Gen Sg M\nπίστιν               πίστις          G4102    [N-ASF] Acc Sg F\nἸησοῦ.               Ἰησοῦς          G2424    [N-GSM] Gen Sg M",
+    "1 John 4:17": "======================================================================\n  1 John 4:17 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ' ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ.\n\nWORD                 LEMMA           STRONG   PARSING\nτετελείωται          τελειόω         G5048    [V-RPI-3S] Perf Pass Ind Sg thirdPers\nἀγάπη                ἀγάπη           G26      [N-NSF] Nom Sg F\nπαρρησίαν            παρρησία        G3954    [N-ASF] Acc Sg F\nκρίσεως,             κρίσις          G2920    [N-GSF] Gen Sg F",
+    "1 John 4:18": "======================================================================\n  1 John 4:18 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ' ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ.\n\nWORD                 LEMMA           STRONG   PARSING\nφόβος                φόβος           G5401    [N-NSM] Nom Sg M\nτελεία               τέλειος         G5046    [A-NSF] Nom Sg F\nἀγάπη                ἀγάπη           G26      [N-NSF] Nom Sg F\nκόλασιν              κόλασις         G2851    [N-ASF] Acc Sg F\nφοβούμενος           φοβέω           G5399    [V-PNP-NSM] Pres M/P Ptcp Nom Sg M\nτετελείωται          τελειόω         G5048    [V-RPI-3S] Perf Pass Ind Sg thirdPers",
+    "Gal 1:6": "======================================================================\n  Galatians 1:6 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον,\n\nWORD                 LEMMA           STRONG   PARSING\nμετατίθεσθε          μετατίθημι      G3346    [V-PEI-2P] Pres M/P Ind Pl secondPers\nἕτερον               ἕτερος          G2087    [A-ASN] Acc Sg N\nεὐαγγέλιον,          εὐαγγέλιον      G2098    [N-ASN] Acc Sg N",
+    "Gal 1:8": "======================================================================\n  Galatians 1:8 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίσηται ὑμῖν παρ' ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.\n\nWORD                 LEMMA           STRONG   PARSING\nεὐαγγελίσηται        εὐαγγελίζω      G2097    [V-AMS-3S] Aor Mid Subj Sg thirdPers\nἀνάθεμα              ἀνάθεμα         G331     [N-NSN] Nom Sg N",
+    "Rev 22:11": "======================================================================\n  Revelation 22:11 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: ὁ ἀδικῶν ἀδικησάτω ἔτι, καὶ ὁ ῥυπαρὸς ῥυπανθήτω ἔτι, καὶ ὁ δίκαιος δικαιοσύνην ποιησάτω ἔτι, καὶ ὁ ἅγιος ἁγιασθήτω ἔτι.\n\nWORD                 LEMMA           STRONG   PARSING\nἀδικησάτω            ἀδικέω          G91      [V-AAM-3S] Aor Act Impv Sg thirdPers\nῥυπανθήτω            ῥυπαίνω         G4510    [V-APM-3S] Aor Pass Impv Sg thirdPers\nποιησάτω             ποιέω           G4160    [V-AAM-3S] Aor Act Impv Sg thirdPers\nἁγιασθήτω            ἁγιάζω          G37      [V-APM-3S] Aor Pass Impv Sg thirdPers",
+    "Rev 14:10": "======================================================================\n  Revelation 14:10 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ αὐτὸς πίεται ἐκ τοῦ οἴνου τοῦ θυμοῦ τοῦ Θεοῦ τοῦ κεκερασμένου ἀκράτου ἐν τῷ ποτηρίῳ τῆς ὀργῆς αὐτοῦ, καὶ βασανισθήσεται ἐν πυρὶ καὶ θείῳ ἐνώπιον ἀγγέλων ἁγίων καὶ ἐνώπιον τοῦ Ἀρνίου.\n\nWORD                 LEMMA           STRONG   PARSING\nπίεται               πίνω            G4095    [V-FDI-3S] Fut Mid Ind Sg thirdPers\nθυμοῦ                θυμός           G2372    [N-GSM] Gen Sg M\nὀργῆς                ὀργή            G3709    [N-GSF] Gen Sg F\nβασανισθήσεται       βασανίζω        G928     [V-FPI-3S] Fut Pass Ind Sg thirdPers",
+    "Rev 14:11": "======================================================================\n  Revelation 14:11 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν εἰς αἰῶνας αἰώνων ἀναβαίνει, καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτός οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ, καὶ εἴ τις λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ.\n\nWORD                 LEMMA           STRONG   PARSING\nἀναβαίνει            ἀναβαίνω        G305     [V-PAI-3S] Pres Act Ind Sg thirdPers\nἔχουσιν              ἔχω             G2192    [V-PAI-3P] Pres Act Ind Pl thirdPers\nἀνάπαυσιν            ἀνάπαυσις       G372     [N-ASF] Acc Sg F\nχάραγμα              χάραγμα         G5480    [N-ASN] Acc Sg N",
+    "Rev 15:8": "======================================================================\n  Revelation 15:8 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ ἐγεμίσθη ὁ ναὸς καπνοῦ ἐκ τῆς δόξης τοῦ Θεοῦ καὶ ἐκ τῆς δυνάμεως αὐτοῦ, καὶ οὐδεὶς ἐδύνατο εἰσελθεῖν εἰς τὸν ναὸν ἄχρι τελεσθῶσιν αἱ ἑπτὰ πληγαὶ τῶν ἑπτὰ ἀγγέλων.\n\nWORD                 LEMMA           STRONG   PARSING\nἐγεμίσθη             γεμίζω          G1072    [V-API-3S] Aor Pass Ind Sg thirdPers\nναὸς                 ναός            G3485    [N-NSM] Nom Sg M\nἐδύνατο              δύναμαι         G1410    [V-INI-3S] Impf M/P Ind Sg thirdPers\nεἰσελθεῖν            εἰσέρχομαι      G1525    [V-2AAN] Aor Act Inf\nτελεσθῶσιν           τελέω           G5055    [V-APS-3P] Aor Pass Subj Pl thirdPers",
+    "Rom 8:1": "======================================================================\n  Romans 8:1 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ.\n\nWORD                 LEMMA           STRONG   PARSING\nκατάκριμα            κατάκριμα       G2631    [N-NSN] Nom Sg N",
+    "Rom 7:7": "======================================================================\n  Romans 7:7 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Τί οὖν ἐροῦμεν; ὁ νόμος ἁμαρτία; μὴ γένοιτο· ἀλλὰ τὴν ἁμαρτίαν οὐκ ἔγνων εἰ μὴ διὰ νόμου· τήν τε γὰρ ἐπιθυμίαν οὐκ ᾔδειν εἰ μὴ ὁ νόμος ἔλεγεν Οὐκ ἐπιθυμήσεις·\n\nWORD                 LEMMA           STRONG   PARSING\nνόμος                νόμος           G3551    [N-NSM] Nom Sg M\nἐπιθυμίαν            ἐπιθυμία        G1939    [N-ASF] Acc Sg F\nἐπιθυμήσεις          ἐπιθυμέω        G1937    [V-FAI-2S] Fut Act Ind Sg secondPers",
+    "Exo 20:20": "======================================================================\n  Exodus 20:20\n======================================================================\n\n  וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָאוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסֹּ֣ות אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָתֹ֛ו עַל־פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃\n\n  Hebrew          Lemma        Parsing                   Gloss\n  אַל             אל           Neg                       not\n  תִּירָאוּ       ירא          Verb.Qal.Impf.2mp         fear\n  יִרְאָתֹו       יראה         Noun.fs.Abs+3ms           fear (his)\n  תֶחֱטָאוּ       חטא          Verb.Qal.Impf.2mp         miss/sin"
+  },
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "Objection 1-2: Is the everlasting gospel THE gospel or 'another gospel'?"
+    },
+    {
+      "id": 2,
+      "title": "Objection 3: Do the apostles teach these elements as gospel?"
+    },
+    {
+      "id": 3,
+      "title": "Objection 4: Does Rev 14:12 teach legalism?"
+    },
+    {
+      "id": 4,
+      "title": "Objection 5: Does 'fear God' conflict with 'perfect love casts out fear'?"
+    },
+    {
+      "id": 5,
+      "title": "Objection 6: Is the Sabbath connection to Rev 14:7 just inference?"
+    },
+    {
+      "id": 6,
+      "title": "Objection 7: Does 'forever and ever' torment contradict annihilationism?"
+    },
+    {
+      "id": 7,
+      "title": "Objection 8: Does the investigative judgment undermine assurance?"
+    },
+    {
+      "id": 8,
+      "title": "Objection 9: Is 'close of probation' a biblical concept?"
+    },
+    {
+      "id": 9,
+      "title": "Objection 10: Is the seal purely spiritual (Holy Spirit) with no commandment content?"
+    },
+    {
+      "id": 10,
+      "title": "Objection 11-12: Literal vs. symbolic angels and the imperial euangelia parallel"
+    },
+    {
+      "id": 11,
+      "title": "Objection 13: Is Babylon exclusively Rome or a past entity?"
+    },
+    {
+      "id": 12,
+      "title": "Objection 14: Are the 3AM a 19th-century Adventist invention?"
+    },
+    {
+      "id": 13,
+      "title": "Honest tensions and difficult passages"
+    }
+  ],
+  "stats": {
+    "total_verses": 101,
+    "primary_verses": 40,
+    "word_studies": 31,
+    "parsing_entries": 14,
+    "focus_areas": 13
+  }
+}

@@ -1,0 +1,1314 @@
+{
+  "question": "How do the four elements of the first angel's message (euangelion aionion + phobethete + dote doxan + hoti elthen he hora tes kriseos + proskynesate to poiesanti) function as one integrated gospel proclamation? How does Ecclesiastes 12:13-14 demonstrate this is the same message? How does Paul at Athens (Acts 17:22-31) serve as apostolic precedent — element by element? How does Psalm 96 contain every element in OT worship form? Capstone synthesizing studies 04-08.",
+  "prior_research_summary": "This is the first mini-capstone in the 3AM series (Study 9 of 21), synthesizing five element studies (04-08). Study 04 established that the anarthrous euangelion aionion is qualitative, that the legon participle structurally embeds the commands AS gospel content, and that the cognate accusative (euangelion + euangelisai) intensifies the gospel-ness. Study 05 showed phobethete ton theon means reverential awe (not terror), grounded in the yirah tradition, and identified the Eccl 12:13-14 template and the farewell-address pattern. Study 06 identified seven modes of glory-giving and the Rom 1:21 antiparallel. Study 07 established krisis (process) vs. katakrima (condemnation), the Dan 7:22 benefactive judgment, the prophetic aorist elthen, and three texts that explicitly label judgment as gospel (Rom 2:16, Luke 3:18, Rev 14:6-7). Study 08 confirmed the four-term Exo 20:11 allusion (poieo not ktizo), the commandment inclusio (Rev 12:17/14:12), and the Sabbath sign (owth). External corpus (EGW, Bohr, Froom) and web research (Carson, Parsons, Paulien, Perriman) provide leads to verify, especially regarding Acts 17 structure, Psalm 96 mapping, and the 'natural theology' critique.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "The first angel's message in full — the text being synthesized",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:12",
+      "reason": "Commandments + faith of Jesus — gospel result completing the inclusio",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "OT structural twin — fear God + commandments + judgment = 'the whole of man'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:22-31",
+      "reason": "Apostolic precedent — Paul's Athens sermon mapping element by element to Rev 14:7",
+      "tier": "primary"
+    },
+    {
+      "ref": "Psa 96:1-13",
+      "reason": "OT worship form containing every element: new song, universal scope, glory, creation, judgment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Deut 10:12-13",
+      "reason": "Moses' farewell — fear + commandments + obedience pattern",
+      "tier": "primary"
+    },
+    {
+      "ref": "Josh 24:14",
+      "reason": "Joshua's farewell — 'fear the LORD and serve him' farewell-address pattern",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Sam 12:24",
+      "reason": "Samuel's farewell — fear + serve + judgment triad",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 20:8-11",
+      "reason": "Fourth commandment — the creation formula's primary allusion target",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:18-23",
+      "reason": "The glory-exchange failure — exact antiparallel to Rev 14:7 (did not glorify, exchanged glory for image)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 2:16",
+      "reason": "Paul labels judgment as 'according to my gospel' — judgment IS gospel content",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 3:17-18",
+      "reason": "John's judgment preaching explicitly labeled euangelizo — judgment preaching IS gospel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:9-10",
+      "reason": "Throne-room judgment scene — the event the first angel announces",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:22",
+      "reason": "Judgment given FOR the saints — benefactive le preposition",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Thess 1:9-10",
+      "reason": "Compressed gospel summary: turned from idols + serve living God + wait for Son = all elements in one sentence",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 12:17",
+      "reason": "Commandments of God — opening bracket of the inclusio that Rev 14:12 closes",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 20:2-6",
+      "reason": "First table of Decalogue — salvation (v.2), no other gods/judgment (vv.3-6), matches Rev 14:6-7 themes",
+      "tier": "primary"
+    },
+    {
+      "ref": "Josh 7:19",
+      "reason": "'Give glory to God' as confession/truth-telling before judgment — Hebraic expression precedent",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 10:28",
+      "reason": "Fear God not man — the fear that grounds resistance to the beast (Rev 13:15)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 16:9",
+      "reason": "Verbal echo of Rev 14:7 — same three lexemes (didomi + autos + doxa), but refusal instead of obedience",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 1:1-3",
+      "reason": "Christ as Creator — christological content implicit in 'worship him that made'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Col 1:15-17",
+      "reason": "Christ as Creator — 'by him were all things created' answers the 'no Christ' objection",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 4:11",
+      "reason": "Heavenly worship of Creator using ktizo — contrast with Rev 14:7's poieo",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 10:6",
+      "reason": "Angel's oath by 'him that created' using ktizo — Rev 14:7 deliberately shifts to poieo",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 1:6-9",
+      "reason": "Paul condemns substitution of works-righteousness for grace, NOT inclusion of judgment/creation in gospel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 4:20",
+      "reason": "Abraham's faith IS glory-giving (dous doxan to theo) — same construction as Rev 14:7",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 17:4",
+      "reason": "Christ's model of glory-giving: 'I have glorified thee, I have finished the work'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Heb 4:9",
+      "reason": "Sabbatismos (hapax) — Sabbath-keeping as creation-worship response",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 20:20",
+      "reason": "Two fears distinguished in a single verse — terror vs. reverential awe",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 John 4:18",
+      "reason": "Perfect love casts out kolasis-fear, not reverential awe — differentiating fear types",
+      "tier": "primary"
+    },
+    {
+      "ref": "Psa 96:5",
+      "reason": "LXX: 'all the gods of the nations are idols (eidola), but the LORD made (epoiesen) the heavens' — creation vs. idolatry contrast",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 42:10-12",
+      "reason": "New song + declare glory among nations — parallel to Psa 96 and Rev 14",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 98:1-9",
+      "reason": "Parallel enthronement psalm — new song + judgment of the earth",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 33:1-9",
+      "reason": "New song + creation by word + fear of the LORD — convergence of elements",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 14:15",
+      "reason": "Lystra parallel — 'turn from vain things to the living God who made heaven and earth'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 13:16",
+      "reason": "'Give glory to the LORD your God before he cause darkness' — glory-giving before judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 8:1",
+      "reason": "No katakrima for those in Christ — judgment assurance passage",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Tim 4:8",
+      "reason": "Righteous judge — judgment as vindication for the faithful",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 2:1",
+      "reason": "Christ as advocate/parakletos — the courtroom has a defense attorney",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mal 3:16-17",
+      "reason": "Book of remembrance — books of faithful service in judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 11:19",
+      "reason": "Ark of the covenant opened — activating the covenant-law theme for the three angels",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 31:13",
+      "reason": "Sabbath as owth (sign) — first of four sign references",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 31:17",
+      "reason": "Sabbath as sign between God and Israel",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eze 20:12",
+      "reason": "Sabbath as sign of sanctification",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eze 20:20",
+      "reason": "Sabbath as sign — fourth reference",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rom 10:15",
+      "reason": "Apostolic quotation of Isa 52:7 — basar/euangelizo bridge",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 4:18",
+      "reason": "Jesus quotes Isa 61:1 applying basar/euangelizo to himself",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gal 3:8",
+      "reason": "proeuangelizomai — God 'preached the gospel beforehand' to Abraham",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 3:18",
+      "reason": "Beholding-transformation — glory-giving through contemplation of Christ",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 5:16",
+      "reason": "Glorify your Father — visible conduct as mode of glory-giving",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Cor 6:20",
+      "reason": "Glorify God in your body — bodily stewardship as glory-giving",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Cor 10:31",
+      "reason": "Do all to the glory of God — comprehensive glory-giving",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 13:15",
+      "reason": "Death threat from the beast — fear of man vs. fear of God",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 19:1-6",
+      "reason": "Heavens declare the glory of God — creation-revelation precedent",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 17:31",
+      "reason": "Climax of Athens sermon — appointed day, judge the world, proof by resurrection",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 34:6-7",
+      "reason": "God proclaiming His own glory/character — definition of kabod-doxa content",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 50:3-6",
+      "reason": "God as judge — 'he cometh and shall not keep silence' + 'heavens shall declare his righteousness'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:1-5",
+      "reason": "The Lamb's secured victory — immediate literary context preceding the messages",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:14-20",
+      "reason": "Dual harvest — immediate literary context following the messages",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The structural unity of Rev 14:6-7 as one integrated proclamation",
+      "what": "Demonstrate that the four elements (eternal gospel + three imperatives + hoti clause + creation formula) function as a single gospel call, not four separate commands",
+      "why": "The capstone thesis — the first angel's message is THE gospel, not gospel plus additions",
+      "how": "Parse Rev 14:6-7 syntactically, trace the legon participle chain, analyze the three aorist imperatives as a climactic triad, show the hoti clause grounds all three in judgment, and the creation formula specifies the object of worship",
+      "narrative": "This is the controlling focus area. READ the grammar reference entries for aorist imperative ($GRAMMAR_REF/greek/mood-aorist-imperative.md) and the legon discourse connector ($GRAMMAR_REF/greek/participle-legon-discourse.md). Run greek_parser.py --verse on Rev 14:6-7 to get the full morphological breakdown. The legon participle (present active nominative masculine singular) structurally embeds v.7's content as the CONTENT of the euangelion in v.6 — the commands are not appended to the gospel but ARE the gospel. The three aorist imperatives (phobethete, dote, proskynesate) form a climactic triad: internal orientation (fear), relational acknowledgment (give glory), behavioral expression (worship). These are not three separate actions but one reality viewed from three angles. The hoti clause introduces the ground/reason for all three imperatives. The creation formula specifies WHO is to be worshipped — him that made (poieo, not ktizo). Run cross_testament_parallels_v2.py --hybrid-nt on Rev 14:7 to find NT parallels.",
+      "verses": [
+        "Rev 14:6-7",
+        "Rev 14:12",
+        "Rev 12:17"
+      ],
+      "strongs": [
+        "G2098",
+        "G2097",
+        "G5399",
+        "G1325",
+        "G1391",
+        "G4352",
+        "G4160",
+        "G2920",
+        "G5610",
+        "G166"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ecclesiastes 12:13-14 as the OT structural twin",
+      "what": "Map the Ecclesiastes passage element-by-element to Rev 14:7,12 through Hebrew and LXX bridges",
+      "why": "If Solomon's summary of 'the whole matter' (kol-ha-adam) contains the same elements as the first angel's message, the first angel is proclaiming what Scripture calls the totality of human purpose",
+      "how": "Parse Eccl 12:13-14 in Hebrew, verify LXX bridges (yare→phobeo, mitsvah→entole, mishpat→krisis), analyze kol-ha-adam, map each element to its Rev 14 counterpart",
+      "narrative": "Run hebrew_parser.py --verse on Eccl 12:13-14. Verify the LXX text of Eccl 12:13-14 against the Greek of Rev 14:7 — specifically: (1) 'Fear God' (yare et ha-elohim → phobethete ton theon), (2) 'keep his commandments' (mitsvotav shamar → entolas tou theou in Rev 14:12), (3) 'God shall bring every work into judgment' (mishpat → krisis). READ the word studies for H3372-yare ($WORD_STUDIES/H3372-yare.md), H4687-mitsvah ($WORD_STUDIES/H4687-mitsvah.md), H4941-mishpat ($WORD_STUDIES/H4941-mishpat.md). The critical Hebrew phrase kol-ha-adam has three interpretive options: 'all mankind' (universal scope), 'whole duty of man' (complete obligation), or 'man's all' (entire purpose/being). The third option — 'this IS man's all' — would mean Eccl 12:13 defines the totality of human existence, perfectly paralleling the 'everlasting gospel' as the comprehensive message for 'every nation.' Run search_strongs.py on H120 (adam) in Ecclesiastes to check usage patterns. Also trace the farewell-address tradition: Deut 10:12-13, Josh 24:14, 1 Sam 12:24 — all share the fear + commandments/obedience + judgment triad. The first angel is the fifth and final iteration, addressed universally.",
+      "verses": [
+        "Eccl 12:13-14",
+        "Deut 10:12-13",
+        "Josh 24:14",
+        "1 Sam 12:24",
+        "Rev 14:7",
+        "Rev 14:12"
+      ],
+      "strongs": [
+        "H3372",
+        "H3374",
+        "H4687",
+        "H4941",
+        "H8104",
+        "H120",
+        "H3605",
+        "G5399",
+        "G1785",
+        "G2920"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Acts 17:22-31 as apostolic precedent — element-by-element mapping",
+      "what": "Map each element of Paul's Athens sermon to its corresponding element in Rev 14:6-7",
+      "why": "If Paul preached this same framework and it is universally recognized as gospel, the identical framework in Rev 14:7 cannot be dismissed as non-gospel",
+      "how": "Parse Acts 17:22-31, verify the chiastic structure, map Creator (17:24) = Creator (14:7), repentance (17:30) = fear/glory (14:7), judgment (17:31) = judgment (14:7), worship correction (17:24-25,29) = worship the Creator (14:7)",
+      "narrative": "Run greek_parser.py --verse on key verses in Acts 17:22-31 (especially vv.24, 26, 30, 31). Verify Parsons' chiastic structure: A (ignorant worship, 22-23) / B (true worship of Creator, 24-25) / C (humanity-God relationship, 26-28) / B' (critique of idol worship, 29) / A' (end of ignorance via judgment, 30-31). Map each element: (a) 'God who made (poiesas) the world and all things in it' (17:24) = 'worship him that made (poiesanti)' (14:7) — CHECK whether both use poieo; (b) 'commands all people everywhere to repent (metanoein)' (17:30) = 'fear God and give him glory' (14:7) — repentance and fear as moral reorientation; (c) 'appointed a day (hemeran) to judge (krinein) the world' (17:31) = 'the hour (hora) of his judgment (kriseos) is come' (14:7); (d) 'does not dwell in temples made with hands (cheiropoietois)' (17:24) = worship correction away from false worship toward the Creator. READ the word studies for G3340-metanoeo ($WORD_STUDIES/G3340-metanoeo.md) and G4160-poieo ($WORD_STUDIES/G4160-poieo.md). Carson's assessment — that this framework is 'the necessary framework without which his proclamation of Jesus makes no sense' — is crucial. Also note the temporal shift: Acts 17:31 uses mellei (about to), Rev 14:7 uses elthen (IS come) — same message, different temporal phase.",
+      "verses": [
+        "Acts 17:22-31",
+        "Acts 17:24",
+        "Acts 17:30",
+        "Acts 17:31",
+        "Rev 14:6-7"
+      ],
+      "strongs": [
+        "G4160",
+        "G2919",
+        "G3340",
+        "G2920",
+        "G5399",
+        "G3772",
+        "G1093"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Psalm 96 as OT worship form containing every element",
+      "what": "Map each element of Psalm 96 to its corresponding element in Rev 14:6-7, demonstrating the OT worship template",
+      "why": "If every element of the first angel's message appears in an OT enthronement psalm celebrating YHWH's universal reign, the message is not novel but rooted in Israel's oldest worship traditions",
+      "how": "Parse Psalm 96 in Hebrew and LXX, map new song (v.1), basar/salvation (v.2), universal scope (v.3), creation (v.5), glory (vv.7-8), judgment (v.13), verify through LXX bridges",
+      "narrative": "Run hebrew_parser.py on Psa 96:1-2 (for shiyr chadash and basar), Psa 96:5 (for asah and shamayim), Psa 96:7-8 (for kabod), Psa 96:13 (for shaphat). The element mapping: (1) 'Sing a new song' (v.1) → connects to Rev 14:3's 'new song' via LXX ode kaine; (2) 'show forth his salvation (yeshuato)' (v.2) → 'everlasting gospel' as salvation proclamation; (3) 'Declare his glory among the heathen' (v.3) → 'every nation and kindred and tongue and people' (Rev 14:6); (4) 'The LORD made (asah) the heavens' (v.5) → 'worship him that made (poieo = asah)' (Rev 14:7); (5) 'Give unto the LORD glory (kabod)' (vv.7-8) → 'give him glory (doxa)' (Rev 14:7); (6) 'He cometh to judge (shaphat) the earth' (v.13) → 'the hour of his judgment is come' (Rev 14:7). READ the word studies for H1319-basar ($WORD_STUDIES/H1319-basar.md), H3519-kabowd ($WORD_STUDIES/H3519-kabowd.md), H2319-chadash ($WORD_STUDIES/H2319-chadash.md), H8199-shaphat ($WORD_STUDIES/H8199-shaphat.md). A critical verse is 96:5 in the LXX: 'all the gods of the nations are eidola (idols), but the LORD epoiesen (made) the heavens.' This is the creation-vs-idolatry antithesis that both Acts 17 and Rev 14 present. Also check Psa 98:1-9 as the parallel enthronement psalm (new song + judgment). Run cross_testament_parallels_v2.py --hybrid-ot on Psa 96:13.",
+      "verses": [
+        "Psa 96:1-13",
+        "Psa 96:5",
+        "Psa 98:1-9",
+        "Psa 33:1-9",
+        "Isa 42:10-12",
+        "Rev 14:3",
+        "Rev 14:6-7"
+      ],
+      "strongs": [
+        "H7891",
+        "H2319",
+        "H1319",
+        "H3519",
+        "H6213",
+        "H8064",
+        "H8199",
+        "G5603"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The 'natural theology' objection and why it fails",
+      "what": "Address the critique that Rev 14:6-7 is 'natural theology' rather than gospel because it does not explicitly mention Christ",
+      "why": "This is the most common objection to treating the first angel's message as gospel — it must be addressed head-on",
+      "how": "Show that Christ IS implicit in every element (Creator = John 1:1-3, Col 1:15-17; Judge = Acts 17:31; the Object of faith = Rev 14:12), that Paul at Athens uses the same framework without mentioning Christ until v.31, and that the text itself calls the message euangelion",
+      "narrative": "The Answering Adventism critique argues Rev 14:6-7 cannot be gospel because it doesn't explicitly mention Christ. Counter this from three angles: (1) CHRISTOLOGICAL CONTENT IS IMPLICIT — 'him that made' is Christ (John 1:1-3, Col 1:15-17, Heb 1:2), 'the hour of his judgment' involves Christ as judge (Acts 17:31, John 5:22), and Rev 14:12's 'faith of Jesus' explicitly names Christ. READ the word studies for G4102-pistis ($WORD_STUDIES/G4102-pistis.md). (2) ACTS 17 PRECEDENT — Paul also delays mentioning Christ until the climax (v.31), yet his speech is universally recognized as gospel proclamation. If Paul's Athens sermon is gospel with delayed christological naming, Rev 14:7 is gospel with delayed christological naming. (3) THE TEXT SAYS IT IS GOSPEL — the angel has euangelion aionion to proclaim (v.6); the legon participle makes v.7 the content of that euangelion. The burden of proof falls on the critic who says the text is wrong about its own label. Also address Gal 1:6-9 — Paul condemns adding salvation CONDITIONS (circumcision), not adding gospel CONTENT (judgment, creation, commandments) that he himself preached (Rom 2:16, Acts 17:24, 1 Cor 7:19). Run greek_parser.py on Gal 1:6-9.",
+      "verses": [
+        "John 1:1-3",
+        "Col 1:15-17",
+        "Heb 1:2",
+        "Acts 17:31",
+        "John 5:22",
+        "Rev 14:6-7",
+        "Rev 14:12",
+        "Gal 1:6-9"
+      ],
+      "strongs": [
+        "G2098",
+        "G2097",
+        "G2936",
+        "G4160",
+        "G4102",
+        "G2919"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The poieo vs. ktizo distinction and the fourth commandment allusion",
+      "what": "Demonstrate that Rev 14:7 deliberately uses poieo (made) instead of ktizo (created) to alluse to Exo 20:11",
+      "why": "This is the specific verbal link connecting the first angel's creation worship to the Decalogue rather than generic creation theology",
+      "how": "Compare all four terms in Rev 14:7 with Exo 20:11 LXX (poieo, ouranos, ge, thalassa), note the divergence ('fountains of waters' instead of 'all that is in them'), and compare with Rev 4:11 and 10:6 which use ktizo",
+      "narrative": "READ the word studies for G4160-poieo ($WORD_STUDIES/G4160-poieo.md) and G2936-ktizo ($WORD_STUDIES/G2936-ktizo.md). Run greek_parser.py --verse on Rev 14:7, Rev 4:11, Rev 10:6, and verify the verb choice in each. Rev 4:11 uses ektisas (from ktizo) for generic creation praise. Rev 10:6 uses ektisen (ktizo) for the angel's oath by the Creator. Only Rev 14:7 uses poiesanti (from poieo) — the verb that maps to asah (H6213) in the LXX of Exo 20:11. This is Paulien's observation: the cumulative evidence (four terms in identical sequence, same verb as the LXX of Exo 20:11) makes this 'the most certain direct OT allusion in Revelation.' The divergence — 'fountains of waters' instead of 'all that is in them' — may reference the Genesis Flood (Baldwin). The commandment inclusio (Rev 12:17 and 14:12 both using entole + theou) brackets this creation formula. In a passage concluding with 'the commandments of God,' the creation formula's strongest verbal link is to the commandment that memorializes creation. READ H6213-asah ($WORD_STUDIES/H6213-asah.md). Also check the three-element seal: name (YHWH), title (Creator), territory (heaven, earth, sea) — only the fourth commandment contains all three.",
+      "verses": [
+        "Rev 14:7",
+        "Exo 20:8-11",
+        "Rev 4:11",
+        "Rev 10:6",
+        "Rev 12:17",
+        "Rev 14:12",
+        "Exo 31:13",
+        "Exo 31:17"
+      ],
+      "strongs": [
+        "G4160",
+        "G2936",
+        "G3772",
+        "G1093",
+        "G2281",
+        "G4077",
+        "H6213",
+        "G1785"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The farewell-address pattern across Israel's history",
+      "what": "Trace the fear + commandments + judgment triad through Moses, Joshua, Samuel, and Solomon to the first angel",
+      "why": "If the same elements recur in every major farewell address in Israel's history, the first angel's message is the culminating iteration of Israel's perennial covenant summary",
+      "how": "Parse each farewell passage (Deut 10:12-13, Josh 24:14, 1 Sam 12:24, Eccl 12:13-14) and map their elements to Rev 14:7,12",
+      "narrative": "This pattern was identified in Study 05 but needs fresh element-by-element mapping. Run hebrew_parser.py on each passage: (1) Moses in Deut 10:12-13 — 'what doth the LORD require? to fear (yare) the LORD, to walk in all his ways, to love him, to serve him, to keep (shamar) his commandments (mitsvot) and statutes (chuqqot).' (2) Joshua in Josh 24:14 — 'fear (yiru) the LORD and serve (ivdu) him in sincerity (tamim) and truth (emet); put away the gods your fathers served.' (3) Samuel in 1 Sam 12:24 — 'fear (yiru) the LORD and serve (avadtem) him in truth with all your heart; consider (reu) what great things he hath done for you.' (4) Solomon in Eccl 12:13-14 — 'fear (yare) God and keep (shamar) his commandments (mitsvotav)... God shall bring every work into judgment (mishpat).' Each adds an element: Moses = fear + commandments; Joshua = fear + serve + remove idols; Samuel = fear + serve + remember God's acts; Solomon = fear + commandments + judgment. The first angel (Rev 14:7) = fear + give glory + judgment + worship Creator. Eccl 12:13-14 and Rev 14:7,12 are the closest match — identical elements. READ H8104-shamar ($WORD_STUDIES/H8104-shamar.md) for the covenant-keeping dimension.",
+      "verses": [
+        "Deut 10:12-13",
+        "Josh 24:14",
+        "1 Sam 12:24",
+        "Eccl 12:13-14",
+        "Rev 14:7",
+        "Rev 14:12"
+      ],
+      "strongs": [
+        "H3372",
+        "H8104",
+        "H4687",
+        "H4941",
+        "H5647",
+        "H3373"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Judgment as gospel content — the three proof texts",
+      "what": "Establish that judgment is not antithetical to gospel but intrinsic to it, using the three texts that explicitly label judgment-preaching as gospel",
+      "why": "The core objection ('judgment is law, not gospel') collapses when the biblical text itself calls judgment 'gospel'",
+      "how": "Analyze Rom 2:16, Luke 3:17-18, and Rev 14:6-7 — all three explicitly label judgment proclamation as euangelion/euangelizo",
+      "narrative": "Run greek_parser.py on Rom 2:16 ('in the day when God shall judge the secrets of men by Jesus Christ according to my gospel (kata to euangelion mou)'), Luke 3:17-18 (John preaches judgment fire then Luke labels it euangelizeto = 'he preached the gospel'), and Rev 14:6-7 (euangelion aionion whose content includes 'the hour of his judgment is come'). These three independent texts from three different NT authors (Paul, Luke, John the Revelator) all label judgment proclamation as gospel. READ the word studies for G2920-krisis ($WORD_STUDIES/G2920-krisis.md) and G2631-katakrima ($WORD_STUDIES/G2631-katakrima.md). The krisis/katakrima distinction is crucial: the angel chose the process word (krisis, 47 NT occurrences = judicial evaluation) rather than the condemnation word (katakrima, only 3 NT occurrences = adverse verdict + execution). Rom 8:1 negates katakrima for believers. Also read the Dan 7:22 benefactive judgment (dina yehib leqaddishe = 'judgment given FOR the saints'). The courtroom imagery: righteous judge (2 Tim 4:8), defense attorney who is Christ (1 John 2:1), disbarred accuser (Rev 12:10), books of faithful service (Mal 3:16-17). Judgment IS gospel for those in Christ.",
+      "verses": [
+        "Rom 2:16",
+        "Luke 3:17-18",
+        "Rev 14:6-7",
+        "Rom 8:1",
+        "Dan 7:9-10",
+        "Dan 7:22",
+        "2 Tim 4:8",
+        "1 John 2:1",
+        "Rev 12:10",
+        "Mal 3:16-17"
+      ],
+      "strongs": [
+        "G2920",
+        "G2631",
+        "G2098",
+        "G2097",
+        "G2917",
+        "G2922",
+        "H1780"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Rev 14:12 as gospel result — commandments + faith of Jesus",
+      "what": "Show that Rev 14:12 presents the combination of commandments and faith as the RESULT of the gospel, not an addition to it",
+      "why": "The relationship between Rev 14:7 (the proclamation) and Rev 14:12 (the result) determines whether the first angel's message is legalism or grace",
+      "how": "Parse Rev 14:12 syntactically, analyze the terountes participle, connect to the Abrahamic pattern (Gen 15:6 → Gen 26:5), and show the commandment inclusio (Rev 12:17 / Rev 14:12)",
+      "narrative": "Run greek_parser.py on Rev 14:12. The articular present participle hoi terountes ('those keeping') is substantival — it DESCRIBES who the saints ARE, not what they must DO to be saved. It is descriptive, not prescriptive. The combination 'commandments of God + faith of Jesus' parallels the Abrahamic profile: Abraham believed (Gen 15:6, faith FIRST) then obeyed (Gen 26:5, obedience as FRUIT). Rev 14:12 presents the same pattern under eschatological pressure. READ G4102-pistis ($WORD_STUDIES/G4102-pistis.md) and G1785-entole ($WORD_STUDIES/G1785-entole.md). The phrase 'faith of Jesus' (pistin Iesou) can be objective genitive ('faith IN Jesus') or subjective genitive ('the faithfulness OF Jesus') — both work theologically but the subjective genitive adds christological depth: the saints exhibit Christ's own faithfulness. Also note the commandment inclusio: Rev 12:17 (entolas tou theou) and Rev 14:12 (entolas tou theou) bracket the three angels' messages, making commandment-keeping the frame within which the entire message operates.",
+      "verses": [
+        "Rev 14:12",
+        "Rev 12:17",
+        "Gen 15:6",
+        "Gen 26:5",
+        "Gal 1:6-9"
+      ],
+      "strongs": [
+        "G4102",
+        "G1785",
+        "G5083",
+        "G5281"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The glory-giving imperative as relational acknowledgment",
+      "what": "Demonstrate that 'give him glory' is not an abstract ethical command but a relational response — the reversal of Rom 1:21's failure",
+      "why": "The glory element connects the first angel to both creation theology (Rom 1:18-23) and practical sanctification (1 Cor 10:31, 2 Cor 3:18)",
+      "how": "Map the seven modes of glorification identified in Study 06, trace the Rom 1:21 antiparallel, verify the Rev 14:7 / Rev 16:9 verbal echo, and connect to Abraham's faith (Rom 4:20)",
+      "narrative": "READ the word studies for G1391-doxa ($WORD_STUDIES/G1391-doxa.md), G1325-didomi ($WORD_STUDIES/G1325-didomi.md), G1392-doxazo ($WORD_STUDIES/G1392-doxazo.md), and H3519-kabowd ($WORD_STUDIES/H3519-kabowd.md). Run greek_parser.py on Rom 1:21 ('they glorified him not as God, edoxasan'). The first angel's 'give him glory' (dote auto doxan) is the exact reversal of Rom 1:21's failure. The didomi + doxa + dative construction also appears in Rom 4:20 (dous doxan to theo, 'giving glory to God') where Abraham's faith IS his glory-giving. This is not works-righteousness but faith expressed as recognition of God's weight/reality. The Rev 14:7 / Rev 16:9 verbal echo uses the same three lexemes (didomi + autos + doxa): what is commanded in 14:7 is refused in 16:9 — the imperative becomes the standard of judgment. Also note Josh 7:19 where 'give glory to God' means 'tell the truth before God's judgment seat' — this is the Hebraic expression for confession/truth-telling, connecting the glory imperative to the judgment announcement. Run cross_testament_parallels_v2.py on Rev 14:7.",
+      "verses": [
+        "Rev 14:7",
+        "Rev 16:9",
+        "Rom 1:18-23",
+        "Rom 4:20",
+        "Josh 7:19",
+        "Jer 13:16",
+        "John 17:4",
+        "2 Cor 3:18",
+        "Matt 5:16",
+        "1 Cor 6:20",
+        "1 Cor 10:31"
+      ],
+      "strongs": [
+        "G1391",
+        "G1325",
+        "G1392",
+        "H3519",
+        "H3513"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The 'new song' connection between Psalm 96 and Revelation 14",
+      "what": "Verify that Psalm 96's 'new song' is lexically and thematically linked to Rev 14:3, establishing the psalm as the OT worship template for the first angel's context",
+      "why": "If the Rev 14 literary context (v.3 new song) connects to the same psalm (96) that contains every element of the first angel's message, the connection is not incidental but structural",
+      "how": "Check LXX of Psa 96:1 against Rev 14:3, trace the 'new song' motif across Scripture, verify thematic convergence",
+      "narrative": "Run hebrew_parser.py on Psa 96:1 (shiyr chadash) and verify the LXX reading (ode kaine vs. asma kainon — check which Greek terms are used). READ H2319-chadash ($WORD_STUDIES/H2319-chadash.md) for the concept of 'new' in Hebrew worship. The 'new song' motif appears in Psa 33:3, 40:3, 96:1, 98:1, 144:9, 149:1, Isa 42:10, Rev 5:9, Rev 14:3. In Revelation, the new song of 14:3 is sung by the 144,000 standing with the Lamb on Mount Zion — this immediately precedes the first angel's message (14:6-7). If Psalm 96 is the OT worship form containing every element of the first angel's message, AND Psalm 96 begins with a 'new song,' AND Rev 14:3 features a 'new song' in the immediate literary context, then the first angel's message is framed by the same worship tradition Psalm 96 represents. Also note that Psa 96:2 uses basar (announce good news / preach salvation) — the Hebrew root behind euangelizo. The psalm literally says 'sing a new song and proclaim good news (basar) of his salvation.' This is the OT euangelion.",
+      "verses": [
+        "Psa 96:1-2",
+        "Rev 14:3",
+        "Psa 33:3",
+        "Psa 98:1",
+        "Isa 42:10",
+        "Rev 5:9"
+      ],
+      "strongs": [
+        "H2319",
+        "H7891",
+        "H1319",
+        "G5603",
+        "G103",
+        "G2537"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "reason": "The noun 'gospel' — the label the text gives the first angel's content"
+    },
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "reason": "The verb 'to proclaim good news' — cognate accusative with euangelion in Rev 14:6"
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "reason": "First imperative — 'fear God'; bridges to H3372 yare"
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "Second imperative — 'give glory'; bridges to H3519 kabod"
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "reason": "Third imperative — 'worship'; the behavioral expression of the triad"
+    },
+    {
+      "strongs": "G4160",
+      "word": "poieo",
+      "reason": "Deliberately chosen over ktizo to alluse to Exo 20:11 LXX"
+    },
+    {
+      "strongs": "G2936",
+      "word": "ktizo",
+      "reason": "Contrast with poieo — used in Rev 4:11 and 10:6 but NOT in 14:7"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "Judgment as judicial process — vs. katakrima (condemnation)"
+    },
+    {
+      "strongs": "G5610",
+      "word": "hora",
+      "reason": "'The hour' — eschatological timing marker"
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "reason": "The adjective 'everlasting/eternal' qualifying the gospel"
+    },
+    {
+      "strongs": "G1325",
+      "word": "didomi",
+      "reason": "'Give' glory — same verb in Rev 14:7 and Rev 16:9 echo"
+    },
+    {
+      "strongs": "G4102",
+      "word": "pistis",
+      "reason": "'Faith of Jesus' in Rev 14:12 — subjective/objective genitive question"
+    },
+    {
+      "strongs": "G1785",
+      "word": "entole",
+      "reason": "'Commandments of God' in Rev 14:12 — the inclusio with Rev 12:17"
+    },
+    {
+      "strongs": "H3372",
+      "word": "yare",
+      "reason": "Hebrew root for fear of God — the OT background for phobeo"
+    },
+    {
+      "strongs": "H3519",
+      "word": "kabowd",
+      "reason": "Hebrew glory/weight — the OT background for doxa"
+    },
+    {
+      "strongs": "H1319",
+      "word": "basar",
+      "reason": "Hebrew root for proclaiming good news — the OT background for euangelizo; appears in Psa 96:2"
+    },
+    {
+      "strongs": "H6213",
+      "word": "asah",
+      "reason": "Hebrew 'made' in Exo 20:11 — maps to poieo in LXX"
+    },
+    {
+      "strongs": "H4941",
+      "word": "mishpat",
+      "reason": "Hebrew judgment — the OT background for krisis"
+    },
+    {
+      "strongs": "G2631",
+      "word": "katakrima",
+      "reason": "Condemnation (only 3x NT) — contrast with krisis to show judgment is not condemnation"
+    },
+    {
+      "strongs": "G3340",
+      "word": "metanoeo",
+      "reason": "Repent — the Acts 17:30 imperative paralleling the first angel's fear/glory call"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:6-7",
+      "reason": "Full morphological breakdown — legon participle, three aorist imperatives, hoti clause, creation formula verb poiesanti"
+    },
+    {
+      "verse": "Eccl 12:13-14",
+      "reason": "Hebrew parsing — yare, shamar, mitsvot, kol-ha-adam, mishpat"
+    },
+    {
+      "verse": "Acts 17:24",
+      "reason": "Greek parsing — poiesas (made) as aorist active participle vs. Rev 14:7 poiesanti (dative)"
+    },
+    {
+      "verse": "Acts 17:30-31",
+      "reason": "Greek parsing — metanoein imperative, mellei krinein future judgment expression"
+    },
+    {
+      "verse": "Psa 96:1-2",
+      "reason": "Hebrew parsing — shiyr chadash, basar as good-news proclamation"
+    },
+    {
+      "verse": "Psa 96:5",
+      "reason": "Hebrew and LXX parsing — asah/poieo bridge for 'made the heavens'"
+    },
+    {
+      "verse": "Psa 96:13",
+      "reason": "Hebrew parsing — shaphat as judgment verb in enthronement context"
+    },
+    {
+      "verse": "Rom 1:21",
+      "reason": "Greek parsing — edoxasan (glorify) + eikon exchange parallel to Rev 14:7"
+    },
+    {
+      "verse": "Rom 2:16",
+      "reason": "Greek parsing — kata to euangelion mou with judgment context"
+    },
+    {
+      "verse": "Rev 14:12",
+      "reason": "Greek parsing — terountes participle (substantival vs. imperative), pistis Iesou genitive"
+    },
+    {
+      "verse": "Rom 4:20",
+      "reason": "Greek parsing — dous doxan to theo (giving glory to God) — didomi + doxa + dative construction matching Rev 14:7"
+    },
+    {
+      "verse": "Gal 1:6-9",
+      "reason": "Greek parsing — heteron euangelion vs. allo — what constitutes a 'different gospel'"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "Cross-testament parallels for the creation-worship-judgment combination"
+    },
+    {
+      "verse": "Psa 96:13",
+      "reason": "OT parallels for judgment-as-worship-culmination"
+    },
+    {
+      "verse": "Acts 17:24",
+      "reason": "NT parallels for Creator-God preaching as gospel"
+    },
+    {
+      "verse": "Eccl 12:13",
+      "reason": "OT parallels for the fear-commandments summary"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G2098-euangelion.md",
+        "description": "euangelion (gospel), G2098"
+      },
+      {
+        "path": "$WORD_STUDIES/G2097-euangelizo.md",
+        "description": "euangelizo (proclaim good news), G2097"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (fear), G5399"
+      },
+      {
+        "path": "$WORD_STUDIES/G5401-phobos.md",
+        "description": "phobos (fear, noun), G5401"
+      },
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory), G1391"
+      },
+      {
+        "path": "$WORD_STUDIES/G1392-doxazo.md",
+        "description": "doxazo (glorify), G1392"
+      },
+      {
+        "path": "$WORD_STUDIES/G1325-didomi.md",
+        "description": "didomi (give), G1325"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (worship), G4352"
+      },
+      {
+        "path": "$WORD_STUDIES/G4160-poieo.md",
+        "description": "poieo (make/do), G4160"
+      },
+      {
+        "path": "$WORD_STUDIES/G2936-ktizo.md",
+        "description": "ktizo (create), G2936"
+      },
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment, process), G2920"
+      },
+      {
+        "path": "$WORD_STUDIES/G2919-krino.md",
+        "description": "krino (judge, verb), G2919"
+      },
+      {
+        "path": "$WORD_STUDIES/G2631-katakrima.md",
+        "description": "katakrima (condemnation), G2631"
+      },
+      {
+        "path": "$WORD_STUDIES/G2922-kriterion.md",
+        "description": "kriterion (tribunal/standard), G2922"
+      },
+      {
+        "path": "$WORD_STUDIES/G2923-krites.md",
+        "description": "krites (judge, noun), G2923"
+      },
+      {
+        "path": "$WORD_STUDIES/G5610-hora.md",
+        "description": "hora (hour), G5610"
+      },
+      {
+        "path": "$WORD_STUDIES/G166-aionios.md",
+        "description": "aionios (eternal/everlasting), G166"
+      },
+      {
+        "path": "$WORD_STUDIES/G165-aion.md",
+        "description": "aion (age/eternity), G165"
+      },
+      {
+        "path": "$WORD_STUDIES/G4102-pistis.md",
+        "description": "pistis (faith), G4102"
+      },
+      {
+        "path": "$WORD_STUDIES/G1785-entole.md",
+        "description": "entole (commandment), G1785"
+      },
+      {
+        "path": "$WORD_STUDIES/G3340-metanoeo.md",
+        "description": "metanoeo (repent), G3340"
+      },
+      {
+        "path": "$WORD_STUDIES/G3341-metanoia.md",
+        "description": "metanoia (repentance), G3341"
+      },
+      {
+        "path": "$WORD_STUDIES/G2782-kerygma.md",
+        "description": "kerygma (proclamation), G2782"
+      },
+      {
+        "path": "$WORD_STUDIES/G4283-proeuangelizomai.md",
+        "description": "proeuangelizomai (preach gospel beforehand), G4283"
+      },
+      {
+        "path": "$WORD_STUDIES/G3772-ouranos.md",
+        "description": "ouranos (heaven), G3772"
+      },
+      {
+        "path": "$WORD_STUDIES/G1093-gē.md",
+        "description": "ge (earth), G1093"
+      },
+      {
+        "path": "$WORD_STUDIES/G2281-thalassa.md",
+        "description": "thalassa (sea), G2281"
+      },
+      {
+        "path": "$WORD_STUDIES/G4077-pege.md",
+        "description": "pege (fountain/spring), G4077"
+      },
+      {
+        "path": "$WORD_STUDIES/G2316-theos.md",
+        "description": "theos (God), G2316"
+      },
+      {
+        "path": "$WORD_STUDIES/G3004-lego.md",
+        "description": "lego (say/speak), G3004"
+      },
+      {
+        "path": "$WORD_STUDIES/G2041-ergon.md",
+        "description": "ergon (work/deed), G2041"
+      },
+      {
+        "path": "$WORD_STUDIES/G1484-ethnos.md",
+        "description": "ethnos (nation/people), G1484"
+      },
+      {
+        "path": "$WORD_STUDIES/G2064-erchomai.md",
+        "description": "erchomai (come), G2064"
+      },
+      {
+        "path": "$WORD_STUDIES/G2540-kairos.md",
+        "description": "kairos (time/season), G2540"
+      },
+      {
+        "path": "$WORD_STUDIES/G2851-kolasis.md",
+        "description": "kolasis (punishment), G2851"
+      },
+      {
+        "path": "$WORD_STUDIES/G2992-laós.md",
+        "description": "laos (people), G2992"
+      },
+      {
+        "path": "$WORD_STUDIES/H3372-yare.md",
+        "description": "yare (fear, Hebrew), H3372"
+      },
+      {
+        "path": "$WORD_STUDIES/H3374-yirah.md",
+        "description": "yirah (fear/reverence, noun), H3374"
+      },
+      {
+        "path": "$WORD_STUDIES/H3519-kabowd.md",
+        "description": "kabowd (glory/weight), H3519"
+      },
+      {
+        "path": "$WORD_STUDIES/H3513-kabad.md",
+        "description": "kabad (be heavy/honored), H3513"
+      },
+      {
+        "path": "$WORD_STUDIES/H4687-mitsvah.md",
+        "description": "mitsvah (commandment), H4687"
+      },
+      {
+        "path": "$WORD_STUDIES/H4941-mishpat.md",
+        "description": "mishpat (judgment/ordinance), H4941"
+      },
+      {
+        "path": "$WORD_STUDIES/H6213-asah.md",
+        "description": "asah (make/do), H6213"
+      },
+      {
+        "path": "$WORD_STUDIES/H8104-shamar.md",
+        "description": "shamar (keep/guard), H8104"
+      },
+      {
+        "path": "$WORD_STUDIES/H8199-shaphat.md",
+        "description": "shaphat (judge), H8199"
+      },
+      {
+        "path": "$WORD_STUDIES/H7812-shachah.md",
+        "description": "shachah (bow down/worship), H7812"
+      },
+      {
+        "path": "$WORD_STUDIES/H776-erets.md",
+        "description": "erets (earth/land), H776"
+      },
+      {
+        "path": "$WORD_STUDIES/H8064-shamayim.md",
+        "description": "shamayim (heavens), H8064"
+      },
+      {
+        "path": "$WORD_STUDIES/H120-adam.md",
+        "description": "adam (man/mankind), H120"
+      },
+      {
+        "path": "$WORD_STUDIES/H1319-basar.md",
+        "description": "basar (proclaim good news), H1319"
+      },
+      {
+        "path": "$WORD_STUDIES/H2319-chadash.md",
+        "description": "chadash (new), H2319"
+      },
+      {
+        "path": "$WORD_STUDIES/H1777-diyn.md",
+        "description": "diyn (judge, Aramaic), H1777/A1780"
+      },
+      {
+        "path": "$WORD_STUDIES/H5971-am.md",
+        "description": "am (people/nation), H5971"
+      },
+      {
+        "path": "$WORD_STUDIES/H1961-hayah.md",
+        "description": "hayah (be/become), H1961"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/mood-aorist-imperative.md",
+        "description": "Aorist imperative — specific/decisive command (applies to phobethete, dote, proskynesate)"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-legon-discourse.md",
+        "description": "Present participle legon as discourse connector — speech-introducing participle, Rev 14 parallel structure"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G5083",
+      "word": "tereo",
+      "reason": "Keep/guard — the verb in Rev 14:12 'those keeping the commandments'"
+    },
+    {
+      "strongs": "G5281",
+      "word": "hupomone",
+      "reason": "Patience/endurance — 'here is the patience of the saints' in Rev 14:12"
+    },
+    {
+      "strongs": "G5603",
+      "word": "ode",
+      "reason": "Song/ode — the 'new song' of Rev 14:3 linking to Psa 96:1"
+    },
+    {
+      "strongs": "G103",
+      "word": "aido",
+      "reason": "Sing — the verb for singing in Revelation's worship scenes"
+    },
+    {
+      "strongs": "G2537",
+      "word": "kainos",
+      "reason": "New (qualitatively new) — in 'new song' (ode kaine)"
+    },
+    {
+      "strongs": "H7891",
+      "word": "shiyr",
+      "reason": "Sing/song (Hebrew) — Psa 96:1 'sing unto the LORD a new song'"
+    },
+    {
+      "strongs": "H3605",
+      "word": "kol",
+      "reason": "All/whole — critical in kol-ha-adam (Eccl 12:13)"
+    },
+    {
+      "strongs": "",
+      "word": "Prophetic aorist",
+      "reason": "Grammar concept — the aorist elthen in Rev 14:7 presenting future judgment as accomplished certainty"
+    },
+    {
+      "strongs": "",
+      "word": "Anarthrous qualitative noun",
+      "reason": "Grammar concept — the anarthrous euangelion aionion as qualitative rather than indefinite"
+    },
+    {
+      "strongs": "",
+      "word": "Cognate accusative",
+      "reason": "Grammar concept — euangelion euangelisai in Rev 14:6 as cognate accusative intensification"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "GOSPEL",
+      "subtopic": "GENERAL",
+      "verse_count": 76
+    },
+    {
+      "name": "COMMANDMENTS",
+      "subtopic": "GENERAL",
+      "verse_count": 42
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 72
+    },
+    {
+      "name": "GLORIFYING GOD",
+      "subtopic": "GENERAL",
+      "verse_count": 48
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "GENERAL AND COMMANDED",
+      "verse_count": 84
+    },
+    {
+      "name": "SABBATH",
+      "subtopic": "UNCLASSIFIED SCRIPTURES",
+      "verse_count": 56
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "DENUNCIATIONS AND FOLLY",
+      "verse_count": 68
+    },
+    {
+      "name": "PRAISE",
+      "subtopic": "FOR GOD'S ATTRIBUTES",
+      "verse_count": 92
+    },
+    {
+      "name": "OBEDIENCE",
+      "subtopic": "GENERAL AND ENJOINED",
+      "verse_count": 64
+    },
+    {
+      "name": "REPENTANCE",
+      "subtopic": "GENERAL",
+      "verse_count": 58
+    },
+    {
+      "name": "PSALMS",
+      "subtopic": "PRAISE FOR GOD'S ATTRIBUTES",
+      "verse_count": 30
+    },
+    {
+      "name": "PREACHING",
+      "subtopic": "GENERAL",
+      "verse_count": 28
+    },
+    {
+      "name": "GLORY",
+      "subtopic": "GENERAL",
+      "verse_count": 24
+    },
+    {
+      "name": "ATHENS",
+      "subtopic": "GENERAL",
+      "verse_count": 3
+    },
+    {
+      "name": "FAITH",
+      "subtopic": "GENERAL",
+      "verse_count": 86
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "Justification by faith is the third angel's message in verity — the three angels' messages are expressions of righteousness by faith, not legalistic additions",
+      "directive": "Verify whether Rev 14:12's combination of commandments + faith of Jesus substantiates this reading. Parse the terountes participle and pistis Iesou genitive."
+    },
+    {
+      "source": "EGW",
+      "claim": "The gospel and the three angels' messages are inseparable",
+      "directive": "Verify whether the legon participle in Rev 14:6-7 structurally embeds the commands as gospel content."
+    },
+    {
+      "source": "EGW",
+      "claim": "Psalm 96 language used repeatedly for worship, glory-giving, and eschatological judgment",
+      "directive": "Verify whether Psa 96's elements map element-by-element to Rev 14:6-7 through LXX bridges."
+    },
+    {
+      "source": "Froom (PFF1)",
+      "claim": "Paul at Athens leads from creation to judgment proclamation",
+      "directive": "Verify the Acts 17:22-31 element-by-element mapping to Rev 14:6-7."
+    },
+    {
+      "source": "EGW",
+      "claim": "Paul at Athens drew minds from heathen deities to the true God — a Creator-worship corrective",
+      "directive": "Verify whether Acts 17:24-25,29 constitutes a worship correction analogous to Rev 14:7's call to worship the Creator."
+    },
+    {
+      "source": "Bohr (3AM Lesson 1)",
+      "claim": "The command to fear God is linked with keeping commandments via Ecclesiastes 12:13",
+      "directive": "Verify the Eccl 12:13 / Rev 14:7 verbal parallels through Hebrew and LXX bridges."
+    },
+    {
+      "source": "Bohr (GGPC)",
+      "claim": "The creation formula in Rev 14:7 is 'a reference to creation and the fourth commandment'",
+      "directive": "Verify whether the poieo/ktizo distinction and four-term verbal match to Exo 20:11 support this identification."
+    },
+    {
+      "source": "Bohr (MTSD)",
+      "claim": "kol-ha-adam means 'man's all' (entire purpose), not merely 'man's duty'",
+      "directive": "Verify the Hebrew parsing of kol-ha-adam in Eccl 12:13 and its usage elsewhere in Ecclesiastes (3:13, 5:19)."
+    },
+    {
+      "source": "Answering Adventism",
+      "claim": "The first angel's message cannot be gospel because it does not explicitly mention Christ",
+      "directive": "Test against Acts 17 (where Paul also delays mentioning Christ until v.31), against John 1:1-3 and Col 1:15-17 (Christ as Creator), and against the text's own label (euangelion aionion)."
+    },
+    {
+      "source": "Carson",
+      "claim": "The creation-judgment framework is 'the necessary framework without which his proclamation of Jesus makes no sense'",
+      "directive": "Evaluate whether Acts 17's framework is preparatory to the gospel or part of the gospel itself — this distinction matters for the 'natural theology' critique."
+    },
+    {
+      "source": "Parsons",
+      "claim": "Acts 17:22-31 follows a chiastic structure A/B/C/B'/A' with Creator-worship at the structural center",
+      "directive": "Verify the proposed chiasm against the actual text. Determine whether creation-worship is genuinely the structural center."
+    },
+    {
+      "source": "Blessed Hope BPC",
+      "claim": "'Fear God and give glory to him' is a Hebraic expression signifying confession and truth-telling before God's judgment seat",
+      "directive": "Verify through OT precedent — check Josh 7:19, Jer 13:16, and whether these passages treat the phrase as a unit."
+    },
+    {
+      "source": "Paulien/Baldwin",
+      "claim": "Rev 14:6-7 echoes the First Table of the Decalogue — salvation (Exo 20:2), judgment (Exo 20:5-6), creation (Exo 20:11) — creating 'a triple collection of thematic references'",
+      "directive": "Verify by comparing Rev 14:6-7's three themes with the first four commandments. Check whether the structural parallel holds."
+    },
+    {
+      "source": "Web research",
+      "claim": "The 'new song' of Psa 96:1 connects to Rev 14:3 through the LXX, establishing the psalm as the OT worship template for the first angel's context",
+      "directive": "Verify the LXX of Psa 96:1 against Rev 14:3. Check whether the same Greek terms are used."
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "The first angel's message text",
+      "description": "The central text being synthesized plus its inclusio bracket",
+      "refs": [
+        "Rev 14:6-7",
+        "Rev 14:12",
+        "Rev 12:17",
+        "Rev 14:1-5",
+        "Rev 14:14-20",
+        "Rev 11:19"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Ecclesiastes 12 structural twin",
+      "description": "The OT passage containing the same elements as the first angel's message",
+      "refs": [
+        "Eccl 12:13-14"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Acts 17 apostolic precedent",
+      "description": "Paul's Athens sermon mapped element by element",
+      "refs": [
+        "Acts 17:22-31"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Psalm 96 OT worship form",
+      "description": "The enthronement psalm containing every element of Rev 14:6-7",
+      "refs": [
+        "Psa 96:1-13"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Farewell-address pattern",
+      "description": "The fear + commandments + judgment triad across Israel's leaders",
+      "refs": [
+        "Deut 10:12-13",
+        "Josh 24:14",
+        "1 Sam 12:24",
+        "Eccl 12:13-14"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Judgment as gospel",
+      "description": "Three independent texts labeling judgment as gospel",
+      "refs": [
+        "Rom 2:16",
+        "Luke 3:17-18",
+        "Rev 14:6-7"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Christ as Creator",
+      "description": "Christological content implicit in 'worship him that made'",
+      "refs": [
+        "John 1:1-3",
+        "Col 1:15-17",
+        "Heb 1:2"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Fourth commandment allusion",
+      "description": "The poieo/ktizo distinction and creation formula",
+      "refs": [
+        "Exo 20:8-11",
+        "Rev 14:7",
+        "Rev 4:11",
+        "Rev 10:6"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Glory-giving and its failure",
+      "description": "The glory imperative as reversal of Rom 1's failure",
+      "refs": [
+        "Rom 1:18-23",
+        "Rom 4:20",
+        "Rev 14:7",
+        "Rev 16:9",
+        "Josh 7:19"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Parallel enthronement psalms",
+      "description": "OT psalms containing new song + creation + judgment elements",
+      "refs": [
+        "Psa 96:1-13",
+        "Psa 98:1-9",
+        "Psa 33:1-9",
+        "Isa 42:10-12"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Acts 17:16-34",
+    "Eccl 12:1-14",
+    "Psa 96:1-13",
+    "Rom 1:18-32",
+    "Dan 7:1-28",
+    "Exo 20:1-17"
+  ],
+  "research_instructions": "This is a CAPSTONE study synthesizing studies 04-08. The research agent should NOT re-derive findings already established in those studies but should BUILD ON THEM with fresh research on the three structural parallels (Ecclesiastes 12:13-14, Acts 17:22-31, Psalm 96) and the integrated unity of the four elements.\n\nKey research priorities:\n1. ELEMENT-BY-ELEMENT MAPPING: For each of the three parallel passages (Eccl 12:13-14, Acts 17:22-31, Psa 96), create a formal element-by-element mapping table showing: (a) the element in Rev 14:6-7, (b) the corresponding element in the parallel passage, (c) the verbal/lexical link, (d) the theological correspondence.\n\n2. LXX BRIDGE VERIFICATION: For the Ecclesiastes and Psalm 96 parallels, verify the Hebrew→Greek bridges through the LXX. Do not assume the bridges work — check them.\n\n3. THE 'NATURAL THEOLOGY' REBUTTAL: The strongest counter to the 'no Christ, therefore no gospel' critique is Acts 17. Paul uses the identical framework (Creator God → worship correction → universal judgment) and delays mentioning Christ until v.31. If this is gospel when Paul preaches it, it is gospel when the angel proclaims it.\n\n4. INTEGRATION, NOT REPETITION: The analysis should show how the four elements form ONE message, not four separate commands. The three aorist imperatives are three angles on one reality (internal orientation, relational acknowledgment, behavioral expression). The hoti clause grounds all three in judgment. The creation formula specifies the object. The euangelion label covers the whole.\n\n5. COMPRESSED SUMMARIES: Note 1 Thess 1:9-10 as the most compressed parallel — 'turned from idols → serve the living God → wait for His Son → delivered from wrath' contains every element in one sentence.\n\n6. ANSWERING ADVENTISM ENGAGEMENT: Address the specific claims from the critique — not by asserting Adventist doctrine but by showing the biblical evidence. Let the text argue for itself.\n\n7. STUDY 04-08 CROSS-REFERENCES: When referencing findings from studies 04-08, cite the specific finding but do not re-derive it. The capstone builds on established conclusions with new integration work.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 59,
+    "primary_verses": 30,
+    "supporting_verses": 29,
+    "ot_verses": 10,
+    "nt_verses": 20,
+    "focus_area_count": 11,
+    "word_study_count": 20,
+    "parsing_count": 12,
+    "parallel_count": 4
+  }
+}

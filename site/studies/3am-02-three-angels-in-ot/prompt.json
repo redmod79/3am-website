@@ -1,0 +1,1290 @@
+{
+  "question": "Is the three-part pattern of the three angels' messages — (1) gospel call to worship the true God, (2) exposure of a false system, (3) warning of judgment — repeated throughout the Old Testament? Examine: Noah before the flood, Abraham and Sodom, Moses and Egypt, Elijah at Carmel, Josiah's reform, Jeremiah's ministry. Do these share the same structure as Rev 14:6-12?",
+  "prior_research_summary": "3am-00 defined the three-part pattern as (1) gospel/worship call, (2) exposure of false system, (3) judgment warning, and stated that studies 02 and 03 demonstrate this pattern runs through OT and NT respectively. 3am-01 established the literary structure of Rev 12-14 and the competing-messages framework. hist-15 established that God's universal pattern is to warn before judging (Ezek 33:3-5, Joel 2:1, Amos 3:7). flood-judgment-severity confirmed Noah as 'preacher of righteousness' (2 Pet 2:5) and the moral reasons for the flood. biblical-worship-patterns provided the worship framework (Abel vs Cain, Nadab & Abihu, golden calf, Saul). Web research identified the covenant lawsuit (rib) tradition as a formal legal framework underlying prophetic warnings, the 'come out' tradition tracing from Jer 50-51 through Isa 48:20, 52:11 to Rev 18:4, and the Exodus plague-deity targeting pattern (Exo 12:12). Bohr identifies Elijah as restoring 'true worship to the creator God' and traces the 'come out of Babylon' pattern from Jeremiah through Revelation. EGW explicitly parallels Noah's warning, the Egyptian plagues against gods, Lot's extraction from Sodom, and Elijah's Carmel confrontation with end-time messages.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "First angel's message — gospel, fear God, give glory, worship Creator — the baseline pattern",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:8",
+      "reason": "Second angel's message — Babylon is fallen, exposure of false system",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:9-12",
+      "reason": "Third angel's message — judgment warning, mark of beast, patience of saints",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 6:5-7",
+      "reason": "Noah episode: exposure of world's moral corruption — 'every imagination of the thoughts of his heart was only evil continually'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 6:13-14",
+      "reason": "Noah episode: God's judgment warning to Noah and command to build the ark",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 6:17-18",
+      "reason": "Noah episode: judgment announcement (flood) and covenant promise — gospel element",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 7:1-4",
+      "reason": "Noah episode: final 7-day warning before flood judgment falls",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Pet 2:5",
+      "reason": "Noah as 'preacher of righteousness' — gospel call element confirmed by NT",
+      "tier": "primary"
+    },
+    {
+      "ref": "Heb 11:7",
+      "reason": "Noah's faith condemned the world — exposure element through righteous example",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 18:17-21",
+      "reason": "Abraham/Sodom episode: God reveals judgment plan to Abraham (Amos 3:7 principle), exposure of Sodom's sin",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 19:1-3",
+      "reason": "Abraham/Sodom: angels enter Sodom as divine messengers — parallel to Rev 14 angels",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 19:12-14",
+      "reason": "Abraham/Sodom: warning to come out before judgment — 'come out' call paralleling Rev 18:4",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 19:24-25",
+      "reason": "Abraham/Sodom: fire judgment executed after warning given — judgment element",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 5:1",
+      "reason": "Moses/Egypt: 'Let my people go, that they may hold a feast unto me' — worship/gospel call",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 7:16",
+      "reason": "Moses/Egypt: repeated demand 'Let my people go, that they may serve me' — worship call formula",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 9:13-16",
+      "reason": "Moses/Egypt: God's purpose stated — 'that my name may be declared throughout all the earth' — gospel proclamation purpose",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 12:12",
+      "reason": "Moses/Egypt: 'against all the gods of Egypt I will execute judgments' — exposure and judgment against false system",
+      "tier": "primary"
+    },
+    {
+      "ref": "Num 33:4",
+      "reason": "Moses/Egypt: confirms 'upon their gods also the LORD executed judgments' — systematic dismantling of false worship",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Ki 18:17-21",
+      "reason": "Elijah/Carmel: 'How long halt ye between two opinions? If the LORD be God, follow him' — gospel/worship call",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Ki 18:25-29",
+      "reason": "Elijah/Carmel: exposure of Baal worship as impotent — false system exposed",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Ki 18:36-39",
+      "reason": "Elijah/Carmel: fire from heaven vindicates YHWH, people confess 'The LORD, he is the God' — divine judgment/vindication",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Ki 18:40",
+      "reason": "Elijah/Carmel: judgment executed on false prophets per Deut 13:13-15",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Ki 22:8-13",
+      "reason": "Josiah: discovery of the book of the law — gospel/covenant call rediscovered",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Ki 23:3-5",
+      "reason": "Josiah: covenant renewal and exposure/destruction of idolatrous apparatus",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Ki 23:24-25",
+      "reason": "Josiah: the most thoroughgoing reform in Israel's history — 'like unto him was there no king'",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Ki 22:15-17",
+      "reason": "Josiah: Huldah's judgment prophecy — wrath determined despite reform",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 7:1-7",
+      "reason": "Jeremiah: temple sermon — gospel call to amend ways, trust the true God",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 7:8-11",
+      "reason": "Jeremiah: exposure of false confidence in temple system — 'den of robbers'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 25:1-7",
+      "reason": "Jeremiah: summary of 23 years of prophetic warning — gospel call to repent and turn from idolatry",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:6-9",
+      "reason": "Jeremiah: 'Flee out of the midst of Babylon... come out of her, my people' — direct source for Rev 18:4",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:44-45",
+      "reason": "Jeremiah: judgment on Bel/Babylon and 'come out of her, my people' — second and third angel combined",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:4",
+      "reason": "NT echo of Jeremiah's 'come out' call — confirms the OT-to-NT pattern continuity",
+      "tier": "primary"
+    },
+    {
+      "ref": "Amos 3:7",
+      "reason": "Structural principle: God reveals plans to prophets before acting — applies to all six episodes",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 24:37-39",
+      "reason": "Jesus connects Noah's time to end-time judgment — typological link",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 17:26-29",
+      "reason": "Jesus connects both Noah and Lot/Sodom to end-time — double typological link",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Pet 2:6-9",
+      "reason": "Sodom as example of judgment on ungodly, Lot delivered — pattern of separation before judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jude 1:7",
+      "reason": "Sodom as 'example, suffering the vengeance of eternal fire' — judgment pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jude 1:14-15",
+      "reason": "Enoch's pre-flood judgment prophecy — extends the warning tradition before Noah",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Pet 3:20",
+      "reason": "Noah's ark and the longsuffering of God — gospel patience before judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 8:1",
+      "reason": "Moses/Egypt: repeated 'Let my people go, that they may serve me' formula",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 9:1",
+      "reason": "Moses/Egypt: same worship-call formula repeated with escalating judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 10:3",
+      "reason": "Moses/Egypt: 'How long wilt thou refuse to humble thyself before me?' — worship demand intensified",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Deut 32:32",
+      "reason": "Song of Moses references Sodom — connects Sodom judgment to Israel's future",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 1:10",
+      "reason": "Isaiah calls Judah's leaders 'rulers of Sodom' — Sodom typology reapplied",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 48:20",
+      "reason": "Isaiah's 'Go ye forth of Babylon' — part of the 'come out' tradition",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 52:11",
+      "reason": "Isaiah's 'Depart ye, depart ye, go ye out from thence' — 'come out' tradition",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 10:1-5",
+      "reason": "Jeremiah exposes idols as powerless — 'be not dismayed at the signs of heaven'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 50:8",
+      "reason": "Jeremiah: 'Remove out of the midst of Babylon' — another 'come out' text",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 51:7",
+      "reason": "Jeremiah: 'Babylon hath been a golden cup in the LORD's hand, that made all the earth drunken' — direct source for Rev 17:4",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ezek 33:3-5",
+      "reason": "Watchman's warning trumpet principle — structural basis for warning-before-judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Hosea 4:1",
+      "reason": "Covenant lawsuit (rib) language: 'the LORD hath a controversy with the inhabitants'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Micah 6:1-2",
+      "reason": "Covenant lawsuit: 'Hear ye now what the LORD saith; Arise, contend thou before the mountains'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Chr 34:1-4",
+      "reason": "Josiah reform: personal seeking of God from youth — gospel-response element",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Chr 34:14-33",
+      "reason": "Josiah: expanded account of law discovery and national covenant renewal",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Chr 35:25",
+      "reason": "Lamentations for Josiah — despite reform, judgment could not be averted",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 15:3-4",
+      "reason": "Song of Moses and the Lamb — Exodus-to-Revelation typological bridge",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Exo 15:1-2",
+      "reason": "Song of Moses at Red Sea — judgment and deliverance celebrated",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gen 6:3",
+      "reason": "120-year probationary period before flood — extended warning/gospel opportunity",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gen 6:11-12",
+      "reason": "Earth was corrupt (shachath) and filled with violence (chamas) — exposure of world's condition",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ezek 16:46-49",
+      "reason": "Sodom's sins enumerated: pride, fullness of bread, idleness, failure to aid poor — exposure element",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Ki 16:31-33",
+      "reason": "Ahab's introduction of Baal worship — context for Elijah's ministry",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Ki 23:4-20",
+      "reason": "Josiah's systematic destruction of idolatrous apparatus — detailed exposure/purging",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The Rev 14:6-12 baseline pattern",
+      "what": "Establish the three-part structure of the three angels' messages as the baseline for OT comparison",
+      "why": "Before examining OT episodes, we need a precise structural definition of the pattern we are looking for",
+      "how": "Parse Rev 14:6-12 verse by verse identifying the three elements: (1) gospel/worship call, (2) exposure of false system, (3) judgment warning. Identify key vocabulary that may appear in OT parallels.",
+      "narrative": "READ the grammar reference entry at `$GRAMMAR_REF/passages/rev-14-6-12.md` for detailed parsing of this passage. The first angel (14:6-7) proclaims euangelion aionion (G2098 + G166) and calls for proskyneo (G4352) of the Creator. The second angel (14:8) announces Babylon's fall (pipto, G4098) and exposes the false system. The third angel (14:9-11) warns of judgment (thymos, G2372; krisis, G2920). READ word studies for G4352-proskyneo, G2920-krisis, G4098-pipto, G2097-euangelizo, G5399-phobeo, G1391-doxa, and G897-babylon. Also READ TR-shachah-proskyneo (the worship translation relationship) and TR-basar-euangelizo (the gospel translation relationship) to identify how these Greek concepts trace back to Hebrew roots. Run greek_parser.py on Rev 14:6-7, 14:8, and 14:9-12. This establishes the vocabulary chain to look for across the six OT episodes.",
+      "verses": [
+        "Rev 14:6-7",
+        "Rev 14:8",
+        "Rev 14:9-12",
+        "Rev 18:4",
+        "Rev 15:3-4"
+      ],
+      "strongs": [
+        "G2098",
+        "G4352",
+        "G2920",
+        "G4098",
+        "G5399",
+        "G1391",
+        "G897",
+        "G2097"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Noah before the flood: preacher of righteousness",
+      "what": "Determine whether Noah's pre-flood ministry follows the three-part pattern: (1) gospel/righteousness call, (2) exposure of world's corruption, (3) warning of coming flood judgment",
+      "why": "Noah is the earliest OT episode in the study and establishes the pattern at the beginning of biblical history",
+      "how": "Retrieve Gen 6:3-7:4 with full chapter context. Parse the Hebrew of Gen 6:5-7,11-13 for shachath (H7843, corrupt/destroy) and chamas (H2555, violence). Examine 2 Pet 2:5 for keryx dikaiosynes (preacher of righteousness).",
+      "narrative": "READ word studies for H7843-shachath and H2555-chamac. Also READ H6662-tsaddiyq (righteous) and the translation relationships TR-shachath-diaphtheiro and TR-riyb-krisis. The three elements to identify: (1) Gospel call — 2 Pet 2:5 calls Noah 'a preacher of righteousness' (keryx dikaiosynes, G2783 + G1343). Was this a call to repent and worship the true God? Gen 6:3 gives a 120-year probationary period suggesting extended gospel opportunity. Gen 6:18 offers covenant — a grace element. (2) Exposure — Gen 6:5,11-12 detail the world's corruption (shachath) and violence (chamas). Heb 11:7 says Noah's faith 'condemned the world' — his righteousness exposed their wickedness. (3) Judgment warning — Gen 6:13,17 announce the flood; Gen 7:4 gives the final 7-day warning. Run hebrew_parser.py on Gen 6:5, 6:11, 6:13. Run cross_testament_parallels_v2.py on Gen 6:5 and 2 Pet 2:5.",
+      "verses": [
+        "Gen 6:3",
+        "Gen 6:5-7",
+        "Gen 6:11-12",
+        "Gen 6:13-14",
+        "Gen 6:17-18",
+        "Gen 7:1-4",
+        "2 Pet 2:5",
+        "Heb 11:7",
+        "1 Pet 3:20"
+      ],
+      "strongs": [
+        "H7843",
+        "H2555",
+        "H6662",
+        "G2783",
+        "G1343"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Abraham and Sodom: angels warn before fire falls",
+      "what": "Determine whether the Sodom narrative follows the three-part pattern: (1) God reveals judgment plan to Abraham (Amos 3:7 principle), (2) exposure of Sodom's wickedness, (3) 'come out' warning before fiery destruction",
+      "why": "The Sodom episode features actual angels delivering messages before judgment — the closest structural parallel to Rev 14's three angels",
+      "how": "Retrieve Gen 18:16-19:29 with full chapter context. Examine whether the angelic visit follows the three-part pattern. Check the 'come out' language in Gen 19:12-14.",
+      "narrative": "The Sodom narrative has the most direct structural parallel to Rev 14 because literal angels carry the warning. The three elements: (1) God's revelation to Abraham (Gen 18:17-19) — 'Shall I hide from Abraham that thing which I do?' connects to the Amos 3:7 principle. Abraham's intercession (18:23-33) demonstrates the gospel element — seeking mercy, appealing to divine justice. (2) Exposure — Gen 18:20-21 'the cry of Sodom and Gomorrah is great, and their sin is very grievous.' Ezek 16:49 enumerates their sins. (3) Warning and 'come out' call — Gen 19:12-14, the angels tell Lot to bring his family out before destruction. Gen 19:15-17 'Escape for thy life' — direct parallel to the third angel's urgency. Gen 19:24-25 — fire and brimstone judgment executed. Jesus connects this to end-time judgment in Luke 17:28-29. Run hebrew_parser.py on Gen 18:20-21 and Gen 19:13. READ H4941-mishpat for the justice/judgment concept. Run cross_testament_parallels_v2.py on Gen 19:24.",
+      "verses": [
+        "Gen 18:17-21",
+        "Gen 19:1-3",
+        "Gen 19:12-14",
+        "Gen 19:24-25",
+        "2 Pet 2:6-9",
+        "Luke 17:28-29",
+        "Jude 1:7",
+        "Ezek 16:46-49",
+        "Amos 3:7"
+      ],
+      "strongs": [
+        "H4941",
+        "H2403",
+        "H7843",
+        "G32"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Moses and Egypt: 'Let my people go that they may serve me'",
+      "what": "Determine whether the Exodus plague narrative follows the three-part pattern: (1) 'Let my people go that they may serve/worship me,' (2) systematic exposure and dismantling of Egyptian gods, (3) escalating judgment plagues culminating in destruction at the Red Sea",
+      "why": "This is the most thoroughly documented OT parallel — scholarly consensus identifies deliberate echoes between the Exodus plagues and Revelation's bowl plagues (Rev 15-16)",
+      "how": "Retrieve Exo 5:1, 7:16, 8:1, 8:20, 9:1, 9:13, 10:3 to trace the worship-call formula. Retrieve Exo 12:12 and Num 33:4 for the judgment-on-false-gods declaration.",
+      "narrative": "The Exodus episode offers the clearest three-part pattern because all three elements are explicitly stated in the text. (1) Gospel/worship call — the repeated formula 'Let my people go, that they may serve me' (abad, H5647) appears in Exo 5:1, 7:16, 8:1, 8:20, 9:1, 9:13, 10:3. READ word study H5647-abad and the translation relationship TR-abad-douleuo and TR-shachah-proskyneo. The core demand is for freedom to worship YHWH. Exo 9:16 states God's purpose: 'that my name may be declared throughout all the earth.' (2) Exposure of false system — Exo 12:12 'against all the gods of Egypt I will execute judgments' (H430, H8199). Num 33:4 confirms 'upon their gods also the LORD executed judgments.' Each plague targeted specific Egyptian deities. READ H430-elohiym and H8199-shaphat. (3) Judgment — the ten plagues follow a warned-warned-unwarned three-plague cycle. Run hebrew_parser.py on Exo 12:12 and Exo 9:16. Run cross_testament_parallels_v2.py on Exo 12:12. Check the Exodus-Revelation connection via Rev 15:3-4 (Song of Moses and the Lamb).",
+      "verses": [
+        "Exo 5:1",
+        "Exo 7:16",
+        "Exo 8:1",
+        "Exo 9:1",
+        "Exo 9:13-16",
+        "Exo 10:3",
+        "Exo 12:12",
+        "Num 33:4",
+        "Exo 15:1-2",
+        "Rev 15:3-4"
+      ],
+      "strongs": [
+        "H5647",
+        "H8199",
+        "H430",
+        "H4941"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Elijah at Carmel: choose you this day whom ye will serve",
+      "what": "Determine whether Elijah's Carmel confrontation follows the three-part pattern: (1) 'How long halt ye between two opinions? If the LORD be God, follow him,' (2) exposure of Baal worship as impotent, (3) divine fire judgment and execution of false prophets",
+      "why": "The Carmel episode is uniquely dramatic — all three elements occur in a single confrontation scene, with divine fire serving as both vindication and judgment",
+      "how": "Retrieve 1 Ki 18:17-40 with full chapter context. Parse the Hebrew of 18:21 for pasach (halt/limp). Examine the worship terminology.",
+      "narrative": "The Carmel confrontation presents the most concentrated instance of the three-part pattern — all three elements occur on the same day, in the same location. (1) Gospel/worship call — 1 Ki 18:21 'How long halt ye (pasach, H6452) between two opinions? if the LORD be God, follow him; but if Baal, then follow him.' This is a worship binary exactly paralleling the first angel's call. READ TR-shachah-proskyneo and WG-worship for the worship concept. The drought itself was a theological challenge to Baal, the storm god. (2) Exposure — 1 Ki 18:25-29 records the prolonged, humiliating failure of Baal's prophets. Elijah's mockery (18:27 'Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth') systematically exposes the false system. READ H1168 (Baal) if available, or note as missing. (3) Judgment — 1 Ki 18:36-39, fire from heaven consumes the sacrifice and the people confess 'The LORD, he is the God' (H3068, H430). Then 18:40 — execution of false prophets per Deut 13:13-15. READ H3068-yhwh and H430-elohiym. Run hebrew_parser.py on 1 Ki 18:21 and 18:39.",
+      "verses": [
+        "1 Ki 16:31-33",
+        "1 Ki 18:17-21",
+        "1 Ki 18:25-29",
+        "1 Ki 18:36-39",
+        "1 Ki 18:40"
+      ],
+      "strongs": [
+        "H6452",
+        "H3068",
+        "H430",
+        "H7812",
+        "H1168"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Josiah's reform: the book of the law rediscovered",
+      "what": "Determine whether Josiah's reform follows the three-part pattern: (1) rediscovery of the law as gospel/covenant call, (2) systematic exposure and destruction of idolatrous apparatus, (3) Huldah's judgment prophecy — wrath still coming despite reform",
+      "why": "Josiah's reform is unique because even the most sincere and thorough human response to the three-part pattern could not avert corporate judgment — paralleling the fact that Rev 14's messages are given knowing most will reject them",
+      "how": "Retrieve 2 Ki 22-23 and 2 Chr 34 with full chapter context. Compare the two chronologies (Kings vs Chronicles).",
+      "narrative": "Josiah's reform is the most bittersweet instance of the pattern — it shows the three-part message delivered and received at the highest level, yet corporate judgment remains fixed. (1) Gospel/covenant call — 2 Ki 22:8-13, the discovery of the book of the law (towrah, H8451) produces genuine repentance in Josiah. 2 Chr 34:3 says Josiah began seeking God from age 16. 2 Ki 23:3 records covenant renewal before the LORD. READ H8451-towrah and TR-towrah-nomos. (2) Exposure of false system — 2 Ki 23:4-20 is the most detailed account of idolatry destruction in the Bible: removal of Baal vessels, deposing idolatrous priests, burning Asherah, defiling Topheth, removing horses dedicated to the sun, destroying high places. READ H6456-pciyl (graven image) and WG-worship. (3) Judgment warning — 2 Ki 22:15-17, Huldah's prophecy: 'my wrath shall be kindled against this place, and shall not be quenched.' Despite Josiah's personal exemption (22:18-20), corporate judgment remains. This mirrors how Rev 14's messages save individuals ('patience of the saints') while corporate Babylon still falls. Run hebrew_parser.py on 2 Ki 22:16-17.",
+      "verses": [
+        "2 Ki 22:8-13",
+        "2 Ki 22:15-17",
+        "2 Ki 23:3-5",
+        "2 Ki 23:24-25",
+        "2 Ki 23:4-20",
+        "2 Chr 34:1-4",
+        "2 Chr 34:14-33"
+      ],
+      "strongs": [
+        "H8451",
+        "H6456",
+        "H7812",
+        "H1168",
+        "H2534"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jeremiah's ministry: come out of Babylon before destruction",
+      "what": "Determine whether Jeremiah's prophetic ministry follows the three-part pattern: (1) temple sermon as gospel call, (2) exposure of idolatry and false temple confidence, (3) judgment announcement and the 'come out of Babylon' tradition",
+      "why": "Jeremiah provides the most direct textual link to Revelation — Jer 51:6-9,45 is the primary OT source for Rev 18:4's 'Come out of her, my people'",
+      "how": "Retrieve Jer 7:1-15, 25:1-14, 50:8, 51:6-9, 51:44-45. Trace the 'come out' vocabulary chain through Isaiah to Revelation.",
+      "narrative": "Jeremiah's ministry spans the full three-part pattern across his entire prophetic career. (1) Gospel call — Jer 7:1-7 is the temple sermon: 'Amend your ways and your doings... execute judgment between a man and his neighbour.' Jer 25:3-6 summarizes 23 years of calling Judah to 'turn ye again now every one from his evil way.' (2) Exposure — Jer 7:8-11 exposes false confidence in the temple ('the temple of the LORD' repeated three times). Jer 10:1-5 systematically exposes idol manufacture. Jer 44:15-19 records the people's open defiance, insisting on worshiping the 'queen of heaven.' (3) Judgment and 'come out' — Jer 25:8-14 announces the 70-year judgment. Jer 51:6 'Flee out of the midst of Babylon, and deliver every man his soul.' Jer 51:45 'My people, go ye out of the midst of her.' This is THE direct source text for Rev 18:4. READ H3318-yatsa (go out/come forth) and the word group. Also READ H7378-riyb for the covenant lawsuit language and TR-riyb-krisis. Trace the 'come out' vocabulary chain: Jer 50:8, 51:6, 51:45 → Isa 48:20, 52:11 → Rev 18:4. Run hebrew_parser.py on Jer 51:6 and Jer 51:45. Run cross_testament_parallels_v2.py on Jer 51:6.",
+      "verses": [
+        "Jer 7:1-7",
+        "Jer 7:8-11",
+        "Jer 25:1-7",
+        "Jer 51:6-9",
+        "Jer 51:44-45",
+        "Jer 50:8",
+        "Jer 51:7",
+        "Isa 48:20",
+        "Isa 52:11",
+        "Rev 18:4"
+      ],
+      "strongs": [
+        "H3318",
+        "H7378",
+        "H4941",
+        "H8451",
+        "G1831"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The covenant lawsuit (rib) as the formal framework",
+      "what": "Determine whether the Hebrew covenant lawsuit (rib, H7378) tradition provides the formal legal framework underlying the three-part prophetic pattern across all six OT episodes",
+      "why": "If the rib genre is the structural source, then the three-part pattern is not a modern interpretive overlay but an indigenous biblical category — the prophets themselves structured their messages this way",
+      "how": "Retrieve Hosea 4:1-3, Micah 6:1-8, Isa 1:2-20, Jer 2:4-13. Identify the rib structural elements: summons, accusation, judgment announcement.",
+      "narrative": "The web research identified the covenant lawsuit (rib) as the formal ANE legal framework for prophetic warning. The rib structure has three elements matching the three-part pattern: (1) Summons and recall of covenant obligations — parallel to gospel/worship call. God identifies himself and reminds Israel of his covenant kindness (cf. Micah 6:3-5). (2) Indictment of covenant violation — parallel to exposure of false system. The prophet charges Israel with specific violations (cf. Hosea 4:1-2). (3) Announcement of covenant curse enforcement — parallel to judgment warning. The prophet declares the consequences (cf. Isa 1:20). READ H7378-riyb word study for the legal terminology. READ TR-riyb-krisis for how this concept translates to Greek krisis — the same word used in Rev 14:7 ('the hour of his judgment/krisis is come'). This is a critical lexical bridge: the Rev 14 'judgment' vocabulary traces directly to the OT covenant lawsuit tradition. Run hebrew_parser.py on Hosea 4:1 and Micah 6:2. Retrieve full text of Micah 6:1-8 and Hosea 4:1-3.",
+      "verses": [
+        "Hosea 4:1",
+        "Micah 6:1-2",
+        "Isa 1:2-4",
+        "Isa 1:18-20",
+        "Jer 2:9"
+      ],
+      "strongs": [
+        "H7378",
+        "G2920",
+        "H4941",
+        "H8199"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pattern synthesis: structural comparison across all six episodes",
+      "what": "Synthesize findings from all six OT episodes and compare their structural elements to Rev 14:6-12 to determine whether a consistent three-part pattern exists",
+      "why": "The study question asks whether these episodes 'share the same structure' — this requires systematic comparison, not just individual analysis",
+      "how": "Build a comparison matrix mapping each episode's elements to the three-part pattern. Identify which elements are strongest/weakest in each episode. Look for escalation or development across the episodes.",
+      "narrative": "After analyzing each episode individually, the research agent should build a structured comparison. For each OT episode (Noah, Sodom, Egypt, Carmel, Josiah, Jeremiah), map: (1) What constitutes the gospel/worship call? Is there an explicit call to worship the true God or return to covenant faithfulness? (2) What constitutes the exposure of the false system? Is there explicit identification of false worship, moral corruption, or covenant violation? (3) What constitutes the judgment warning? Is the coming judgment explicitly announced before it falls? Also track: Who is the prophetic messenger? (Noah, Abraham/angels, Moses, Elijah, Josiah/Huldah, Jeremiah) — these parallel the angel messengers of Rev 14. How does the audience respond? Does the pattern show escalation from gentile judgment (Noah, Sodom) through Israel's formation (Egypt) to Israel's internal crisis (Carmel, Josiah, Jeremiah)? Does the Amos 3:7 principle ('the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets') apply to all six? This focus area does not require additional tool runs but synthesizes the data gathered in focus areas 2-8.",
+      "verses": [
+        "Amos 3:7",
+        "Matt 24:37-39",
+        "Luke 17:26-29",
+        "Rev 14:6-12"
+      ],
+      "strongs": [
+        "G32",
+        "H4397"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The 'come out' tradition: vocabulary chain from OT to Revelation",
+      "what": "Trace the 'come out of her, my people' vocabulary chain from Jeremiah through Isaiah to Revelation to determine whether the second angel's message has direct OT roots",
+      "why": "If Rev 18:4 (and by extension Rev 14:8) can be traced textually to specific OT source passages, this is the strongest evidence that the three angels' pattern is not a modern invention but a continuation of OT prophetic tradition",
+      "how": "Retrieve Jer 50:8, 51:6, 51:9, 51:45; Isa 48:20, 52:11; Rev 18:4. Compare vocabulary and context.",
+      "narrative": "The 'come out' tradition is the most directly documented textual chain linking OT prophetic messages to Revelation. READ H3318-yatsa (go out/come forth) word study — this is the core Hebrew verb. The chain: Jer 50:8 'Remove out of the midst of Babylon, and go forth (yatsa) out of the land of the Chaldeans.' Jer 51:6 'Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity.' Jer 51:45 'My people, go ye out (yatsa) of the midst of her, and deliver ye every man his soul from the fierce anger of the LORD.' Also Isa 48:20 'Go ye forth (yatsa) of Babylon, flee ye from the Chaldeans.' Isa 52:11 'Depart ye, depart ye, go ye out (yatsa) from thence, touch no unclean thing; be ye clean, that bear the vessels of the LORD.' These converge in Rev 18:4 exerchomai (G1831) 'Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.' Run cross_testament_parallels_v2.py on Jer 51:6 and Isa 52:11 (both --hybrid-nt). Run hebrew_parser.py on Jer 51:6 and Isa 52:11.",
+      "verses": [
+        "Jer 50:8",
+        "Jer 51:6-9",
+        "Jer 51:45",
+        "Isa 48:20",
+        "Isa 52:11",
+        "Rev 18:4"
+      ],
+      "strongs": [
+        "H3318",
+        "G1831",
+        "H5127"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "reason": "worship — first angel's call, the core concept across all episodes"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "judgment — third angel's warning, links to rib tradition via TR-riyb-krisis"
+    },
+    {
+      "strongs": "G4098",
+      "word": "pipto",
+      "reason": "fall — 'Babylon is fallen' (Rev 14:8), second angel's declaration"
+    },
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "reason": "preach the gospel — first angel's action, OT root in basar"
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "reason": "fear — 'Fear God' (Rev 14:7), first angel's command"
+    },
+    {
+      "strongs": "H7843",
+      "word": "shachath",
+      "reason": "corrupt/destroy — Gen 6:11-12 corruption before flood, key Noah term"
+    },
+    {
+      "strongs": "H2555",
+      "word": "chamas",
+      "reason": "violence — Gen 6:11 'filled with violence,' pre-flood condition exposed"
+    },
+    {
+      "strongs": "H5647",
+      "word": "abad",
+      "reason": "serve/worship — 'Let my people go that they may serve me,' core Exodus demand"
+    },
+    {
+      "strongs": "H7812",
+      "word": "shachah",
+      "reason": "bow down/worship — Hebrew root for worship, parallel to proskyneo"
+    },
+    {
+      "strongs": "H3318",
+      "word": "yatsa",
+      "reason": "go out/come forth — core 'come out' verb in Jer 51, Isa 48:20, 52:11"
+    },
+    {
+      "strongs": "H7378",
+      "word": "riyb",
+      "reason": "contend/covenant lawsuit — formal prophetic legal framework across all episodes"
+    },
+    {
+      "strongs": "H8451",
+      "word": "towrah",
+      "reason": "law/instruction — Josiah's rediscovery of the law triggers reform"
+    },
+    {
+      "strongs": "H430",
+      "word": "elohiym",
+      "reason": "God/gods — 'The LORD, he is the God' (Carmel) vs 'all the gods of Egypt'"
+    },
+    {
+      "strongs": "H8199",
+      "word": "shaphat",
+      "reason": "judge — 'against all the gods of Egypt I will execute judgments'"
+    },
+    {
+      "strongs": "H4941",
+      "word": "mishpat",
+      "reason": "judgment/justice — divine judgment concept across all episodes"
+    },
+    {
+      "strongs": "G2784",
+      "word": "kerysso",
+      "reason": "herald/preach — keryx (G2783) used of Noah in 2 Pet 2:5"
+    },
+    {
+      "strongs": "G897",
+      "word": "Babylon",
+      "reason": "Babylon — second angel's focus, traced to OT Babylon via Jeremiah"
+    },
+    {
+      "strongs": "H6662",
+      "word": "tsaddiyq",
+      "reason": "righteous — Noah the 'righteous' man, the moral standard exposing corruption"
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "glory — 'give glory to him' (Rev 14:7), purpose of all six episodes"
+    },
+    {
+      "strongs": "H3068",
+      "word": "YHWH",
+      "reason": "The LORD — 'The LORD, he is the God' (1 Ki 18:39), the true God in every episode"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "first angel's command structure — aorist imperatives phobethete, dote, proskynerate"
+    },
+    {
+      "verse": "Rev 14:8",
+      "reason": "second angel — epesen epesen (fell, fell) reduplication significance"
+    },
+    {
+      "verse": "Gen 6:5",
+      "reason": "shachath morphology in pre-flood corruption description"
+    },
+    {
+      "verse": "Gen 6:11",
+      "reason": "dual use of shachath — earth was corrupt AND filled with violence"
+    },
+    {
+      "verse": "Exo 12:12",
+      "reason": "shaphat morphology — 'I will execute judgments' against Egyptian gods"
+    },
+    {
+      "verse": "1 Ki 18:21",
+      "reason": "pasach (H6452) — 'halt/limp between two opinions,' worship-binary language"
+    },
+    {
+      "verse": "1 Ki 18:39",
+      "reason": "'YHWH hu ha-elohiym' — the confession identifying the true God"
+    },
+    {
+      "verse": "Jer 51:6",
+      "reason": "yatsa imperative — 'flee/come out' command form"
+    },
+    {
+      "verse": "Hosea 4:1",
+      "reason": "riyb — covenant lawsuit opening formula"
+    },
+    {
+      "verse": "Micah 6:2",
+      "reason": "riyb with mountains as witnesses — formal legal proceeding"
+    },
+    {
+      "verse": "2 Pet 2:5",
+      "reason": "keryx dikaiosynes — parsing of 'preacher of righteousness'"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "OT and NT parallels for the first angel's worship call — expect Exo 20:11 connection"
+    },
+    {
+      "verse": "Gen 6:5",
+      "reason": "parallels for pre-flood corruption language — NT echoes"
+    },
+    {
+      "verse": "Exo 12:12",
+      "reason": "parallels for judgment on false gods — Revelation echoes"
+    },
+    {
+      "verse": "1 Ki 18:21",
+      "reason": "parallels for the worship-binary choice — Josh 24:15, Deut 30:19"
+    },
+    {
+      "verse": "Jer 51:6",
+      "reason": "NT parallels for 'come out' — expect Rev 18:4"
+    },
+    {
+      "verse": "Gen 19:24",
+      "reason": "parallels for fire judgment on wicked cities — 2 Pet 2:6, Jude 1:7"
+    },
+    {
+      "verse": "2 Pet 2:5",
+      "reason": "OT parallels for Noah as preacher — Gen 6-7 connections"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (worship, G4352) — first angel's call"
+      },
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment, G2920) — 'hour of his judgment'"
+      },
+      {
+        "path": "$WORD_STUDIES/G4098-pipto.md",
+        "description": "pipto (fall, G4098) — 'Babylon is fallen'"
+      },
+      {
+        "path": "$WORD_STUDIES/G2097-euangelizo.md",
+        "description": "euangelizo (preach gospel, G2097) — first angel's action"
+      },
+      {
+        "path": "$WORD_STUDIES/G2098-euangelion.md",
+        "description": "euangelion (gospel, G2098) — 'everlasting gospel'"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (fear, G5399) — 'Fear God'"
+      },
+      {
+        "path": "$WORD_STUDIES/G5401-phobos.md",
+        "description": "phobos (fear, G5401) — noun form"
+      },
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory, G1391) — 'give glory to him'"
+      },
+      {
+        "path": "$WORD_STUDIES/G897-babylon.md",
+        "description": "Babylon (G897) — second angel's target"
+      },
+      {
+        "path": "$WORD_STUDIES/G2784-kerysso.md",
+        "description": "kerysso (preach/herald, G2784) — related to Noah as keryx"
+      },
+      {
+        "path": "$WORD_STUDIES/G2316-theos.md",
+        "description": "theos (God, G2316) — 'fear God'"
+      },
+      {
+        "path": "$WORD_STUDIES/G2919-krino.md",
+        "description": "krino (judge, G2919) — judgment verb"
+      },
+      {
+        "path": "$WORD_STUDIES/G2917-krima.md",
+        "description": "krima (judgment/verdict, G2917) — judgment noun"
+      },
+      {
+        "path": "$WORD_STUDIES/H7843-shachath.md",
+        "description": "shachath (corrupt/destroy, H7843) — pre-flood corruption"
+      },
+      {
+        "path": "$WORD_STUDIES/H2555-chamac.md",
+        "description": "chamas (violence, H2555) — pre-flood violence"
+      },
+      {
+        "path": "$WORD_STUDIES/H6662-tsaddiyq.md",
+        "description": "tsaddiyq (righteous, H6662) — Noah the righteous"
+      },
+      {
+        "path": "$WORD_STUDIES/H5647-abad.md",
+        "description": "abad (serve/worship, H5647) — Exodus worship demand"
+      },
+      {
+        "path": "$WORD_STUDIES/H7812-shachah.md",
+        "description": "shachah (bow down/worship, H7812) — Hebrew worship verb"
+      },
+      {
+        "path": "$WORD_STUDIES/H3318-yatsa.md",
+        "description": "yatsa (go out/come forth, H3318) — 'come out' verb"
+      },
+      {
+        "path": "$WORD_STUDIES/H7378-riyb.md",
+        "description": "riyb (contend/lawsuit, H7378) — covenant lawsuit term"
+      },
+      {
+        "path": "$WORD_STUDIES/H8451-towrah.md",
+        "description": "towrah (law/instruction, H8451) — Josiah's book"
+      },
+      {
+        "path": "$WORD_STUDIES/H430-elohiym.md",
+        "description": "elohiym (God/gods, H430) — true vs. false gods"
+      },
+      {
+        "path": "$WORD_STUDIES/H8199-shaphat.md",
+        "description": "shaphat (judge, H8199) — execute judgments"
+      },
+      {
+        "path": "$WORD_STUDIES/H4941-mishpat.md",
+        "description": "mishpat (judgment/justice, H4941) — divine judgment"
+      },
+      {
+        "path": "$WORD_STUDIES/H6456-pciyl.md",
+        "description": "pciyl (graven image, H6456) — idol term"
+      },
+      {
+        "path": "$WORD_STUDIES/H3068-yhwh.md",
+        "description": "YHWH (the LORD, H3068) — the true God"
+      },
+      {
+        "path": "$WORD_STUDIES/H6663-tsadaq.md",
+        "description": "tsadaq (be righteous, H6663) — righteousness verb"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shachah-proskyneo.md",
+        "description": "Translation relationship: shachah→proskyneo (worship)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-basar-euangelizo.md",
+        "description": "Translation relationship: basar→euangelizo (preach good news)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-riyb-krisis.md",
+        "description": "Translation relationship: riyb→krisis (lawsuit→judgment)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shaphat-krino.md",
+        "description": "Translation relationship: shaphat→krino (judge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-towrah-nomos.md",
+        "description": "Translation relationship: towrah→nomos (law)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yare-phobeo.md",
+        "description": "Translation relationship: yare→phobeo (fear)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-nabiy-prophetes.md",
+        "description": "Translation relationship: nabiy→prophetes (prophet)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-malak-aggelos.md",
+        "description": "Translation relationship: malak→aggelos (angel/messenger)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-naphal-pipto.md",
+        "description": "Translation relationship: naphal→pipto (fall)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shachath-diaphtheiro.md",
+        "description": "Translation relationship: shachath→diaphtheiro (corrupt)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-gowy-ethnos.md",
+        "description": "Translation relationship: gowy→ethnos (nation)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shiqquwts-bdelygma.md",
+        "description": "Translation relationship: shiqquwts→bdelygma (abomination)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-towebah-bdelygma.md",
+        "description": "Translation relationship: towebah→bdelygma (abomination)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-abad-douleuo.md",
+        "description": "Translation relationship: abad→douleuo (serve)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-abad-apollymi.md",
+        "description": "Translation relationship: abad→apollymi (destroy)"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-worship.md",
+        "description": "Word group: worship concepts"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-judgment.md",
+        "description": "Word group: judgment concepts"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-gospel.md",
+        "description": "Word group: gospel concepts"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fall.md",
+        "description": "Word group: fall/falling concepts"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fear.md",
+        "description": "Word group: fear concepts"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-service-worship.md",
+        "description": "Word group: service and worship"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-violence.md",
+        "description": "Word group: violence concepts"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wicked.md",
+        "description": "Word group: wickedness concepts"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/passages/rev-14-6-12.md",
+        "description": "Grammar analysis of Rev 14:6-12 — the three angels' messages passage"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "H6452",
+      "word": "pasach",
+      "reason": "halt/limp/pass over — 1 Ki 18:21, Israel's divided loyalty at Carmel. Theologically significant: same root as Passover?"
+    },
+    {
+      "strongs": "H1168",
+      "word": "Baal",
+      "reason": "Baal — the false deity central to the Elijah/Carmel episode. No canonical word study exists."
+    },
+    {
+      "strongs": "G1831",
+      "word": "exerchomai",
+      "reason": "go out/come out — Greek equivalent of yatsa in Rev 18:4 'Come out of her, my people.' Key to the 'come out' tradition chain."
+    },
+    {
+      "strongs": "G2783",
+      "word": "keryx",
+      "reason": "preacher/herald — Noah as keryx dikaiosynes (2 Pet 2:5). Only 3 NT occurrences."
+    },
+    {
+      "strongs": "H2534",
+      "word": "chemah",
+      "reason": "wrath/fury — 2 Ki 22:17 Huldah's prophecy 'my wrath (chemah) shall be kindled.' Key Josiah term."
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "NOAH",
+      "subtopic": "GENERAL",
+      "verse_count": 12
+    },
+    {
+      "name": "ELIJAH",
+      "subtopic": "GENERAL",
+      "verse_count": 30
+    },
+    {
+      "name": "SODOM",
+      "subtopic": "GENERAL",
+      "verse_count": 18
+    },
+    {
+      "name": "FLOOD",
+      "subtopic": "GENERAL",
+      "verse_count": 10
+    },
+    {
+      "name": "BAAL",
+      "subtopic": "GENERAL",
+      "verse_count": 18
+    },
+    {
+      "name": "BABYLON",
+      "subtopic": "GENERAL",
+      "verse_count": 40
+    },
+    {
+      "name": "JEREMIAH",
+      "subtopic": "GENERAL",
+      "verse_count": 35
+    },
+    {
+      "name": "JOSIAH",
+      "subtopic": "GENERAL",
+      "verse_count": 15
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "DENUNCIATIONS AGAINST",
+      "verse_count": 50
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "WARNINGS AND PUNISHMENTS",
+      "verse_count": 60
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "PROPHECIES RELATING TO",
+      "verse_count": 15
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "GENERAL",
+      "verse_count": 25
+    },
+    {
+      "name": "PREACHING",
+      "subtopic": "GENERAL",
+      "verse_count": 20
+    },
+    {
+      "name": "RIGHTEOUSNESS",
+      "subtopic": "GENERAL",
+      "verse_count": 30
+    },
+    {
+      "name": "GOSPEL",
+      "subtopic": "GENERAL",
+      "verse_count": 35
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 40
+    },
+    {
+      "name": "JUDGMENTS",
+      "subtopic": "DESIGN OF",
+      "verse_count": 25
+    },
+    {
+      "name": "PLAGUE",
+      "subtopic": "GENERAL",
+      "verse_count": 18
+    },
+    {
+      "name": "COVENANT",
+      "subtopic": "GENERAL",
+      "verse_count": 30
+    },
+    {
+      "name": "PROPHECY",
+      "subtopic": "GENERAL",
+      "verse_count": 20
+    },
+    {
+      "name": "CONDESCENSION OF GOD",
+      "subtopic": "GENERAL",
+      "verse_count": 10
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "Noah's warning parallels the end-time message: 'As Noah was faithful in warning the antediluvian world, so we must be faithful'",
+      "directive": "Verify the three-part structure (gospel call, exposure of corruption, judgment warning) in Gen 6-7 and 2 Pet 2:5"
+    },
+    {
+      "source": "EGW",
+      "claim": "Egyptian plagues were 'against all the gods of Egypt' — each plague systematically dismantled false worship",
+      "directive": "Verify Exo 12:12 and Num 33:4 for explicit judgment-on-gods language, check whether plague-deity targeting is textually supported"
+    },
+    {
+      "source": "EGW",
+      "claim": "Lot's extraction from Sodom parallels the end-time 'come out' call — 'Escape for thy life' is the warning from the angels of God",
+      "directive": "Verify Gen 19:12-17 for 'come out' vocabulary and compare with Rev 18:4"
+    },
+    {
+      "source": "EGW",
+      "claim": "Elijah's Carmel ministry restored true worship against Baal apostasy, following a three-part pattern",
+      "directive": "Verify 1 Ki 18:21-40 for the three-part structure: worship call (18:21), exposure (18:25-29), judgment (18:36-40)"
+    },
+    {
+      "source": "EGW",
+      "claim": "Josiah's reform — finding the book of the law, destroying idols, Huldah's prophecy — follows the warning-before-judgment pattern",
+      "directive": "Verify 2 Ki 22-23 for the three-part structure and whether Huldah's prophecy functions as judgment warning despite reform"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Elijah rebuked 'false worship to the sun god' and restored 'true worship to the creator God' — framing Carmel as a first-angel-type event",
+      "directive": "Verify from 1 Ki 18:21-39 whether the text explicitly frames the confrontation as Creator-worship vs. false worship. Is Baal a 'sun god' in this context?"
+    },
+    {
+      "source": "Bohr",
+      "claim": "'Come out of Babylon before destruction' pattern traces from Jeremiah through Revelation",
+      "directive": "Trace the vocabulary chain Jer 50:8, 51:6, 51:45 → Isa 48:20, 52:11 → Rev 18:4 and verify lexical connections"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Enoch's judgment prophecy (Jude 14-15) connects to Noah's flood warning, establishing warning-before-judgment tradition from before the flood",
+      "directive": "Verify Jude 14-15 text and its pre-flood context. Does it extend the three-part pattern further back than Noah?"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Moses's rod represents God's judgment against Egypt — each raising of the rod brought divine judgment",
+      "directive": "Verify the rod motif in Exodus plague narrative and whether it consistently signals judgment"
+    },
+    {
+      "source": "Web research (Westermann)",
+      "claim": "The foundational prophetic genres are 'announcement of judgment' and 'accusation' — matching elements 2 and 3 of the three-part pattern",
+      "directive": "Verify whether OT prophetic literature consistently shows these two elements, and whether element 1 (gospel/worship call) is also structurally present"
+    },
+    {
+      "source": "Web research (covenant lawsuit)",
+      "claim": "The rib structure has elements matching all three parts: summons/recall (gospel call), indictment (exposure), sentencing (judgment)",
+      "directive": "Verify the rib passages (Hosea 4:1, Micah 6:1-2, Isa 1:2-20, Jer 2:4-13) for three-part structure matching Rev 14:6-12"
+    },
+    {
+      "source": "Web research (Andrews U)",
+      "claim": "Revelation 15-16 bowl plagues deliberately echo Egyptian plagues — blood, darkness, frogs, hail",
+      "directive": "Verify textual connections between Exo 7-12 plague descriptions and Rev 15-16 bowl plagues"
+    },
+    {
+      "source": "Web research (Fuller)",
+      "claim": "Even Josiah's sincere reform could not avert corporate judgment because of systemic popular resistance to reform",
+      "directive": "Verify from 2 Ki 23:26-27 and Jer 3:10 whether the text explicitly states that judgment remained despite Josiah's reform"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "Revelation baseline",
+      "description": "The three angels' messages text plus related judgment passages",
+      "refs": [
+        "Rev 14:6-7",
+        "Rev 14:8",
+        "Rev 14:9-12",
+        "Rev 18:4",
+        "Rev 15:3-4"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Noah episode",
+      "description": "Pre-flood corruption, Noah's preaching, flood judgment",
+      "refs": [
+        "Gen 6:3",
+        "Gen 6:5-7",
+        "Gen 6:11-12",
+        "Gen 6:13-14",
+        "Gen 6:17-18",
+        "Gen 7:1-4",
+        "2 Pet 2:5",
+        "Heb 11:7",
+        "1 Pet 3:20"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Abraham/Sodom episode",
+      "description": "God reveals plan, Sodom exposed, angels warn, fire falls",
+      "refs": [
+        "Gen 18:17-21",
+        "Gen 19:1-3",
+        "Gen 19:12-14",
+        "Gen 19:24-25",
+        "Amos 3:7",
+        "Ezek 16:46-49"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Moses/Egypt episode",
+      "description": "Worship demand, judgment on gods, plagues",
+      "refs": [
+        "Exo 5:1",
+        "Exo 7:16",
+        "Exo 9:13-16",
+        "Exo 12:12",
+        "Num 33:4",
+        "Exo 15:1-2"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Elijah/Carmel episode",
+      "description": "Worship call, Baal exposed, fire judgment",
+      "refs": [
+        "1 Ki 16:31-33",
+        "1 Ki 18:17-21",
+        "1 Ki 18:25-29",
+        "1 Ki 18:36-39",
+        "1 Ki 18:40"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Josiah reform episode",
+      "description": "Law found, idols destroyed, Huldah's judgment prophecy",
+      "refs": [
+        "2 Ki 22:8-13",
+        "2 Ki 22:15-17",
+        "2 Ki 23:3-5",
+        "2 Ki 23:24-25",
+        "2 Chr 34:1-4"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Jeremiah episode",
+      "description": "Temple sermon, idol exposure, Babylon come-out call",
+      "refs": [
+        "Jer 7:1-7",
+        "Jer 7:8-11",
+        "Jer 25:1-7",
+        "Jer 51:6-9",
+        "Jer 51:44-45"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Come-out tradition chain",
+      "description": "Vocabulary chain from Jeremiah through Isaiah to Revelation",
+      "refs": [
+        "Jer 50:8",
+        "Jer 51:6-9",
+        "Jer 51:45",
+        "Isa 48:20",
+        "Isa 52:11",
+        "Rev 18:4"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Covenant lawsuit (rib) passages",
+      "description": "Formal prophetic lawsuit framework",
+      "refs": [
+        "Hosea 4:1",
+        "Micah 6:1-2",
+        "Isa 1:2-4",
+        "Isa 1:18-20",
+        "Jer 2:9"
+      ],
+      "full_chapter_context": true
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Gen 6:1-22",
+    "Gen 7:1-24",
+    "Gen 18:16-33",
+    "Gen 19:1-29",
+    "Exo 5:1-23",
+    "Exo 9:1-35",
+    "Exo 12:1-42",
+    "1 Ki 18:1-46",
+    "2 Ki 22:1-20",
+    "2 Ki 23:1-30",
+    "Jer 7:1-34",
+    "Jer 25:1-14",
+    "Jer 51:1-64",
+    "Hosea 4:1-19",
+    "Micah 6:1-16"
+  ],
+  "research_instructions": "This study requires HEAVY OT coverage across six distinct episodes. For each episode, the research agent must:\n1. Retrieve FULL CHAPTER CONTEXT for the primary passages (not just isolated verses)\n2. Run hebrew_parser.py on key Hebrew verses to verify vocabulary claims\n3. Run cross_testament_parallels_v2.py on at least one key verse per episode (both --hybrid-ot and --hybrid-nt)\n4. Build a structured comparison matrix at the end showing how each episode maps to the three-part pattern\n\nIMPORTANT: Do NOT assume Baal is a 'sun god' — verify from the text. The Carmel narrative identifies Baal as a storm/rain god (the drought context). Bohr's claim about 'sun god' needs checking.\n\nThe 'come out' tradition chain (focus area 10) is critical to the study. This is the most direct textual evidence that Rev 14/18 draws on OT prophetic vocabulary. Trace the exact Hebrew and Greek verbs used.\n\nThe covenant lawsuit (rib) focus area is important because it demonstrates that the three-part structure is an indigenous biblical category, not an interpretive overlay. If the prophets themselves organized their messages in this three-part pattern (summons/accusation/judgment), then the three angels' messages are following a well-established prophetic form.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 62,
+    "primary_verses": 33,
+    "supporting_verses": 29,
+    "ot_verses": 19,
+    "nt_verses": 14,
+    "focus_area_count": 10,
+    "word_study_count": 20,
+    "parsing_count": 11,
+    "parallel_count": 7
+  }
+}

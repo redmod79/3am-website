@@ -1,0 +1,22 @@
+
+======================================================================
+  Daniel 7:26
+======================================================================
+
+  וְדִינָ֖א יִתִּ֑ב וְשָׁלְטָנֵ֣הּ יְהַעְדֹּ֔ון לְהַשְׁמָדָ֥ה וּלְהֹובָדָ֖ה עַד־סֹופָֽא׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וְ              ו            Conj.+NAN                 and
+  דִינָ֖א         דין          Noun.ms                   judgement
+  יִתִּ֑ב         יתב          Verb.peal.Impf.3ms        sit
+  וְ              ו            Conj.+NAN                 and
+  שָׁלְטָנֵ֣הּ    שׁלטן        Noun.ms.Abs.+3ms          official
+  יְהַעְדֹּ֔ון    עדה          Verb.haf.Impf.3mp         go
+  לְ              ל            Prep                      to
+  הַשְׁמָדָ֥ה     שׁמד         Verb.haf.InfCon.unknownunknown.Abs exterminate
+  וּ              ו            Conj.+NAN                 and
+  לְ              ל            Prep                      to
+  הֹובָדָ֖ה       אבד          Verb.haf.InfCon.unknownunknown.Abs perish
+  עַד             עד           Prep                      until
+  סֹופָֽא         סוף          Noun.ms                   end

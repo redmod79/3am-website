@@ -1,0 +1,23 @@
+Verse not found: Joh 5:24
+===NT===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: ROM 2:16
+======================================================================
+
+  Glosses: on [that] day will judge - God the secrets - of men according to the...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  ROM 16:25              0.455   0.67  0.40  0.00  christ, gospel, jesu, secret
+  2TI 4:1                0.432   0.67  0.30  0.00  christ, jesu, judge
+  PHP 1:6                0.397   0.66  0.20  0.00  christ, jesu
+  LUK 17:22              0.396   0.77  0.00  0.00  
+  PHP 4:19               0.392   0.65  0.20  0.00  christ, jesu
+  GAL 1:11               0.389   0.71  0.10  0.00  gospel
+  2TI 4:8                0.389   0.70  0.10  0.00  judge
+  MRK 1:1                0.386   0.59  0.30  0.00  christ, gospel, jesu
+  1CO 4:5                0.385   0.70  0.10  0.00  judge
+  2TI 2:8                0.385   0.60  0.30  0.00  christ, gospel, jesu
+===NT2===

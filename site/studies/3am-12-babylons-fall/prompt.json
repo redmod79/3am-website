@@ -1,0 +1,1223 @@
+{
+  "question": "Babylon's fall: doubled epesen, proleptic aorist, Isa 21:9 template, Rev 14:8 / Rev 17-18 relationship, Jer 50-51 verbal parallels, \"in one hour\" refrain, millstone imagery, progressive fulfillment.",
+  "prior_research_summary": "Twelve prior 3AM studies (00-11) have established: Rev 14:8's doubled epesen epesen quotes Isa 21:9 LXX directly (3am-00, 3am-01); the prophetic aorist treats future judgment as accomplished (3am-07); the thumos chain runs from 14:8 through 19:15 (3am-00, 3am-11); pepotiken is perfect active indicative of potizo showing completed action (3am-00); the zanah/porneia vocabulary requires prior covenant relationship (3am-10); the mother-daughter structure of Rev 17:5 shows Babylon generates offspring (3am-10); the polarity flip from her fornication to his wrath is encoded in the terminal genitive swap between 14:8 and 16:19 (3am-11); the cup-of-wrath trajectory runs Psa 75:8 through Rev 19:15 (3am-02, 3am-11); the bdelygma/towebah chain identifies categories of false teaching (3am-11). The rev-18-babylon-fall-come-out study mapped the threefold lamentation structure, the millstone/stone link, the anti-Jubilee cargo list, and the altar vindication arc. Web research identified 12 scholarly sources including Wallace (GGBB p. 564) on proleptic aorist, Precept Austin's 13-point Jer/Rev parallel catalog, Perriman's broader allusion network (Isa 13/21/23/34/47, Ezek 26-27, Nahum 3, Zeph 2), LaRondelle's type-antitype framework, Bauckham's 4x7 cargo list, and Storms' structural analysis of Rev 18.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:8",
+      "reason": "Crux text — the second angel's announcement with doubled epesen epesen and genitive chain",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:1-3",
+      "reason": "Expanded proclamation of Babylon's fall — earth-illuminating angel, desolation imagery",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:4-5",
+      "reason": "Come out of her my people — separation call with sins reaching heaven",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:6-8",
+      "reason": "Double recompense, one-day judgment, queen hubris soliloquy, fire destruction",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:9-10",
+      "reason": "Kings' lament — first 'in one hour' refrain (mia hora)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:11-17a",
+      "reason": "Merchants' lament — second 'in one hour,' 28-item cargo list",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:17b-19",
+      "reason": "Shipmasters' lament — third 'in one hour,' Tyre echoes",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:20",
+      "reason": "Heaven rejoices — reversal from lamentation to vindication",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 18:21-24",
+      "reason": "Millstone cast into sea, sevenfold 'no more at all,' pharmakeia, blood of prophets",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 17:1-6",
+      "reason": "Harlot portrait — golden cup, drunk with blood of saints, mother of harlots",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 17:15-18",
+      "reason": "Waters = peoples, ten horns destroy harlot, burned with fire",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 16:19",
+      "reason": "Babylon remembered — cup of fierceness of God's wrath, terminal genitive swap from 14:8",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 21:9",
+      "reason": "OT template — watchman announces 'Babylon is fallen, is fallen,' naphlah naphlah babel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 47:7-9",
+      "reason": "Queen hubris — 'I sit as a queen, I am no widow' + 'in one day' judgment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 47:11-13",
+      "reason": "Sudden destruction and ineffective sorcery — background for Rev 18:8,23",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 13:19-22",
+      "reason": "Babylon shall never be inhabited — desolation/demon-dwelling imagery",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:6-9",
+      "reason": "Come out of her / Babylon is suddenly fallen / golden cup",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:13",
+      "reason": "Babylon dwells on many waters — direct source for Rev 17:1",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:45-49",
+      "reason": "Come out my people / heaven rejoices / blood of slain",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:63-64",
+      "reason": "Stone cast into Euphrates — direct OT source for millstone imagery",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 50:29",
+      "reason": "Pay back according to deeds — recompense language paralleling Rev 18:6",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 50:39-40",
+      "reason": "Permanent desolation — never inhabited, like Sodom and Gomorrah",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 25:15-17",
+      "reason": "Cup-of-wrath origin — God gives Jeremiah the cup to make nations drink",
+      "tier": "primary"
+    },
+    {
+      "ref": "Ezek 27:12-25",
+      "reason": "Tyre's cargo list — model for Rev 18:12-13 with 4x7 structure",
+      "tier": "primary"
+    },
+    {
+      "ref": "Ezek 26:13",
+      "reason": "Silenced musicians of Tyre — parallels Rev 18:22",
+      "tier": "primary"
+    },
+    {
+      "ref": "Nahum 3:1-4",
+      "reason": "Nineveh as harlot with sorceries (pharmakeia LXX) — parallels Rev 18:23",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 18:6",
+      "reason": "Millstone around neck — Jesus' warning connects millstone to judgment on those who cause stumbling",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 19:1-3",
+      "reason": "Hallelujah response — smoke rises forever, vindicating God's judgment of Babylon",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 34:10-15",
+      "reason": "Edom desolation — unclean birds and creatures, parallel imagery to Rev 18:2",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Zeph 2:13-15",
+      "reason": "Nineveh desolation — 'I am, and there is none beside me' hubris paralleling Isa 47:8 / Rev 18:7",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 75:8",
+      "reason": "Cup of wrath in God's hand — earliest cup-trajectory reference",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 51:17",
+      "reason": "Cup of trembling — Jerusalem drinks first, then cup passes to tormentors",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 48:20",
+      "reason": "Go forth from Babylon — come-out call in Isaiah",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 51:7",
+      "reason": "Golden cup in Babylon's hand — direct source for Rev 17:4",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 51:12",
+      "reason": "Set up watchmen against Babylon — watchman motif",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 51:37",
+      "reason": "Babylon shall become heaps — desolation vocabulary",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 51:57-58",
+      "reason": "Walls of Babylon thrown down, perpetual sleep — permanence of fall",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 21:1-10",
+      "reason": "Full watchman passage — burden of the desert of the sea, Cyrus context",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 14:4-11",
+      "reason": "Taunt song against king of Babylon — descent to Sheol",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 23:8-17",
+      "reason": "Oracle against Tyre — merchants as princes, 70-year judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 50:8",
+      "reason": "Go out of the land of the Chaldeans — first Jeremiah come-out call",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 50:46",
+      "reason": "Nations mourn at news of Babylon's capture — weeping parallel",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 5:1-6,25-31",
+      "reason": "Historical Babylon's fall — Belshazzar's feast, handwriting on wall, that very night",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "First angel provides context — fall is consequence of rejecting the everlasting gospel",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 16:12",
+      "reason": "Sixth bowl — Euphrates dried up, typological echo of Cyrus's conquest",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mark 9:42",
+      "reason": "Millstone around neck — parallel to Matt 18:6",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 45:1-4",
+      "reason": "Cyrus prophecy — God's instrument for Babylon's fall",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Ezek 26:7",
+      "reason": "Nebuchadnezzar besieges Tyre — historical link in prophetic network",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Hab 2:15-17",
+      "reason": "Woe to him who makes neighbors drink — cup imagery in broader prophetic tradition",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 13:17",
+      "reason": "Medes stirred against Babylon — historical agent of fall",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 18:12-13",
+      "reason": "Full cargo list — 28 items culminating in somaton kai psuchas anthropon",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 18:7",
+      "reason": "Babylon's self-assessment — 'I sit as a queen, I am no widow' hubris soliloquy",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 18:24",
+      "reason": "Blood of prophets and saints found in her — altar vindication arc completion",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jer 50:13",
+      "reason": "Every one that goes by shall be astonished — desolation witness motif",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The doubled epesen: grammar, source, and function",
+      "what": "Analyze the morphology and syntax of the doubled epesen epesen in Rev 14:8 and 18:2, tracing it to its OT source in Isa 21:9 LXX",
+      "why": "The doubled prophetic aorist is the grammatical spine of the entire Babylon-fall announcement — understanding whether it signals certainty, completeness, two-stage fulfillment, or some combination determines how the fall is to be understood",
+      "how": "Parse the Greek of Rev 14:8 and Rev 18:2 via greek_parser.py, then parse the Hebrew of Isa 21:9 and check the LXX rendering. Compare the aorist form pipto (G4098) across all three passages.",
+      "narrative": "READ `$WORD_STUDIES/G4098-pipto.md` and `$WORD_STUDIES/TR-naphal-pipto.md` for the fall vocabulary chain from Hebrew naphal (H5307) to Greek pipto (G4098). READ `$GRAMMAR_REF/greek/tense-aorist-prophetic.md` for the canonical entry on the prophetic/proleptic aorist. Run greek_parser.py --verse on Rev 14:8 and Rev 18:2 to confirm the morphological tag V-2AAI-3S (second aorist active indicative 3rd singular). Then run hebrew_parser.py --verse on Isa 21:9 to confirm naphlah naphlah babel (H5307 qal perfect 3fs). Compare whether the LXX of Isa 21:9 uses the same aorist form as Rev 14:8. Check Wallace GGBB p. 564 (cited in web research) for the proleptic aorist classification. The doubling has been classified as epizeuxis (immediate repetition for emphasis). Determine whether the doubling also signals two-stage fulfillment (one partial, one final) or is purely emphatic. Also note that Rev 18:2 adds desolation content not present in 14:8 — does this expansion indicate progressive realization? Run cross_testament_parallels_v2.py on Rev 14:8.",
+      "verses": [
+        "Rev 14:8",
+        "Rev 18:1-3",
+        "Isa 21:9"
+      ],
+      "strongs": [
+        "G4098",
+        "H5307"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Isaiah 21:9 template and the watchman motif",
+      "what": "Map the full Isa 21:1-10 passage to understand the watchman-announces-fall pattern and how John appropriates it in Revelation",
+      "why": "The entire second angel's message is modeled on this OT watchman scene — understanding the template reveals what John inherited and what he transformed",
+      "how": "Retrieve full text of Isa 21:1-10 with Hebrew parsing, identify the watchman vocabulary (shamar, tsaphah, amad), and compare with Jer 51:12 watchman and Hab 2:1",
+      "narrative": "Run hebrew_parser.py --verse on Isa 21:6, 21:8, and 21:9 to extract the watchman vocabulary cluster: tsaphah (H6822, look out), shamar (H8104, watch), amad (H5975, stand), nagad (H5046, declare). Compare with Hab 2:1 where the prophet stands on his watch (mishmereth) to see what God will say. READ `$WORD_STUDIES/H5307-naphal.md` to study naphal's semantic range — does it always indicate literal physical falling, or can it mean moral/spiritual collapse? Check Prinsloo's claim (web research) that the fall-of-Babylon tradition connects Isa 13-27, Habakkuk, and Jer 50-51 into a broader prophetic network. The Cyrus connection (Isa 21:2 mentions Elam and Media) ties the historical fall to Isa 45:1-4. Run cross_testament_parallels_v2.py on Isa 21:9 to find NT echoes.",
+      "verses": [
+        "Isa 21:1-10",
+        "Isa 21:9",
+        "Jer 51:12",
+        "Hab 2:1"
+      ],
+      "strongs": [
+        "H5307",
+        "H6822",
+        "H8104",
+        "H5046"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Rev 14:8 / Rev 17-18 relationship: announcement and expansion",
+      "what": "Determine the structural and theological relationship between the compact second-angel announcement (14:8) and the extended Babylon-fall narrative (17:1-18:24)",
+      "why": "Understanding whether 14:8 is a proleptic summary of what 17-18 narrates in full, or whether they describe different stages of the fall, is central to the progressive-fulfillment question",
+      "how": "Compare the vocabulary, imagery, and content of 14:8 with 17:1-6 and 18:1-3. Map what 14:8 announces briefly and what 17-18 expands.",
+      "narrative": "Run greek_parser.py --verse on Rev 14:8 to identify every key term: epesen (G4098), Babylon (G897), megale (G3173), oinos (G3631), thumos (G2372), porneia (G4202). Then check which of these terms reappear in Rev 17:1-6 and Rev 18:1-8. READ `$GRAMMAR_REF/passages/rev-14-8-11.md` for the canonical passage analysis, and `$GRAMMAR_REF/passages/rev-17-1-6.md` and `$GRAMMAR_REF/passages/rev-18-1-8.md` for the expanded passages. The Babylon-fallen chain has three stages per prior studies: announcement (14:8), expanded proclamation (18:2), lamented reality (18:10,17,19). EGW claims the second angel's message 'is to be proclaimed the second time' — Rev 18:1 being the earth-illuminating repetition. Map what Rev 18:2 ADDS beyond 14:8 (dwelling of demons, haunt of unclean spirits, cage of unclean birds). Does this expansion suggest progressive deepening of Babylon's condition?",
+      "verses": [
+        "Rev 14:8",
+        "Rev 17:1-6",
+        "Rev 18:1-3",
+        "Rev 18:2"
+      ],
+      "strongs": [
+        "G4098",
+        "G897",
+        "G3173",
+        "G2372",
+        "G4202",
+        "G3631"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Jer 50-51 / Rev 17-18 verbal parallel catalog",
+      "what": "Systematically verify the 13+ claimed verbal parallels between Jeremiah's oracle against Babylon and John's vision of Babylon's fall",
+      "why": "The depth and precision of these parallels establish whether John is intentionally recapitulating Jeremiah's oracle or merely echoing scattered imagery",
+      "how": "Retrieve each Jeremiah and Revelation passage pair, parse key vocabulary, and verify shared language",
+      "narrative": "This is the most labor-intensive focus area. The Precept Austin catalog (web research) identifies 13 parallels. For each pair, run hebrew_parser.py on the Jeremiah verse and greek_parser.py on the Revelation verse. Key pairs to verify: (1) Jer 51:6,45 / Rev 18:4 — 'come out of her, my people' (yatsa H3318 → exerchomai G1831); READ `$WORD_STUDIES/G1831-exerchomai.md`. (2) Jer 51:7 / Rev 17:4 — golden cup (kow-ce zahab H3563+H2091 → poterion chrysoun G4221+G5552). (3) Jer 51:7b / Rev 14:8 — nations drunk with wine. (4) Jer 51:8 / Rev 18:8 — sudden destruction. (5) Jer 51:13 / Rev 17:1,15 — sits on many waters (mayim rabbim → hydatōn pollōn). READ `$WORD_STUDIES/H4325-mayim.md`. (6) Jer 50:29 / Rev 18:6 — recompense according to deeds. (7) Jer 50:39-40 / Rev 18:2 — permanent desolation, demons. (8) Jer 51:48 / Rev 18:20 — heaven rejoices. (9) Jer 51:49 / Rev 17:6; 18:24 — blood of saints. (10) Jer 51:63-64 / Rev 18:21 — stone into water. (11) Jer 51:58 / Rev 17:16; 18:8 — burned with fire. Run cross_testament_parallels_v2.py on Jer 51:7 and Jer 51:63 to confirm NT echoes.",
+      "verses": [
+        "Jer 51:6-9",
+        "Jer 51:13",
+        "Jer 51:45-49",
+        "Jer 51:63-64",
+        "Jer 50:29",
+        "Jer 50:39-40",
+        "Rev 17:1-6",
+        "Rev 18:4-8",
+        "Rev 18:20-24"
+      ],
+      "strongs": [
+        "G1831",
+        "H3318",
+        "H4325",
+        "G4221",
+        "H3563"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The 'in one hour' refrain and OT background for sudden judgment",
+      "what": "Analyze the threefold mia hora refrain (Rev 18:10,17,19) and the 'in one day' construction (18:8), tracing their OT roots",
+      "why": "The suddenness theme is structurally central to Rev 18 — the three mourning groups each lament with the same refrain, and the OT parallels in Isa 47:9 and Jer 51:8 establish the prophetic precedent",
+      "how": "Parse the Greek of each 'in one hour' occurrence, compare with the 'in one day' phrase in 18:8, and trace OT background in Isa 47:9 and Jer 51:8",
+      "narrative": "Run greek_parser.py --verse on Rev 18:10, 18:17, and 18:19 to confirm that mia hora (G3391 + G5610) appears in all three. READ `$WORD_STUDIES/G5610-hora.md` for the hora study and `$WORD_STUDIES/G2250-hemera.md` for the hemera study. Then parse Rev 18:8 to check the 'in one day' (mia hemera) construction. Compare with Isa 47:9 where both constructions appear in the Hebrew: 'in one day' (beyom echad) and 'in a moment' (rega). Run hebrew_parser.py --verse on Isa 47:9 and Jer 51:8 (pitom, H6597 — suddenly). Map the three mourning groups structurally: kings (18:9-10, judgment focus), merchants (18:11-17a, riches focus), shipmasters (18:17b-19, desolation focus). Each group stands 'afar off' (apo makrothen) in fear — verify this spatial motif. The self-interested nature of the mourning (no spiritual repentance, only material loss) should be noted.",
+      "verses": [
+        "Rev 18:10",
+        "Rev 18:17",
+        "Rev 18:19",
+        "Rev 18:8",
+        "Isa 47:9",
+        "Jer 51:8"
+      ],
+      "strongs": [
+        "G5610",
+        "G2250",
+        "H6597",
+        "H7281"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Millstone imagery: Jer 51:63-64 to Rev 18:21 with Jesus' warning",
+      "what": "Trace the millstone/stone-into-water imagery from Jeremiah's symbolic act to John's angel and connect with Jesus' millstone warning",
+      "why": "The millstone is the closing prophetic-action image in Rev 18, sealing the permanence of Babylon's destruction. The shift from stone to millstone and Euphrates to sea may carry theological significance",
+      "how": "Parse the Hebrew of Jer 51:63-64, the Greek of Rev 18:21, and Matt 18:6 / Mark 9:42. Compare the objects and the bodies of water.",
+      "narrative": "Run hebrew_parser.py --verse on Jer 51:63-64 to identify eben (H68, stone) and its binding to the sepher (H5612, scroll). Run greek_parser.py --verse on Rev 18:21 to identify lithos (G3037), mylinon/mylon (G3458, millstone), and the throwing action (ballo, G906). READ `$WORD_STUDIES/H68-eben.md` and `$WORD_STUDIES/TR-eben-lithos.md` for the stone vocabulary chain. Then parse Matt 18:6 to check mylos onikos (G3458 + G3684, donkey millstone) — does Jesus' warning about causing little ones to stumble use the same millstone vocabulary? If so, there may be an intentional echo: Babylon causes nations to stumble, and the millstone judgment fits both Jesus' warning and Jeremiah's prophecy. Check whether the shift from Euphrates to sea is theologically loaded (the sea in Revelation often represents nations/chaos). Also note the sevenfold 'no more at all' (ouketi ou me) in Rev 18:21-23 — an emphatic double negation. READ `$GRAMMAR_REF/greek/emphatic-double-negation-ou-me.md` for the grammar reference.",
+      "verses": [
+        "Jer 51:63-64",
+        "Rev 18:21-23",
+        "Matt 18:6",
+        "Mark 9:42"
+      ],
+      "strongs": [
+        "H68",
+        "G3037",
+        "G3458",
+        "G906"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Progressive fulfillment: partial fall before final fall?",
+      "what": "Test whether the biblical text supports a progressive fulfillment where Babylon 'falls' morally before the final eschatological destruction",
+      "why": "The progressive-fulfillment interpretation is central to Adventist theology (EGW: 'The change is a progressive one') and distinguishes a moral deterioration from the final destruction narrative in Rev 17-18",
+      "how": "Compare Rev 14:8's announcement with Rev 18:2's expanded restatement. Check whether the expansion from 14:8 to 18:2 indicates progressive deepening. Examine the time markers in Rev 17-18.",
+      "narrative": "The key claim is that Rev 14:8 announces a process that Rev 18:1-5 consummates. READ `$GRAMMAR_REF/passages/rev-14-8-11.md` for the passage analysis of the second angel's announcement. Compare the content of 14:8 (simple announcement + cause) with 18:2 (announcement + desolation imagery: dwelling of demons, haunt of unclean spirits, cage of unclean birds). The added desolation details in 18:2 draw on Isa 13:21-22 and Isa 34:13-14 — run cross_testament_parallels_v2.py on Rev 18:2. EGW states 'Not until the union of the church with the world shall be fully accomplished throughout Christendom will the fall of Babylon be complete' (GC 389-390). LaRondelle argues the ancient fall is type for the eschatological antitype, with five typological characteristics. Alford says 'the principles of Christ's gospel must undermine the world-power; the fall of some Babylon principle has almost always succeeded the age of spiritual revival.' Ellicott: 'Babylon belongs not to one age.' Test whether the text itself supports this or whether it can equally be read as a simple proleptic announcement followed by narrative expansion.",
+      "verses": [
+        "Rev 14:8",
+        "Rev 18:1-3",
+        "Isa 13:19-22",
+        "Isa 34:10-15"
+      ],
+      "strongs": [
+        "G4098",
+        "G897"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The broader allusion network: Tyre, Nineveh, Edom, Sodom",
+      "what": "Catalog the non-Jeremiah OT allusions in Rev 17-18, showing how John weaves multiple prophetic judgments into one composite portrait",
+      "why": "Babylon's fall in Revelation is not merely a re-reading of Jeremiah — it draws on the full OT tradition of city-judgment oracles, making Babylon a composite of every judged civilization",
+      "how": "Verify each claimed allusion by comparing the OT source with its Revelation echo",
+      "narrative": "Perriman (web research) identifies allusions beyond Jeremiah: Isa 47:7-8 → Rev 18:7 (queen hubris — verify verbatim correspondence), Ezek 26:13 → Rev 18:22 (silenced musicians — verify kithara/auletēs vocabulary), Ezek 27:12-22 → Rev 18:12-13 (cargo list modeled on Tyre's trade inventory — verify Bauckham's 4x7 structure by counting items), Nahum 3:4 LXX pharmakeia → Rev 18:23 (sorcery deceiving nations — READ `$WORD_STUDIES/G5331-pharmakeia.md`), Isa 23:8 LXX emporoi → Rev 18:23 (merchants as rulers of earth). Also check Isa 34:10-15 / Zeph 2:13-15 → Rev 18:2 (desolation/demon-dwelling imagery from Edom and Nineveh). The composite nature means Babylon in Revelation inherits the sins of every judged civilization: Tyre's commercial greed, Nineveh's military violence, Sodom's moral depravity, Edom's perpetual enmity, and Babylon's religious arrogance. READ `$GRAMMAR_REF/passages/ezk-28-isa-14-rev-18-self-deification-speech-formulas.md` for the self-deification pattern.",
+      "verses": [
+        "Rev 18:7",
+        "Rev 18:22-23",
+        "Rev 18:12-13",
+        "Isa 47:7-9",
+        "Ezek 26:13",
+        "Ezek 27:12-25",
+        "Nahum 3:1-4",
+        "Isa 23:8-17",
+        "Zeph 2:13-15",
+        "Isa 34:10-15"
+      ],
+      "strongs": [
+        "G5331",
+        "G1713",
+        "G5243"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The cup-of-wrath trajectory and polarity flip",
+      "what": "Map the cup-of-wrath chain from its OT origins through Revelation, showing how the same cup that intoxicates (Babylon's side) becomes the cup that judges (God's side)",
+      "why": "The polarity flip where Babylon's seductive wine becomes God's wrath-wine is the theological hinge of the fall announcement — the drinking IS the punishment",
+      "how": "Trace the cup from Psa 75:8 through Isa 51:17, Jer 25:15, Jer 51:7 to Rev 14:8, 14:10, 16:19, 18:6, 19:15",
+      "narrative": "READ `$WORD_STUDIES/G2372-thumos.md` for the thumos study and `$WORD_STUDIES/G3709-orge.md` for the orge study. READ `$WORD_STUDIES/G3631-oinos.md` and `$WORD_STUDIES/TR-yayin-oinos.md` for the wine vocabulary chain. The prior study (3am-11) already traced the polarity flip where Rev 14:8 ends with 'her fornication' (tes porneias autes) and Rev 16:19 substitutes 'his wrath' (tes orges autou) — same structure, terminal genitive swapped. Run greek_parser.py --verse on Rev 14:8 and Rev 14:10 to show the cup shifting from Babylon's wine to God's wrath. The intensification from thumos alone (14:8) to thumos + orge + pantokrator (19:15) is 'the longest genitive chain in Revelation.' Also trace Psa 75:8 (H3563 kow-ce, cup), Isa 51:17 (cup of trembling), Jer 25:15-17 (God gives the cup to Jeremiah), and Jer 51:7 (golden cup in Babylon's hand). Run hebrew_parser.py --verse on Jer 51:7 to extract kow-ce zahab (golden cup). READ `$WORD_STUDIES/H2534-chemah.md` for the Hebrew chemah/wrath vocabulary.",
+      "verses": [
+        "Rev 14:8",
+        "Rev 14:10",
+        "Rev 16:19",
+        "Rev 18:6",
+        "Rev 19:15",
+        "Psa 75:8",
+        "Isa 51:17",
+        "Jer 25:15-17",
+        "Jer 51:7"
+      ],
+      "strongs": [
+        "G2372",
+        "G3709",
+        "G3631",
+        "H3196",
+        "H2534",
+        "H3563"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Babylon's fall as consequence of rejecting the first angel",
+      "what": "Determine whether the text of Rev 14:6-8 establishes a causal sequence: first angel proclaims gospel, Babylon rejects it, therefore Babylon falls",
+      "why": "Both EGW and Bohr insist the fall results from rejecting the everlasting gospel — if the text supports this causal reading, it changes the meaning from 'Babylon will be destroyed' to 'Babylon has been made to fall by rejecting truth'",
+      "how": "Parse the hoti clause in Rev 14:8, examine the sequence of the three angels, and check whether the first angel's message is a CAUSE of the fall or merely precedes it",
+      "narrative": "Run greek_parser.py --verse on Rev 14:8 focusing on the hoti clause. Is hoti causal ('because') or explanatory ('that')? If causal, the verse says Babylon fell BECAUSE she made all nations drink — and this drinking is the rejection of the first angel's message. The sequential placement (first angel in vv.6-7, second angel in v.8) may be merely literary ordering or may imply causation. READ `$WORD_STUDIES/G4202-porneia.md` and `$WORD_STUDIES/G4204-porne.md` for the fornication/harlot vocabulary. The prior study (3am-09) established that the first angel's message IS the complete gospel. Bohr (3AM Lesson #25): 'Babylon fell because she did not heed the first angel's message.' This claim needs testing against the actual grammar. Also check whether Rev 14:8's pepotiken (perfect tense of potizo, G4222) indicates the intoxication was already complete when the fall is announced — suggesting the cause (making nations drunk) preceded the effect (falling).",
+      "verses": [
+        "Rev 14:6-7",
+        "Rev 14:8"
+      ],
+      "strongs": [
+        "G4202",
+        "G4222",
+        "G4098"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The sevenfold 'no more at all' and permanence of the fall",
+      "what": "Analyze the sevenfold ouketi ou me construction in Rev 18:21-23 and its finality implications",
+      "why": "The emphatic 'shall be found no more at all' repeated seven times with different subjects creates a comprehensive portrait of civilizational extinction — understanding this grammar establishes the totality and permanence of the fall",
+      "how": "Parse each 'no more' clause, identify its OT source, and assess the rhetorical function of sevenfold repetition",
+      "narrative": "Run greek_parser.py --verse on Rev 18:21, 18:22, and 18:23 to extract each ouketi ou me (emphatic double negation) clause. READ `$GRAMMAR_REF/greek/emphatic-double-negation-ou-me.md` for the grammar reference on this construction. The seven items silenced: (1) Babylon herself found no more (v.21), (2) musicians (v.22a), (3) craftsmen (v.22b), (4) sound of millstone (v.22c), (5) light of a lamp (v.23a), (6) voice of bridegroom and bride (v.23b), (7) the reason clause about merchants/pharmakeia (v.23c). The silenced musicians echo Ezek 26:13 (Tyre); the silenced bride echoes Jer 7:34; 16:9; 25:10 (Jerusalem warnings). This means Babylon's final state is worse than what Jeremiah warned for Jerusalem. Run cross_testament_parallels_v2.py on Rev 18:22 to find the OT echoes. The rhetorical function of sevenfold repetition in Revelation (seven churches, seven seals, seven trumpets) suggests completeness.",
+      "verses": [
+        "Rev 18:21-23",
+        "Ezek 26:13",
+        "Jer 7:34",
+        "Jer 25:10"
+      ],
+      "strongs": [
+        "G3458",
+        "G3364"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G4098",
+      "word": "pipto",
+      "reason": "Core verb — epesen in Rev 14:8 and 18:2; the fall itself"
+    },
+    {
+      "strongs": "H5307",
+      "word": "naphal",
+      "reason": "Hebrew counterpart in Isa 21:9 — naphlah naphlah babel"
+    },
+    {
+      "strongs": "G2372",
+      "word": "thumos",
+      "reason": "Wrath/passion — central to the wine-of-wrath genitive chain in 14:8"
+    },
+    {
+      "strongs": "G3709",
+      "word": "orge",
+      "reason": "Wrath — the polarity flip endpoint in 16:19 and climax in 19:15"
+    },
+    {
+      "strongs": "G3631",
+      "word": "oinos",
+      "reason": "Wine — vehicle of both intoxication and judgment"
+    },
+    {
+      "strongs": "G4202",
+      "word": "porneia",
+      "reason": "Fornication — the terminal genitive in 14:8's genitive chain"
+    },
+    {
+      "strongs": "G5331",
+      "word": "pharmakeia",
+      "reason": "Sorcery — how Babylon deceives nations (Rev 18:23), Nahum 3:4 LXX parallel"
+    },
+    {
+      "strongs": "G1831",
+      "word": "exerchomai",
+      "reason": "Come out — the separation call in Rev 18:4, from Jer 51:45"
+    },
+    {
+      "strongs": "G897",
+      "word": "Babylon",
+      "reason": "The name itself — from H894 babel/balal, mixture/confusion etymology"
+    },
+    {
+      "strongs": "H894",
+      "word": "babel",
+      "reason": "Hebrew Babylon — Gen 11:9 balal etymology, confusion/mixture"
+    },
+    {
+      "strongs": "G3458",
+      "word": "mylos",
+      "reason": "Millstone — the closing prophetic-action image in Rev 18:21"
+    },
+    {
+      "strongs": "H68",
+      "word": "eben",
+      "reason": "Stone — Jeremiah's eben cast into Euphrates (Jer 51:63-64)"
+    },
+    {
+      "strongs": "G5610",
+      "word": "hora",
+      "reason": "Hour — the threefold 'in one hour' refrain (18:10,17,19)"
+    },
+    {
+      "strongs": "G1713",
+      "word": "emporos",
+      "reason": "Merchant — Rev 18:3,11,15,23; from Isa 23:8 LXX (Tyre's merchants)"
+    },
+    {
+      "strongs": "G4204",
+      "word": "porne",
+      "reason": "Harlot — Babylon's characterization in Rev 17:1,5,15,16"
+    },
+    {
+      "strongs": "H2534",
+      "word": "chemah",
+      "reason": "Wrath/fury — Hebrew counterpart to thumos in prophetic tradition"
+    },
+    {
+      "strongs": "G946",
+      "word": "bdelygma",
+      "reason": "Abomination — fills Babylon's cup (Rev 17:4), categories of false teaching"
+    },
+    {
+      "strongs": "G3173",
+      "word": "megas",
+      "reason": "Great — 'Babylon the Great' title, scale of fall"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:8",
+      "reason": "Doubled epesen morphology, pepotiken perfect tense, full genitive chain"
+    },
+    {
+      "verse": "Rev 18:2",
+      "reason": "Second epesen doubling, added desolation vocabulary"
+    },
+    {
+      "verse": "Isa 21:9",
+      "reason": "Hebrew naphlah naphlah babel — source template for the doubled fall"
+    },
+    {
+      "verse": "Rev 18:10",
+      "reason": "First mia hora refrain — kings' lament grammar"
+    },
+    {
+      "verse": "Rev 18:17",
+      "reason": "Second mia hora refrain — merchants' lament grammar"
+    },
+    {
+      "verse": "Rev 18:21",
+      "reason": "Millstone casting — ballo and mylos vocabulary"
+    },
+    {
+      "verse": "Jer 51:7",
+      "reason": "Golden cup Hebrew — kow-ce zahab construction"
+    },
+    {
+      "verse": "Jer 51:63-64",
+      "reason": "Stone into Euphrates — eben and prophetic-action grammar"
+    },
+    {
+      "verse": "Rev 18:7",
+      "reason": "Queen hubris soliloquy — comparison with Isa 47:7-8"
+    },
+    {
+      "verse": "Isa 47:9",
+      "reason": "In one day / in a moment — Hebrew time constructions for sudden judgment"
+    },
+    {
+      "verse": "Rev 18:23",
+      "reason": "Pharmakeia clause — sorcery vocabulary and Nahum 3:4 LXX connection"
+    },
+    {
+      "verse": "Nahum 3:4",
+      "reason": "LXX pharmakeia usage — source for Rev 18:23's sorcery language"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:8",
+      "reason": "OT and NT parallels for the doubled fall announcement"
+    },
+    {
+      "verse": "Rev 18:2",
+      "reason": "OT sources for desolation/demon-dwelling imagery"
+    },
+    {
+      "verse": "Rev 18:21",
+      "reason": "OT background for millstone/stone-into-water imagery"
+    },
+    {
+      "verse": "Rev 18:22",
+      "reason": "OT sources for silenced musicians (Ezek 26:13, Jer 25:10)"
+    },
+    {
+      "verse": "Jer 51:7",
+      "reason": "NT echoes of the golden cup passage"
+    },
+    {
+      "verse": "Jer 51:63",
+      "reason": "NT echoes of the stone-into-Euphrates symbolic action"
+    },
+    {
+      "verse": "Isa 21:9",
+      "reason": "NT appropriations of the watchman-announces-fall pattern"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G4098-pipto.md",
+        "description": "pipto (fall), G4098 — the verb behind epesen"
+      },
+      {
+        "path": "$WORD_STUDIES/H5307-naphal.md",
+        "description": "naphal (fall), H5307 — Hebrew counterpart"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-naphal-pipto.md",
+        "description": "naphal-pipto translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/G2372-thumos.md",
+        "description": "thumos (wrath/passion), G2372"
+      },
+      {
+        "path": "$WORD_STUDIES/G3709-orge.md",
+        "description": "orge (wrath), G3709"
+      },
+      {
+        "path": "$WORD_STUDIES/G3631-oinos.md",
+        "description": "oinos (wine), G3631"
+      },
+      {
+        "path": "$WORD_STUDIES/H3196-yayin.md",
+        "description": "yayin (wine), H3196"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yayin-oinos.md",
+        "description": "yayin-oinos translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/G4202-porneia.md",
+        "description": "porneia (fornication), G4202"
+      },
+      {
+        "path": "$WORD_STUDIES/G4203-porneuo.md",
+        "description": "porneuo (to commit fornication), G4203"
+      },
+      {
+        "path": "$WORD_STUDIES/G4204-porne.md",
+        "description": "porne (harlot), G4204"
+      },
+      {
+        "path": "$WORD_STUDIES/G4205-pornos.md",
+        "description": "pornos (fornicator), G4205"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-zanah-porne.md",
+        "description": "zanah-porne translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/H2181-zanah.md",
+        "description": "zanah (commit fornication), H2181"
+      },
+      {
+        "path": "$WORD_STUDIES/G5331-pharmakeia.md",
+        "description": "pharmakeia (sorcery), G5331"
+      },
+      {
+        "path": "$WORD_STUDIES/G1831-exerchomai.md",
+        "description": "exerchomai (come out), G1831"
+      },
+      {
+        "path": "$WORD_STUDIES/G897-babylon.md",
+        "description": "Babylon, G897"
+      },
+      {
+        "path": "$WORD_STUDIES/H894-babel.md",
+        "description": "babel (Babylon), H894"
+      },
+      {
+        "path": "$WORD_STUDIES/H68-eben.md",
+        "description": "eben (stone), H68"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-eben-lithos.md",
+        "description": "eben-lithos translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/G5610-hora.md",
+        "description": "hora (hour), G5610"
+      },
+      {
+        "path": "$WORD_STUDIES/G2250-hemera.md",
+        "description": "hemera (day), G2250"
+      },
+      {
+        "path": "$WORD_STUDIES/H2534-chemah.md",
+        "description": "chemah (wrath/fury), H2534"
+      },
+      {
+        "path": "$WORD_STUDIES/G946-bdelygma.md",
+        "description": "bdelygma (abomination), G946"
+      },
+      {
+        "path": "$WORD_STUDIES/H8441-towebah.md",
+        "description": "towebah (abomination), H8441"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-towebah-bdelygma.md",
+        "description": "towebah-bdelygma translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shiqquwts-bdelygma.md",
+        "description": "shiqquwts-bdelygma translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/G3173-megas.md",
+        "description": "megas (great), G3173"
+      },
+      {
+        "path": "$WORD_STUDIES/G3466-mysterion.md",
+        "description": "mysterion (mystery), G3466 — MYSTERY BABYLON"
+      },
+      {
+        "path": "$WORD_STUDIES/H1101-balal.md",
+        "description": "balal (mix/confuse), H1101 — Babylon's etymology"
+      },
+      {
+        "path": "$WORD_STUDIES/H4325-mayim.md",
+        "description": "mayim (waters), H4325 — many waters of Rev 17:1"
+      },
+      {
+        "path": "$WORD_STUDIES/G1411-dynamis.md",
+        "description": "dynamis (power), G1411"
+      },
+      {
+        "path": "$WORD_STUDIES/G1093-ge.md",
+        "description": "ge (earth), G1093"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fall.md",
+        "description": "Word group: fall vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wine.md",
+        "description": "Word group: wine vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wrath.md",
+        "description": "Word group: wrath vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fornication.md",
+        "description": "Word group: fornication vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-sorcery.md",
+        "description": "Word group: sorcery vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-desolate.md",
+        "description": "Word group: desolation vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-habitation.md",
+        "description": "Word group: habitation vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-destroy.md",
+        "description": "Word group: destruction vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-weeping.md",
+        "description": "Word group: weeping vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-hebrew-wrath.md",
+        "description": "Word group: Hebrew wrath vocabulary"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/tense-aorist-prophetic.md",
+        "description": "Prophetic/proleptic aorist — the grammatical category for epesen"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect.md",
+        "description": "Perfect tense — for pepotiken in Rev 14:8"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect-indicative.md",
+        "description": "Perfect indicative — pepotiken morphology"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/emphatic-double-negation-ou-me.md",
+        "description": "Emphatic double negation — ouketi ou me in Rev 18:21-23"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/genitive-of-quality-apposition.md",
+        "description": "Genitive of quality — the genitive chain in Rev 14:8"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/mood-aorist-imperative.md",
+        "description": "Aorist imperative — exelthate in Rev 18:4"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-14-6-12.md",
+        "description": "Passage analysis: Rev 14:6-12 (three angels)"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-14-8-11.md",
+        "description": "Passage analysis: Rev 14:8-11 (second and third angels)"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-17-1-6.md",
+        "description": "Passage analysis: Rev 17:1-6 (harlot portrait)"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/rev-18-1-8.md",
+        "description": "Passage analysis: Rev 18:1-8 (fall announcement expansion)"
+      },
+      {
+        "path": "$GRAMMAR_REF/passages/ezk-28-isa-14-rev-18-self-deification-speech-formulas.md",
+        "description": "Self-deification speech formulas across Ezek 28, Isa 14, Rev 18"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/proleptic-present-tense.md",
+        "description": "Proleptic present tense — related proleptic category"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/apocalyptic-narrative-prolepsis.md",
+        "description": "Apocalyptic narrative prolepsis — broader proleptic pattern in Revelation"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G4222",
+      "word": "potizo",
+      "reason": "pepotiken in Rev 14:8 — 'has made to drink' — central to intoxication imagery"
+    },
+    {
+      "strongs": "G1713",
+      "word": "emporos",
+      "reason": "Merchant — key figure in Rev 18 lament, Isa 23:8 LXX connection"
+    },
+    {
+      "strongs": "G3458",
+      "word": "mylos",
+      "reason": "Millstone — closing prophetic-action image in Rev 18:21"
+    },
+    {
+      "strongs": "G3037",
+      "word": "lithos",
+      "reason": "Stone — needed for millstone comparison with Jer 51:63"
+    },
+    {
+      "strongs": "H3563",
+      "word": "kowce",
+      "reason": "Cup — the golden cup in Jer 51:7 and the wrath-cup trajectory"
+    },
+    {
+      "strongs": "H6597",
+      "word": "pithom",
+      "reason": "Suddenly — Jer 51:8's adverb for Babylon's sudden fall"
+    },
+    {
+      "strongs": "G3364",
+      "word": "ou me",
+      "reason": "Emphatic negation particle — sevenfold 'no more at all' construction"
+    },
+    {
+      "strongs": "",
+      "word": "Epizeuxis (rhetorical figure)",
+      "reason": "Immediate repetition for emphasis — classification of the doubled epesen"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "BABYLON",
+      "subtopic": "CITY OF / FIGURATIVE",
+      "verse_count": 45
+    },
+    {
+      "name": "MILLSTONE",
+      "subtopic": "GENERAL",
+      "verse_count": 5
+    },
+    {
+      "name": "WATCHMAN",
+      "subtopic": "GENERAL",
+      "verse_count": 12
+    },
+    {
+      "name": "WINE",
+      "subtopic": "FIGURATIVE / ABOMINATIONS",
+      "verse_count": 30
+    },
+    {
+      "name": "WINE PRESS",
+      "subtopic": "FIGURATIVE",
+      "verse_count": 5
+    },
+    {
+      "name": "TYRE",
+      "subtopic": "PROPHECIES / COMMERCE",
+      "verse_count": 18
+    },
+    {
+      "name": "NINEVEH",
+      "subtopic": "PROPHECIES AGAINST",
+      "verse_count": 8
+    },
+    {
+      "name": "SODOM",
+      "subtopic": "DESTROYED / FIGURATIVE",
+      "verse_count": 15
+    },
+    {
+      "name": "EUPHRATES",
+      "subtopic": "SYMBOLICAL",
+      "verse_count": 12
+    },
+    {
+      "name": "CYRUS",
+      "subtopic": "PROPHECIES CONCERNING",
+      "verse_count": 10
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL / ACCORDING TO WORKS",
+      "verse_count": 50
+    },
+    {
+      "name": "APOSTASY",
+      "subtopic": "LATTER DAYS",
+      "verse_count": 20
+    },
+    {
+      "name": "WEEPING",
+      "subtopic": "IN DESTRUCTION",
+      "verse_count": 10
+    },
+    {
+      "name": "SYMBOLS AND SIMILITUDES",
+      "subtopic": "GENERAL",
+      "verse_count": 40
+    },
+    {
+      "name": "LAMENTATIONS",
+      "subtopic": "GENERAL",
+      "verse_count": 5
+    },
+    {
+      "name": "PROPHECY",
+      "subtopic": "CONCERNING NATIONS",
+      "verse_count": 30
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW (GC 389-390)",
+      "claim": "The fall of Babylon is progressive — 'the change is a progressive one, and the perfect fulfillment of Revelation 14:8 is yet future'",
+      "directive": "Verify whether biblical text supports staged fulfillment: does the expansion from Rev 14:8 to Rev 18:2 indicate progressive deepening or simply narrative expansion?"
+    },
+    {
+      "source": "EGW (ST1853 113.3)",
+      "claim": "The second angel's message 'has also been fulfilled' — announced in 1844 and 'called many thousands from the different churches'",
+      "directive": "Check whether the text of Rev 14:8 supports a past-tense application (1844) while awaiting future completion — does the prophetic aorist allow for partial fulfillment?"
+    },
+    {
+      "source": "EGW (TM 59.1)",
+      "claim": "Rev 14:8 is the initial proclamation; Rev 18:1-5 is the second, expanded proclamation by an earth-illuminating angel — 'this same message is to be proclaimed the second time'",
+      "directive": "Verify whether Rev 18:1-5 is textually distinct from Rev 14:8 in vocabulary, scope, and context — does the text support two distinct proclamation phases?"
+    },
+    {
+      "source": "EGW (CFL 45.3)",
+      "claim": "The fall will be 'ultimately fulfilled in the future when unfaithful churches unite with the state to create laws against fourth commandment observance'",
+      "directive": "Check whether the text of Rev 17-18 specifies church-state union as the mechanism of Babylon's fall, or whether this is interpretive inference"
+    },
+    {
+      "source": "Bohr (3AM Lesson #25)",
+      "claim": "Babylon fell because she did not heed the first angel's message — the fall is a consequence of rejecting the everlasting gospel",
+      "directive": "Parse the hoti clause in Rev 14:8 to determine if it is causal or explanatory. Check whether the sequential placement of the three angels implies causation."
+    },
+    {
+      "source": "Bohr (GPOT2V1 Lesson #8)",
+      "claim": "Catalogs Jer/Rev Babylon parallels including earthquake, wrath-wine, plagues, total destruction, merchants wailing, leaders falling, recompense",
+      "directive": "Verify each parallel in the actual text — Jer 50:46/Rev 16:17, Jer 51:57/Rev 14:10, Jer 50:13/Rev 16, Jer 51:58, Jer 51:8,54/Rev 18, Jer 50:35-37/Rev 19:15, Jer 50:29/Rev 18:6"
+    },
+    {
+      "source": "Haskell (SSP 312.2)",
+      "claim": "Rev 18:24 connects to Matt 23:34-35 — blood of prophets from Abel to Zechariah found in Babylon",
+      "directive": "Verify whether Rev 18:24's 'blood of prophets and saints' echoes Jesus' indictment in Matt 23:34-35 and whether this expands Babylon's guilt beyond one generation"
+    },
+    {
+      "source": "Guinness (p. 470)",
+      "claim": "The millstone image precludes preterist identification with first-century Rome since Rome was restored after 410 AD but Babylon's destruction is total and final",
+      "directive": "Check whether the sevenfold 'no more at all' construction (Rev 18:21-23) truly demands permanent, unrepeatable destruction or whether it could be hyperbolic prophetic language"
+    },
+    {
+      "source": "Wallace (GGBB p. 564)",
+      "claim": "The proleptic/prophetic aorist treats a future event as past to emphasize certainty — Rom 8:30 is the standard parallel",
+      "directive": "Apply Wallace's classification to Rev 14:8's epesen — confirm morphological match and assess whether 'proleptic aorist' is the best grammatical category or whether 'constative aorist' could also apply"
+    },
+    {
+      "source": "Bauckham (Climax of Prophecy)",
+      "claim": "The cargo list in Rev 18:12-13 contains 28 items structured in four groups of seven, modeled on Ezek 27:12-22",
+      "directive": "Count the items in Rev 18:12-13 to verify the 28-item / 4x7 claim. Compare with Ezek 27:12-22 to identify correspondence and divergence."
+    },
+    {
+      "source": "LaRondelle (Ministry 1989)",
+      "claim": "Five typological characteristics of ancient Babylon's fall serve as type for eschatological Babylon: enemy, Euphrates as wall, dried Euphrates as judgment, Cyrus/kings from east, faithful remnant",
+      "directive": "Verify each typological point against the text: Rev 16:12 (dried Euphrates), Rev 17:12-14 (kings), Dan 5 (historical fall). Does Revelation explicitly use each typological element?"
+    },
+    {
+      "source": "Perriman (postost.net 2016)",
+      "claim": "Rev 17-18 draws from OT sources beyond Jeremiah: Isa 47 (queen), Isa 13/34 (desolation), Ezek 26-27 (Tyre), Nahum 3 (sorcery), Zeph 2 (hubris), Isa 23 (merchants)",
+      "directive": "Verify each claimed allusion by comparing vocabulary: Isa 47:7-8 vs Rev 18:7, Ezek 26:13 vs Rev 18:22, Nahum 3:4 LXX pharmakeia vs Rev 18:23, Isa 23:8 LXX emporoi vs Rev 18:23"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "Core Babylon-fall announcements",
+      "description": "The three stages of the fall announcement: compact (14:8), expanded (18:1-3), lamented (18:9-19)",
+      "refs": [
+        "Rev 14:8",
+        "Rev 18:1-3",
+        "Rev 18:9-10",
+        "Rev 18:11-17a",
+        "Rev 18:17b-19"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Isaiah 21 watchman template",
+      "description": "The OT source passage for the doubled fall formula",
+      "refs": [
+        "Isa 21:1-10",
+        "Isa 21:9"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Isaiah 47 queen hubris",
+      "description": "The 'I sit as a queen' background and sudden judgment",
+      "refs": [
+        "Isa 47:7-9",
+        "Isa 47:11-13"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Jeremiah 50-51 primary parallels",
+      "description": "The direct verbal parallel source for Rev 17-18",
+      "refs": [
+        "Jer 50:29",
+        "Jer 50:39-40",
+        "Jer 51:6-9",
+        "Jer 51:13",
+        "Jer 51:45-49",
+        "Jer 51:63-64"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Cup-of-wrath trajectory",
+      "description": "The cup chain from Psalms through Revelation",
+      "refs": [
+        "Psa 75:8",
+        "Isa 51:17",
+        "Jer 25:15-17",
+        "Jer 51:7",
+        "Rev 14:8",
+        "Rev 14:10",
+        "Rev 16:19",
+        "Rev 18:6",
+        "Rev 19:15"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Millstone/stone chain",
+      "description": "The stone-into-water prophetic action and Jesus' millstone warning",
+      "refs": [
+        "Jer 51:63-64",
+        "Rev 18:21-24",
+        "Matt 18:6",
+        "Mark 9:42"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Broader allusion network (Tyre, Nineveh, Edom)",
+      "description": "Non-Jeremiah OT sources for Rev 17-18 imagery",
+      "refs": [
+        "Ezek 26:13",
+        "Ezek 27:12-25",
+        "Nahum 3:1-4",
+        "Isa 23:8-17",
+        "Isa 34:10-15",
+        "Zeph 2:13-15",
+        "Isa 13:19-22"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Rev 17-18 harlot and fall narrative",
+      "description": "The full Babylon judgment narrative",
+      "refs": [
+        "Rev 17:1-6",
+        "Rev 17:15-18",
+        "Rev 18:4-5",
+        "Rev 18:6-8",
+        "Rev 18:20",
+        "Rev 18:21-24",
+        "Rev 19:1-3"
+      ],
+      "full_chapter_context": true
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:6-12",
+    "Rev 17:1-18",
+    "Rev 18:1-24",
+    "Rev 19:1-5",
+    "Isa 21:1-10",
+    "Isa 47:1-15",
+    "Jer 51:1-64",
+    "Jer 50:1-46",
+    "Isa 13:1-22",
+    "Ezek 27:1-36"
+  ],
+  "research_instructions": "## Additional Directives\n\n1. **Verify the Isa 21:9 LXX → Rev 14:8 → Rev 18:2 chain verbatim:** Retrieve the LXX text of Isa 21:9 and compare word-for-word with the Greek of Rev 14:8 and Rev 18:2. Note any additions, omissions, or modifications John makes to the template.\n\n2. **Count the Rev 18:12-13 cargo list items:** Verify Bauckham's claim of exactly 28 items in four groups of seven. Identify the grouping logic and note where somaton kai psuchas anthropon falls.\n\n3. **Map the spatial motif in the laments:** The three mourning groups (kings, merchants, shipmasters) all stand 'afar off' (apo makrothen). Verify this phrase appears in all three laments and check whether it echoes any OT judgment-watching passages.\n\n4. **Check the Rev 18:1 earth-illumination language:** Parse ephotisthe he ge ek tes doxes autou and compare with Ezek 43:2 where God's glory returning causes the earth to shine. Is this a deliberate echo establishing the angel's authority?\n\n5. **Investigate the 'double unto her double' (Rev 18:6):** The diplosate ta dipla construction echoes Isa 40:2 ('double for all her sins') and Jer 16:18 ('recompense their iniquity and their sin double'). Parse both and determine whether Revelation inverts the Isaianic sense (comfort → judgment).\n\n6. **The blood-of-prophets vindication arc:** Rev 18:24 ('in her was found the blood of prophets and of saints') completes the arc from Rev 6:10 (martyrs' cry 'How long?') through Rev 18:20 ('God hath avenged you on her'). Trace this three-point arc and check whether the vocabulary is consistent across all three passages.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 54,
+    "primary_verses": 28,
+    "supporting_verses": 26,
+    "ot_verses": 14,
+    "nt_verses": 14,
+    "focus_area_count": 11,
+    "word_study_count": 18,
+    "parsing_count": 12,
+    "parallel_count": 7
+  }
+}

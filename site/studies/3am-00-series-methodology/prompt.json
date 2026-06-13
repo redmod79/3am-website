@@ -1,0 +1,1369 @@
+{
+  "question": "What is the purpose of this 22-study series on the Three Angels' Messages? How does it build on but go deeper than the Gospel Series (GSP), which proved the 3AM are the gospel? What is the relationship to the LGT, SV, and other series? Map the text of Rev 14:6-12 verse by verse and show how the 22 studies will cover every phrase, every theological connection, and every major objection. Include Rev 14:1-5 (preceding context) and Rev 14:13-20 (following context).",
+  "prior_research_summary": "15+ prior studies found with directly relevant findings. GSP series (gsp-10, gsp-12) established that the 3AM ARE the gospel through five independent lines of evidence. SV series (sv-21) established the judgment-vindication framework and the nitsdaq-matsdiqey-terountes chain. LGT series defined six interconnected claims relevant to Rev 14:5 and 14:12. Prior standalone studies (three-angels-messages, gospel-and-three-angels-messages, three-angels-gospel-ot-nt) provided element-by-element analysis of the passage. rev14-144000-sequence covered preceding context (14:1-5) and rev-14-harvest-of-earth covered following context (14:14-20). Web research identified scholarly consensus that Rev 12:1-15:4 forms the chiastic center of Revelation, BRI's competing-messages framework (dragon/beast vs. three angels), the thymos/orge wrath distinction, and four competing hermeneutical approaches (preterist, historicist, idealist, futurist).",
+  "required_verses": [
+    {
+      "ref": "Rev 14:1",
+      "reason": "Preceding context — Lamb on Mount Zion with 144,000, Father's name in foreheads (contrast with beast's mark)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:2-3",
+      "reason": "Preceding context — new song, redeemed from earth, the 144,000 as unique group",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 14:4",
+      "reason": "Preceding context — virgins, follow the Lamb, firstfruits (aparche G536)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:5",
+      "reason": "Preceding context — no guile, without fault (amomos G299) before throne — LGT connection to final generation character",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:6",
+      "reason": "FIRST ANGEL — angel in mid-heaven, everlasting gospel (euangelion aionion), preach to every nation/kindred/tongue/people",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:7",
+      "reason": "FIRST ANGEL — Fear God, give glory, hour of judgment come (krisis G2920), worship Creator (heaven/earth/sea/fountains = Exo 20:11 echo)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:8",
+      "reason": "SECOND ANGEL — Babylon fallen (pipto G4098), made nations drink wine of wrath of her fornication (porneia G4202)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:9-10",
+      "reason": "THIRD ANGEL — worship beast/image, receive mark → drink wine of wrath of God (thymos G2372), poured without mixture (akratos), fire and brimstone",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:11",
+      "reason": "THIRD ANGEL — smoke of torment ascends forever, no rest day nor night (anapausis G372 connection to Sabbath rest)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:12",
+      "reason": "Summary statement — patience (hupomone G5281) of the saints, commandments of God (entole G1785) + faith of Jesus (pistis G4102 Iesou G2424)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:13",
+      "reason": "Following context — blessed are the dead who die in the Lord, rest from labours, works follow them",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:14",
+      "reason": "Following context — Son of man on white cloud, golden crown (stephanos), sharp sickle = Dan 7:13 fulfillment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:15-16",
+      "reason": "Following context — grain harvest (therizo), temple angel, harvest ripe, earth reaped",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:17-18",
+      "reason": "Following context — grape harvest, altar-fire angel, vine of the earth, grapes fully ripe",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:19-20",
+      "reason": "Following context — winepress of wrath of God (lenos G3025), blood to horse bridles, outside the city",
+      "tier": "primary"
+    },
+    {
+      "ref": "Exo 20:11",
+      "reason": "Creator language directly echoed in Rev 14:7 — heaven, earth, sea; poieo/asah LXX bridge",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "Exact triad match with Rev 14:6-7,12 — fear God + commandments + judgment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:9-10",
+      "reason": "Judgment throne scene — source of 'hour of judgment' in Rev 14:7",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:13-14",
+      "reason": "Son of man coming on clouds — fulfilled in Rev 14:14",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 21:9",
+      "reason": "OT source for 'Babylon is fallen, is fallen' in Rev 14:8",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jer 51:7-8",
+      "reason": "Golden cup/wine imagery — Babylon as golden cup making nations drunk; source for Rev 14:8",
+      "tier": "primary"
+    },
+    {
+      "ref": "Joel 3:13",
+      "reason": "Dual harvest command — 'put ye in the sickle, for the harvest is ripe' + winepress treading; source for Rev 14:15-20",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 63:1-6",
+      "reason": "Winepress of divine judgment — OT background for Rev 14:19-20",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 19:24-25",
+      "reason": "Fire and brimstone on Sodom — OT background for Rev 14:10 imagery",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 1:6-9",
+      "reason": "heteros/allos distinction — condemns adding salvation CONDITIONS, not content; test for whether 3AM additions constitute 'another gospel'",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gal 3:8",
+      "reason": "Gospel preached beforehand to Abraham (proeuangelizomai hapax) — everlasting nature of the gospel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:22-31",
+      "reason": "Paul's Athens sermon contains same content profile as Rev 14:6-7 — Creator worship, coming judgment, call to repentance",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 13:1-10",
+      "reason": "Beast from sea — identity markers needed for understanding Rev 14:9-11 warning",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 13:11-18",
+      "reason": "Beast from earth — image, mark (charagma G5480), 666; direct antecedent to Rev 14:9-11",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 12:17",
+      "reason": "Remnant definition — keep commandments of God AND have testimony of Jesus; structural bridge to Rev 14:12",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 7:1-4",
+      "reason": "Sealing of 144,000 — seal (sphragis G4973) vs. mark (charagma G5480) contrast",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 8:14",
+      "reason": "Vindication (nitsdaq) — SV series foundational verse, judgment-hour framework for Rev 14:7",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 18:1-5",
+      "reason": "Loud cry repetition — 'come out of her my people' extends the three angels' messages",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 15:1-4",
+      "reason": "Victory song — those who have overcome the beast sing Moses/Lamb song; post-3AM outcome",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 10:7",
+      "reason": "Mystery of God finished — contextual bridge from Rev 10 to Rev 14",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 11:19",
+      "reason": "Ark of covenant opened in heaven — commandments connection to Rev 14:12",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 1:4",
+      "reason": "Chosen before foundation of world — gospel planned before creation (aionios dimension)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Gen 3:15",
+      "reason": "Protoevangelium — first gospel promise, beginning of the 'everlasting' chain",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Thess 2:3-12",
+      "reason": "Man of sin / mystery of iniquity — NT parallel to beast system",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 34:10",
+      "reason": "Edom's smoke ascending forever — OT pattern for 'forever and ever' language (permanent results, not endless process)",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jude 1:7",
+      "reason": "Sodom as example of 'eternal fire' — interpretive key for Rev 14:11",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 19:1-2",
+      "reason": "Final vindication declaration — double aorist completion of judgment arc begun in Rev 14:7",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 16:19",
+      "reason": "Babylon remembered — wrath of God arc from Rev 14:8 to 16:19",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 17:1-6",
+      "reason": "Harlot Babylon — mother-daughter structure, cup of abominations",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 4:1-11",
+      "reason": "Sabbath rest theology — connects to Rev 14:11 'no rest' and Rev 14:13 'rest from labours'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 34:10",
+      "reason": "Pattern for 'for ever and ever' meaning permanent results, not endless process",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 12:3",
+      "reason": "matsdiqey — those who turn many to righteousness; part of nitsdaq-matsdiqey-terountes chain from SV series",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 22:12",
+      "reason": "Coming judgment and rewards — 'my reward is with me'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 40:9",
+      "reason": "OT gospel proclamation — 'O Zion, that bringest good tidings'",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 52:7",
+      "reason": "Beautiful feet on mountains publishing peace — gospel proclamation",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The full text of Rev 14:6-12 mapped phrase by phrase to the 22-study series",
+      "what": "Map every clause and phrase of Rev 14:6-12 to specific studies in the 22-study series, showing that no phrase is left uncovered",
+      "why": "This is the core methodology question — the study must demonstrate that the series is comprehensive and that every theological element in the passage has a designated study",
+      "how": "Run greek_parser.py on Rev 14:6-12 to get the exact clause structure and vocabulary. Retrieve full chapter context for Rev 14. For each phrase, identify the theological theme it raises (gospel, fear/reverence, glory, judgment, creation-worship, Babylon, fornication, wrath, mark, beast, patience, commandments, faith) and map it to the appropriate study in the 22-study sequence. Show which studies handle which verses.",
+      "narrative": "This is the structural backbone of the methodology study. Run greek_parser.py --verse on EACH verse from Rev 14:6 through 14:12 to get the precise Greek clause structure, vocabulary, and syntax. Then map each phrase to a study number. For example: 'euangelion aionion' → study on the everlasting gospel identity; 'phobēthēte ton theon' → study on the fear of God; 'hē hōra tēs kriseōs autou' → study on the judgment hour; 'proskynēsate tō poiēsanti' → study on Creator worship and Sabbath. READ $WORD_STUDIES/G2098-euangelion.md, $WORD_STUDIES/G5399-phobeo.md, $WORD_STUDIES/G1391-doxa.md, $WORD_STUDIES/G2920-krisis.md, $WORD_STUDIES/G4352-proskyneo.md, $WORD_STUDIES/G4160-poieo.md for the vocabulary foundation. The mapping must be exhaustive — every Greek word must land in at least one study.",
+      "verses": [
+        "Rev 14:6",
+        "Rev 14:7",
+        "Rev 14:8",
+        "Rev 14:9",
+        "Rev 14:10",
+        "Rev 14:11",
+        "Rev 14:12"
+      ],
+      "strongs": [
+        "G2098",
+        "G166",
+        "G5399",
+        "G1391",
+        "G2920",
+        "G4352",
+        "G4160",
+        "G4098",
+        "G5480",
+        "G5281",
+        "G1785",
+        "G4102"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Preceding context: Rev 14:1-5 and the 144,000",
+      "what": "Analyze Rev 14:1-5 as the literary frame that precedes and contextualizes the three angels' messages",
+      "why": "The 144,000 on Mount Zion with the Lamb is the narrative setting for the three angels' messages — understanding who they are and what characterizes them (Father's name, new song, firstfruits, without fault) directly informs the meaning of the messages",
+      "how": "Retrieve full text of Rev 14:1-5 and run greek_parser.py on each verse. Trace the contrast between Father's name in foreheads (14:1) vs. beast's mark in forehead (13:16-17). Examine aparche (G536) and amomos (G299) vocabulary. Connect to LGT series claims about final generation character.",
+      "narrative": "READ $WORD_STUDIES/G536-aparche.md for the firstfruits concept and $WORD_STUDIES/G299-amomos.md (if it exists) for the 'without fault' sacrificial purity language. Run greek_parser.py --verse on Rev 14:1, 14:4, and 14:5. The preceding context establishes WHO delivers the three angels' messages and WHY — these are the redeemed who bear God's seal, follow the Lamb, and are characterized by truthfulness and blamelessness. The contrast between 14:1 (Father's name = seal) and 13:16-17 (beast's mark) frames the entire worship binary that the three angels articulate. READ $WORD_STUDIES/WG-sealing.md for the seal/mark contrast framework. Also run cross_testament_parallels_v2.py --hybrid-ot and --hybrid-nt on Rev 14:1 and Rev 14:5 to find OT background for the 144,000 description.",
+      "verses": [
+        "Rev 14:1",
+        "Rev 14:2-3",
+        "Rev 14:4",
+        "Rev 14:5",
+        "Rev 7:1-4",
+        "Rev 13:16-17"
+      ],
+      "strongs": [
+        "G536",
+        "G299",
+        "G721",
+        "G5480",
+        "G4973"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Following context: Rev 14:13-20 — the dual harvest",
+      "what": "Analyze Rev 14:13-20 as the eschatological outcome that follows the three angels' messages — showing what happens after the messages have done their polarizing work",
+      "why": "The harvest (14:14-20) is the direct consequence of the three angels' messages: the grain harvest gathers the righteous, the grape harvest judges the wicked. The beatitude (14:13) transitions from warning to promise.",
+      "how": "Retrieve full text of Rev 14:13-20. Run greek_parser.py on 14:13, 14:14, and 14:19. Trace the dual-harvest imagery to Joel 3:13 and Isa 63:1-6. Examine the stephanos crown (not diadema) on the Son of man. Connect altar-fire angel (14:18) to the SV altar-vindication arc.",
+      "narrative": "Run greek_parser.py --verse on Rev 14:13, Rev 14:14, and Rev 14:19. The beatitude in 14:13 uses makarios (READ $WORD_STUDIES/G3107-makarios.md) and anapauō (READ $WORD_STUDIES/G373-anapauo.md) — the contrast between the 'no rest' of beast-worshipers (14:11) and the 'rest' of the faithful (14:13) is a deliberate structural reversal. Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:15 to verify the Joel 3:13 connection. Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:19 for the Isa 63:1-6 winepress connection. The grain harvest (therizo, 14:15-16) vs. grape harvest (trygao, 14:17-20) split maps onto the worship binary established by the three angels: those who worship the Creator are harvested for salvation; those who worship the beast are harvested for judgment. READ the prior study rev-14-harvest-of-earth CONCLUSION.md for established findings.",
+      "verses": [
+        "Rev 14:13",
+        "Rev 14:14",
+        "Rev 14:15-16",
+        "Rev 14:17-18",
+        "Rev 14:19-20",
+        "Joel 3:13",
+        "Isa 63:1-6",
+        "Dan 7:13-14"
+      ],
+      "strongs": [
+        "G3107",
+        "G373",
+        "G2325",
+        "G3025",
+        "G2372",
+        "G4718"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "First angel elements: everlasting gospel, fear God, give glory, hour of judgment, Creator worship",
+      "what": "Analyze each element of the first angel's message (Rev 14:6-7) and map it to theological connections that will be developed in dedicated studies",
+      "why": "The first angel's message is the densest — it contains the gospel identity, the fear-glory-judgment triad, and the Creator-worship command. Each element connects to a major doctrine (gospel, Sabbath, sanctuary, judgment) and must be mapped to specific series studies.",
+      "how": "Run greek_parser.py on Rev 14:6-7. Analyze the anarthrous euangelion aionion construction. Trace the Exo 20:11 / Rev 14:7 creation formula connection. Examine the aorist elthen ('the hour has come') as the time-specific element distinguishing these messages from the general gospel.",
+      "narrative": "READ $WORD_STUDIES/G2098-euangelion.md and $WORD_STUDIES/G166-aionios.md for the 'everlasting gospel' phrase. The anarthrous construction (no definite article) is debated — Meyer claims it means 'eternal counsel of salvation' (qualitative, not indefinite). Prior study gsp-10 addressed this but the 3AM series must go deeper. READ $WORD_STUDIES/G5399-phobeo.md and $WORD_STUDIES/WG-fear.md for the 'fear God' command. READ $WORD_STUDIES/G1391-doxa.md and $WORD_STUDIES/WG-glory.md for 'give glory.' READ $WORD_STUDIES/G2920-krisis.md and $WORD_STUDIES/WG-judgment.md for 'hour of judgment.' READ $WORD_STUDIES/G4352-proskyneo.md and $WORD_STUDIES/WG-worship.md for Creator worship. Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:7 to verify the Exo 20:11 creation formula echo. READ $GRAMMAR_REF/greek/participle-legon-discourse.md for the legon construction that makes the commands the gospel's own words. The Eccl 12:13-14 structural parallel (fear God + commandments + judgment) is critical — run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:7 targeting Ecclesiastes.",
+      "verses": [
+        "Rev 14:6",
+        "Rev 14:7",
+        "Exo 20:11",
+        "Eccl 12:13-14",
+        "Acts 17:22-31",
+        "Dan 7:9-10",
+        "Gal 1:6-9",
+        "Gal 3:8"
+      ],
+      "strongs": [
+        "G2098",
+        "G2097",
+        "G166",
+        "G5399",
+        "G1391",
+        "G2920",
+        "G5610",
+        "G4352",
+        "G4160",
+        "G3772",
+        "G1093",
+        "G2281"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Second angel elements: Babylon's identity, fall, wine, and fornication",
+      "what": "Analyze each element of the second angel's message (Rev 14:8) and map it to theological connections for dedicated studies",
+      "why": "The second angel introduces the Babylon concept, the prophetic aorist ('is fallen, is fallen'), the wine-cup imagery, and the zanah/porneia covenantal vocabulary. Each element requires a study tracing OT roots and eschatological application.",
+      "how": "Run greek_parser.py on Rev 14:8. Trace the OT allusions to Isa 21:9 and Jer 51:7-8. Examine the prophetic aorist construction. Analyze thymos as 'turbulent passion/wrath' vs. orge as 'settled, enduring wrath'.",
+      "narrative": "READ $WORD_STUDIES/G897-babylon.md for the Babylon word study. READ $WORD_STUDIES/G4098-pipto.md for 'is fallen' (prophetic aorist). READ $WORD_STUDIES/G3631-oinos.md and $WORD_STUDIES/WG-wine.md for the wine imagery. READ $WORD_STUDIES/G4202-porneia.md and $WORD_STUDIES/WG-fornication.md for the fornication/harlotry covenantal vocabulary. READ $WORD_STUDIES/G2372-thumos.md for thymos. Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:8 to verify the Isa 21:9 and Jer 51:7-8 verbal parallels. The prior study rev-14-babylon-three-angels established that porneia requires prior covenant relationship — Babylon is apostate religion, not paganism. The series must also address the mother-daughter structure (Rev 17:5) and the 'my people' inside Babylon (Rev 18:4). The polarity flip between Rev 14:8 (Babylon's wine) and Rev 14:10 (God's wine) is a key structural observation from the prior study three-angels-gospel-ot-nt.",
+      "verses": [
+        "Rev 14:8",
+        "Isa 21:9",
+        "Jer 51:7-8",
+        "Rev 17:1-6",
+        "Rev 18:1-5",
+        "Rev 16:19"
+      ],
+      "strongs": [
+        "G897",
+        "G4098",
+        "G3631",
+        "G2372",
+        "G4202",
+        "G3173",
+        "G4095"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Third angel elements: beast worship, mark, wrath, torment, no rest",
+      "what": "Analyze each element of the third angel's message (Rev 14:9-11) and map it to theological connections for dedicated studies",
+      "why": "The third angel's message is the most controverted — it raises the beast identity, the mark, the nature of divine wrath, the fire-and-brimstone imagery, and the 'for ever and ever' duration question. Each element is a major study topic.",
+      "how": "Run greek_parser.py on Rev 14:9-11. Trace the charagma/sphragis parody antithesis. Examine the kekerasmenou akratou oxymoron. Analyze the 'no rest day nor night' as anti-Sabbath imagery.",
+      "narrative": "READ $WORD_STUDIES/G5480-charagma.md for the mark. READ $WORD_STUDIES/WG-mark.md for the mark word group. READ $WORD_STUDIES/WG-beast.md for the beast vocabulary. READ $WORD_STUDIES/G2372-thumos.md and $WORD_STUDIES/G3709-orge.md for the wrath terminology — Precept Austin claims thymos (turbulent commotion) and orge (settled vengeance) are distinct; verify this against the library entries. READ $WORD_STUDIES/G4221-poterion.md for the cup. The kekerasmenou akratou construction ('mixed unmixed' = undiluted) needs Greek parsing — run greek_parser.py --verse on Rev 14:10. The 'no rest day nor night' (Rev 14:11) using anapausis connects to Sabbath rest theology (Vos claims the beast-worshipers 'never attain the seventh day') — READ $WORD_STUDIES/G373-anapauo.md and $WORD_STUDIES/WG-rest.md. The 'for ever and ever' phrase needs the established pattern from the prior study for-ever-and-ever-revelation (Isa 34:10, Jude 7 = permanent results, not endless process). Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:10 for Gen 19:24-25 background.",
+      "verses": [
+        "Rev 14:9",
+        "Rev 14:10",
+        "Rev 14:11",
+        "Rev 13:1-10",
+        "Rev 13:11-18",
+        "Gen 19:24-25",
+        "Isa 34:10",
+        "Jude 1:7"
+      ],
+      "strongs": [
+        "G5480",
+        "G2372",
+        "G3709",
+        "G4221",
+        "G929",
+        "G2303",
+        "G373",
+        "G2306"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The saints described: Rev 14:12 as summary and the hupomone-entole-pistis triad",
+      "what": "Analyze Rev 14:12 as the climactic summary of the three angels' messages — the patience, commandments, and faith triad that describes the saints who heed the messages",
+      "why": "Rev 14:12 is the human response to the three angels' messages. It synthesizes the entire passage and connects to the LGT series (final generation character), the GSP series (faith of Jesus), and the SV series (commandment-keeping under judgment). The pistis Iesou genitive ambiguity (subjective vs. objective) is a critical interpretive issue.",
+      "how": "Run greek_parser.py on Rev 14:12. Analyze the hupomone-entole-pistis triad. Examine the pistis Iesou genitive. Connect to Rev 12:17 (same two markers: commandments + testimony). Connect to the Eccl 12:13-14 structural parallel.",
+      "narrative": "READ $WORD_STUDIES/G5281-hupomone.md for patience/endurance. READ $WORD_STUDIES/WG-patience.md for the patience word group. READ $WORD_STUDIES/G1785-entole.md and $WORD_STUDIES/WG-commandment.md for commandments. READ $WORD_STUDIES/G4102-pistis.md and $WORD_STUDIES/WG-faith.md for faith. READ $WORD_STUDIES/G2424-Iesous.md for Jesus. Run greek_parser.py --verse on Rev 14:12 to determine the exact grammatical relationship in pistis Iesou — is it subjective genitive ('the faith that Jesus had/exercised') or objective genitive ('faith in Jesus')? Prior study gsp-10 addressed this but the 3AM series must resolve it more fully. Run cross_testament_parallels_v2.py --hybrid-nt on Rev 14:12 to find NT parallels. Also compare with Rev 12:17 which has 'commandments of God' + 'testimony of Jesus Christ' — a structurally parallel pair. The tērountes (present active participle, 'those who keep') describes rather than prescribes — this was established in gsp-10 as the answer to the legalism objection.",
+      "verses": [
+        "Rev 14:12",
+        "Rev 12:17",
+        "Eccl 12:13-14",
+        "Gal 1:6-9",
+        "Rev 11:19"
+      ],
+      "strongs": [
+        "G5281",
+        "G1785",
+        "G4102",
+        "G2424",
+        "G5083"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Series methodology and structure: how the 22 studies relate to each other and to existing series",
+      "what": "Define the overall methodology of the 22-study series — how it builds on GSP, LGT, SV, and other series without duplicating them; how the studies sequence from introduction through verse-by-verse analysis to synthesis; how competing hermeneutical approaches are engaged",
+      "why": "This is a methodology study — it must establish the framework for all 21 subsequent studies. The relationship to prior series (GSP proved 3AM = gospel; SV proved judgment-vindication; LGT defined final generation claims) determines what the 3AM series must NOT re-prove and what it must go deeper on.",
+      "how": "Review all prior study findings from 00-references.md. Map the series structure showing which studies cover which verses, themes, and objections. Define the hermeneutical approach (historicist, grounded in exegesis) and how it engages the competing approaches (preterist, futurist, idealist).",
+      "narrative": "This focus area is not a verse study but a structural analysis. The research agent should READ the CONCLUSION.md files from: gsp-10-three-angels-gospel, gsp-12-everlasting-gospel, sv-21-three-angels, lgt-00-series-methodology, and three-angels-messages. Extract the key findings from each that the 3AM series builds on. Then map the 22-study series structure: which studies handle which verses, which themes, and which major objections. The BRI article argues the 3AM require analysis of Rev 12-13 as backdrop — this supports structuring early studies around the Rev 12-14 literary unit. The BRI teleological principle claim (3AM as integrating center of all doctrines) provides the rationale for showing connections to GSP, LGT, SV, and other series. The four hermeneutical approaches (preterist: beast = Nero; historicist: chronological church history; idealist: timeless principles; futurist: end-time Antichrist) must each be engaged with textual evidence. The competing-messages framework (dragon/beast messages in Rev 12-13 vs. three angels' counter-messages in Rev 14) should be verified structurally.",
+      "verses": [
+        "Rev 14:6-12",
+        "Rev 12:17",
+        "Rev 13:1-18"
+      ],
+      "strongs": [
+        "G2098",
+        "G4352",
+        "G2920"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The literary context: Rev 12-14 as a unified literary unit and chiastic center of Revelation",
+      "what": "Examine the scholarly claim that Rev 12:1-15:4 forms the chiastic center of Revelation and that the three angels' messages occupy the climactic resolution position",
+      "why": "If the chiastic placement is textually supported, it means the three angels' messages are not a peripheral detail but the theological climax of Revelation — this provides the rationale for a 22-study series and explains why these 7 verses integrate every major doctrine",
+      "how": "Examine the narrative flow from Rev 12:1 through 15:4. Identify linguistic and thematic links between the dragon/beast messages (Rev 12-13) and the three angels' counter-messages (Rev 14). Verify whether the proposed chiastic structure has textual evidence.",
+      "narrative": "This is a structural analysis. The research agent should retrieve full chapter context for Rev 12, 13, 14, and 15:1-4. Map the narrative sequence: dragon attacks woman (12:1-6) → war in heaven (12:7-12) → dragon pursues remnant (12:13-17) → beast from sea (13:1-10) → beast from earth (13:11-18) → 144,000 on Zion (14:1-5) → three angels (14:6-12) → harvest (14:13-20) → victory song (15:1-4). The competing-messages framework from BRI argues that each angel's message directly counters something from Rev 12-13: first angel's Creator-worship counters the beast's demand for worship (13:4,8,12); second angel's Babylon declaration exposes the beast's support system; third angel's mark warning directly opposes 13:16-17. Verify these structural links by examining shared vocabulary (proskyneo in 13:4,8,12,15 vs. 14:7,9,11; charagma in 13:16-17 vs. 14:9,11). Run cross_testament_parallels_v2.py --hybrid-nt on Rev 14:7 targeting Rev 12-13 for linguistic connections.",
+      "verses": [
+        "Rev 12:1-6",
+        "Rev 12:7-12",
+        "Rev 12:13-17",
+        "Rev 13:1-10",
+        "Rev 13:11-18",
+        "Rev 14:1-5",
+        "Rev 15:1-4"
+      ],
+      "strongs": [
+        "G4352",
+        "G5480",
+        "G1504",
+        "G2342"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Exo 20:11 / Rev 14:7 creation-worship connection and Sabbath implications",
+      "what": "Examine the verbal parallel between Rev 14:7 ('worship him that made heaven, and earth, and the sea') and Exo 20:11 ('in six days the LORD made heaven and earth, the sea') and its implications for Sabbath as part of the first angel's message",
+      "why": "Prior studies (gsp-10, gospel-and-three-angels-messages) verified the connection but noted the precise Sabbath implications as an 'open question.' This is a key issue the 3AM series must resolve. Bohr's Secrets Unsealed material explicitly identifies the seal as Sabbath and the mark as Sunday worship — this claim needs rigorous biblical verification.",
+      "how": "Run cross_testament_parallels_v2.py on Rev 14:7 and Exo 20:8-11. Examine the poieo/asah LXX bridge. Trace the three-element creation formula (heaven, earth, sea) across both passages. Examine whether the text makes the Sabbath connection explicit or whether it is inferred.",
+      "narrative": "READ $WORD_STUDIES/G4160-poieo.md for the 'made' verb and its LXX mapping to asah (H6213). Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:7 to verify the Exo 20:11 verbal parallel. Prior study gsp-10 confirmed this as the highest-confidence LXX pair with 2022 co-occurrences. But the question is whether Rev 14:7's echo of the Sabbath commandment constitutes an explicit or implicit call to Sabbath observance. Retrieve full text of Exo 20:8-11 and compare the three-element formula: heaven (ouranos/shamayim), earth (ge/erets), sea (thalassa/yam). Also check whether 'fountains of waters' (pegai hydaton) adds a fourth element not in Exo 20:11. Bohr claims the seal of God IS the Sabbath and the mark of the beast is Sunday worship — verify by examining Rev 7:2-3 (seal), Rev 14:1 (Father's name), Rev 13:16-17 (mark) for whether the Sabbath identification is textual or inferred. READ $WORD_STUDIES/WG-sabbath.md and $WORD_STUDIES/WG-sealing.md for background.",
+      "verses": [
+        "Rev 14:7",
+        "Exo 20:8-11",
+        "Rev 7:2-3",
+        "Rev 14:1",
+        "Rev 13:16-17",
+        "Gen 2:1-3"
+      ],
+      "strongs": [
+        "G4160",
+        "G3772",
+        "G1093",
+        "G2281",
+        "G4077",
+        "G4352"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Engaging the four hermeneutical approaches to Rev 14:6-12",
+      "what": "Map how preterist, historicist, idealist, and futurist schools interpret Rev 14:6-12, and determine which approach the text itself best supports",
+      "why": "The web research identified four competing frameworks that produce fundamentally different readings. The series must engage all four honestly rather than simply asserting one. This study establishes the hermeneutical framework for all subsequent studies.",
+      "how": "For each approach, identify its interpretation of key elements: the beast, the mark, Babylon, the judgment hour, the harvest. Compare against the text's own internal evidence: OT allusions, vocabulary patterns, narrative context.",
+      "narrative": "The preterist school (Doss, Aune, Bauckham) identifies the beast with Nero via Hebrew gematria (nrwn qsr = 666) and reads the passage as addressing first-century persecution. The historicist school reads it as unfolding through church history with end-time application. The idealist school sees timeless spiritual principles. The futurist school projects most content into the future. Each approach must be tested against the text's own evidence: Does the text identify the beast with past, present, or future figures? Does 'the hour of his judgment is come' (aorist elthen) refer to a past, present, or future event? Do the OT allusions (Isa 21:9, Jer 51:7, Joel 3:13) function as fulfilled prophecy or typological pattern? Run cross_testament_parallels_v2.py --hybrid-ot on Rev 14:8 and Rev 14:10 to verify OT allusion patterns. The Daniel connection (Rev 13 draws on Dan 7) is critical — if the beast is Daniel's fourth kingdom/little horn, this constrains identification to a historical-eschatological entity rather than purely first-century or purely future.",
+      "verses": [
+        "Rev 14:6-12",
+        "Rev 13:1-10",
+        "Rev 13:18",
+        "Dan 7:7-8",
+        "Dan 7:25",
+        "2 Thess 2:3-12"
+      ],
+      "strongs": [
+        "G2342",
+        "G5480",
+        "G897",
+        "G706"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "reason": "Core — 'everlasting gospel' in Rev 14:6, anarthrous construction debate"
+    },
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "reason": "Verb form — 'to preach' the gospel in Rev 14:6"
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "reason": "'Everlasting' — hapax pairing with euangelion in Scripture; temporal scope of the gospel"
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "reason": "'Fear God' in Rev 14:7 — reverence vs. terror distinction"
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "'Give glory to him' in Rev 14:7"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "'Judgment' in Rev 14:7 — connects to Dan 7:9-10 and sanctuary/judgment theology"
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "reason": "'Worship' — appears on both sides of the conflict (14:7 Creator, 14:9/11 beast)"
+    },
+    {
+      "strongs": "G4160",
+      "word": "poieo",
+      "reason": "'Made' heaven/earth/sea in Rev 14:7 — LXX bridge to Exo 20:11 asah"
+    },
+    {
+      "strongs": "G5480",
+      "word": "charagma",
+      "reason": "'Mark' of the beast in Rev 14:9,11 — parody antithesis with sphragis"
+    },
+    {
+      "strongs": "G4098",
+      "word": "pipto",
+      "reason": "'Is fallen' in Rev 14:8 — prophetic aorist construction"
+    },
+    {
+      "strongs": "G2372",
+      "word": "thumos",
+      "reason": "'Wrath' in Rev 14:8,10,19 — turbulent passion vs. orge settled wrath"
+    },
+    {
+      "strongs": "G3709",
+      "word": "orge",
+      "reason": "'Indignation' in Rev 14:10 — settled, enduring wrath; distinct from thumos"
+    },
+    {
+      "strongs": "G4202",
+      "word": "porneia",
+      "reason": "'Fornication' in Rev 14:8 — covenantal vocabulary requiring prior relationship"
+    },
+    {
+      "strongs": "G5281",
+      "word": "hupomone",
+      "reason": "'Patience' of the saints in Rev 14:12"
+    },
+    {
+      "strongs": "G1785",
+      "word": "entole",
+      "reason": "'Commandments' of God in Rev 14:12 — connects to Exo 20 and Rev 12:17"
+    },
+    {
+      "strongs": "G4102",
+      "word": "pistis",
+      "reason": "'Faith' of Jesus in Rev 14:12 — subjective vs. objective genitive"
+    },
+    {
+      "strongs": "G5083",
+      "word": "tereo",
+      "reason": "'Keep' the commandments in Rev 14:12 — present active participle, describes not prescribes"
+    },
+    {
+      "strongs": "G897",
+      "word": "Babylon",
+      "reason": "Proper noun used figuratively in Rev 14:8; traces to H894 babel (confusion)"
+    },
+    {
+      "strongs": "G3631",
+      "word": "oinos",
+      "reason": "'Wine' imagery in Rev 14:8,10 — polarity flip between Babylon's wine and God's wine"
+    },
+    {
+      "strongs": "G721",
+      "word": "arnion",
+      "reason": "'Lamb' in Rev 14:1,4,10 — diminutive form unique to Revelation"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:6",
+      "reason": "euangelion aionion anarthrous construction; euangelisai aorist infinitive; legon participle"
+    },
+    {
+      "verse": "Rev 14:7",
+      "reason": "phobethete aorist imperative; elthen aorist indicative (hour of judgment IS COME); proskynesate aorist imperative; poiesanti aorist participle"
+    },
+    {
+      "verse": "Rev 14:8",
+      "reason": "epesan prophetic aorist (is fallen); pepotiken perfect active indicative (has made drink)"
+    },
+    {
+      "verse": "Rev 14:9-10",
+      "reason": "ei tis + proskunei present indicative (conditional); lambanei present (receives); kekerasmenou akratou oxymoronic construction"
+    },
+    {
+      "verse": "Rev 14:11",
+      "reason": "anabainei present (ascendeth) — ongoing; echousin present (they have) — no rest; proskynountes present participle"
+    },
+    {
+      "verse": "Rev 14:12",
+      "reason": "hupomone nominative; terountes present active participle; pistis Iesou genitive construction"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "OT parallels — especially Exo 20:11 creation formula, Eccl 12:13-14 triad, Dan 7:9-10 judgment"
+    },
+    {
+      "verse": "Rev 14:8",
+      "reason": "OT parallels — Isa 21:9, Jer 51:7-8 Babylon fall and wine-cup imagery"
+    },
+    {
+      "verse": "Rev 14:10",
+      "reason": "OT parallels — Gen 19:24 fire and brimstone, Isa 34:10 forever imagery"
+    },
+    {
+      "verse": "Rev 14:14",
+      "reason": "OT/NT parallels — Dan 7:13 Son of man on clouds"
+    },
+    {
+      "verse": "Rev 14:19-20",
+      "reason": "OT parallels — Joel 3:13 harvest command, Isa 63:1-6 winepress"
+    },
+    {
+      "verse": "Rev 14:1",
+      "reason": "NT parallels — Rev 7:1-4 sealing, Rev 13:16-17 mark contrast"
+    },
+    {
+      "verse": "Rev 14:12",
+      "reason": "NT parallels — Rev 12:17 commandments + testimony, Eccl 12:13-14 triad"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G2098-euangelion.md",
+        "description": "euangelion (gospel), G2098"
+      },
+      {
+        "path": "$WORD_STUDIES/G2097-euangelizo.md",
+        "description": "euangelizo (to preach gospel), G2097"
+      },
+      {
+        "path": "$WORD_STUDIES/G166-aionios.md",
+        "description": "aionios (everlasting/eternal), G166"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (to fear), G5399"
+      },
+      {
+        "path": "$WORD_STUDIES/G5401-phobos.md",
+        "description": "phobos (fear), G5401"
+      },
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory), G1391"
+      },
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment), G2920"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (worship), G4352"
+      },
+      {
+        "path": "$WORD_STUDIES/G4160-poieo.md",
+        "description": "poieo (to make/do), G4160"
+      },
+      {
+        "path": "$WORD_STUDIES/G5480-charagma.md",
+        "description": "charagma (mark), G5480"
+      },
+      {
+        "path": "$WORD_STUDIES/G4098-pipto.md",
+        "description": "pipto (to fall), G4098"
+      },
+      {
+        "path": "$WORD_STUDIES/G2372-thumos.md",
+        "description": "thumos (wrath/passion), G2372"
+      },
+      {
+        "path": "$WORD_STUDIES/G3709-orge.md",
+        "description": "orge (wrath/indignation), G3709"
+      },
+      {
+        "path": "$WORD_STUDIES/G4202-porneia.md",
+        "description": "porneia (fornication), G4202"
+      },
+      {
+        "path": "$WORD_STUDIES/G5281-hupomone.md",
+        "description": "hupomone (patience/endurance), G5281"
+      },
+      {
+        "path": "$WORD_STUDIES/G1785-entole.md",
+        "description": "entole (commandment), G1785"
+      },
+      {
+        "path": "$WORD_STUDIES/G4102-pistis.md",
+        "description": "pistis (faith), G4102"
+      },
+      {
+        "path": "$WORD_STUDIES/G5083-tereo.md",
+        "description": "tereo (to keep/guard), G5083"
+      },
+      {
+        "path": "$WORD_STUDIES/G897-babylon.md",
+        "description": "Babylon, G897"
+      },
+      {
+        "path": "$WORD_STUDIES/G3631-oinos.md",
+        "description": "oinos (wine), G3631"
+      },
+      {
+        "path": "$WORD_STUDIES/G721-arnion.md",
+        "description": "arnion (lamb), G721"
+      },
+      {
+        "path": "$WORD_STUDIES/G536-aparche.md",
+        "description": "aparche (firstfruits), G536"
+      },
+      {
+        "path": "$WORD_STUDIES/G3107-makarios.md",
+        "description": "makarios (blessed), G3107"
+      },
+      {
+        "path": "$WORD_STUDIES/G373-anapauo.md",
+        "description": "anapauo (to rest), G373"
+      },
+      {
+        "path": "$WORD_STUDIES/G4221-poterion.md",
+        "description": "poterion (cup), G4221"
+      },
+      {
+        "path": "$WORD_STUDIES/G2041-ergon.md",
+        "description": "ergon (work), G2041"
+      },
+      {
+        "path": "$WORD_STUDIES/G5610-hora.md",
+        "description": "hora (hour), G5610"
+      },
+      {
+        "path": "$WORD_STUDIES/G2424-Iesous.md",
+        "description": "Iesous (Jesus), G2424"
+      },
+      {
+        "path": "$WORD_STUDIES/G3004-lego.md",
+        "description": "lego (to say), G3004"
+      },
+      {
+        "path": "$WORD_STUDIES/G2064-erchomai.md",
+        "description": "erchomai (to come), G2064"
+      },
+      {
+        "path": "$WORD_STUDIES/G4105-planao.md",
+        "description": "planao (to deceive/wander), G4105"
+      },
+      {
+        "path": "$WORD_STUDIES/G5590-psyche.md",
+        "description": "psyche (soul), G5590"
+      },
+      {
+        "path": "$WORD_STUDIES/G1484-ethnos.md",
+        "description": "ethnos (nation), G1484"
+      },
+      {
+        "path": "$WORD_STUDIES/G2992-laos.md",
+        "description": "laos (people), G2992"
+      },
+      {
+        "path": "$WORD_STUDIES/G2784-kerysso.md",
+        "description": "kerysso (to proclaim), G2784"
+      },
+      {
+        "path": "$WORD_STUDIES/G2782-kerygma.md",
+        "description": "kerygma (proclamation), G2782"
+      },
+      {
+        "path": "$WORD_STUDIES/G3173-megas.md",
+        "description": "megas (great), G3173"
+      },
+      {
+        "path": "$WORD_STUDIES/G3498-nekros.md",
+        "description": "nekros (dead), G3498"
+      },
+      {
+        "path": "$WORD_STUDIES/G4151-pneuma.md",
+        "description": "pneuma (spirit), G4151"
+      },
+      {
+        "path": "$WORD_STUDIES/G3956-pas.md",
+        "description": "pas (all/every), G3956"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-beast.md",
+        "description": "Beast word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-mark.md",
+        "description": "Mark word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-sealing.md",
+        "description": "Sealing word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-worship.md",
+        "description": "Worship word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fear.md",
+        "description": "Fear word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wrath.md",
+        "description": "Wrath word group (Hebrew)"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-lamb.md",
+        "description": "Lamb word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-gospel.md",
+        "description": "Gospel word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-judgment.md",
+        "description": "Judgment word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-faith.md",
+        "description": "Faith word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-patience.md",
+        "description": "Patience word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-commandment.md",
+        "description": "Commandment word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-commandment-keeping.md",
+        "description": "Commandment-keeping word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-glory.md",
+        "description": "Glory word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wine.md",
+        "description": "Wine word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fornication.md",
+        "description": "Fornication word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-rest.md",
+        "description": "Rest word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-sabbath.md",
+        "description": "Sabbath word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-forever.md",
+        "description": "Forever word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-dragon.md",
+        "description": "Dragon word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-image.md",
+        "description": "Image word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-smoke.md",
+        "description": "Smoke word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-created.md",
+        "description": "Created word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-salvation.md",
+        "description": "Salvation word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-remnant.md",
+        "description": "Remnant word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-perfection.md",
+        "description": "Perfection word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-deceit.md",
+        "description": "Deceit word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-crown.md",
+        "description": "Crown word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-cloud.md",
+        "description": "Cloud word group"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-harvest.md",
+        "description": "Harvest word group (if exists)"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/participle-legon-discourse.md",
+        "description": "Present participle legon as discourse connector — speech-introducing participle; Rev 14 parallel structure"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/apocalyptic-narrative-prolepsis.md",
+        "description": "Apocalyptic narrative prolepsis / visionary recursion — genre convention for Rev 12-14 structure"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/aorist-active-indicative-narrative-chain.md",
+        "description": "Aorist active indicative narrative chain — relevant to Rev 14 aorist verbs"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/purpose-clause-hina-me-aorist-subjunctive.md",
+        "description": "hina me + aorist subjunctive purpose clause — relevant to Rev 18:4 'come out' command"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/mood-aorist-imperative.md",
+        "description": "Aorist imperative — relevant to phobethete and proskynesate in Rev 14:7"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/divine-passive.md",
+        "description": "Divine passive (passivum divinum) — relevant to edothe in Rev 13:5,7"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/participle-perfect-passive-state.md",
+        "description": "Perfect passive participle — relevant to kekerasmenou in Rev 14:10"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/aorist-passive-indicative.md",
+        "description": "Aorist passive indicative — relevant to Rev 13:3 and edothe pattern"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/aorist-infinitive-accusative-of-duration.md",
+        "description": "Aorist infinitive + accusative of duration — relevant to Rev 13:5 poiesai menas"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G929",
+      "word": "basanismos",
+      "reason": "'Torment' in Rev 14:11 — key term in the third angel's message wrath/judgment imagery"
+    },
+    {
+      "strongs": "G2303",
+      "word": "theion",
+      "reason": "'Brimstone' in Rev 14:10 — fire and brimstone judgment imagery"
+    },
+    {
+      "strongs": "G2306",
+      "word": "theiodes",
+      "reason": "'Brimstone-like' (sulphurous) in Rev 9:17 — related to theion"
+    },
+    {
+      "strongs": "G4718",
+      "word": "staphyle",
+      "reason": "'Grapes' in Rev 14:18 — grape harvest imagery"
+    },
+    {
+      "strongs": "G4973",
+      "word": "sphragis",
+      "reason": "'Seal' in Rev 7:2 — antithesis to charagma; central to seal vs. mark contrast"
+    },
+    {
+      "strongs": "G1504",
+      "word": "eikon",
+      "reason": "'Image' of the beast in Rev 14:9,11 — what constitutes the image"
+    },
+    {
+      "strongs": "G2325",
+      "word": "therizo",
+      "reason": "'Reap' in Rev 14:15-16 — grain harvest verb (positive)"
+    },
+    {
+      "strongs": "G5166",
+      "word": "trygao",
+      "reason": "'Gather' in Rev 14:18 — grape harvest verb (negative)"
+    },
+    {
+      "strongs": "G4077",
+      "word": "pege",
+      "reason": "'Fountains' of waters in Rev 14:7 — fourth element beyond Exo 20:11 formula"
+    },
+    {
+      "strongs": "",
+      "word": "Greek prophetic aorist",
+      "reason": "The prophetic aorist in 'is fallen' (Rev 14:8) — grammar concept entry needed"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "GOSPEL",
+      "subtopic": "GENERAL",
+      "verse_count": 85
+    },
+    {
+      "name": "ANGEL (a spirit)",
+      "subtopic": "FUNCTIONS OF / MEDIUM OF REVELATION",
+      "verse_count": 120
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 62
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "COMMANDED / UNCLASSIFIED",
+      "verse_count": 95
+    },
+    {
+      "name": "BABYLON",
+      "subtopic": "FIGURATIVE / PROPHECIES",
+      "verse_count": 48
+    },
+    {
+      "name": "COMMANDMENTS",
+      "subtopic": "GENERAL",
+      "verse_count": 55
+    },
+    {
+      "name": "FAITH",
+      "subtopic": "GENERAL / IN CHRIST",
+      "verse_count": 180
+    },
+    {
+      "name": "HARVEST",
+      "subtopic": "FIGURATIVE",
+      "verse_count": 12
+    },
+    {
+      "name": "WINE PRESS",
+      "subtopic": "FIGURATIVE",
+      "verse_count": 8
+    },
+    {
+      "name": "FORNICATION",
+      "subtopic": "GENERAL",
+      "verse_count": 15
+    },
+    {
+      "name": "ANTICHRIST",
+      "subtopic": "GENERAL",
+      "verse_count": 9
+    },
+    {
+      "name": "SEAL",
+      "subtopic": "FIGURATIVE",
+      "verse_count": 18
+    },
+    {
+      "name": "VINEYARD",
+      "subtopic": "GENERAL",
+      "verse_count": 25
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "DENUNCIATIONS AGAINST",
+      "verse_count": 85
+    },
+    {
+      "name": "WRATH",
+      "subtopic": "CROSS-REFERENCE",
+      "verse_count": 5
+    },
+    {
+      "name": "EVERLASTING LIFE",
+      "subtopic": "GENERAL",
+      "verse_count": 30
+    },
+    {
+      "name": "GLORIFYING GOD",
+      "subtopic": "COMMANDED",
+      "verse_count": 28
+    },
+    {
+      "name": "SALVATION",
+      "subtopic": "GENERAL",
+      "verse_count": 60
+    },
+    {
+      "name": "PROCLAMATION",
+      "subtopic": "IMPERIAL",
+      "verse_count": 8
+    },
+    {
+      "name": "RIGHTEOUSNESS",
+      "subtopic": "BY FAITH",
+      "verse_count": 45
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "The third angel's message 'embraces' the first and second — they are a unified whole (1MR 57.2)",
+      "directive": "Verify by examining whether Rev 14:9-12 structurally presupposes and incorporates the content of 14:6-8 — does the third angel's warning about beast worship require the first angel's Creator worship as its antithesis?"
+    },
+    {
+      "source": "EGW",
+      "claim": "Distinction between 'the message of salvation preached in all ages' and 'this message' proclaiming the judgment hour (GC 355.3)",
+      "directive": "Verify by examining the grammatical distinction between aionios (modifying euangelion) and the aorist elthen (marking the judgment hour's arrival) in Rev 14:6-7 — does the text itself encode a dual-nature distinction?"
+    },
+    {
+      "source": "EGW",
+      "claim": "Rev 14 'will be repeated with distinct utterance' — connects to loud cry (18LtMs Ms 122 1903)",
+      "directive": "Verify by examining the relationship between Rev 14:6-12 and Rev 18:1-5 — does the Rev 18 angel repeat or amplify the three angels' messages?"
+    },
+    {
+      "source": "Bohr",
+      "claim": "The 3AM 'separates the world into two groups' — worship binary (3AM Lesson 22)",
+      "directive": "Verify by examining proskyneo usage in Rev 14:7 vs. 14:9,11 — does the text present a strict binary with no middle ground?"
+    },
+    {
+      "source": "Bohr",
+      "claim": "The seal of God is the Sabbath and the mark of the beast is Sunday worship (GPOT2V1 Lesson 6)",
+      "directive": "Verify by examining what the text itself says about the seal (Rev 7:2-3, 14:1 — Father's name) and the mark (Rev 13:16-17, 14:9-11 — charagma) — is the Sabbath/Sunday identification explicit or inferred?"
+    },
+    {
+      "source": "Bohr",
+      "claim": "legon in 14:7 links to euangelisai making the commands the gospel's own words (PPNB p. 78)",
+      "directive": "Already confirmed in prior studies (gsp-10, gospel-and-three-angels-messages). Verify by reading grammar reference entry participle-legon-discourse.md."
+    },
+    {
+      "source": "BRI",
+      "claim": "Proper exegesis requires analysis of Rev 12-13 as backdrop for the three angels' messages",
+      "directive": "Verify by examining narrative flow and shared vocabulary between Rev 12-13 (dragon/beast) and Rev 14 (three angels) — especially proskyneo, charagma, entole usage across the sections."
+    },
+    {
+      "source": "BRI",
+      "claim": "The 3AM function as the 'teleological principle' integrating all Adventist doctrines",
+      "directive": "Verify by mapping each phrase of Rev 14:6-12 to specific doctrinal connections (gospel, judgment, creation, Sabbath, sanctuary) using biblical text rather than systematic theology."
+    },
+    {
+      "source": "BRI",
+      "claim": "Worship is the central unifying theme across all three messages",
+      "directive": "Verify by tracing proskyneo (G4352) across all three messages — does worship language appear in each, and does it function as the organizing principle?"
+    },
+    {
+      "source": "Scholars (academia.edu)",
+      "claim": "Rev 12:1-15:4 forms the chiastic center of Revelation",
+      "directive": "Verify by examining the proposed chiastic pairs and whether textual evidence (vocabulary links, thematic parallels, structural markers) supports this structure."
+    },
+    {
+      "source": "Precept Austin",
+      "claim": "thymos (turbulent commotion) and orge (settled vengeance) are distinct wrath concepts",
+      "directive": "Verify by reading library entries G2372-thumos.md and G3709-orge.md and examining all uses of both in Revelation."
+    },
+    {
+      "source": "Precept Austin",
+      "claim": "kekerasmenou akratou is oxymoronic ('mixed unmixed' = undiluted)",
+      "directive": "Verify by parsing the Greek of Rev 14:10 — check whether kekerasmenou is perfect passive participle of kerannymi and akratou means 'unmixed/undiluted.'"
+    },
+    {
+      "source": "Doss/preterists",
+      "claim": "The beast's identity was well known to readers as Nero (Hebrew gematria nrwn qsr = 666)",
+      "directive": "Test against the text's own internal identification markers for the beast (Rev 13:1-10, 17:9-11) and whether Daniel's little horn connection supports or undermines the Nero reading."
+    },
+    {
+      "source": "Cambridge Bible",
+      "claim": "The first angel's message is 'pure, natural theism' rather than Christological content",
+      "directive": "Already refuted by gsp-10 (Acts 17:22-31 parallel). Verify by examining whether 'him that made' has specifically Christological resonances via John 1:3, Col 1:16, Heb 1:2."
+    },
+    {
+      "source": "Vos",
+      "claim": "The third angel's 'no rest day nor night' connects to Sabbath rest theology (never attaining 'the seventh day')",
+      "directive": "Verify by examining anapausis (G372) and anapauo (G373) in Rev 14:11,13 and their connection to Sabbath language in Heb 4:1-11."
+    },
+    {
+      "source": "Multiple commentators",
+      "claim": "The prophetic aorist in 'is fallen' (Rev 14:8) treats future judgment as already accomplished",
+      "directive": "Verify by parsing epesan in Rev 14:8 and examining other prophetic aorist uses in Revelation."
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "The three angels' messages text",
+      "description": "Complete text of Rev 14:6-12 — the passage being mapped",
+      "refs": [
+        "Rev 14:6",
+        "Rev 14:7",
+        "Rev 14:8",
+        "Rev 14:9-10",
+        "Rev 14:11",
+        "Rev 14:12"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Preceding context — the 144,000",
+      "description": "Rev 14:1-5 establishing the narrative frame",
+      "refs": [
+        "Rev 14:1",
+        "Rev 14:2-3",
+        "Rev 14:4",
+        "Rev 14:5"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Following context — the dual harvest",
+      "description": "Rev 14:13-20 showing the eschatological outcome",
+      "refs": [
+        "Rev 14:13",
+        "Rev 14:14",
+        "Rev 14:15-16",
+        "Rev 14:17-18",
+        "Rev 14:19-20"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "OT source passages",
+      "description": "Hebrew Bible texts echoed or alluded to in Rev 14",
+      "refs": [
+        "Exo 20:11",
+        "Eccl 12:13-14",
+        "Isa 21:9",
+        "Jer 51:7-8",
+        "Joel 3:13",
+        "Isa 63:1-6",
+        "Gen 19:24-25",
+        "Isa 34:10"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Daniel judgment/vindication passages",
+      "description": "Daniel texts underlying the judgment-hour framework",
+      "refs": [
+        "Dan 7:9-10",
+        "Dan 7:13-14",
+        "Dan 8:14"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Gospel identity passages",
+      "description": "NT texts establishing what the gospel is and is not",
+      "refs": [
+        "Gal 1:6-9",
+        "Gal 3:8",
+        "Acts 17:22-31"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Beast/mark antecedent passages",
+      "description": "Rev 12-13 texts that the three angels' messages directly respond to",
+      "refs": [
+        "Rev 12:17",
+        "Rev 13:1-10",
+        "Rev 13:11-18",
+        "Rev 7:1-4"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Post-3AM outcome passages",
+      "description": "Revelation texts showing what follows the messages",
+      "refs": [
+        "Rev 15:1-4",
+        "Rev 18:1-5",
+        "Rev 19:1-2"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Rev 12:1-17",
+    "Rev 13:1-18",
+    "Rev 15:1-8",
+    "Exo 20:1-17",
+    "Dan 7:1-28",
+    "Eccl 12:1-14",
+    "Isa 21:1-10",
+    "Jer 51:1-14",
+    "Joel 3:1-21",
+    "Acts 17:16-34",
+    "Gal 1:1-12"
+  ],
+  "research_instructions": "This is a METHODOLOGY study — it maps the text and establishes the series framework. The research agent must:\n\n1. **Map every phrase of Rev 14:6-12 to specific studies.** Run greek_parser.py on every verse from Rev 14:6 through Rev 14:12. List each Greek word/phrase and identify which study in the 22-study series will handle it.\n\n2. **Read ALL prior study conclusions.** The following study CONCLUSION.md files must be read and summarized: gsp-10-three-angels-gospel, gsp-12-everlasting-gospel, sv-21-three-angels, lgt-00-series-methodology, three-angels-messages, gospel-and-three-angels-messages, three-angels-gospel-ot-nt, rev14-144000-sequence, rev-14-harvest-of-earth, rev-14-babylon-three-angels, mark-of-beast-vs-seal-of-god, for-ever-and-ever-revelation, ecclesiastes-12-revelation-14-parallel.\n\n3. **Trace the relationship to GSP, LGT, and SV series.** What did each series establish that the 3AM series builds on? What questions did they leave open that the 3AM series must answer?\n\n4. **Engage all four hermeneutical approaches** with textual evidence, not assertion. The preterist, historicist, idealist, and futurist readings each have strengths — the text must adjudicate.\n\n5. **Verify the chiastic structure claim** — examine whether Rev 12:1-15:4 truly forms the structural center of Revelation by checking vocabulary links and thematic parallels.\n\n6. **Map the competing-messages framework** — trace shared vocabulary (proskyneo, charagma, entole, etc.) between Rev 12-13 and Rev 14 to verify that the three angels directly counter the dragon/beast.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 50,
+    "primary_verses": 30,
+    "supporting_verses": 20,
+    "ot_verses": 9,
+    "nt_verses": 21,
+    "focus_area_count": 11,
+    "word_study_count": 20,
+    "parsing_count": 6,
+    "parallel_count": 7
+  }
+}

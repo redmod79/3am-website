@@ -1,0 +1,59 @@
+# Hebrew Parsing — Raw Tool Output
+
+## Jer 51:7
+כֹּוס־זָהָב בָּבֶל בְּיַד־יְהוָה מְשַׁכֶּרֶת כָּל־הָאָרֶץ מִיֵּינָהּ שָׁתוּ גֹויִם עַל־כֵּן יִתְהֹלְלוּ גֹויִם
+
+kowc [Noun.fs.Cst] H3563 — cup (construct)
+zahab [Noun.ms.Abs] — gold
+babel [PropN] — Babylon
+beyad [Prep+Noun.s.Cst] — in-hand-of
+YHWH [PropN] — LORD
+meshakkeret [Verb.Piel.Ptcp.fs.Abs] H7937 shakar — making-drunk (Piel = causative)
+kol-ha'arets [Noun.ms.Cst + Art+Noun] — whole-the-earth
+miyeynah [Prep+Noun.ms.Abs+3fs] H3196 yayin — from-her-wine
+shathu [Verb.Qal.Perf.3p] H8354 — drank
+goyim [Noun.mp.Abs] — nations
+yitholelu [Verb.Hithpael.Impf.3mp] halal — went-mad/were-infatuated
+
+## Psa 75:8 (= 75:9 in Hebrew numbering)
+כִּי כֹוס בְּיַד־יְהוָה וְיַיִן חָמַר מָלֵא מֶסֶךְ
+
+kowc [Noun.fs.Abs] H3563 — cup
+beyad-YHWH — in-hand-of-LORD
+yayin [Noun.ms.Abs] H3196 — wine
+chamar [Verb.Qal.Perf.3ms] H2560 — was-red/foamed
+male [Adj.ms.Abs] — full
+mesek [Noun.ms.Abs] H4538 — mixture (mixed wine)
+shemareyha [Noun.mp.Abs+3fs] — dregs-of-it
+yimtsu [Verb.Qal.Impf.3mp] — drain
+yishttu [Verb.Qal.Impf.3mp] — drink
+kol rish'ey-arets — all wicked-of-earth
+
+## Hos 4:11
+זְנוּת וְיַיִן וְתִירוֹשׁ יִקַּח־לֵב
+
+zenuwth [Noun.fs.Abs] — fornication
+yayin [Noun.ms.Abs] H3196 — wine
+tirosh [Noun.ms.Abs] — new wine
+yiqqach [Verb.Qal.Impf.3ms] H3947 laqach — takes
+leb [Noun.ms.Abs] — heart
+
+KEY: laqach (H3947, to take) is the root of leqach (H3948, doctrine).
+Wine + fornication TAKE (laqach) the heart; doctrine IS what is TAKEN IN (leqach).
+
+## Isa 28:7
+וְגַם־אֵלֶּה בַּיַּיִן שָׁגוּ וּבַשֵּׁכָר תָּעוּ
+
+yayin [Noun.ms.Abs] H3196 — wine
+shagu [Verb.Qal.Perf.3p] H7686 — erred
+shekar [Noun.ms.Abs] H7941 — strong drink
+ta'u [Verb.Qal.Perf.3p] H8582 — wandered
+kohen [Noun.ms.Abs] — priest
+nabi [Noun.ms.Abs] — prophet
+nibla'u [Verb.Niphal.Perf.3p] H1104 — were swallowed up
+baro'eh — in-the-vision
+paqu [Verb.Qal.Perf.3p] H6328 — tottered
+peliliyah [Noun.fs.Abs] — judgment/decision
+
+Three verbs of progressive error: shagah (err) → ta'ah (wander) → bala' Niphal (be swallowed up)
+The effect: err in VISION, totter in JUDGMENT — wine destroys prophetic and judicial capacity

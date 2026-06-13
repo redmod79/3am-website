@@ -1,0 +1,128 @@
+
+======================================================================
+  Joshua 7:19
+======================================================================
+
+  וַיֹּ֨אמֶר יְהֹושֻׁ֜עַ אֶל־עָכָ֗ן בְּנִי֙ שִֽׂים־נָ֣א כָבֹ֗וד לַֽיהוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל וְתֶן־לֹ֣ו תֹודָ֑ה וְהַגֶּד־נָ֥א לִי֙ מֶ֣ה עָשִׂ֔יתָ אַל־תְּכַחֵ֖ד מִמֶּֽנִּי׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וַ              ו            Conj.+NAN                 and
+  יֹּ֨אמֶר        אמר          Verb.Qal.Wayq.3ms         say
+  יְהֹושֻׁ֜עַ     יהושׁע       PropN.ms.Abs.+NAN         Joshua
+  אֶל             אל           Prep                      to
+  עָכָ֗ן          עכן          PropN.ms.Abs.+NAN         Achan
+  בְּנִי֙         בן           Noun.ms.Abs.+1us          son
+  שִֽׂים          שׂים         Verb.Qal.Impv.2ms         put
+  נָ֣א            נא           Interj                    yeah
+  כָבֹ֗וד         כבוד         Noun.s.Abs                weight
+  לַֽ             ל            Prep                      to
+  יהוָ֛ה          יהוה         PropN.ms.Abs.+NAN         YHWH
+  אֱלֹהֵ֥י        אלהים        Noun.mp.Cst               god(s)
+  יִשְׂרָאֵ֖ל     ישׂראל       PropN.s.Abs.+NAN          Israel
+  וְ              ו            Conj.+NAN                 and
+  תֶן             נתן          Verb.Qal.Impv.2ms         give
+  לֹ֣ו            ל            Prep.+3ms                 to
+  תֹודָ֑ה         תודה         Noun.fs.Abs               thanksgiving
+  וְ              ו            Conj.+NAN                 and
+  הַגֶּד          נגד          Verb.Hiphil.Impv.2ms      report
+  נָ֥א            נא           Interj                    yeah
+  לִי֙            ל            Prep.+1us                 to
+  מֶ֣ה            מה           IntPron.unknown.+NAN      what
+  עָשִׂ֔יתָ       עשׂה         Verb.Qal.Perf.2ms         make
+  אַל             אל           Neg.+NAN                  not
+  תְּכַחֵ֖ד       כחד          Verb.Piel.Impf.2ms        hide
+  מִמֶּֽנִּי      מן           Prep.+1us                 from
+
+======================================================================
+  Malachi 2:2
+======================================================================
+
+  אִם־לֹ֣א תִשְׁמְע֡וּ וְאִם־לֹא֩ תָשִׂ֨ימוּ עַל־לֵ֜ב לָתֵ֧ת כָּבֹ֣וד לִשְׁמִ֗י אָמַר֙ יְהוָ֣ה צְבָאֹ֔ות וְשִׁלַּחְתִּ֤י בָכֶם֙ אֶת־הַמְּאֵרָ֔ה וְאָרֹותִ֖י אֶת־בִּרְכֹֽותֵיכֶ֑ם וְגַם֙ אָרֹותִ֔יהָ כִּ֥י אֵינְכֶ֖ם שָׂמִ֥ים עַל־לֵֽב׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  אִם             אם           Conj.+NAN                 if
+  לֹ֣א            לא           Neg.+NAN                  not
+  תִשְׁמְע֡וּ     שׁמע         Verb.Qal.Impf.2mp         hear
+  וְ              ו            Conj.+NAN                 and
+  אִם             אם           Conj.+NAN                 if
+  לֹא֩            לא           Neg.+NAN                  not
+  תָשִׂ֨ימוּ      שׂים         Verb.Qal.Impf.2mp         put
+  עַל             על           Prep                      upon
+  לֵ֜ב            לב           Noun.ms.Abs               heart
+  לָ              ל            Prep                      to
+  תֵ֧ת            נתן          Verb.Qal.InfCon.unknownunknown.Cst give
+  כָּבֹ֣וד        כבוד         Noun.s.Abs                weight
+  לִ              ל            Prep                      to
+  שְׁמִ֗י         שׁם          Noun.ms.Abs.+1us          name
+  אָמַר֙          אמר          Verb.Qal.Perf.3ms         say
+  יְהוָ֣ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  צְבָאֹ֔ות       צבא          Noun.mp.Abs               service
+  וְ              ו            Conj.+NAN                 and
+  שִׁלַּחְתִּ֤י   שׁלח         Verb.Piel.Perf.1s         send
+  בָכֶם֙          ב            Prep.+2mp                 in
+  אֶת             את           Prep                      <object marker>
+  הַ              ה            Art.+NAN                  the
+  מְּאֵרָ֔ה       מארה         Noun.fs.Abs               curse
+  וְ              ו            Conj.+NAN                 and
+  אָרֹותִ֖י       ארר          Verb.Qal.Perf.1s          curse
+  אֶת             את           Prep                      <object marker>
+  בִּרְכֹֽותֵיכֶ֑ם ברכה         Noun.fp.Abs.+2mp          blessing
+  וְ              ו            Conj.+NAN                 and
+  גַם֙            גם           Adv.+NAN                  even
+  אָרֹותִ֔יהָ     ארר          Verb.Qal.Perf.1s.+3fs     curse
+  כִּ֥י           כי           Conj.+NAN                 that
+  אֵינְכֶ֖ם       אין          Noun.ms.Abs.+2mp          <NEG>
+  שָׂמִ֥ים        שׂים         Verb.Qal.Ptcp.unknownmp.Abs put
+  עַל             על           Prep                      upon
+  לֵֽב            לב           Noun.ms.Abs               heart
+
+======================================================================
+  Exodus 33:18
+======================================================================
+
+  וַיֹּאמַ֑ר הַרְאֵ֥נִי נָ֖א אֶת־כְּבֹדֶֽךָ׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וַ              ו            Conj.+NAN                 and
+  יֹּאמַ֑ר        אמר          Verb.Qal.Wayq.3ms         say
+  הַרְאֵ֥נִי      ראה          Verb.Hiphil.Impv.2ms.+1us see
+  נָ֖א            נא           Interj                    yeah
+  אֶת             את           Prep                      <object marker>
+  כְּבֹדֶֽךָ      כבוד         Noun.s.Abs.+2ms           weight
+
+======================================================================
+  Exodus 33:19
+======================================================================
+
+  וַיֹּ֗אמֶר אֲנִ֨י אַעֲבִ֤יר כָּל־טוּבִי֙ עַל־פָּנֶ֔יךָ וְקָרָ֧אתִֽי בְשֵׁ֛ם יְהוָ֖ה לְפָנֶ֑יךָ וְחַנֹּתִי֙ אֶת־אֲשֶׁ֣ר אָחֹ֔ן וְרִחַמְתִּ֖י אֶת־אֲשֶׁ֥ר אֲרַחֵֽם׃ 
+
+  Hebrew          Lemma        Parsing                   Gloss
+  --------------- ------------ ------------------------- --------------------
+  וַ              ו            Conj.+NAN                 and
+  יֹּ֗אמֶר        אמר          Verb.Qal.Wayq.3ms         say
+  אֲנִ֨י          אני          PersPron.1s.+NAN          i
+  אַעֲבִ֤יר       עבר          Verb.Hiphil.Impf.1s       pass
+  כָּל            כל           Noun.ms.Cst               whole
+  טוּבִי֙         טוב          Noun.ms.Abs.+1us          best
+  עַל             על           Prep                      upon
+  פָּנֶ֔יךָ       פנה          Noun.mp.Abs.+2ms          face
+  וְ              ו            Conj.+NAN                 and
+  קָרָ֧אתִֽי      קרא          Verb.Qal.Perf.1s          call
+  בְ              ב            Prep                      in
+  שֵׁ֛ם           שׁם          Noun.ms.Cst               name
+  יְהוָ֖ה         יהוה         PropN.ms.Abs.+NAN         YHWH
+  לְ              ל            Prep                      to
+  פָנֶ֑יךָ        פנה          Noun.mp.Abs.+2ms          face
+  וְ              ו            Conj.+NAN                 and
+  חַנֹּתִי֙       חנן          Verb.Qal.Perf.1s          favour
+  אֶת             את           Prep                      <object marker>
+  אֲשֶׁ֣ר         אשׁר         Conj.+NAN                 <relative>
+  אָחֹ֔ן          חנן          Verb.Qal.Impf.1s          favour
+  וְ              ו            Conj.+NAN                 and
+  רִחַמְתִּ֖י     רחם          Verb.Piel.Perf.1s         have compassion
+  אֶת             את           Prep                      <object marker>
+  אֲשֶׁ֥ר         אשׁר         Conj.+NAN                 <relative>
+  אֲרַחֵֽם        רחם          Verb.Piel.Impf.1s         have compassion

@@ -1,0 +1,2485 @@
+{
+  "question": "What does hoti elthen he hora tes kriseos autou (\"for the hour of his judgment is come\") mean? What is this judgment -- the cross, the second coming, the investigative/pre-advent judgment, or something else? Why does the aorist elthen present it as an accomplished fact? How does krisis (G2920) differ from katakrima (G2631)? Trace krisis through the LXX to Daniel 7's dina. How does Daniel 7:22 establish this judgment is FOR believers? How can judgment be \"good news\"? Does the pre-advent judgment undermine assurance? Address using Daniel 12:1, 1 John 4:17, Romans 8:1,33-34, John 5:24. How does Romans 2:16 prove judgment IS gospel content?",
+  "topics": [
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_refs": [
+        "Psa 9:7",
+        "Psa 50:3-6",
+        "Psa 96:13",
+        "Ecc 12:14",
+        "Dan 7:9-10",
+        "Mat 12:36-37",
+        "Mat 22:11-13",
+        "Jhn 5:22",
+        "Act 17:31",
+        "Rom 2:5-16",
+        "1Co 3:13",
+        "2Co 5:10",
+        "Heb 9:27",
+        "1Jn 4:17",
+        "Rev 11:18",
+        "Rev 20:11-15"
+      ],
+      "entry_text": "THE GENERAL 1CH 16:33; JOB 14:17; 21:30; PSA 9:7; 50:3-6; 96:13; ECC 3:17; 11:9; 12:14; DAN 7:9,10; MAT 12:36,37; 22:11-13; 25:1-46; JHN 5:22; ACT 17:31; ROM 2:5-16; 14:10-12; 1CO 3:13; 2CO 5:10; 2TI 4:1,8; HEB 9:27; 1PE 4:5,7; 1JN 4:17; Jude 1:14,15; REV 11:18; 20:11-15; 22:12"
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "ACCORDING TO OPPORTUNITY AND WORKS",
+      "verse_refs": [
+        "Mat 25:14-30",
+        "Rom 2:5-12",
+        "1Co 3:12-15",
+        "Rev 20:12-13"
+      ],
+      "entry_text": "ACCORDING TO OPPORTUNITY AND WORKS GEN 4:7; JOB 34:11; PSA 62:12; MAT 25:14-30; ROM 2:5-12; 1CO 3:8,12-15; JAS 2:12,13; REV 2:23; 20:12,13"
+    },
+    {
+      "name": "ASSURANCE",
+      "subtopic": "SAINTS PRIVILEGED TO HAVE",
+      "verse_refs": [
+        "1Jn 5:13",
+        "Rom 8:38-39",
+        "Rom 5:1",
+        "Php 1:6",
+        "2Ti 4:7-8"
+      ],
+      "entry_text": "SAINTS PRIVILEGED TO HAVE -- Eternal life 1JN 5:13. Unalienable love ROM 8:38,39. Peace ROM 5:1. Continuance PHP 1:6. Crown 2TI 4:7,8"
+    },
+    {
+      "name": "BOOK",
+      "subtopic": "OF LIFE",
+      "verse_refs": [
+        "Exo 32:32-33",
+        "Psa 69:28",
+        "Dan 12:1",
+        "Php 4:3",
+        "Rev 3:5",
+        "Rev 13:8",
+        "Rev 20:12,15"
+      ],
+      "entry_text": "OF LIFE EXO 32:32,33; PSA 69:28; DAN 12:1; PHP 4:3; REV 3:5; 13:8; 20:12,15; 21:27"
+    },
+    {
+      "name": "BOOK",
+      "subtopic": "OF REMEMBRANCE",
+      "verse_refs": [
+        "Psa 56:8",
+        "Psa 139:16",
+        "Mal 3:16"
+      ],
+      "entry_text": "OF REMEMBRANCE PSA 56:8; 139:16; MAL 3:16"
+    },
+    {
+      "name": "SATAN",
+      "subtopic": "ACCUSER",
+      "verse_refs": [
+        "Rev 12:10",
+        "Job 1:6-12",
+        "Zec 3:1-2"
+      ],
+      "entry_text": "The accuser REV 12:10. JOB 1:6-12; ZEC 3:1,2; REV 12:9-12"
+    },
+    {
+      "name": "GOSPEL",
+      "subtopic": "UNCLASSIFIED SCRIPTURES",
+      "verse_refs": [
+        "Rom 2:16",
+        "Rev 14:6-7",
+        "Luk 3:18",
+        "Act 17:30-31"
+      ],
+      "entry_text": "Gospel includes judgment: ROM 2:16; REV 14:6-7; LUK 3:18; ACT 17:30-31"
+    },
+    {
+      "name": "ATONEMENT",
+      "subtopic": "DAY OF",
+      "verse_refs": [
+        "Lev 16:1-34",
+        "Lev 23:27-32"
+      ],
+      "entry_text": "DAY OF LEV 16:1-34; 23:27-32; EXO 30:10"
+    },
+    {
+      "name": "JUDGMENT-SEAT",
+      "subtopic": "Of Christ",
+      "verse_refs": [
+        "Rom 14:10",
+        "2Co 5:10"
+      ],
+      "entry_text": "Of Christ ROM 14:10; 2CO 5:10"
+    },
+    {
+      "name": "MEDIATION",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "1Ti 2:5",
+        "Heb 8:6",
+        "Heb 9:15"
+      ],
+      "entry_text": "GENERAL 1TI 2:5; HEB 8:6; 9:15; 12:24"
+    }
+  ],
+  "verses": [
+    {
+      "reference": "Rev 14:6-7",
+      "heading": "The crux text: the hour of his judgment is come",
+      "kjv_text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+      "context": "First angel with everlasting gospel. Three imperatives + hoti clause declaring judgment arrival.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "krisis G2920 genitive singular. elthen V-2AAI-3S prophetic aorist. hoti G3754 causal. Three aorist imperatives."
+    },
+    {
+      "reference": "Rom 8:1",
+      "heading": "No katakrima -- condemnation negated, not judgment",
+      "kjv_text": "[There is] therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "context": "Romans 8 after ch.7 struggle. katakrima G2631 NOT krisis G2920.",
+      "greek_parsing": [
+        {
+          "word": "Οὐδὲν",
+          "strongs": "G3762",
+          "parsing": "A-NSN-N",
+          "gloss": "Nom Sg N"
+        },
+        {
+          "word": "ἄρα",
+          "strongs": "G686",
+          "parsing": "PRT",
+          "gloss": "νῦν                  νῦν             G3568    [ADV]"
+        },
+        {
+          "word": "κατάκριμα",
+          "strongs": "G2631",
+          "parsing": "N-NSN",
+          "gloss": "Nom Sg N"
+        },
+        {
+          "word": "τοῖς",
+          "strongs": "G3588",
+          "parsing": "T-DPM",
+          "gloss": "Dat Pl M"
+        },
+        {
+          "word": "ἐν",
+          "strongs": "G1722",
+          "parsing": "PREP",
+          "gloss": "Χριστῷ               Χριστός         G5547    [N-DSM] Dat Sg M"
+        },
+        {
+          "word": "Ἰησοῦ.",
+          "strongs": "G2424",
+          "parsing": "N-DSM",
+          "gloss": "Dat Sg M"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "katakrima G2631 Nom Sg N. ouden categorical negation. Only 3 NT uses all in Romans."
+    },
+    {
+      "reference": "Rom 5:16",
+      "heading": "Katakrima #1: from one sin to condemnation",
+      "kjv_text": "And not as [it was] by one that sinned, [so is] the gift: for the judgment [was] by one to condemnation, but the free gift [is] of many offences unto justification.",
+      "context": "Adam-Christ typology. krima from one to katakrima vs charisma to dikaioma.",
+      "greek_parsing": [
+        {
+          "word": "καὶ",
+          "strongs": "G2532",
+          "parsing": "CONJ",
+          "gloss": "οὐχ                  οὐ              G3756    [PRT-N]"
+        },
+        {
+          "word": "ὡς",
+          "strongs": "G5613",
+          "parsing": "ADV",
+          "gloss": "δι’                  διά             G1223    [PREP]"
+        },
+        {
+          "word": "ἑνὸς",
+          "strongs": "G1520",
+          "parsing": "A-GSM",
+          "gloss": "Gen Sg M"
+        },
+        {
+          "word": "ἁμαρτήσαντος",
+          "strongs": "G264",
+          "parsing": "V-AAP-GSM",
+          "gloss": "Aor Act Ptcp Gen Sg M"
+        },
+        {
+          "word": "τὸ",
+          "strongs": "G3588",
+          "parsing": "T-NSN",
+          "gloss": "Nom Sg N"
+        },
+        {
+          "word": "δώρημα·",
+          "strongs": "G1434",
+          "parsing": "N-NSN",
+          "gloss": "Nom Sg N"
+        },
+        {
+          "word": "μὲν",
+          "strongs": "G3303",
+          "parsing": "PRT",
+          "gloss": "γὰρ                  γάρ             G1063    [CONJ]"
+        },
+        {
+          "word": "κρίμα",
+          "strongs": "G2917",
+          "parsing": "N-NSN",
+          "gloss": "Nom Sg N"
+        },
+        {
+          "word": "ἐξ",
+          "strongs": "G1537",
+          "parsing": "PREP",
+          "gloss": "ἑνὸς                 εἷς             G1520    [A-GSM] Gen Sg M"
+        },
+        {
+          "word": "εἰς",
+          "strongs": "G1519",
+          "parsing": "PREP",
+          "gloss": "κατάκριμα,           κατάκριμα       G2631    [N-ASN] Acc Sg N"
+        },
+        {
+          "word": "δὲ",
+          "strongs": "G1161",
+          "parsing": "CONJ",
+          "gloss": "χάρισμα              χάρισμα         G5486    [N-NSN] Nom Sg N"
+        },
+        {
+          "word": "παραπτωμάτων",
+          "strongs": "G3900",
+          "parsing": "N-GPN",
+          "gloss": "Gen Pl N"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "krima G2917 -> katakrima G2631 vs charisma -> dikaioma. Text distinguishes process from adverse outcome."
+    },
+    {
+      "reference": "Rom 5:18",
+      "heading": "Katakrima #2: one trespass, condemnation for all",
+      "kjv_text": "Therefore as by the offence of one [judgment came] upon all men to condemnation; even so by the righteousness of one [the free gift came] upon all men unto justification of life.",
+      "context": "Parallel: one paraptoma -> katakrima vs one dikaioma -> dikaiosis zoes.",
+      "greek_parsing": [
+        {
+          "word": "Ἄρα",
+          "strongs": "G686",
+          "parsing": "PRT",
+          "gloss": "οὖν                  οὖν             G3767    [CONJ]"
+        },
+        {
+          "word": "ὡς",
+          "strongs": "G5613",
+          "parsing": "ADV",
+          "gloss": "δι’                  διά             G1223    [PREP]"
+        },
+        {
+          "word": "ἑνὸς",
+          "strongs": "G1520",
+          "parsing": "A-GSN",
+          "gloss": "Gen Sg N"
+        },
+        {
+          "word": "παραπτώματος",
+          "strongs": "G3900",
+          "parsing": "N-GSN",
+          "gloss": "Gen Sg N"
+        },
+        {
+          "word": "εἰς",
+          "strongs": "G1519",
+          "parsing": "PREP",
+          "gloss": "πάντας               πᾶς             G3956    [A-APM] Acc Pl M"
+        },
+        {
+          "word": "ἀνθρώπους",
+          "strongs": "G444",
+          "parsing": "N-APM",
+          "gloss": "Acc Pl M"
+        },
+        {
+          "word": "οὕτως",
+          "strongs": "G3779",
+          "parsing": "ADV",
+          "gloss": "καὶ                  καί             G2532    [CONJ]"
+        },
+        {
+          "word": "δι’",
+          "strongs": "G1223",
+          "parsing": "PREP",
+          "gloss": "ἑνὸς                 εἷς             G1520    [A-GSN] Gen Sg N"
+        },
+        {
+          "word": "δικαιώματος",
+          "strongs": "G1345",
+          "parsing": "N-GSN",
+          "gloss": "Gen Sg N"
+        },
+        {
+          "word": "ζωῆς·",
+          "strongs": "G2222",
+          "parsing": "N-GSF",
+          "gloss": "Gen Sg F"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "katakrima Acc Sg N. Parallel with dikaiosis G1347. Opposite judicial outcomes."
+    },
+    {
+      "reference": "John 5:22",
+      "heading": "All judgment (krisin) committed to the Son",
+      "kjv_text": "For the Father judgeth no man, but hath committed all judgment unto the Son:",
+      "context": "Father-Son discourse. ALL krisin given to Son. dedoken perfect tense.",
+      "greek_parsing": [
+        {
+          "word": "οὐδὲ",
+          "strongs": "G3761",
+          "parsing": "CONJ-N",
+          "gloss": "γὰρ                  γάρ             G1063    [CONJ]"
+        },
+        {
+          "word": "ὁ",
+          "strongs": "G3588",
+          "parsing": "T-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "Πατὴρ",
+          "strongs": "G3962",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "κρίνει",
+          "strongs": "G2919",
+          "parsing": "V-PAI-3S",
+          "gloss": "Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "οὐδένα,",
+          "strongs": "G3762",
+          "parsing": "A-ASM-N",
+          "gloss": "Acc Sg M"
+        },
+        {
+          "word": "ἀλλὰ",
+          "strongs": "G235",
+          "parsing": "CONJ",
+          "gloss": "τὴν                  ὁ               G3588    [T-ASF] Acc Sg F"
+        },
+        {
+          "word": "κρίσιν",
+          "strongs": "G2920",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "πᾶσαν",
+          "strongs": "G3956",
+          "parsing": "A-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "δέδωκεν",
+          "strongs": "G1325",
+          "parsing": "V-RAI-3S",
+          "gloss": "Perf Act Ind Sg thirdPers"
+        },
+        {
+          "word": "Υἱῷ,",
+          "strongs": "G5207",
+          "parsing": "N-DSM",
+          "gloss": "Dat Sg M"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "krisin G2920 Acc Sg F. dedoken V-RAI-3S perfect. pasan=ALL judgment permanently delegated."
+    },
+    {
+      "reference": "John 5:24",
+      "heading": "Does not come into krisin -- condemnatory outcome",
+      "kjv_text": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.",
+      "context": "After v.22. Hearing+believing=no krisis+passed from death to life.",
+      "greek_parsing": [
+        {
+          "word": "ἀμὴν",
+          "strongs": "G281",
+          "parsing": "HEB",
+          "gloss": "ἀμὴν                 ἀμήν            G281     [HEB]"
+        },
+        {
+          "word": "λέγω",
+          "strongs": "G3004",
+          "parsing": "V-PAI-1S",
+          "gloss": "Pres Act Ind Sg firstPers"
+        },
+        {
+          "word": "ὑμῖν",
+          "strongs": "G4771",
+          "parsing": "P-2DP",
+          "gloss": "Dat Pl"
+        },
+        {
+          "word": "ὅτι",
+          "strongs": "G3754",
+          "parsing": "CONJ",
+          "gloss": "ὁ                    ὁ               G3588    [T-NSM] Nom Sg M"
+        },
+        {
+          "word": "τὸν",
+          "strongs": "G3588",
+          "parsing": "T-ASM",
+          "gloss": "Acc Sg M"
+        },
+        {
+          "word": "λόγον",
+          "strongs": "G3056",
+          "parsing": "N-ASM",
+          "gloss": "Acc Sg M"
+        },
+        {
+          "word": "μου",
+          "strongs": "G1473",
+          "parsing": "P-1GS",
+          "gloss": "Gen Sg"
+        },
+        {
+          "word": "ἀκούων",
+          "strongs": "G191",
+          "parsing": "V-PAP-NSM",
+          "gloss": "Pres Act Ptcp Nom Sg M"
+        },
+        {
+          "word": "καὶ",
+          "strongs": "G2532",
+          "parsing": "CONJ",
+          "gloss": "πιστεύων             πιστεύω         G4100    [V-PAP-NSM] Pres Act Ptcp Nom Sg M"
+        },
+        {
+          "word": "πέμψαντί",
+          "strongs": "G3992",
+          "parsing": "V-AAP-DSM",
+          "gloss": "Aor Act Ptcp Dat Sg M"
+        },
+        {
+          "word": "ἔχει",
+          "strongs": "G2192",
+          "parsing": "V-PAI-3S",
+          "gloss": "Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "ζωὴν",
+          "strongs": "G2222",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "αἰώνιον,",
+          "strongs": "G166",
+          "parsing": "A-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "κρίσιν",
+          "strongs": "G2920",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "οὐκ",
+          "strongs": "G3756",
+          "parsing": "PRT-N",
+          "gloss": "ἔρχεται              ἔρχομαι         G2064    [V-PNI-3S] Pres M/P Ind Sg thirdPers"
+        },
+        {
+          "word": "ἀλλὰ",
+          "strongs": "G235",
+          "parsing": "CONJ",
+          "gloss": "μεταβέβηκεν          μεταβαίνω       G3327    [V-RAI-3S] Perf Act Ind Sg thirdPers"
+        },
+        {
+          "word": "ἐκ",
+          "strongs": "G1537",
+          "parsing": "PREP",
+          "gloss": "τοῦ                  ὁ               G3588    [T-GSM] Gen Sg M"
+        },
+        {
+          "word": "θανάτου",
+          "strongs": "G2288",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        },
+        {
+          "word": "εἰς",
+          "strongs": "G1519",
+          "parsing": "PREP",
+          "gloss": "τὴν                  ὁ               G3588    [T-ASF] Acc Sg F"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "krisin G2920 same word as v.22. metabebeken V-RAI-3S perfect permanent transition. krisin=condemnatory OUTCOME since crossed from death to life."
+    },
+    {
+      "reference": "John 5:27-29",
+      "heading": "Authority as Son of Man -- Dan 7:13 allusion",
+      "kjv_text": "And hath given him authority to execute judgment also, because he is the Son of man. Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.",
+      "context": "Authority grounded in Son of Man identity. Dan 7:13-14 allusion. Resurrection judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "v.27 krisin anarthrous qualitative. Son of Man links Dan 7:13. v.29 resurrection of krisis vs life."
+    },
+    {
+      "reference": "1 John 4:17",
+      "heading": "Boldness (parrhesia) IN the day of krisis",
+      "kjv_text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+      "context": "Love perfected produces parrhesia in the day of krisis. Same word as Rev 14:7.",
+      "greek_parsing": [
+        {
+          "word": "Ἐν",
+          "strongs": "G1722",
+          "parsing": "PREP",
+          "gloss": "τούτῳ                οὗτος           G3778    [D-DSN] Dat Sg N"
+        },
+        {
+          "word": "τετελείωται",
+          "strongs": "G5048",
+          "parsing": "V-RPI-3S",
+          "gloss": "Perf Pass Ind Sg thirdPers"
+        },
+        {
+          "word": "ἡ",
+          "strongs": "G3588",
+          "parsing": "T-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "ἀγάπη",
+          "strongs": "G26",
+          "parsing": "N-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "μεθ’",
+          "strongs": "G3326",
+          "parsing": "PREP",
+          "gloss": "ἡμῶν,                ἐγώ             G1473    [P-1GP] Gen Pl"
+        },
+        {
+          "word": "ἵνα",
+          "strongs": "G2443",
+          "parsing": "CONJ",
+          "gloss": "παρρησίαν            παρρησία        G3954    [N-ASF] Acc Sg F"
+        },
+        {
+          "word": "ἔχωμεν",
+          "strongs": "G2192",
+          "parsing": "V-PAS-1P",
+          "gloss": "Pres Act Subj Pl firstPers"
+        },
+        {
+          "word": "ἡμέρᾳ",
+          "strongs": "G2250",
+          "parsing": "N-DSF",
+          "gloss": "Dat Sg F"
+        },
+        {
+          "word": "κρίσεως,",
+          "strongs": "G2920",
+          "parsing": "N-GSF",
+          "gloss": "Gen Sg F"
+        },
+        {
+          "word": "ὅτι",
+          "strongs": "G3754",
+          "parsing": "CONJ",
+          "gloss": "καθὼς                καθώς           G2531    [ADV]"
+        },
+        {
+          "word": "ἐκεῖνός",
+          "strongs": "G1565",
+          "parsing": "D-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἐστιν",
+          "strongs": "G1510",
+          "parsing": "V-PAI-3S",
+          "gloss": "Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "καὶ",
+          "strongs": "G2532",
+          "parsing": "CONJ",
+          "gloss": "ἡμεῖς                ἐγώ             G1473    [P-1NP] Nom Pl"
+        },
+        {
+          "word": "κόσμῳ",
+          "strongs": "G2889",
+          "parsing": "N-DSM",
+          "gloss": "Dat Sg M"
+        },
+        {
+          "word": "τούτῳ.",
+          "strongs": "G3778",
+          "parsing": "D-DSM",
+          "gloss": "Dat Sg M"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "parrhesian G3954 Acc Sg F. en te hemera tes kriseos locative dative. Confidence WITHIN judgment."
+    },
+    {
+      "reference": "1 John 4:18",
+      "heading": "Perfect love casts out fear -- kolasis fear",
+      "kjv_text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "context": "Fear cast out is kolasis-fear (punishment dread) not reverential awe.",
+      "greek_parsing": [
+        {
+          "word": "φόβος",
+          "strongs": "G5401",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "οὐκ",
+          "strongs": "G3756",
+          "parsing": "PRT-N",
+          "gloss": "ἔστιν                εἰμί            G1510    [V-PAI-3S] Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "ἐν",
+          "strongs": "G1722",
+          "parsing": "PREP",
+          "gloss": "τῇ                   ὁ               G3588    [T-DSF] Dat Sg F"
+        },
+        {
+          "word": "ἀγάπῃ,",
+          "strongs": "G26",
+          "parsing": "N-DSF",
+          "gloss": "Dat Sg F"
+        },
+        {
+          "word": "ἀλλ’",
+          "strongs": "G235",
+          "parsing": "CONJ",
+          "gloss": "ἡ                    ὁ               G3588    [T-NSF] Nom Sg F"
+        },
+        {
+          "word": "τελεία",
+          "strongs": "G5046",
+          "parsing": "A-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "ἔξω",
+          "strongs": "G1854",
+          "parsing": "ADV",
+          "gloss": "βάλλει               βάλλω           G906     [V-PAI-3S] Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "τὸν",
+          "strongs": "G3588",
+          "parsing": "T-ASM",
+          "gloss": "Acc Sg M"
+        },
+        {
+          "word": "ὅτι",
+          "strongs": "G3754",
+          "parsing": "CONJ",
+          "gloss": "ὁ                    ὁ               G3588    [T-NSM] Nom Sg M"
+        },
+        {
+          "word": "κόλασιν",
+          "strongs": "G2851",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "ἔχει,",
+          "strongs": "G2192",
+          "parsing": "V-PAI-3S",
+          "gloss": "Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "δὲ",
+          "strongs": "G1161",
+          "parsing": "CONJ",
+          "gloss": "φοβούμενος           φοβέω           G5399    [V-PNP-NSM] Pres M/P Ptcp Nom Sg M"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "phobos G5401. kolasin G2851 punishment. Only 2 NT uses. NOT phobeo of Rev 14:7."
+    },
+    {
+      "reference": "Dan 7:9-10",
+      "heading": "OT source: heavenly court seated, books opened",
+      "kjv_text": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+      "context": "Night vision. Thrones, Ancient of Days, fiery stream, multitude. Court opens.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Aramaic: dina yetib A1780+A3488=court sat. siphrin pethichu=books opened. LXX: kriterion ekathisen G2922."
+    },
+    {
+      "reference": "Dan 7:13-14",
+      "heading": "Son of Man to Ancient of Days -- dominion AFTER judgment",
+      "kjv_text": "I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.",
+      "context": "After court scene. Son of Man TO Ancient of Days. Kingdom transfer after judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Direction TO God. OG LXX uses latreuo. Kingdom follows judgment=pre-advent concept."
+    },
+    {
+      "reference": "Dan 7:22",
+      "heading": "Judgment given TO/FOR the saints -- vindication",
+      "kjv_text": "Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.",
+      "context": "Horn wars saints UNTIL Ancient of Days comes, judgment given TO saints, saints possess kingdom.",
+      "greek_parsing": [],
+      "hebrew_parsing": [
+        {
+          "word": "אֲתָ֗ה",
+          "strongs": "",
+          "parsing": "Verb.peal.Perf.3ms",
+          "gloss": "come"
+        },
+        {
+          "word": "עַתִּיק֙",
+          "strongs": "",
+          "parsing": "Adj.ms.Cst",
+          "gloss": "old"
+        },
+        {
+          "word": "יֹֽומַיָּ֔א",
+          "strongs": "",
+          "parsing": "Noun.mp",
+          "gloss": "day"
+        },
+        {
+          "word": "וְ",
+          "strongs": "",
+          "parsing": "Conj.+NAN",
+          "gloss": "and"
+        },
+        {
+          "word": "דִינָ֣א",
+          "strongs": "",
+          "parsing": "Noun.ms",
+          "gloss": "judgement"
+        },
+        {
+          "word": "יְהִ֔ב",
+          "strongs": "",
+          "parsing": "Verb.peil.Perf.3ms",
+          "gloss": "give"
+        },
+        {
+          "word": "קַדִּישֵׁ֖י",
+          "strongs": "",
+          "parsing": "Adj.mp.Cst",
+          "gloss": "holy"
+        },
+        {
+          "word": "עֶלְיֹונִ֑ין",
+          "strongs": "",
+          "parsing": "Adj.mp.Abs",
+          "gloss": "most high"
+        },
+        {
+          "word": "וְ",
+          "strongs": "",
+          "parsing": "Conj.+NAN",
+          "gloss": "and"
+        },
+        {
+          "word": "זִמְנָ֣א",
+          "strongs": "",
+          "parsing": "Noun.ms",
+          "gloss": "time"
+        },
+        {
+          "word": "מְטָ֔ה",
+          "strongs": "",
+          "parsing": "Verb.peal.Perf.3ms",
+          "gloss": "come"
+        },
+        {
+          "word": "וּ",
+          "strongs": "",
+          "parsing": "Conj.+NAN",
+          "gloss": "and"
+        },
+        {
+          "word": "מַלְכוּתָ֖א",
+          "strongs": "",
+          "parsing": "Noun.fs",
+          "gloss": "kingdom"
+        },
+        {
+          "word": "הֶחֱסִ֥נוּ",
+          "strongs": "",
+          "parsing": "Verb.haf.Perf.3mp",
+          "gloss": "possess"
+        },
+        {
+          "word": "קַדִּישִֽׁין",
+          "strongs": "",
+          "parsing": "Adj.mp.Abs",
+          "gloss": "holy"
+        }
+      ],
+      "notes": "Aramaic: dina yehib leqaddishe elyonin. le=benefactive. LXX: to krima edoken G2917. Three-phase: v.10 investigation, v.22 verdict, vv.26-27 execution."
+    },
+    {
+      "reference": "Dan 7:26-27",
+      "heading": "Third judgment: dominion transferred to saints",
+      "kjv_text": "But the judgment shall sit, and they shall take away his dominion, to consume and to destroy [it] unto the end. And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.",
+      "context": "Court sits, horn dominion removed, kingdom given to saints permanently.",
+      "greek_parsing": [],
+      "hebrew_parsing": [
+        {
+          "word": "וְ",
+          "strongs": "",
+          "parsing": "Conj.+NAN",
+          "gloss": "and"
+        },
+        {
+          "word": "דִינָ֖א",
+          "strongs": "",
+          "parsing": "Noun.ms",
+          "gloss": "judgement"
+        },
+        {
+          "word": "יִתִּ֑ב",
+          "strongs": "",
+          "parsing": "Verb.peal.Impf.3ms",
+          "gloss": "sit"
+        },
+        {
+          "word": "וְ",
+          "strongs": "",
+          "parsing": "Conj.+NAN",
+          "gloss": "and"
+        },
+        {
+          "word": "שָׁלְטָנֵ֣הּ",
+          "strongs": "",
+          "parsing": "Noun.ms.Abs.+3ms",
+          "gloss": "official"
+        },
+        {
+          "word": "יְהַעְדֹּ֔ון",
+          "strongs": "",
+          "parsing": "Verb.haf.Impf.3mp",
+          "gloss": "go"
+        },
+        {
+          "word": "הַשְׁמָדָ֥ה",
+          "strongs": "",
+          "parsing": "Verb.haf.InfCon.unknownunknown.Abs",
+          "gloss": "exterminate"
+        },
+        {
+          "word": "וּ",
+          "strongs": "",
+          "parsing": "Conj.+NAN",
+          "gloss": "and"
+        },
+        {
+          "word": "הֹובָדָ֖ה",
+          "strongs": "",
+          "parsing": "Verb.haf.InfCon.unknownunknown.Abs",
+          "gloss": "perish"
+        },
+        {
+          "word": "סֹופָֽא",
+          "strongs": "",
+          "parsing": "Noun.ms",
+          "gloss": "end"
+        }
+      ],
+      "notes": "dina yittib A1780+A3488 impf=court shall sit. LXX: to kriterion kathisei G2922."
+    },
+    {
+      "reference": "Rom 2:16",
+      "heading": "Judgment IS gospel -- kata to euangelion mou",
+      "kjv_text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
+      "context": "God judges secrets through Christ according to my gospel.",
+      "greek_parsing": [
+        {
+          "word": "ἐν",
+          "strongs": "G1722",
+          "parsing": "PREP",
+          "gloss": "ᾗ                    ὅς              G3739    [R-DSF] Dat Sg F"
+        },
+        {
+          "word": "ἡμέρᾳ",
+          "strongs": "G2250",
+          "parsing": "N-DSF",
+          "gloss": "Dat Sg F"
+        },
+        {
+          "word": "κρίνει",
+          "strongs": "G2919",
+          "parsing": "V-PAI-3S",
+          "gloss": "Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "ὁ",
+          "strongs": "G3588",
+          "parsing": "T-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "Θεὸς",
+          "strongs": "G2316",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "κρυπτὰ",
+          "strongs": "G2927",
+          "parsing": "A-APN",
+          "gloss": "Acc Pl N"
+        },
+        {
+          "word": "ἀνθρώπων",
+          "strongs": "G444",
+          "parsing": "N-GPM",
+          "gloss": "Gen Pl M"
+        },
+        {
+          "word": "κατὰ",
+          "strongs": "G2596",
+          "parsing": "PREP",
+          "gloss": "τὸ                   ὁ               G3588    [T-ASN] Acc Sg N"
+        },
+        {
+          "word": "εὐαγγέλιόν",
+          "strongs": "G2098",
+          "parsing": "N-ASN",
+          "gloss": "Acc Sg N"
+        },
+        {
+          "word": "μου",
+          "strongs": "G1473",
+          "parsing": "P-1GS",
+          "gloss": "Gen Sg"
+        },
+        {
+          "word": "διὰ",
+          "strongs": "G1223",
+          "parsing": "PREP",
+          "gloss": "Χριστοῦ              Χριστός         G5547    [N-GSM] Gen Sg M"
+        },
+        {
+          "word": "Ἰησοῦ.",
+          "strongs": "G2424",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "krinei G2919 V-PAI-3S present. kata G2596+euangelion G2098. Barnes/Meyer confirm kata modifies krinei."
+    },
+    {
+      "reference": "Acts 17:30-31",
+      "heading": "Repentance commanded BECAUSE judgment appointed",
+      "kjv_text": "And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by [that] man whom he hath ordained; [whereof] he hath given assurance unto all [men], in that he hath raised him from the dead.",
+      "context": "Mars Hill. Creator+command+judgment parallels Rev 14:7.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "estesen hemeran=appointed day. mellei krinein=about to judge. Bridges anticipation(mellei)/announcement(elthen)."
+    },
+    {
+      "reference": "Luke 3:18",
+      "heading": "Judgment warnings AS gospel -- euengelizeto",
+      "kjv_text": "And many other things in his exhortation preached he unto the people.",
+      "context": "Luke uses euengelizeto G2097 for judgment-inclusive preaching.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "euengelizeto V-INI-3S imperfect. Judgment warnings=gospel proclamation."
+    },
+    {
+      "reference": "Rom 8:33-34",
+      "heading": "Courtroom vindication: who charges? who condemns?",
+      "kjv_text": "Who shall lay any thing to the charge of God's elect? [It is] God that justifieth. Who [is] he that condemneth? [It is] Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
+      "context": "Triumphant courtroom rhetoric. Forensic: egkalesei, katakrinon, entygchanei.",
+      "greek_parsing": [
+        {
+          "word": "τίς",
+          "strongs": "G5101",
+          "parsing": "I-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἐγκαλέσει",
+          "strongs": "G1458",
+          "parsing": "V-FAI-3S",
+          "gloss": "Fut Act Ind Sg thirdPers"
+        },
+        {
+          "word": "κατὰ",
+          "strongs": "G2596",
+          "parsing": "PREP",
+          "gloss": "ἐκλεκτῶν             ἐκλεκτός        G1588    [A-GPM] Gen Pl M"
+        },
+        {
+          "word": "Θεοῦ;",
+          "strongs": "G2316",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        },
+        {
+          "word": "ὁ",
+          "strongs": "G3588",
+          "parsing": "T-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "δικαιῶν·",
+          "strongs": "G1344",
+          "parsing": "V-PAP-NSM",
+          "gloss": "Pres Act Ptcp Nom Sg M"
+        },
+        {
+          "word": "κατακρινῶν;",
+          "strongs": "G2632",
+          "parsing": "V-FAP-NSM",
+          "gloss": "Fut Act Ptcp Nom Sg M"
+        },
+        {
+          "word": "Χριστὸς",
+          "strongs": "G5547",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "Ἰησοῦς",
+          "strongs": "G2424",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἀποθανών,",
+          "strongs": "G599",
+          "parsing": "V-2AAP-NSM",
+          "gloss": "Aor Act Ptcp Nom Sg M"
+        },
+        {
+          "word": "μᾶλλον",
+          "strongs": "G3123",
+          "parsing": "ADV",
+          "gloss": "δὲ                   δέ              G1161    [CONJ]"
+        },
+        {
+          "word": "ἐγερθείς,",
+          "strongs": "G1453",
+          "parsing": "V-APP-NSM",
+          "gloss": "Aor Pass Ptcp Nom Sg M"
+        },
+        {
+          "word": "ὅς",
+          "strongs": "G3739",
+          "parsing": "R-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἐστιν",
+          "strongs": "G1510",
+          "parsing": "V-PAI-3S",
+          "gloss": "Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "ἐν",
+          "strongs": "G1722",
+          "parsing": "PREP",
+          "gloss": "δεξιᾷ                δεξιός          G1188    [A-DSF] Dat Sg F"
+        },
+        {
+          "word": "καὶ",
+          "strongs": "G2532",
+          "parsing": "CONJ",
+          "gloss": "ἐντυγχάνει           ἐντυγχάνω       G1793    [V-PAI-3S] Pres Act Ind Sg thirdPers"
+        },
+        {
+          "word": "ὑπὲρ",
+          "strongs": "G5228",
+          "parsing": "PREP",
+          "gloss": "ἡμῶν.                ἐγώ             G1473    [P-1GP] Gen Pl"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "egkalesei G1458 V-FAI-3S. katakrinon G2632. entygchanei G1793 V-PAI-3S present=ongoing intercession NOW."
+    },
+    {
+      "reference": "Dan 12:1",
+      "heading": "Everyone FOUND WRITTEN delivered -- judgment as deliverance",
+      "kjv_text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation [even] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+      "context": "Michael stands for people. Deliverance for those found written in the book.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Names already IN book. Judgment FINDS and confirms. Verification not determination."
+    },
+    {
+      "reference": "1 Cor 3:13-15",
+      "heading": "Fire tests works, person saved -- evaluative with safety net",
+      "kjv_text": "Every man's work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man's work of what sort it is. If any man's work abide which he hath built thereupon, he shall receive a reward. If any man's work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.",
+      "context": "Building metaphor. Fire tests erga. Even total work failure: person saved.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Fire tests erga G2041=same as Rev 20:12. Person saved sothesetai divine passive. Evaluative not condemnatory."
+    },
+    {
+      "reference": "Gen 18:20-21",
+      "heading": "God investigates Sodom BEFORE judging",
+      "kjv_text": "And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous; I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know.",
+      "context": "God uses investigation language despite omniscience. Transparent justice pattern.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Investigation for transparent justice. Pattern: cry->investigation->execution."
+    },
+    {
+      "reference": "Matt 22:11-14",
+      "heading": "Wedding garment inspection -- pre-event examination",
+      "kjv_text": "And when the king came in to see the guests, he saw there a man which had not on a wedding garment: And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless. Then said the king to the servants, Bind him hand and foot, and take him away, and cast [him] into outer darkness; there shall be weeping and gnashing of teeth. For many are called, but few [are] chosen.",
+      "context": "King inspects guests BEFORE feast. Three phases: invitation, inspection, removal.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "eiselthon to theasasthai=came in to examine. Three-phase mirrors Dan 7."
+    },
+    {
+      "reference": "Eccl 12:14",
+      "heading": "God brings every work into judgment",
+      "kjv_text": "For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.",
+      "context": "After fear God (v.13). God brings EVERY work into mishpat.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "mishpat H4941. Parallels Rev 14:7: fear God+judgment. Every secret=Rom 2:16 ta krupta."
+    },
+    {
+      "reference": "Rev 14:8",
+      "heading": "Prophetic aorist parallel -- epesen epesen",
+      "kjv_text": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.",
+      "context": "Second angel. Same prophetic aorist. Doubled echoing Isa 21:9.",
+      "greek_parsing": [
+        {
+          "word": "Καὶ",
+          "strongs": "G2532",
+          "parsing": "CONJ",
+          "gloss": "ἄλλος                ἄλλος           G243     [A-NSM] Nom Sg M"
+        },
+        {
+          "word": "ἄγγελος",
+          "strongs": "G32",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "δεύτερος",
+          "strongs": "G1208",
+          "parsing": "A-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἠκολούθησεν",
+          "strongs": "G190",
+          "parsing": "V-AAI-3S",
+          "gloss": "Aor Act Ind Sg thirdPers"
+        },
+        {
+          "word": "λέγων",
+          "strongs": "G3004",
+          "parsing": "V-PAP-NSM",
+          "gloss": "Pres Act Ptcp Nom Sg M"
+        },
+        {
+          "word": "Ἔπεσεν",
+          "strongs": "G4098",
+          "parsing": "V-2AAI-3S",
+          "gloss": "Aor Act Ind Sg thirdPers"
+        },
+        {
+          "word": "Βαβυλὼν",
+          "strongs": "G897",
+          "parsing": "N-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "ἡ",
+          "strongs": "G3588",
+          "parsing": "T-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "μεγάλη,",
+          "strongs": "G3173",
+          "parsing": "A-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "ἣ",
+          "strongs": "G3739",
+          "parsing": "R-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "ἐκ",
+          "strongs": "G1537",
+          "parsing": "PREP",
+          "gloss": "τοῦ                  ὁ               G3588    [T-GSM] Gen Sg M"
+        },
+        {
+          "word": "οἴνου",
+          "strongs": "G3631",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        },
+        {
+          "word": "θυμοῦ",
+          "strongs": "G2372",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        },
+        {
+          "word": "πορνείας",
+          "strongs": "G4202",
+          "parsing": "N-GSF",
+          "gloss": "Gen Sg F"
+        },
+        {
+          "word": "αὐτῆς",
+          "strongs": "G846",
+          "parsing": "P-GSF",
+          "gloss": "Gen Sg F"
+        },
+        {
+          "word": "πεπότικεν",
+          "strongs": "G4222",
+          "parsing": "V-RAI-3S",
+          "gloss": "Perf Act Ind Sg thirdPers"
+        },
+        {
+          "word": "πάντα",
+          "strongs": "G3956",
+          "parsing": "A-APN",
+          "gloss": "Acc Pl N"
+        },
+        {
+          "word": "ἔθνη.",
+          "strongs": "G1484",
+          "parsing": "N-APN",
+          "gloss": "Acc Pl N"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Epesen G4098 V-2AAI-3S doubled. Same grammar as elthen."
+    },
+    {
+      "reference": "Zech 3:1-5",
+      "heading": "Courtroom vindication -- Joshua accused, defended, restored",
+      "kjv_text": "And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him. And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: [is] not this a brand plucked out of the fire? Now Joshua was clothed with filthy garments, and stood before the angel. And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment. And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by.",
+      "context": "Heavenly court. Joshua filthy garments, Satan accuses, God rebukes, garments replaced.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "ha-satan H7854 formal accuser. Pattern: guilt->accusation->advocacy->cleansing->new status."
+    },
+    {
+      "reference": "Rev 20:11-15",
+      "heading": "Great white throne -- books + book of life",
+      "kjv_text": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is [the book] of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire.",
+      "context": "Post-millennial. biblia (deeds) and biblos tes zoes. Judged kata ta erga.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "biblia G975 books of deeds. kata ta erga auton G2041. Two standards: works AND book of life."
+    },
+    {
+      "reference": "Mal 3:16-17",
+      "heading": "Book of remembrance preserves the faithful",
+      "kjv_text": "Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard [it], and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name. And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+      "context": "Book of remembrance written FOR those who feared the LORD. segullah=special treasure.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "sepher zikkaron H5612+H2146 benefactive. Records faithful service not sins."
+    },
+    {
+      "reference": "Psa 50:3-6",
+      "heading": "God calls witnesses to judge His people",
+      "kjv_text": "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him. He shall call to the heavens from above, and to the earth, that he may judge his people. Gather my saints together unto me; those that have made a covenant with me by sacrifice. And the heavens shall declare his righteousness: for God [is] judge himself. Selah.",
+      "context": "Theophany of judgment. God gathers covenant saints. Heavens declare righteousness.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Judgment OF covenant community. Precedent for 1 Pet 4:17."
+    },
+    {
+      "reference": "Psa 96:13",
+      "heading": "He comes to judge with righteousness -- positive event",
+      "kjv_text": "Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
+      "context": "Creation rejoices BECAUSE He comes to judge.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "shaphat H8199. Judgment=reason for rejoicing when judge righteous."
+    },
+    {
+      "reference": "Psa 9:7-8",
+      "heading": "LORD throne prepared for judgment -- righteous order",
+      "kjv_text": "But the LORD shall endure for ever: he hath prepared his throne for judgment. And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+      "context": "LORD endures forever, throne prepared for mishpat. Judges in righteousness.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "mishpat H4941. meysharim=uprightness. Permanent righteous order."
+    },
+    {
+      "reference": "1 Pet 4:17",
+      "heading": "Judgment begins at house of God",
+      "kjv_text": "For the time [is come] that judgment must begin at the house of God: and if [it] first [begin] at us, what shall the end [be] of them that obey not the gospel of God?",
+      "context": "krima G2917 begins at God house. Believers first. Pre-advent concept.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "arx-=temporal priority. Believers evaluated FIRST."
+    },
+    {
+      "reference": "Rev 11:18-19",
+      "heading": "Judgment of dead + ark revealed -- DOA activation",
+      "kjv_text": "And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth. And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.",
+      "context": "Seventh trumpet. Dead judged, servants rewarded. Temple opened, ark seen.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "kibotos tes diathekes=ark of covenant DOA furniture. Three angels follow."
+    },
+    {
+      "reference": "2 Cor 5:10",
+      "heading": "Bema of Christ -- ALL must appear",
+      "kjv_text": "For we must all appear before the judgment seat of Christ; that every one may receive the things [done] in [his] body, according to that he hath done, whether [it be] good or bad.",
+      "context": "ALL appear before bema for evaluation of deeds.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "bema G968. pantas G3956 ALL including believers."
+    },
+    {
+      "reference": "Dan 8:14",
+      "heading": "Sanctuary vindicated -- timing question",
+      "kjv_text": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.",
+      "context": "2300 days. Sanctuary nitsdaq. Concept from Dan 7 independent of timing.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "nitsdaq niphal of tsadaq=vindicated. Pre-advent CONCEPT from Dan 7 sequence."
+    },
+    {
+      "reference": "Jas 2:12-13",
+      "heading": "Law of liberty -- mercy triumphs",
+      "kjv_text": "So speak ye, and so do, as they that shall be judged by the law of liberty. For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.",
+      "context": "Judged by law of liberty. Mercy triumphs over judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "nomos eleutheiras. katakauchastai G2620 mercy triumphs."
+    },
+    {
+      "reference": "Rev 12:10",
+      "heading": "Accuser cast down",
+      "kjv_text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.",
+      "context": "Accuser (kategor) of brethren cast down. Overcome by blood of Lamb.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "kategor G2725 prosecutor disbarred. ebletke aorist passive."
+    },
+    {
+      "reference": "Gen 3:8-13",
+      "heading": "God questions before judgment -- investigation pattern",
+      "kjv_text": "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden. And the LORD God called unto Adam, and said unto him, Where [art] thou? And he said, I heard thy voice in the garden, and I was afraid, because I [was] naked; and I hid myself. And he said, Who told thee that thou [wast] naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat? And the man said, The woman whom thou gavest [to be] with me, she gave me of the tree, and I did eat. And the LORD God said unto the woman, What [is] this [that] thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
+      "context": "After fall. God calls, asks, investigates BEFORE pronouncing judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Questions for transparent process. Pattern: presence->inquiry->response->verdict."
+    },
+    {
+      "reference": "Rev 15:3-4",
+      "heading": "Just and true are thy ways -- vindication progression",
+      "kjv_text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints. Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest.",
+      "context": "Song of Moses/Lamb. Character affirmation. Fear+glorify echo 14:7.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "14:7 announcement->15:3-4 character->16:7 acts->19:1-2 completion."
+    },
+    {
+      "reference": "Rev 16:7",
+      "heading": "True and righteous are thy judgments",
+      "kjv_text": "And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous [are] thy judgments.",
+      "context": "During plagues. Altar affirms specific judgment acts.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "kriseis G2920 plural. Altar=martyrs (6:9-11) vindicated."
+    },
+    {
+      "reference": "Rev 19:1-2",
+      "heading": "Vindication complete -- he hath judged",
+      "kjv_text": "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.",
+      "context": "After Babylon fall. Final vindication formula.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "ekrinen G2919 aorist completed. Full progression announcement to completion."
+    },
+    {
+      "reference": "Rom 14:10-12",
+      "heading": "We shall all stand before the bema of God -- universal accountability",
+      "kjv_text": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ. For it is written, [As] I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God. So then every one of us shall give account of himself to God.",
+      "context": "Paul addresses mutual judgment among believers. Every person will stand before God's judgment seat and give personal account.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "bema tou Christou (judgment seat of Christ). Universal: every knee, every tongue, every one of us. Confirms believers face evaluative accounting."
+    },
+    {
+      "reference": "Heb 9:27",
+      "heading": "Appointed unto men once to die, then judgment -- universal appointment",
+      "kjv_text": "And as it is appointed unto men once to die, but after this the judgment:",
+      "context": "Within Hebrews argument about Christ's once-for-all sacrifice. Judgment follows death as a universal human appointment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "apokeitai (G606) 'it is appointed/laid up.' krisis (G2920) — same word as Rev 14:7. Death and judgment are parallel appointments."
+    },
+    {
+      "reference": "Heb 10:26-30",
+      "heading": "Fearful expectation of judgment for willful sin -- the serious side",
+      "kjv_text": "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins, But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries. He that despised Moses' law died without mercy under two or three witnesses: Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace? For we know him that hath said, Vengeance [belongeth] unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.",
+      "context": "Hebrews warning about willful apostasy after receiving truth. Judgment is fearful for those who trample the Son of God.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "phobera ekdoche kriseos — fearful expectation of judgment. The serious side: judgment threatens the apostate. But note v.30 'the Lord shall judge his people' — echoes Deut 32:36, judgment OF the covenant community."
+    },
+    {
+      "reference": "Rev 6:15-17",
+      "heading": "Great day of wrath -- those who hide from judgment contrast with 1 John 4:17 boldness",
+      "kjv_text": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?",
+      "context": "Sixth seal. Universal terror before the Lamb's wrath. The wicked hide — contrasts sharply with 1 John 4:17's boldness in judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "elthen he hemera he megale tes orges — 'the great day of his wrath IS COME' — same prophetic aorist construction as Rev 14:7 elthen he hora. The question 'who shall be able to stand?' is answered by those with parrhesia (1 John 4:17)."
+    },
+    {
+      "reference": "Matt 12:36-37",
+      "heading": "Every idle word -- by words justified or condemned; comprehensive judgment",
+      "kjv_text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+      "context": "Jesus warns the Pharisees about accountability for speech. Every idle word enters the judgment record.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "en hemera kriseos — in the day of judgment (same krisis as Rev 14:7). pan rhema argon — every idle/careless word. Judgment is comprehensive — includes speech, not just deeds. dikaiothese / katadikasthese — justified or condemned — two possible outcomes."
+    },
+    {
+      "reference": "Heb 7:25",
+      "heading": "Christ ever lives to make intercession -- ongoing high priestly ministry",
+      "kjv_text": "Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.",
+      "context": "Christ's permanent, unchangeable priesthood. He saves completely because He always lives to intercede.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "entygchanein (G1793 infinitive) — to make intercession. panteles (G3838) — to the uttermost/completely. pantote zon (always living) — present participle, continuous. Christ's intercession is ONGOING, not past — active during any judgment period."
+    },
+    {
+      "reference": "Rev 3:5",
+      "heading": "Will not blot out name from book of life -- preservation promise during judgment",
+      "kjv_text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.",
+      "context": "Promise to the overcomer in Sardis. Names preserved in the book of life + confessed before the Father.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "ou me exaleipso — emphatic double negative: 'I will absolutely NOT blot out.' biblos tes zoes — book of life. homologeso — I will confess/acknowledge. Preservation promise directly linked to the judgment book imagery."
+    },
+    {
+      "reference": "Rev 13:8",
+      "heading": "Book of life of the Lamb slain from foundation -- names written before judgment",
+      "kjv_text": "And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.",
+      "context": "The beast's universal worship. Those NOT written in the book of life worship the beast. Names inscribed from the foundation of the world.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "bibliō tēs zōēs tou arniou — book of life of the Lamb. apo katabolēs kosmou — from the foundation of the world. Names inscribed BEFORE judgment, not determined by it."
+    },
+    {
+      "reference": "Phil 4:3",
+      "heading": "Names are in the book of life -- present-tense assurance of inscription",
+      "kjv_text": "And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and [with] other my fellowlabourers, whose names [are] in the book of life.",
+      "context": "Paul mentions fellow workers whose names ARE (present tense) in the book of life. Present assurance of inscription.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "hōn ta onomata en bibliō zōēs — whose names [are] in the book of life. Present-tense statement of current inscription. Assurance coexists with judgment awareness."
+    },
+    {
+      "reference": "Psa 69:28",
+      "heading": "Let them be blotted from the book of the living -- OT book-of-life background",
+      "kjv_text": "Let them be blotted out of the book of the living, and not be written with the righteous.",
+      "context": "David's imprecatory prayer. The 'book of the living' can have names blotted from it — OT background for Rev 3:5's preservation promise.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "sepher chayyim (H5612 + H2416) — book of the living. yimmachuw — let them be blotted out. Names CAN be removed — making the Rev 3:5 promise meaningful. The judgment confirms or removes names."
+    },
+    {
+      "reference": "Psa 139:16",
+      "heading": "In thy book all my members were written -- God's comprehensive knowledge recorded",
+      "kjv_text": "Thine eyes did see my substance, yet being unperfect; and in thy book all [my members] were written, [which] in continuance were fashioned, when [as yet there was] none of them.",
+      "context": "David on God's intimate, comprehensive knowledge. Everything written in God's book before it existed.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "siphreka (H5612 with suffix) — in your book. God's omniscient record-keeping. The books of judgment reflect this comprehensive divine knowledge."
+    },
+    {
+      "reference": "Isa 26:9",
+      "heading": "When thy judgments are in the earth, inhabitants learn righteousness",
+      "kjv_text": "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments [are] in the earth, the inhabitants of the world will learn righteousness.",
+      "context": "Isaiah's song of trust. God's judgments in the earth produce a pedagogical/redemptive effect — the world learns righteousness.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "mishpat (H4941) — judgments. tsedeq (H6664) — righteousness. Judgment as pedagogical: inhabitants LEARN righteousness through God's judgments. Redemptive, not merely punitive."
+    },
+    {
+      "reference": "Dan 9:24",
+      "heading": "Seventy weeks -- atonement-to-righteousness progression linked to judgment timing",
+      "kjv_text": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.",
+      "context": "Gabriel's seventy-weeks prophecy. Six purposes: finish transgression, end sins, reconcile iniquity, bring everlasting righteousness, seal vision, anoint Most Holy.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "kaphar (H3722) — make reconciliation/atonement. tsedeq olamim — everlasting righteousness. The kaphar-to-tsedeq progression links DOA atonement to judgment timing per the dan-7-judgment-antitypical-doa study."
+    },
+    {
+      "reference": "Lev 16:30",
+      "heading": "Day of Atonement -- on this day atonement made to cleanse; typological basis",
+      "kjv_text": "For on that day shall [the priest] make an atonement for you, to cleanse you, [that] ye may be clean from all your sins before the LORD.",
+      "context": "The Day of Atonement ritual. Atonement (kaphar) produces cleansing (taher) from all sins before the LORD.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "kaphar (H3722) — atone/cover. taher (H2891) — cleanse/purify. The DOA typology: ritual cleansing maps to Dan 7 forensic judgment per Lev 16:30 kaphar -> Dan 8:14 nitsdaq progression."
+    },
+    {
+      "reference": "Eph 1:13-14",
+      "heading": "Sealed with the Holy Spirit of promise -- arrabon guarantee through judgment",
+      "kjv_text": "In whom ye also [trusted], after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+      "context": "Paul on the believer's security. The Holy Spirit is a seal (sphragis) and earnest (arrabon) — a deposit guaranteeing the inheritance through any judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "esphragisthete (G4972 aorist passive) — you were sealed. arrabon (G728) — earnest/down payment/guarantee. The Spirit as guarantee extends THROUGH any judgment period — the seal is not removed by evaluation."
+    },
+    {
+      "reference": "1 John 5:13",
+      "heading": "That you may KNOW you have eternal life -- oida settled certainty alongside judgment",
+      "kjv_text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.",
+      "context": "John's stated purpose for writing. Believers can KNOW (oida, settled certainty) they have eternal life.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "eidete (G1492 perfect active subjunctive) — 'that you may know' with settled certainty. The same author who writes about boldness in judgment day (4:17) also writes about settled assurance of eternal life. These coexist."
+    },
+    {
+      "reference": "2 Tim 4:7-8",
+      "heading": "Crown of righteousness from the righteous judge -- judgment as reward",
+      "kjv_text": "I have fought a good fight, I have finished [my] course, I have kept the faith: Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.",
+      "context": "Paul's final testimony. The 'righteous judge' (dikaios krites) awards a crown — judgment as REWARD, not threat.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "ho dikaios krites (G1342 + G2923) — the righteous judge. stephanos tes dikaiosynes — crown of righteousness. apodosei (G591 future) — will give/award. Judgment produces REWARD for the faithful. The judge's character (dikaios) guarantees fair outcome."
+    },
+    {
+      "reference": "Jude 14-15",
+      "heading": "The Lord CAME (elthen) with ten thousands -- parallel prophetic aorist",
+      "kjv_text": "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard [speeches] which ungodly sinners have spoken against him.",
+      "context": "Jude quotes Enochic tradition. The Lord 'came' (elthen, same prophetic aorist as Rev 14:7) with myriads to execute judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "elthen kyrios (G2064 V-2AAI-3S) — same prophetic aorist form as Rev 14:7 elthen. poiesai krisin (G2920) — to execute judgment. Enochic tradition uses the same grammatical device: future judgment narrated as past."
+    },
+    {
+      "reference": "Rev 11:15",
+      "heading": "Kingdoms became our Lord's (egeneto) -- prophetic aorist parallel",
+      "kjv_text": "And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become [the kingdoms] of our Lord, and of his Christ; and he shall reign for ever and ever.",
+      "context": "Seventh trumpet. The kingdom transfer announced as accomplished fact — egeneto (became/has become), prophetic aorist.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "egeneto (G1096 V-2ADI-3S) — aorist indicative 'became.' Same prophetic aorist pattern as elthen in Rev 14:7 and epesen in Rev 14:8. Kingdom transfer announced as fait accompli before the events of chs.12-20 unfold."
+    }
+  ],
+  "word_studies": [
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "source_file": "D:/bible/bible-studies/word-studies/G2920-krisis.md",
+      "occurrence_count": 47,
+      "summary": "Judgment/evaluation PROCESS. 47 NT occ. From krino. Judicial process -- separating, trial, evaluation.",
+      "semantic_categories": [
+        "day of judgment",
+        "judicial process",
+        "divine judicial act"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "John 5:22",
+        "John 5:24",
+        "1 John 4:17",
+        "Heb 9:27"
+      ],
+      "relevance": "THE word in Rev 14:7. Angel announces judgment PROCESS not condemnation."
+    },
+    {
+      "strongs": "G2631",
+      "word": "katakrima",
+      "source_file": "D:/bible/bible-studies/word-studies/G2631-katakrima.md",
+      "occurrence_count": 3,
+      "summary": "Adverse verdict+execution. Only 3 NT occ (Rom 5:16,5:18,8:1). Uniformly condemnation.",
+      "semantic_categories": [
+        "adverse verdict",
+        "condemnation from Adam",
+        "negated for believers"
+      ],
+      "key_verses": [
+        "Rom 8:1",
+        "Rom 5:16",
+        "Rom 5:18"
+      ],
+      "relevance": "CONTRASTING word. Rom 8:1 no katakrima not no krisis. Exempt from condemnation not evaluation."
+    },
+    {
+      "strongs": "G2917",
+      "word": "krima",
+      "source_file": "D:/bible/bible-studies/word-studies/G2917-krima.md",
+      "occurrence_count": 27,
+      "summary": "Judgment/decision RESULT. 27 NT occ. LXX for mishpat 175x. Dan 7:22 LXX term.",
+      "semantic_categories": [
+        "divine verdict",
+        "judicial decision",
+        "lawsuit"
+      ],
+      "key_verses": [
+        "Dan 7:22 LXX",
+        "1 Pet 4:17",
+        "Rev 20:4"
+      ],
+      "relevance": "LXX term in Dan 7:22 to krima edoken. Bridges PROCESS and OUTCOME."
+    },
+    {
+      "strongs": "G2919",
+      "word": "krino",
+      "source_file": "D:/bible/bible-studies/word-studies/G2919-krino.md",
+      "occurrence_count": 132,
+      "summary": "Root verb to judge/separate/decide. 132 tokens across NT.",
+      "semantic_categories": [
+        "judicial verdict",
+        "mental evaluation",
+        "divine judgment"
+      ],
+      "key_verses": [
+        "Rom 2:16",
+        "John 5:22",
+        "Acts 17:31",
+        "Rev 19:11"
+      ],
+      "relevance": "ROOT VERB. Rom 2:16 God judges according to gospel."
+    },
+    {
+      "strongs": "G2922",
+      "word": "kriterion",
+      "source_file": "D:/bible/bible-studies/word-studies/G2922-kriterion.md",
+      "occurrence_count": 3,
+      "summary": "Tribunal/court. 3 NT occ. LXX Dan 7:10,26.",
+      "semantic_categories": [
+        "court of justice",
+        "tribunal"
+      ],
+      "key_verses": [
+        "1 Cor 6:2",
+        "Dan 7:10 LXX",
+        "Dan 7:26 LXX"
+      ],
+      "relevance": "LXX for COURT in Dan 7:10 kriterion ekathisen and 7:26."
+    },
+    {
+      "strongs": "G2923",
+      "word": "krites",
+      "source_file": "D:/bible/bible-studies/word-studies/G2923-krites.md",
+      "occurrence_count": 17,
+      "summary": "Judge -- the person. 17 NT occ.",
+      "semantic_categories": [
+        "God/Christ as Judge",
+        "civil judge"
+      ],
+      "key_verses": [
+        "Acts 10:42",
+        "2 Tim 4:8",
+        "Jas 4:12"
+      ],
+      "relevance": "Completes krin- family: judge, krisis, krima, kriterion."
+    },
+    {
+      "strongs": "G2632",
+      "word": "katakrino",
+      "source_file": "D:/bible/bible-studies/word-studies/G2632-katakrino.md",
+      "occurrence_count": 22,
+      "summary": "To condemn. 19 NT verses. Always adverse.",
+      "semantic_categories": [
+        "adverse judgment",
+        "condemnation"
+      ],
+      "key_verses": [
+        "Rom 8:34",
+        "John 3:17"
+      ],
+      "relevance": "Rom 8:34 who condemns? Christ intercedes."
+    },
+    {
+      "strongs": "G2633",
+      "word": "katakrisis",
+      "source_file": "D:/bible/bible-studies/word-studies/G2633-katakrisis.md",
+      "occurrence_count": 2,
+      "summary": "Act of condemning. Only 2 NT occ.",
+      "semantic_categories": [
+        "condemnation act"
+      ],
+      "key_verses": [
+        "2 Cor 3:9"
+      ],
+      "relevance": "Completes kata-krin- family."
+    },
+    {
+      "strongs": "G350",
+      "word": "anakrino",
+      "source_file": "D:/bible/bible-studies/word-studies/G350-anakrino.md",
+      "occurrence_count": 18,
+      "summary": "Examine/investigate/scrutinize. 14 NT verses. INVESTIGATIVE member.",
+      "semantic_categories": [
+        "judicial investigation",
+        "spiritual discernment"
+      ],
+      "key_verses": [
+        "Luke 23:14",
+        "1 Cor 2:15",
+        "1 Cor 4:3"
+      ],
+      "relevance": "INVESTIGATIVE verb. Investigation built into krin- word group."
+    },
+    {
+      "strongs": "G4793",
+      "word": "synkrino",
+      "source_file": "D:/bible/bible-studies/word-studies/G4793-synkrino.md",
+      "occurrence_count": 5,
+      "summary": "Compare/judge together. 2 NT verses.",
+      "semantic_categories": [
+        "comparison"
+      ],
+      "key_verses": [
+        "1 Cor 2:13"
+      ],
+      "relevance": "Completes krin- family mapping."
+    },
+    {
+      "strongs": "A1780",
+      "word": "diyn (Aramaic)",
+      "source_file": "D:/bible/bible-studies/word-studies/A1780-diyn.md",
+      "occurrence_count": 5,
+      "summary": "Aramaic judgment/court. 5 OT occ. Dan 7 SOURCE WORD.",
+      "semantic_categories": [
+        "heavenly court",
+        "judicial verdict",
+        "divine justice"
+      ],
+      "key_verses": [
+        "Dan 7:10",
+        "Dan 7:22",
+        "Dan 7:26"
+      ],
+      "relevance": "SOURCE feeding entire krisis chain."
+    },
+    {
+      "strongs": "H1779",
+      "word": "diyn (Hebrew noun)",
+      "source_file": "D:/bible/bible-studies/word-studies/H1779-diyn.md",
+      "occurrence_count": 21,
+      "summary": "Hebrew judgment/cause/plea. 17 verses.",
+      "semantic_categories": [
+        "legal case",
+        "championing poor"
+      ],
+      "key_verses": [
+        "Psa 9:4",
+        "Psa 140:12"
+      ],
+      "relevance": "Hebrew cognate of Aramaic A1780."
+    },
+    {
+      "strongs": "H1777",
+      "word": "diyn (Hebrew verb)",
+      "source_file": "D:/bible/bible-studies/word-studies/H1777-diyn.md",
+      "occurrence_count": 27,
+      "summary": "To judge/rule/plead. 24 verses.",
+      "semantic_categories": [
+        "divine judging",
+        "pleading cause"
+      ],
+      "key_verses": [
+        "Gen 49:16",
+        "Psa 7:8"
+      ],
+      "relevance": "Verbal root behind A1780 and H1779."
+    },
+    {
+      "strongs": "H4941",
+      "word": "mishpat",
+      "source_file": "D:/bible/bible-studies/word-studies/H4941-mishpat.md",
+      "occurrence_count": 448,
+      "summary": "Most common OT judgment term. 448 tokens. LXX krima 175x + krisis 132x.",
+      "semantic_categories": [
+        "divine verdict",
+        "justice",
+        "ordinance"
+      ],
+      "key_verses": [
+        "Eccl 12:14",
+        "Mic 6:8",
+        "Psa 89:14"
+      ],
+      "relevance": "Primary OT bridge to NT krisis. Eccl 12:14 parallels Rev 14:7."
+    },
+    {
+      "strongs": "H8199",
+      "word": "shaphat",
+      "source_file": "D:/bible/bible-studies/word-studies/H8199-shaphat.md",
+      "occurrence_count": 223,
+      "summary": "To judge/vindicate/govern. 223 tokens. LXX krino 105x.",
+      "semantic_categories": [
+        "divine judgment",
+        "vindication"
+      ],
+      "key_verses": [
+        "Gen 18:25",
+        "Psa 96:13"
+      ],
+      "relevance": "OT verb bridge to NT krino."
+    },
+    {
+      "strongs": "H7378",
+      "word": "riyb (verb)",
+      "source_file": "D:/bible/bible-studies/word-studies/H7378-riyb.md",
+      "occurrence_count": 79,
+      "summary": "Covenant lawsuit verb. 79 tokens. LXX krisis 29x.",
+      "semantic_categories": [
+        "covenant lawsuit",
+        "legal advocacy"
+      ],
+      "key_verses": [
+        "Mic 6:1-2",
+        "Isa 1:18"
+      ],
+      "relevance": "riyb->krisis LXX bridge. Rev 14:7 carries covenant lawsuit weight."
+    },
+    {
+      "strongs": "H7379",
+      "word": "riyb (noun)",
+      "source_file": "D:/bible/bible-studies/word-studies/H7379-riyb.md",
+      "occurrence_count": 59,
+      "summary": "Lawsuit/cause/controversy. 59 verses. LXX krisis 29x, PMI 5.96",
+      "semantic_categories": [
+        "formal lawsuit",
+        "divine controversy"
+      ],
+      "key_verses": [
+        "Mic 6:2",
+        "Psa 43:1"
+      ],
+      "relevance": "Noun form. LXX renders as krisis 29x."
+    },
+    {
+      "strongs": "G5610",
+      "word": "hora",
+      "source_file": "D:/bible/bible-studies/word-studies/G5610-hora.md",
+      "occurrence_count": 108,
+      "summary": "Hour/appointed time. 108 occ. With article=THE appointed hour.",
+      "semantic_categories": [
+        "appointed time",
+        "decisive moment"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "John 12:23",
+        "John 13:1",
+        "John 17:1"
+      ],
+      "relevance": "Rev 14:7 he hora. Parallels Jesus' hora language."
+    },
+    {
+      "strongs": "G2064",
+      "word": "erchomai",
+      "source_file": "D:/bible/bible-studies/word-studies/G2064-erchomai.md",
+      "occurrence_count": 664,
+      "summary": "To come/arrive. 664 tokens. elthen=aorist.",
+      "semantic_categories": [
+        "physical arrival",
+        "eschatological coming"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Jude 1:14",
+        "John 5:24"
+      ],
+      "relevance": "elthen V-2AAI-3S prophetic aorist. Compare Jude 14."
+    },
+    {
+      "strongs": "G3954",
+      "word": "parrhesia",
+      "source_file": "D:/bible/bible-studies/word-studies/G3954-parrhesia.md",
+      "occurrence_count": 31,
+      "summary": "Boldness/confidence. 31 occ. pas+rhesis.",
+      "semantic_categories": [
+        "confident access",
+        "bold speech",
+        "assurance"
+      ],
+      "key_verses": [
+        "1 John 4:17",
+        "1 John 2:28",
+        "Eph 3:12"
+      ],
+      "relevance": "1 John 4:17 parrhesia IN day of krisis. Answer to assurance question."
+    },
+    {
+      "strongs": "G2851",
+      "word": "kolasis",
+      "source_file": "D:/bible/bible-studies/word-studies/G2851-kolasis.md",
+      "occurrence_count": 2,
+      "summary": "Punishment/torment. Only 2 NT occ.",
+      "semantic_categories": [
+        "eschatological punishment",
+        "fear of punishment"
+      ],
+      "key_verses": [
+        "Matt 25:46",
+        "1 John 4:18"
+      ],
+      "relevance": "1 John 4:18 kolasis fear cast out, NOT reverential awe."
+    },
+    {
+      "strongs": "G5401",
+      "word": "phobos",
+      "source_file": "D:/bible/bible-studies/word-studies/G5401-phobos.md",
+      "occurrence_count": 47,
+      "summary": "Fear -- alarm or reverence. 44 NT verses.",
+      "semantic_categories": [
+        "visceral terror",
+        "reverential awe"
+      ],
+      "key_verses": [
+        "1 John 4:18",
+        "Rom 8:15"
+      ],
+      "relevance": "1 John 4:18 phobos (dread) vs Rev 14:7 phobeo (reverence)."
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "source_file": "D:/bible/bible-studies/word-studies/G5399-phobeo.md",
+      "occurrence_count": 110,
+      "summary": "To fear/revere. 110 tokens.",
+      "semantic_categories": [
+        "divine command",
+        "fear of God"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Matt 10:28"
+      ],
+      "relevance": "Rev 14:7 Phobethete decisive reverential command."
+    },
+    {
+      "strongs": "G3875",
+      "word": "parakletos",
+      "source_file": "D:/bible/bible-studies/word-studies/G3875-parakletos.md",
+      "occurrence_count": 5,
+      "summary": "Advocate/helper. 5 NT occ Johannine.",
+      "semantic_categories": [
+        "Christ Advocate",
+        "Spirit Helper"
+      ],
+      "key_verses": [
+        "1 John 2:1",
+        "John 14:16"
+      ],
+      "relevance": "1 John 2:1 Christ as defense attorney in judgment."
+    },
+    {
+      "strongs": "G1793",
+      "word": "entynchano",
+      "source_file": "D:/bible/bible-studies/word-studies/G1793-entynchano.md",
+      "occurrence_count": 5,
+      "summary": "To intercede. 5 NT verses.",
+      "semantic_categories": [
+        "Christ intercession",
+        "Spirit intercession"
+      ],
+      "key_verses": [
+        "Rom 8:34",
+        "Heb 7:25"
+      ],
+      "relevance": "Rom 8:34 present tense ONGOING intercession during judgment."
+    },
+    {
+      "strongs": "G5241",
+      "word": "huperentugchano",
+      "source_file": "D:/bible/bible-studies/word-studies/G5241-huperentugchano.md",
+      "occurrence_count": 1,
+      "summary": "Intensified intercession. HAPAX Rom 8:26.",
+      "semantic_categories": [
+        "Spirit intercession"
+      ],
+      "key_verses": [
+        "Rom 8:26"
+      ],
+      "relevance": "Triple intercession Rom 8: Spirit v.26, Spirit v.27, Christ v.34."
+    },
+    {
+      "strongs": "G3316",
+      "word": "mesites",
+      "source_file": "D:/bible/bible-studies/word-studies/G3316-mesites.md",
+      "occurrence_count": 6,
+      "summary": "Mediator. 6 NT occ. Christ new covenant mediator.",
+      "semantic_categories": [
+        "covenant mediator"
+      ],
+      "key_verses": [
+        "1 Tim 2:5",
+        "Heb 8:6",
+        "Heb 9:15"
+      ],
+      "relevance": "Christ stands between God and humanity during judgment."
+    },
+    {
+      "strongs": "G1341",
+      "word": "dikaiokrisia",
+      "source_file": "D:/bible/bible-studies/word-studies/G1341-dikaiokrisia.md",
+      "occurrence_count": 1,
+      "summary": "Righteous judgment. HAPAX Rom 2:5.",
+      "semantic_categories": [
+        "righteous divine judgment"
+      ],
+      "key_verses": [
+        "Rom 2:5"
+      ],
+      "relevance": "Embeds righteousness into judgment concept."
+    },
+    {
+      "strongs": "G1349",
+      "word": "dike",
+      "source_file": "D:/bible/bible-studies/word-studies/G1349-dike.md",
+      "occurrence_count": 4,
+      "summary": "Justice/right/penalty. 4 NT occ.",
+      "semantic_categories": [
+        "personified justice",
+        "divine retribution"
+      ],
+      "key_verses": [
+        "Acts 28:4",
+        "2 Thess 1:9"
+      ],
+      "relevance": "Root of dik- family."
+    },
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "source_file": "D:/bible/bible-studies/word-studies/G2098-euangelion.md",
+      "occurrence_count": 77,
+      "summary": "Good news/gospel. 74 NT verses.",
+      "semantic_categories": [
+        "gospel of Christ",
+        "gospel of kingdom"
+      ],
+      "key_verses": [
+        "Rev 14:6",
+        "Rom 2:16",
+        "Rom 1:16"
+      ],
+      "relevance": "Rev 14:6 euangelion aionion. Rom 2:16 kata to euangelion mou."
+    },
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "source_file": "D:/bible/bible-studies/word-studies/G2097-euangelizo.md",
+      "occurrence_count": 61,
+      "summary": "To announce good news. 61 tokens.",
+      "semantic_categories": [
+        "gospel proclamation"
+      ],
+      "key_verses": [
+        "Luke 3:18",
+        "Rev 14:6"
+      ],
+      "relevance": "Luke 3:18 euengelizeto with judgment content."
+    },
+    {
+      "strongs": "G975",
+      "word": "biblion",
+      "source_file": "D:/bible/bible-studies/word-studies/G975-biblion.md",
+      "occurrence_count": 32,
+      "summary": "Book/scroll. 28 NT verses.",
+      "semantic_categories": [
+        "heavenly record",
+        "book of life"
+      ],
+      "key_verses": [
+        "Rev 20:12",
+        "Rev 5:1"
+      ],
+      "relevance": "Rev 20:12 biblia of deeds. Books contain erga broadly."
+    },
+    {
+      "strongs": "H5612",
+      "word": "cepher",
+      "source_file": "D:/bible/bible-studies/word-studies/H5612-cepher.md",
+      "occurrence_count": 194,
+      "summary": "Book/writing. 174 OT verses.",
+      "semantic_categories": [
+        "sacred text",
+        "divine record"
+      ],
+      "key_verses": [
+        "Dan 12:1",
+        "Mal 3:16"
+      ],
+      "relevance": "Dan 12:1 found written. Mal 3:16 sepher zikkaron."
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "source_file": "D:/bible/bible-studies/word-studies/G1391-doxa.md",
+      "occurrence_count": 168,
+      "summary": "Glory. 168 tokens.",
+      "semantic_categories": [
+        "divine radiance",
+        "honor"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "John 17:1"
+      ],
+      "relevance": "Rev 14:7 give glory. Glory-judgment connection."
+    },
+    {
+      "strongs": "G2041",
+      "word": "ergon",
+      "source_file": "D:/bible/bible-studies/word-studies/G2041-ergon.md",
+      "occurrence_count": 176,
+      "summary": "Work/deed. 176 tokens.",
+      "semantic_categories": [
+        "deeds judged",
+        "works of faith"
+      ],
+      "key_verses": [
+        "Rev 20:12-13",
+        "Matt 5:16"
+      ],
+      "relevance": "Rev 20:12-13 judged according to erga. Includes faithful service."
+    },
+    {
+      "strongs": "G1492",
+      "word": "oida",
+      "source_file": "D:/bible/bible-studies/word-studies/G1492-oida.md",
+      "occurrence_count": 334,
+      "summary": "Know with settled certainty. 334 tokens.",
+      "semantic_categories": [
+        "settled knowledge"
+      ],
+      "key_verses": [
+        "1 John 5:13",
+        "Rom 8:28"
+      ],
+      "relevance": "1 John 5:13 oida coexists with judgment awareness."
+    },
+    {
+      "strongs": "G2250",
+      "word": "hemera",
+      "source_file": "D:/bible/bible-studies/word-studies/G2250-hemera.md",
+      "occurrence_count": 388,
+      "summary": "Day. 388 tokens.",
+      "semantic_categories": [
+        "eschatological day",
+        "day of judgment"
+      ],
+      "key_verses": [
+        "1 John 4:17",
+        "Rom 2:16"
+      ],
+      "relevance": "1 John 4:17 en te hemera tes kriseos. Rev 14:7 uses hora not hemera."
+    },
+    {
+      "strongs": "G2435",
+      "word": "hilasterion",
+      "source_file": "D:/bible/bible-studies/word-studies/G2435-hilasterion.md",
+      "occurrence_count": 2,
+      "summary": "Mercy seat/propitiation. 2 NT occ.",
+      "semantic_categories": [
+        "DOA furniture",
+        "propitiatory sacrifice"
+      ],
+      "key_verses": [
+        "Rom 3:25",
+        "Heb 9:5"
+      ],
+      "relevance": "Connects DOA typology to judgment."
+    },
+    {
+      "strongs": "G1458",
+      "word": "enkaleo",
+      "source_file": "",
+      "occurrence_count": 7,
+      "summary": "Bring charges/accuse. Formal legal prosecution.",
+      "semantic_categories": [
+        "formal accusation"
+      ],
+      "key_verses": [
+        "Rom 8:33",
+        "Acts 19:38"
+      ],
+      "relevance": "Rom 8:33 who shall charge? God justifies."
+    },
+    {
+      "strongs": "G2725",
+      "word": "kategoros",
+      "source_file": "D:/bible/bible-studies/word-studies/G2725-kategoros.md",
+      "occurrence_count": 7,
+      "summary": "Accuser/prosecutor. 7 NT occ.",
+      "semantic_categories": [
+        "Roman accusers",
+        "Satan cosmic accuser"
+      ],
+      "key_verses": [
+        "Rev 12:10",
+        "Acts 23:30"
+      ],
+      "relevance": "Rev 12:10 Satan as prosecutor cast down."
+    },
+    {
+      "strongs": "H7854",
+      "word": "satan",
+      "source_file": "D:/bible/bible-studies/word-studies/H7854-satan.md",
+      "occurrence_count": 28,
+      "summary": "Adversary/accuser. 28 OT occ.",
+      "semantic_categories": [
+        "human adversary",
+        "divine council accuser"
+      ],
+      "key_verses": [
+        "Zech 3:1-2",
+        "Job 1:6-12"
+      ],
+      "relevance": "Zech 3:1 ha-satan in courtroom."
+    },
+    {
+      "strongs": "A3488",
+      "word": "ythib",
+      "source_file": "D:/bible/bible-studies/word-studies/A3488-ythib.md",
+      "occurrence_count": 5,
+      "summary": "Aramaic to sit. 5 OT occ.",
+      "semantic_categories": [
+        "divine court session"
+      ],
+      "key_verses": [
+        "Dan 7:9",
+        "Dan 7:10",
+        "Dan 7:26"
+      ],
+      "relevance": "dina yetib=court took seat."
+    },
+    {
+      "strongs": "G1342",
+      "word": "dikaios",
+      "source_file": "D:/bible/bible-studies/word-studies/G1342-dikaios.md",
+      "occurrence_count": 81,
+      "summary": "Righteous/just. 81 tokens.",
+      "semantic_categories": [
+        "divine righteousness",
+        "legal standing"
+      ],
+      "key_verses": [
+        "2 Tim 4:8",
+        "1 John 2:1",
+        "Rev 15:3"
+      ],
+      "relevance": "2 Tim 4:8 righteous judge."
+    },
+    {
+      "strongs": "G1343",
+      "word": "dikaiosyne",
+      "source_file": "D:/bible/bible-studies/word-studies/G1343-dikaiosyne.md",
+      "occurrence_count": 92,
+      "summary": "Righteousness. 92 tokens.",
+      "semantic_categories": [
+        "divine attribute",
+        "imputed righteousness"
+      ],
+      "key_verses": [
+        "Rom 3:21-26",
+        "Phil 3:9"
+      ],
+      "relevance": "Gods dikaiosyne guarantees fair krisis."
+    },
+    {
+      "strongs": "G1344",
+      "word": "dikaioo",
+      "source_file": "D:/bible/bible-studies/word-studies/G1344-dikaioo.md",
+      "occurrence_count": 48,
+      "summary": "To justify/acquit. 48 tokens.",
+      "semantic_categories": [
+        "forensic acquittal",
+        "divine declaration"
+      ],
+      "key_verses": [
+        "Rom 8:33",
+        "Rom 3:24",
+        "Gal 2:16"
+      ],
+      "relevance": "Rom 8:33 God who justifies. Present=ongoing."
+    },
+    {
+      "strongs": "G1347",
+      "word": "dikaiosis",
+      "source_file": "D:/bible/bible-studies/word-studies/G1347-dikaiosis.md",
+      "occurrence_count": 2,
+      "summary": "Justification. Only 2 NT occ.",
+      "semantic_categories": [
+        "acquittal"
+      ],
+      "key_verses": [
+        "Rom 4:25",
+        "Rom 5:18"
+      ],
+      "relevance": "Rom 5:18 katakrima vs dikaiosis. Opposite outcomes."
+    }
+  ],
+  "parallels": [
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Eccl 12:13-14",
+      "direction": "ot",
+      "connection_type": "vocabulary+structural: fear God+judgment of all works"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Psa 96:13",
+      "direction": "ot",
+      "connection_type": "vocabulary: coming to judge, judgment positive"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Gen 28:17",
+      "direction": "ot",
+      "connection_type": "semantic: fear+heaven (hybrid 0.416)"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Rev 19:1",
+      "direction": "nt",
+      "connection_type": "vocabulary+structural: glory,heaven,voice (hybrid 0.443)"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Rev 12:10",
+      "direction": "nt",
+      "connection_type": "vocabulary: heaven,voice,accuser (hybrid 0.425)"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Rev 15:4",
+      "direction": "nt",
+      "connection_type": "vocabulary: fear,worship,judgments (hybrid 0.404)"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Rev 18:10",
+      "direction": "nt",
+      "connection_type": "vocabulary: fear,hour,judgment (hybrid 0.395)"
+    },
+    {
+      "source_verse": "Dan 7:22",
+      "parallel_verse": "Dan 7:18",
+      "direction": "ot",
+      "connection_type": "structural: saints possess kingdom (hybrid 0.547)"
+    },
+    {
+      "source_verse": "Dan 7:22",
+      "parallel_verse": "Dan 7:27",
+      "direction": "ot",
+      "connection_type": "structural: kingdom given to saints (hybrid 0.455)"
+    },
+    {
+      "source_verse": "Dan 7:22",
+      "parallel_verse": "1 Cor 4:5",
+      "direction": "nt",
+      "connection_type": "semantic: time/judgment (hybrid 0.424)"
+    },
+    {
+      "source_verse": "Rom 2:16",
+      "parallel_verse": "Rom 16:25",
+      "direction": "nt",
+      "connection_type": "vocabulary: Christ,gospel,Jesus,secret (hybrid 0.455)"
+    },
+    {
+      "source_verse": "Rom 2:16",
+      "parallel_verse": "2 Tim 4:1",
+      "direction": "nt",
+      "connection_type": "vocabulary: Christ,Jesus,judge (hybrid 0.432)"
+    },
+    {
+      "source_verse": "Zech 3:1-2",
+      "parallel_verse": "Rev 12:10",
+      "direction": "nt",
+      "connection_type": "structural: accuser in divine court rebuked/cast down"
+    },
+    {
+      "source_verse": "Zech 3:1-2",
+      "parallel_verse": "Rom 8:33-34",
+      "direction": "nt",
+      "connection_type": "structural: accusation answered by divine advocacy"
+    },
+    {
+      "source_verse": "Gen 18:20-21",
+      "parallel_verse": "Dan 7:9-10",
+      "direction": "ot",
+      "connection_type": "structural: divine investigation before execution"
+    },
+    {
+      "source_verse": "Gen 18:20-21",
+      "parallel_verse": "Matt 22:11-14",
+      "direction": "nt",
+      "connection_type": "structural: inspection before execution"
+    },
+    {
+      "source_verse": "1 John 4:17",
+      "parallel_verse": "Rev 14:7",
+      "direction": "nt",
+      "connection_type": "vocabulary: same krisis; boldness IN judgment day"
+    },
+    {
+      "source_verse": "Mal 3:16-17",
+      "parallel_verse": "Dan 12:1",
+      "direction": "ot",
+      "connection_type": "structural: book preserves/delivers faithful"
+    },
+    {
+      "source_verse": "Mal 3:16-17",
+      "parallel_verse": "Rev 20:12",
+      "direction": "nt",
+      "connection_type": "vocabulary+structural: books in judgment, faithful preserved"
+    }
+  ],
+  "raw_parsing": {
+    "greek": {
+      "Rev 14:7": "======================================================================\n  Revelation 14:7 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: λέγων ἐν φωνῇ μεγάλῃ· Φοβήθητε τὸν Θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ, καὶ προσκυνήσατε τῷ ποιήσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ θάλασσαν καὶ πηγὰς ὑδάτων.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nλέγων                λέγω            G3004    [V-PAP-NSM] Pres Act Ptcp Nom Sg M\nἐν                   ἐν              G1722    [PREP]                   \nφωνῇ                 φωνή            G5456    [N-DSF] Dat Sg F         \nμεγάλῃ·              μέγας           G3173    [A-DSF] Dat Sg F         \nΦοβήθητε             φοβέω           G5399    [V-AOM-2P] Aor Pass Impv Pl secondPers\nτὸν                  ὁ               G3588    [T-ASM] Acc Sg M         \nΘεὸν                 θεός            G2316    [N-ASM] Acc Sg M         \nκαὶ                  καί             G2532    [CONJ]                   \nδότε                 δίδωμι          G1325    [V-2AAM-2P] Aor Act Impv Pl secondPers\nαὐτῷ                 αὐτός           G846     [P-DSM] Dat Sg M         \nδόξαν,               δόξα            G1391    [N-ASF] Acc Sg F         \nὅτι                  ὅτι             G3754    [CONJ]                   \nἦλθεν                ἔρχομαι         G2064    [V-2AAI-3S] Aor Act Ind Sg thirdPers\nἡ                    ὁ               G3588    [T-NSF] Nom Sg F         \nὥρα                  ὥρα             G5610    [N-NSF] Nom Sg F         \nτῆς                  ὁ               G3588    [T-GSF] Gen Sg F         \nκρίσεως              κρίσις          G2920    [N-GSF] Gen Sg F         \nαὐτοῦ,               αὐτός           G846     [P-GSM] Gen Sg M         \nκαὶ                  καί             G2532    [CONJ]                   \nπροσκυνήσατε         προσκυνέω       G4352    [V-AAM-2P] Aor Act Impv Pl secondPers\nτῷ                   ὁ               G3588    [T-DSM] Dat Sg M         \nποιήσαντι            ποιέω           G4160    [V-AAP-DSM] Aor Act Ptcp Dat Sg M\nτὸν                  ὁ               G3588    [T-ASM] Acc Sg M         \nοὐρανὸν              οὐρανός         G3772    [N-ASM] Acc Sg M         \nκαὶ                  καί             G2532    [CONJ]                   \nτὴν                  ὁ               G3588    [T-ASF] Acc Sg F         \nγῆν                  γῆ              G1093    [N-ASF] Acc Sg F         \nκαὶ                  καί             G2532    [CONJ]                   \nθάλασσαν             θάλασσα         G2281    [N-ASF] Acc Sg F         \nκαὶ                  καί             G2532    [CONJ]                   \nπηγὰς                πηγή            G4077    [N-APF] Acc Pl F         \nὑδάτων.              ὕδωρ            G5204    [N-GPN] Gen Pl N         \n----------------------------------------------------------------------",
+      "Rom 8:1": "======================================================================\n  Romans 8:1 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nΟὐδὲν                οὐδείς          G3762    [A-NSN-N] Nom Sg N       \nἄρα                  ἄρα             G686     [PRT]                    \nνῦν                  νῦν             G3568    [ADV]                    \nκατάκριμα            κατάκριμα       G2631    [N-NSN] Nom Sg N         \nτοῖς                 ὁ               G3588    [T-DPM] Dat Pl M         \nἐν                   ἐν              G1722    [PREP]                   \nΧριστῷ               Χριστός         G5547    [N-DSM] Dat Sg M         \nἸησοῦ.               Ἰησοῦς          G2424    [N-DSM] Dat Sg M         \n----------------------------------------------------------------------",
+      "Rom 5:16": "======================================================================\n  Romans 5:16 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ οὐχ ὡς δι’ ἑνὸς ἁμαρτήσαντος τὸ δώρημα· τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα, τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nκαὶ                  καί             G2532    [CONJ]                   \nοὐχ                  οὐ              G3756    [PRT-N]                  \nὡς                   ὡς              G5613    [ADV]                    \nδι’                  διά             G1223    [PREP]                   \nἑνὸς                 εἷς             G1520    [A-GSM] Gen Sg M         \nἁμαρτήσαντος         ἁμαρτάνω        G264     [V-AAP-GSM] Aor Act Ptcp Gen Sg M\nτὸ                   ὁ               G3588    [T-NSN] Nom Sg N         \nδώρημα·              δώρημα          G1434    [N-NSN] Nom Sg N         \nτὸ                   ὁ               G3588    [T-NSN] Nom Sg N         \nμὲν                  μέν             G3303    [PRT]                    \nγὰρ                  γάρ             G1063    [CONJ]                   \nκρίμα                κρίμα           G2917    [N-NSN] Nom Sg N         \nἐξ                   ἐκ              G1537    [PREP]                   \nἑνὸς                 εἷς             G1520    [A-GSM] Gen Sg M         \nεἰς                  εἰς             G1519    [PREP]                   \nκατάκριμα,           κατάκριμα       G2631    [N-ASN] Acc Sg N         \nτὸ                   ὁ               G3588    [T-NSN] Nom Sg N         \nδὲ                   δέ              G1161    [CONJ]                   \nχάρισμα              χάρισμα         G5486    [N-NSN] Nom Sg N         \nἐκ                   ἐκ              G1537    [PREP]                   \nπολλῶν               πολύς           G4183    [A-GPN] Gen Pl N         \nπαραπτωμάτων         παράπτωμα       G3900    [N-GPN] Gen Pl N         \nεἰς                  εἰς             G1519    [PREP]                   \nδικαίωμα.            δικαίωμα        G1345    [N-ASN] Acc Sg N         \n----------------------------------------------------------------------",
+      "Rom 5:18": "======================================================================\n  Romans 5:18 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Ἄρα οὖν ὡς δι’ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα, οὕτως καὶ δι’ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς·\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nἌρα                  ἄρα             G686     [PRT]                    \nοὖν                  οὖν             G3767    [CONJ]                   \nὡς                   ὡς              G5613    [ADV]                    \nδι’                  διά             G1223    [PREP]                   \nἑνὸς                 εἷς             G1520    [A-GSN] Gen Sg N         \nπαραπτώματος         παράπτωμα       G3900    [N-GSN] Gen Sg N         \nεἰς                  εἰς             G1519    [PREP]                   \nπάντας               πᾶς             G3956    [A-APM] Acc Pl M         \nἀνθρώπους            ἄνθρωπος        G444     [N-APM] Acc Pl M         \nεἰς                  εἰς             G1519    [PREP]                   \nκατάκριμα,           κατάκριμα       G2631    [N-ASN] Acc Sg N         \nοὕτως                οὕτω            G3779    [ADV]                    \nκαὶ                  καί             G2532    [CONJ]                   \nδι’                  διά             G1223    [PREP]                   \nἑνὸς                 εἷς             G1520    [A-GSN] Gen Sg N         \nδικαιώματος          δικαίωμα        G1345    [N-GSN] Gen Sg N         \nεἰς                  εἰς             G1519    [PREP]                   \nπάντας               πᾶς             G3956    [A-APM] Acc Pl M         \nἀνθρώπους            ἄνθρωπος        G444     [N-APM] Acc Pl M         \nεἰς                  εἰς             G1519    [PREP]                   \nδικαίωσιν            δικαίωσις       G1347    [N-ASF] Acc Sg F         \nζωῆς·                ζωή             G2222    [N-GSF] Gen Sg F         \n----------------------------------------------------------------------",
+      "Rom 2:16": "======================================================================\n  Romans 2:16 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: ἐν ᾗ ἡμέρᾳ κρίνει ὁ Θεὸς τὰ κρυπτὰ τῶν ἀνθρώπων κατὰ τὸ εὐαγγέλιόν μου διὰ Χριστοῦ Ἰησοῦ.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nἐν                   ἐν              G1722    [PREP]                   \nᾗ                    ὅς              G3739    [R-DSF] Dat Sg F         \nἡμέρᾳ                ἡμέρα           G2250    [N-DSF] Dat Sg F         \nκρίνει               κρίνω           G2919    [V-PAI-3S] Pres Act Ind Sg thirdPers\nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nΘεὸς                 θεός            G2316    [N-NSM] Nom Sg M         \nτὰ                   ὁ               G3588    [T-APN] Acc Pl N         \nκρυπτὰ               κρυπτός         G2927    [A-APN] Acc Pl N         \nτῶν                  ὁ               G3588    [T-GPM] Gen Pl M         \nἀνθρώπων             ἄνθρωπος        G444     [N-GPM] Gen Pl M         \nκατὰ                 κατά            G2596    [PREP]                   \nτὸ                   ὁ               G3588    [T-ASN] Acc Sg N         \nεὐαγγέλιόν           εὐαγγέλιον      G2098    [N-ASN] Acc Sg N         \nμου                  ἐγώ             G1473    [P-1GS] Gen Sg           \nδιὰ                  διά             G1223    [PREP]                   \nΧριστοῦ              Χριστός         G5547    [N-GSM] Gen Sg M         \nἸησοῦ.               Ἰησοῦς          G2424    [N-GSM] Gen Sg M         \n----------------------------------------------------------------------",
+      "Rev 14:8": "======================================================================\n  Revelation 14:8 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Καὶ ἄλλος ἄγγελος δεύτερος ἠκολούθησεν λέγων Ἔπεσεν ἔπεσεν Βαβυλὼν ἡ μεγάλη, ἣ ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πεπότικεν πάντα τὰ ἔθνη.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nΚαὶ                  καί             G2532    [CONJ]                   \nἄλλος                ἄλλος           G243     [A-NSM] Nom Sg M         \nἄγγελος              ἄγγελος         G32      [N-NSM] Nom Sg M         \nδεύτερος             δεύτερος        G1208    [A-NSM] Nom Sg M         \nἠκολούθησεν          ἀκολουθέω       G190     [V-AAI-3S] Aor Act Ind Sg thirdPers\nλέγων                λέγω            G3004    [V-PAP-NSM] Pres Act Ptcp Nom Sg M\nἜπεσεν               πίπτω           G4098    [V-2AAI-3S] Aor Act Ind Sg thirdPers\nἔπεσεν               πίπτω           G4098    [V-2AAI-3S] Aor Act Ind Sg thirdPers\nΒαβυλὼν              Βαβυλών         G897     [N-NSF] Nom Sg F         \nἡ                    ὁ               G3588    [T-NSF] Nom Sg F         \nμεγάλη,              μέγας           G3173    [A-NSF] Nom Sg F         \nἣ                    ὅς              G3739    [R-NSF] Nom Sg F         \nἐκ                   ἐκ              G1537    [PREP]                   \nτοῦ                  ὁ               G3588    [T-GSM] Gen Sg M         \nοἴνου                οἶνος           G3631    [N-GSM] Gen Sg M         \nτοῦ                  ὁ               G3588    [T-GSM] Gen Sg M         \nθυμοῦ                θυμός           G2372    [N-GSM] Gen Sg M         \nτῆς                  ὁ               G3588    [T-GSF] Gen Sg F         \nπορνείας             πορνεία         G4202    [N-GSF] Gen Sg F         \nαὐτῆς                αὐτός           G846     [P-GSF] Gen Sg F         \nπεπότικεν            ποτίζω          G4222    [V-RAI-3S] Perf Act Ind Sg thirdPers\nπάντα                πᾶς             G3956    [A-APN] Acc Pl N         \nτὰ                   ὁ               G3588    [T-APN] Acc Pl N         \nἔθνη.                ἔθνος           G1484    [N-APN] Acc Pl N         \n----------------------------------------------------------------------",
+      "John 5:24": "======================================================================\n  John 5:24 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ τὸν λόγον μου ἀκούων καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον, καὶ εἰς κρίσιν οὐκ ἔρχεται ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nἀμὴν                 ἀμήν            G281     [HEB]                    \nἀμὴν                 ἀμήν            G281     [HEB]                    \nλέγω                 λέγω            G3004    [V-PAI-1S] Pres Act Ind Sg firstPers\nὑμῖν                 σύ              G4771    [P-2DP] Dat Pl           \nὅτι                  ὅτι             G3754    [CONJ]                   \nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nτὸν                  ὁ               G3588    [T-ASM] Acc Sg M         \nλόγον                λόγος           G3056    [N-ASM] Acc Sg M         \nμου                  ἐγώ             G1473    [P-1GS] Gen Sg           \nἀκούων               ἀκούω           G191     [V-PAP-NSM] Pres Act Ptcp Nom Sg M\nκαὶ                  καί             G2532    [CONJ]                   \nπιστεύων             πιστεύω         G4100    [V-PAP-NSM] Pres Act Ptcp Nom Sg M\nτῷ                   ὁ               G3588    [T-DSM] Dat Sg M         \nπέμψαντί             πέμπω           G3992    [V-AAP-DSM] Aor Act Ptcp Dat Sg M\nμε                   ἐγώ             G1473    [P-1AS] Acc Sg           \nἔχει                 ἔχω             G2192    [V-PAI-3S] Pres Act Ind Sg thirdPers\nζωὴν                 ζωή             G2222    [N-ASF] Acc Sg F         \nαἰώνιον,             αἰώνιος         G166     [A-ASF] Acc Sg F         \nκαὶ                  καί             G2532    [CONJ]                   \nεἰς                  εἰς             G1519    [PREP]                   \nκρίσιν               κρίσις          G2920    [N-ASF] Acc Sg F         \nοὐκ                  οὐ              G3756    [PRT-N]                  \nἔρχεται              ἔρχομαι         G2064    [V-PNI-3S] Pres M/P Ind Sg thirdPers\nἀλλὰ                 ἀλλά            G235     [CONJ]                   \nμεταβέβηκεν          μεταβαίνω       G3327    [V-RAI-3S] Perf Act Ind Sg thirdPers\nἐκ                   ἐκ              G1537    [PREP]                   \nτοῦ                  ὁ               G3588    [T-GSM] Gen Sg M         \nθανάτου              θάνατος         G2288    [N-GSM] Gen Sg M         \nεἰς                  εἰς             G1519    [PREP]                   \nτὴν                  ὁ               G3588    [T-ASF] Acc Sg F         \nζωήν.                ζωή             G2222    [N-ASF] Acc Sg F         \n----------------------------------------------------------------------",
+      "John 5:22": "======================================================================\n  John 5:22 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: οὐδὲ γὰρ ὁ Πατὴρ κρίνει οὐδένα, ἀλλὰ τὴν κρίσιν πᾶσαν δέδωκεν τῷ Υἱῷ,\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nοὐδὲ                 οὐδέ            G3761    [CONJ-N]                 \nγὰρ                  γάρ             G1063    [CONJ]                   \nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nΠατὴρ                πατήρ           G3962    [N-NSM] Nom Sg M         \nκρίνει               κρίνω           G2919    [V-PAI-3S] Pres Act Ind Sg thirdPers\nοὐδένα,              οὐδείς          G3762    [A-ASM-N] Acc Sg M       \nἀλλὰ                 ἀλλά            G235     [CONJ]                   \nτὴν                  ὁ               G3588    [T-ASF] Acc Sg F         \nκρίσιν               κρίσις          G2920    [N-ASF] Acc Sg F         \nπᾶσαν                πᾶς             G3956    [A-ASF] Acc Sg F         \nδέδωκεν              δίδωμι          G1325    [V-RAI-3S] Perf Act Ind Sg thirdPers\nτῷ                   ὁ               G3588    [T-DSM] Dat Sg M         \nΥἱῷ,                 υἱός            G5207    [N-DSM] Dat Sg M         \n----------------------------------------------------------------------",
+      "1 John 4:17": "======================================================================\n  1 John 4:17 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ’ ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nἘν                   ἐν              G1722    [PREP]                   \nτούτῳ                οὗτος           G3778    [D-DSN] Dat Sg N         \nτετελείωται          τελειόω         G5048    [V-RPI-3S] Perf Pass Ind Sg thirdPers\nἡ                    ὁ               G3588    [T-NSF] Nom Sg F         \nἀγάπη                ἀγάπη           G26      [N-NSF] Nom Sg F         \nμεθ’                 μετά            G3326    [PREP]                   \nἡμῶν,                ἐγώ             G1473    [P-1GP] Gen Pl           \nἵνα                  ἵνα             G2443    [CONJ]                   \nπαρρησίαν            παρρησία        G3954    [N-ASF] Acc Sg F         \nἔχωμεν               ἔχω             G2192    [V-PAS-1P] Pres Act Subj Pl firstPers\nἐν                   ἐν              G1722    [PREP]                   \nτῇ                   ὁ               G3588    [T-DSF] Dat Sg F         \nἡμέρᾳ                ἡμέρα           G2250    [N-DSF] Dat Sg F         \nτῆς                  ὁ               G3588    [T-GSF] Gen Sg F         \nκρίσεως,             κρίσις          G2920    [N-GSF] Gen Sg F         \nὅτι                  ὅτι             G3754    [CONJ]                   \nκαθὼς                καθώς           G2531    [ADV]                    \nἐκεῖνός              ἐκεῖνος         G1565    [D-NSM] Nom Sg M         \nἐστιν                εἰμί            G1510    [V-PAI-3S] Pres Act Ind Sg thirdPers\nκαὶ                  καί             G2532    [CONJ]                   \nἡμεῖς                ἐγώ             G1473    [P-1NP] Nom Pl           \nἐσμεν                εἰμί            G1510    [V-PAI-1P] Pres Act Ind Pl firstPers\nἐν                   ἐν              G1722    [PREP]                   \nτῷ                   ὁ               G3588    [T-DSM] Dat Sg M         \nκόσμῳ                κόσμος          G2889    [N-DSM] Dat Sg M         \nτούτῳ.               οὗτος           G3778    [D-DSM] Dat Sg M         \n----------------------------------------------------------------------",
+      "1 John 4:18": "======================================================================\n  1 John 4:18 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ’ ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nφόβος                φόβος           G5401    [N-NSM] Nom Sg M         \nοὐκ                  οὐ              G3756    [PRT-N]                  \nἔστιν                εἰμί            G1510    [V-PAI-3S] Pres Act Ind Sg thirdPers\nἐν                   ἐν              G1722    [PREP]                   \nτῇ                   ὁ               G3588    [T-DSF] Dat Sg F         \nἀγάπῃ,               ἀγάπη           G26      [N-DSF] Dat Sg F         \nἀλλ’                 ἀλλά            G235     [CONJ]                   \nἡ                    ὁ               G3588    [T-NSF] Nom Sg F         \nτελεία               τέλειος         G5046    [A-NSF] Nom Sg F         \nἀγάπη                ἀγάπη           G26      [N-NSF] Nom Sg F         \nἔξω                  ἔξω             G1854    [ADV]                    \nβάλλει               βάλλω           G906     [V-PAI-3S] Pres Act Ind Sg thirdPers\nτὸν                  ὁ               G3588    [T-ASM] Acc Sg M         \nφόβον,               φόβος           G5401    [N-ASM] Acc Sg M         \nὅτι                  ὅτι             G3754    [CONJ]                   \nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nφόβος                φόβος           G5401    [N-NSM] Nom Sg M         \nκόλασιν              κόλασις         G2851    [N-ASF] Acc Sg F         \nἔχει,                ἔχω             G2192    [V-PAI-3S] Pres Act Ind Sg thirdPers\nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nδὲ                   δέ              G1161    [CONJ]                   \nφοβούμενος           φοβέω           G5399    [V-PNP-NSM] Pres M/P Ptcp Nom Sg M\nοὐ                   οὐ              G3756    [PRT-N]                  \nτετελείωται          τελειόω         G5048    [V-RPI-3S] Perf Pass Ind Sg thirdPers\nἐν                   ἐν              G1722    [PREP]                   \nτῇ                   ὁ               G3588    [T-DSF] Dat Sg F         \nἀγάπῃ.               ἀγάπη           G26      [N-DSF] Dat Sg F         \n----------------------------------------------------------------------",
+      "Rom 8:33-34": "======================================================================\n  Romans 8:33 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: τίς ἐγκαλέσει κατὰ ἐκλεκτῶν Θεοῦ; Θεὸς ὁ δικαιῶν·\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nτίς                  τίς             G5101    [I-NSM] Nom Sg M         \nἐγκαλέσει            ἐγκαλέω         G1458    [V-FAI-3S] Fut Act Ind Sg thirdPers\nκατὰ                 κατά            G2596    [PREP]                   \nἐκλεκτῶν             ἐκλεκτός        G1588    [A-GPM] Gen Pl M         \nΘεοῦ;                θεός            G2316    [N-GSM] Gen Sg M         \nΘεὸς                 θεός            G2316    [N-NSM] Nom Sg M         \nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nδικαιῶν·             δικαιόω         G1344    [V-PAP-NSM] Pres Act Ptcp Nom Sg M\n----------------------------------------------------------------------\n\n======================================================================\n  Romans 8:34 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: τίς ὁ κατακρινῶν; Χριστὸς Ἰησοῦς ὁ ἀποθανών, μᾶλλον δὲ ἐγερθείς, ὅς ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ, ὃς καὶ ἐντυγχάνει ὑπὲρ ἡμῶν.\n\n----------------------------------------------------------------------\nWORD                 LEMMA           STRONG   PARSING                  \n----------------------------------------------------------------------\nτίς                  τίς             G5101    [I-NSM] Nom Sg M         \nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nκατακρινῶν;          κατακρίνω       G2632    [V-FAP-NSM] Fut Act Ptcp Nom Sg M\nΧριστὸς              Χριστός         G5547    [N-NSM] Nom Sg M         \nἸησοῦς               Ἰησοῦς          G2424    [N-NSM] Nom Sg M         \nὁ                    ὁ               G3588    [T-NSM] Nom Sg M         \nἀποθανών,            ἀποθνῄσκω       G599     [V-2AAP-NSM] Aor Act Ptcp Nom Sg M\nμᾶλλον               μᾶλλον          G3123    [ADV]                    \nδὲ                   δέ              G1161    [CONJ]                   \nἐγερθείς,            ἐγείρω          G1453    [V-APP-NSM] Aor Pass Ptcp Nom Sg M\nὅς                   ὅς              G3739    [R-NSM] Nom Sg M         \nἐστιν                εἰμί            G1510    [V-PAI-3S] Pres Act Ind Sg thirdPers\nἐν                   ἐν              G1722    [PREP]                   \nδεξιᾷ                δεξιός          G1188    [A-DSF] Dat Sg F         \nτοῦ                  ὁ               G3588    [T-GSM] Gen Sg M         \nΘεοῦ,                θεός            G2316    [N-GSM] Gen Sg M         \nὃς                   ὅς              G3739    [R-NSM] Nom Sg M         \nκαὶ                  καί             G2532    [CONJ]                   \nἐντυγχάνει           ἐντυγχάνω       G1793    [V-PAI-3S] Pres Act Ind Sg thirdPers\nὑπὲρ                 ὑπέρ            G5228    [PREP]                   \nἡμῶν.                ἐγώ             G1473    [P-1GP] Gen Pl           \n----------------------------------------------------------------------"
+    },
+    "hebrew": {
+      "Dan 7:22": "======================================================================\n  Daniel 7:22\n======================================================================\n\n  עַ֣ד דִּֽי־אֲתָ֗ה עַתִּיק֙ יֹֽומַיָּ֔א וְדִינָ֣א יְהִ֔ב לְקַדִּישֵׁ֖י עֶלְיֹונִ֑ין וְזִמְנָ֣א מְטָ֔ה וּמַלְכוּתָ֖א הֶחֱסִ֥נוּ קַדִּישִֽׁין׃ \n\n  Hebrew          Lemma        Parsing                   Gloss\n  --------------- ------------ ------------------------- --------------------\n  עַ֣ד            עד           Prep                      until\n  דִּֽי           די           Prep                      <relative>\n  אֲתָ֗ה          אתה          Verb.peal.Perf.3ms        come\n  עַתִּיק֙        עתיק         Adj.ms.Cst                old\n  יֹֽומַיָּ֔א     יום          Noun.mp                   day\n  וְ              ו            Conj.+NAN                 and\n  דִינָ֣א         דין          Noun.ms                   judgement\n  יְהִ֔ב          יהב          Verb.peil.Perf.3ms        give\n  לְ              ל            Prep                      to\n  קַדִּישֵׁ֖י     קדישׁ        Adj.mp.Cst                holy\n  עֶלְיֹונִ֑ין    עליון        Adj.mp.Abs                most high\n  וְ              ו            Conj.+NAN                 and\n  זִמְנָ֣א        זמן          Noun.ms                   time\n  מְטָ֔ה          מטא          Verb.peal.Perf.3ms        come\n  וּ              ו            Conj.+NAN                 and\n  מַלְכוּתָ֖א     מלכו         Noun.fs                   kingdom\n  הֶחֱסִ֥נוּ      חסן          Verb.haf.Perf.3mp         possess\n  קַדִּישִֽׁין    קדישׁ        Adj.mp.Abs                holy",
+      "Dan 7:10": "======================================================================\n  Daniel 7:10\n======================================================================\n\n  נְהַ֣ר דִּי־נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן־קֳדָמֹ֔והִי אֶ֤לֶף אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבֹּ֥ו רִבְבָ֖ן קָֽדָמֹ֣והִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ׃ \n\n  Hebrew          Lemma        Parsing                   Gloss\n  --------------- ------------ ------------------------- --------------------\n  נְהַ֣ר          נהר          Noun.ms.Abs               river\n  דִּי            די           Prep                      <relative>\n  נ֗וּר           נור          Noun.s.Abs                fire\n  נָגֵ֤ד          נגד          Verb.peal.Ptcp.unknownms.Abs flow\n  וְ              ו            Conj.+NAN                 and\n  נָפֵק֙          נפק          Verb.peal.Ptcp.unknownms.Abs go out\n  מִן             מן           Prep                      from\n  קֳדָמֹ֔והִי     קדם          Noun.mp.Abs.+3ms          before\n  אֶ֤לֶף          אלף          Noun.s.Cst                thousand\n  אלפים           אלף          Noun.mp.Abs               thousand\n  יְשַׁמְּשׁוּנֵּ֔הּ שׁמשׁ        Verb.pael.Impf.3mp.+3ms   serve\n  וְ              ו            Conj.+NAN                 and\n  רִבֹּ֥ו         רבו          Noun.fs.Cst               myriad\n  רבון            רבו          Noun.fp.Abs               myriad\n  קָֽדָמֹ֣והִי    קדם          Noun.mp.Abs.+3ms          before\n  יְקוּמ֑וּן      קום          Verb.peal.Impf.3mp        stand\n  דִּינָ֥א        דין          Noun.ms                   judgement\n  יְתִ֖ב          יתב          Verb.peal.Perf.3ms        sit\n  וְ              ו            Conj.+NAN                 and\n  סִפְרִ֥ין       ספר          Noun.mp.Abs               book\n  פְּתִֽיחוּ      פתח          Verb.peil.Perf.3mp        open",
+      "Dan 7:26": "======================================================================\n  Daniel 7:26\n======================================================================\n\n  וְדִינָ֖א יִתִּ֑ב וְשָׁלְטָנֵ֣הּ יְהַעְדֹּ֔ון לְהַשְׁמָדָ֥ה וּלְהֹובָדָ֖ה עַד־סֹופָֽא׃ \n\n  Hebrew          Lemma        Parsing                   Gloss\n  --------------- ------------ ------------------------- --------------------\n  וְ              ו            Conj.+NAN                 and\n  דִינָ֖א         דין          Noun.ms                   judgement\n  יִתִּ֑ב         יתב          Verb.peal.Impf.3ms        sit\n  וְ              ו            Conj.+NAN                 and\n  שָׁלְטָנֵ֣הּ    שׁלטן        Noun.ms.Abs.+3ms          official\n  יְהַעְדֹּ֔ון    עדה          Verb.haf.Impf.3mp         go\n  לְ              ל            Prep                      to\n  הַשְׁמָדָ֥ה     שׁמד         Verb.haf.InfCon.unknownunknown.Abs exterminate\n  וּ              ו            Conj.+NAN                 and\n  לְ              ל            Prep                      to\n  הֹובָדָ֖ה       אבד          Verb.haf.InfCon.unknownunknown.Abs perish\n  עַד             עד           Prep                      until\n  סֹופָֽא         סוף          Noun.ms                   end",
+      "Zech 3:1-2": "======================================================================\n  Zechariah 3:1\n======================================================================\n\n  וַיַּרְאֵ֗נִי אֶת־יְהֹושֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּדֹ֔ול עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן עֹמֵ֥ד עַל־יְמִינֹ֖ו לְשִׂטְנֹֽו׃ \n\n  Hebrew          Lemma        Parsing                   Gloss\n  --------------- ------------ ------------------------- --------------------\n  וַ              ו            Conj.+NAN                 and\n  יַּרְאֵ֗נִי     ראה          Verb.Hiphil.Wayq.3ms.+1us see\n  אֶת             את           Prep                      <object marker>\n  יְהֹושֻׁ֨עַ֙    יהושׁע       PropN.ms.Abs.+NAN         Joshua\n  הַ              ה            Art.+NAN                  the\n  כֹּהֵ֣ן         כהן          Noun.ms.Abs               priest\n  הַ              ה            Art.+NAN                  the\n  גָּדֹ֔ול        גדול         Adj.ms.Abs                great\n  עֹמֵ֕ד          עמד          Verb.Qal.Ptcp.unknownms.Abs stand\n  לִ              ל            Prep                      to\n  פְנֵ֖י          פנה          Noun.mp.Cst               face\n  מַלְאַ֣ךְ       מלאך         Noun.ms.Cst               messenger\n  יְהוָ֑ה         יהוה         PropN.ms.Abs.+NAN         YHWH\n  וְ              ו            Conj.+NAN                 and\n  הַ              ה            Art.+NAN                  the\n  שָּׂטָ֛ן        שׂטן         Noun.ms.Abs               adversary\n  עֹמֵ֥ד          עמד          Verb.Qal.Ptcp.unknownms.Abs stand\n  עַל             על           Prep                      upon\n  יְמִינֹ֖ו       ימין         Noun.fs.Abs.+3ms          right-hand side\n  לְ              ל            Prep                      to\n  שִׂטְנֹֽו       שׂטן         Verb.Qal.InfCon.unknownunknown.Abs.+3ms bear grudge\n\n======================================================================\n  Zechariah 3:2\n======================================================================\n\n  וַיֹּ֨אמֶר יְהוָ֜ה אֶל־הַשָּׂטָ֗ן יִגְעַ֨ר יְהוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהוָה֙ בְּךָ֔ הַבֹּחֵ֖ר בִּירֽוּשָׁלִָ֑ם הֲלֹ֧וא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ׃ \n\n  Hebrew          Lemma        Parsing                   Gloss\n  --------------- ------------ ------------------------- --------------------\n  וַ              ו            Conj.+NAN                 and\n  יֹּ֨אמֶר        אמר          Verb.Qal.Wayq.3ms         say\n  יְהוָ֜ה         יהוה         PropN.ms.Abs.+NAN         YHWH\n  אֶל             אל           Prep                      to\n  הַ              ה            Art.+NAN                  the\n  שָּׂטָ֗ן        שׂטן         Noun.ms.Abs               adversary\n  יִגְעַ֨ר        גער          Verb.Qal.Impf.3ms         rebuke\n  יְהוָ֤ה         יהוה         PropN.ms.Abs.+NAN         YHWH\n  בְּךָ֙          ב            Prep.+2ms                 in\n  הַ              ה            Art.+NAN                  the\n  שָּׂטָ֔ן        שׂטן         Noun.ms.Abs               adversary\n  וְ              ו            Conj.+NAN                 and\n  יִגְעַ֤ר        גער          Verb.Qal.Impf.3ms         rebuke\n  יְהוָה֙         יהוה         PropN.ms.Abs.+NAN         YHWH\n  בְּךָ֔          ב            Prep.+2ms                 in\n  הַ              ה            Art.+NAN                  the\n  בֹּחֵ֖ר         בחר          Verb.Qal.Ptcp.unknownms.Abs examine\n  בִּ             ב            Prep                      in\n  ירֽוּשָׁלִָ֑ם   ירושׁלם      PropN.s.Abs.+NAN          Jerusalem\n  הֲ              ה            Introg                    <interrogative>\n  לֹ֧וא           לא           Neg.+NAN                  not\n  זֶ֦ה            זה           DemPron.ms.+NAN           this\n  א֖וּד           אוד          Noun.ms.Abs               log\n  מֻצָּ֥ל         נצל          Verb.Hophal.Ptcp.unknownms.Abs deliver\n  מֵ              מן           Prep                      from\n  אֵֽשׁ           אשׁ          Noun.s.Abs                fire"
+    }
+  }
+}

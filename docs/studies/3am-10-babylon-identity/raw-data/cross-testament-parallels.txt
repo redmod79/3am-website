@@ -1,0 +1,56 @@
+CROSS-TESTAMENT PARALLELS — RAW TOOL OUTPUT
+
+=== Rev 14:8 — NT parallels (hybrid) ===
+REV 18:2  0.469 (babylon, fallen, great)
+REV 16:19 0.462 (anger, babylon, great, wine)
+REV 14:10 0.443 (angel, anger, drink, wine)
+REV 18:3  0.441 (anger, immorality, wine)
+
+=== Rev 14:8 — OT parallels (hybrid) ===
+Esther 7:2  0.402 (drink, second, wine) — not theologically relevant
+Daniel 2:18 0.362 (babylon)
+NOTE: The tool's semantic matching did not surface Isa 21:9 or Jer 51:8 directly due to vocabulary differences in LXX gloss layer. However, the manual comparison is decisive:
+- Isa 21:9: "Babylon is fallen, is fallen" (nephla nephla babel) — exact OT source for the doubled formula
+- Jer 51:8: "Babylon is suddenly fallen and destroyed" — parallel fall announcement
+
+=== Rev 17:1 — NT parallels (hybrid) ===
+REV 21:9  0.763 (angel, bowl, came, hav) — HIGHEST SCORE: confirms harlot-bride bracket
+REV 15:7  0.456 (angel, bowl, seven)
+REV 17:15 0.385 (prostitute, water)
+
+=== Rev 17:4 — NT parallels (hybrid) ===
+REV 18:16 0.584 (adorn, gold, pearl, preciou) — garment parallel within Babylon description
+REV 18:12 0.446 (gold, pearl, preciou, purple)
+REV 21:19 0.277 (adorn, preciou, stone) — New Jerusalem also adorned but with different significance
+
+=== Rev 18:4 — OT parallels (hybrid) ===
+(Tool did not surface Jer 51:6, 51:45, or Isa 48:20 directly due to semantic layer limitations)
+Manual parallels: Jer 51:6 "Flee out of the midst of Babylon" // Rev 18:4 "Come out of her, my people"
+Jer 51:45 "My people, go ye out of the midst of her" // Rev 18:4
+Isa 48:20 "Go ye forth of Babylon, flee ye from the Chaldeans" // Rev 18:4
+
+=== Jer 51:7 — NT parallels (hybrid) ===
+REV 18:3  0.363 (drunk, wine)
+REV 14:10 0.346 (cup, drink, wine)
+REV 17:2  0.326 (drunk, wine)
+REV 17:4  0.324 (cup, gold)
+— Confirms the golden-cup/wine/drunk vocabulary chain from Jer 51:7 into Revelation's Babylon passages
+
+=== G3735 (oros) WORD TRACE — All Revelation occurrences ===
+From search_strongs.py: G3735 has 65 total NT occurrences, translated:
+- mountain: 27x (41.5%)
+- mount: 16x (24.6%)
+- mountains: 12x (18.5%)
+- hill: 2x (3.1%) — ONLY in Luke 4:29 and Luke 9:37
+- Other: 8x
+
+In REVELATION specifically, oros appears at:
+- Rev 6:14 — "every mountain and island were moved" (mountains)
+- Rev 6:15-16 — "hid themselves in the dens and in the rocks of the mountains" (mountains)
+- Rev 8:8 — "a great mountain burning with fire was cast into the sea" (mountain)
+- Rev 14:1 — "a Lamb stood on the mount Sion" (mount)
+- Rev 16:20 — "the mountains were not found" (mountains)
+- Rev 17:9 — "seven mountains, on which the woman sitteth" (mountains)
+- Rev 21:10 — "carried me away in the spirit to a great and high mountain" (mountain)
+
+RESULT: Every other oros in Revelation clearly means "mountain" — NEVER "hill." Woods' claim is verified. The KJV translates oros as "hill" ONLY in Luke, never in Revelation.

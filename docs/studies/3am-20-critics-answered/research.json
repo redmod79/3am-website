@@ -1,0 +1,2034 @@
+{
+  "question": "How do the 14 major critical arguments against the three angels' messages fare when tested against biblical evidence? Take each objection and respond using evidence from the prior 19 studies.",
+  "topics": [
+    {
+      "name": "GOSPEL",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Matt 4:23",
+        "Mark 1:14",
+        "Rom 1:16",
+        "1 Cor 15:3-4",
+        "Rev 14:6"
+      ],
+      "entry_text": "Gospel topic — covers the good news of salvation through Jesus Christ. Key entries relevant to Rev 14:6 everlasting gospel. See library entry G2098-euangelion for comprehensive data."
+    },
+    {
+      "name": "COMMANDMENTS",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Exo 20:1-17",
+        "Matt 22:36-40",
+        "Rom 7:7-12",
+        "Rev 14:12"
+      ],
+      "entry_text": "Commandments topic — covers divine injunctions, particularly the Decalogue. Key entries relevant to Rev 14:12 tas entolas tou theou. See library entry G1785-entole."
+    },
+    {
+      "name": "OBEDIENCE",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Gen 26:5",
+        "Rom 8:4",
+        "Gal 5:6",
+        "1 John 5:3",
+        "Rev 14:12"
+      ],
+      "entry_text": "Obedience topic — relationship of obedience to faith. Covers commandment-keeping as gospel fruit, not works-righteousness. See WG-obedience and WG-commandment-keeping."
+    },
+    {
+      "name": "SABBATH",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Exo 20:8-11",
+        "Exo 31:13",
+        "Exo 31:17",
+        "Ezek 20:12",
+        "Heb 4:9"
+      ],
+      "entry_text": "Sabbath topic — the seventh-day rest as sign/seal. Sabbath is the ONLY Decalogue commandment called owth (sign) four times. See H7676-shabbath, G4520-sabbatismos, WG-sabbath."
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Exo 20:3-5",
+        "Rev 14:7",
+        "Rev 14:9",
+        "Rev 13:4"
+      ],
+      "entry_text": "Worship topic — proskyneo as central verb in the three angels' messages. Rev 14:7 commands worship of Creator; Rev 14:9 warns against worship of beast. See G4352-proskyneo, WG-worship."
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_refs": [
+        "Dan 7:9-10",
+        "Matt 12:36",
+        "Rom 2:16",
+        "2 Cor 5:10",
+        "Rev 14:7"
+      ],
+      "entry_text": "Judgment topic — the general judgment. Covers both evaluative (krisis) and condemnatory (katakrima) dimensions. See G2920-krisis, G2631-katakrima, WG-judgment."
+    },
+    {
+      "name": "ASSURANCE",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rom 8:1",
+        "Rom 8:33-34",
+        "1 John 5:13",
+        "Eph 1:13-14"
+      ],
+      "entry_text": "Assurance topic — grounds of certainty for believers. Five bases: God's promises, Spirit's seal, Christ's intercession, books testify for believers, completed work of Christ."
+    },
+    {
+      "name": "SEAL",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rom 4:11",
+        "Eph 1:13",
+        "Eph 4:30",
+        "Rev 7:2-4"
+      ],
+      "entry_text": "Seal topic — divine ownership mark. Covers sphragis (G4973) as authentication, protection, and ownership indicator. See G4973-sphragis, G4972-sphragizo, WG-sealing."
+    },
+    {
+      "name": "BABYLON",
+      "subtopic": "CITY OF",
+      "verse_refs": [
+        "Rev 14:8",
+        "Rev 17:1-5",
+        "Rev 18:4-5"
+      ],
+      "entry_text": "Babylon topic — the symbolic harlot city. Zanah/porneia vocabulary requires prior covenant relationship. Harlot-bride bracket (Rev 17:1-3 parallels 21:9-10). See H2181-zanah, G4202-porneia, H1101-balal."
+    },
+    {
+      "name": "ETERNAL PUNISHMENT",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Matt 25:46",
+        "Rev 14:10-11",
+        "Rev 20:10"
+      ],
+      "entry_text": "Eternal punishment topic — consequences of sin. Key debate between ECT and annihilationism. See G166-aionios, G165-aion, H5769-owlam, WG-forever, WG-death, WG-destroy."
+    },
+    {
+      "name": "FAITH",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Gen 15:6",
+        "Rom 3:31",
+        "Gal 5:6",
+        "Heb 11:1",
+        "Rev 14:12"
+      ],
+      "entry_text": "Faith topic — pistis as trust, faithfulness, and the body of belief. Rev 14:12 pistis Iesou genitive debate (subjective vs. objective). See G4102-pistis, WG-faith, grammar-reference/greek/subjective-objective-genitive.md."
+    },
+    {
+      "name": "LAW",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rom 3:31",
+        "Rom 7:7",
+        "Rom 8:4",
+        "Gal 3:24"
+      ],
+      "entry_text": "Law topic — nomos as Torah/Mosaic law. Distinction from entole in Revelation (nomos never appears in Revelation). See G3551-nomos, WG-law, TR-towrah-nomos."
+    },
+    {
+      "name": "SIGN",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Exo 31:13",
+        "Exo 31:17",
+        "Ezek 20:12",
+        "Ezek 20:20",
+        "Rom 4:11"
+      ],
+      "entry_text": "Sign topic — owth as covenantal marker. Sabbath is the only Decalogue commandment designated owth. Rom 4:11 bridges sign (semeion) and seal (sphragis) vocabulary. See H226-owth, WG-sign, TR-owth-semeion."
+    },
+    {
+      "name": "ANGEL",
+      "subtopic": "CELESTIAL SPIRIT",
+      "verse_refs": [
+        "Rev 14:6",
+        "Rev 14:8",
+        "Rev 14:9",
+        "Rev 12:1",
+        "Rev 15:1"
+      ],
+      "entry_text": "Angel topic — angelos as messenger. The three angels are symbolic of human proclaimers within an apocalyptic literary framework. Symbolic antagonists (beasts) demand symbolic protagonists (angels). See WG-angel."
+    },
+    {
+      "name": "DOOR",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Gen 7:16",
+        "Matt 25:10",
+        "Luke 13:25"
+      ],
+      "entry_text": "Door topic — shut-door motif as close-of-probation precedent. Three texts independently employ the door-closing image."
+    },
+    {
+      "name": "PROBATION",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rev 22:11",
+        "Rev 15:8",
+        "Dan 12:1"
+      ],
+      "entry_text": "Probation topic — finalization of destinies before the Second Coming. Three independent convergence texts."
+    },
+    {
+      "name": "PREACHING",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Luke 3:18",
+        "Acts 17:22-31",
+        "Rom 1:1-4",
+        "Rev 14:6"
+      ],
+      "entry_text": "Preaching topic — gospel proclamation that includes judgment. Three texts explicitly label combined message (including judgment) as gospel."
+    },
+    {
+      "name": "REPENTANCE",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Acts 17:30",
+        "Matt 3:2",
+        "Rev 14:7"
+      ],
+      "entry_text": "Repentance topic — moral reorientation as gospel content. Paul at Athens commands repentance alongside judgment announcement."
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rev 13:4",
+        "Rev 14:9",
+        "Rev 14:11",
+        "Acts 17:29"
+      ],
+      "entry_text": "Idolatry topic — false worship contrasted with true worship in Rev 14:7. The charagma (G5480) is linked to proskyneo in every occurrence."
+    },
+    {
+      "name": "TORMENTS",
+      "subtopic": "GENERAL",
+      "verse_refs": [
+        "Rev 14:10-11",
+        "Rev 20:10",
+        "Matt 25:46"
+      ],
+      "entry_text": "Torments topic — basanizo vocabulary in Revelation. Subject differentiation: human wicked devoured (katephagen, Rev 20:9); devil/beast/false prophet tormented (Rev 20:10)."
+    }
+  ],
+  "verses": [
+    {
+      "reference": "Rev 14:6-7",
+      "heading": "The First Angel's Message — Everlasting Gospel and Creation Worship",
+      "kjv_text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+      "context": "Rev 14 follows the beast's universal dominion (Rev 13). Three angels counteract the beast's claims with divine messages. V.6-7 is the crux text all 14 objections target. The legon participle (V-PAP-NSM) in v.7 embeds the imperatives as CONTENT of the euangelion aionion. Three aorist imperatives: phobethete (fear), dote (give glory), proskynēsate (worship). The creation formula poieo + ouranos + ge + thalassa matches Exo 20:11 LXX but diverges at the fourth element (pegas hydaton instead of 'all that in them is').",
+      "greek_parsing": [
+        {
+          "word": "Καὶ",
+          "strongs": "G2532",
+          "parsing": "CONJ",
+          "gloss": "εἶδον                ὁράω            G3708    [V-2AAI-1S] Aor Act Ind Sg firstPers"
+        },
+        {
+          "word": "ἄλλον",
+          "strongs": "G243",
+          "parsing": "A-ASM",
+          "gloss": "Acc Sg M"
+        },
+        {
+          "word": "ἄγγελον",
+          "strongs": "G32",
+          "parsing": "N-ASM",
+          "gloss": "Acc Sg M"
+        },
+        {
+          "word": "πετόμενον",
+          "strongs": "G4072",
+          "parsing": "V-PNP-ASM",
+          "gloss": "Pres M/P Ptcp Acc Sg M"
+        },
+        {
+          "word": "ἐν",
+          "strongs": "G1722",
+          "parsing": "PREP",
+          "gloss": "μεσουρανήματι,       μεσουράνημα     G3321    [N-DSN] Dat Sg N"
+        },
+        {
+          "word": "ἔχοντα",
+          "strongs": "G2192",
+          "parsing": "V-PAP-ASM",
+          "gloss": "Pres Act Ptcp Acc Sg M"
+        },
+        {
+          "word": "εὐαγγέλιον",
+          "strongs": "G2098",
+          "parsing": "N-ASN",
+          "gloss": "Acc Sg N"
+        },
+        {
+          "word": "αἰώνιον",
+          "strongs": "G166",
+          "parsing": "A-ASN",
+          "gloss": "Acc Sg N"
+        },
+        {
+          "word": "εὐαγγελίσαι",
+          "strongs": "G2097",
+          "parsing": "V-AAN",
+          "gloss": "Aor Act Inf"
+        },
+        {
+          "word": "ἐπὶ",
+          "strongs": "G1909",
+          "parsing": "PREP",
+          "gloss": "τοὺς                 ὁ               G3588    [T-APM] Acc Pl M"
+        },
+        {
+          "word": "καθημένους",
+          "strongs": "G2521",
+          "parsing": "V-PNP-APM",
+          "gloss": "Pres M/P Ptcp Acc Pl M"
+        },
+        {
+          "word": "γῆς",
+          "strongs": "G1093",
+          "parsing": "N-GSF",
+          "gloss": "Gen Sg F"
+        },
+        {
+          "word": "πᾶν",
+          "strongs": "G3956",
+          "parsing": "A-ASN",
+          "gloss": "Acc Sg N"
+        },
+        {
+          "word": "ἔθνος",
+          "strongs": "G1484",
+          "parsing": "N-ASN",
+          "gloss": "Acc Sg N"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objections 1-3, 5-6, 12, 14. Parser confirms: legon (V-PAP-NSM) = present active participle, embedding v.7 as gospel content. Phobethete (V-AOM-2P) = aorist passive imperative. Poiesanti (V-AAP-DSM) = aorist active participle of poieo (G4160), NOT ktizo. This verb switch from ktizo (used in Rev 4:11, 10:6) to poieo is the diagnostic allusion to Exo 20:11."
+    },
+    {
+      "reference": "Rev 14:8",
+      "heading": "The Second Angel's Message — Babylon's Fall",
+      "kjv_text": "And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.",
+      "context": "The second angel announces Babylon's fall. The doubled 'is fallen, is fallen' (epesen, epesen) echoes Isa 21:9. The porneia vocabulary connects to the zanah tradition (H2181) requiring prior covenant faithfulness.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 13. The harlotry imagery requires prior faithfulness — Rome never had a covenant with YHWH."
+    },
+    {
+      "reference": "Rev 14:9-11",
+      "heading": "The Third Angel's Message — Mark, Torment, and Smoke Forever",
+      "kjv_text": "And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive [his] mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.",
+      "context": "The third angel warns against receiving the charagma. Key grammatical observations: v.10 basanisthesetai (V-FPI-3S) is FUTURE passive indicative; v.11 anabainei (V-PAI-3S) is PRESENT active indicative and ouk echousin (V-PAI-3P) is PRESENT active indicative. The tense shift from future (torment) to present (smoke ascends, no rest) is grammatically significant. The eis aionas aionon formula appears 21x in NT, including Rev 4:8 for living creatures' ceaseless praise.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 7. Parser confirms the tense shift: basanisthesetai (future) vs. anabainei (present) vs. echousin (present). Rev 4:8 uses identical 'rest not day and night' construction for ceaseless praise. Isa 34:9-10 uses strongest Hebrew 'forever' vocabulary for Edom's temporal destruction."
+    },
+    {
+      "reference": "Rev 14:12",
+      "heading": "The Saints' Description — Commandments and Faith of Jesus",
+      "kjv_text": "Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.",
+      "context": "A descriptive bracket following the three warnings. Hode (adverb) + terountes (V-PAP-NPM, present active participle) = DESCRIPTIVE, not prescriptive. Terountes describes who the saints ARE, not what they must DO to be saved. Tas entolas tou theou (the commandments of God) uses entole (G1785), not nomos (G3551). Pistin Iesou (faith of Jesus) = genitive construction debated as subjective, objective, or plenary.",
+      "greek_parsing": [
+        {
+          "word": "Ωδε",
+          "strongs": "G5602",
+          "parsing": "ADV",
+          "gloss": "ὑπομονὴ              ὑπομονή         G5281    [N-NSF] Nom Sg F"
+        },
+        {
+          "word": "τηροῦντες",
+          "strongs": "G5083",
+          "parsing": "V-PAP-NPM",
+          "gloss": "Pres Act Ptcp Nom Pl M"
+        },
+        {
+          "word": "ἐντολὰς",
+          "strongs": "G1785",
+          "parsing": "N-APF",
+          "gloss": "Acc Pl F"
+        },
+        {
+          "word": "Θεοῦ",
+          "strongs": "G2316",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        },
+        {
+          "word": "πίστιν",
+          "strongs": "G4102",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "Ἰησοῦ.",
+          "strongs": "G2424",
+          "parsing": "N-GSM",
+          "gloss": "Gen Sg M"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 4. Parser confirms: terountes (V-PAP-NPM) = present active participle, nominative plural masculine — a substantival participle describing 'those who keep,' NOT an imperative. The hupomone bracket with Rev 13:10 ties this to the literary unit. Entole (G1785, 65 verses NT) is the word for individual commandments including Decalogue commands: Rom 7:7-8 (5x for tenth commandment), Eph 6:2 (fifth commandment), Luke 23:56 (Sabbath)."
+    },
+    {
+      "reference": "Gal 1:6-9",
+      "heading": "Paul's Anathema on Another Gospel — The Galatians 1 Test",
+      "kjv_text": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any [man] preach any other gospel unto you than that ye have received, let him be accursed.",
+      "context": "Paul confronts the Judaizers. The 'another gospel' is heteros (G2087, qualitatively different), not allos (G243, numerically different). Paul's concern is substituting works-righteousness (circumcision as salvation condition) for grace. V.8 mentions 'an angel from heaven' — critics apply this to Rev 14:6's angel. But the test is whether the content adds works-righteousness, not whether an angel delivers it.",
+      "greek_parsing": [
+        {
+          "word": "μετατίθεσθε",
+          "strongs": "G3346",
+          "parsing": "V-PEI-2P",
+          "gloss": "Pres M/P Ind Pl secondPers"
+        },
+        {
+          "word": "ἕτερον",
+          "strongs": "G2087",
+          "parsing": "A-ASN",
+          "gloss": "Acc Sg N"
+        },
+        {
+          "word": "εὐαγγέλιον,",
+          "strongs": "G2098",
+          "parsing": "N-ASN",
+          "gloss": "Acc Sg N"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 2. Parser confirms: heteron (G2087, A-ASN) in v.6 = 'another of a different kind.' Euangelisētai (V-AMS-3S) in v.8 = aorist middle subjunctive of euangelizo. Anathema (G331, N-NSN) = devote to destruction. The test is content, not messenger. Rev 14:7's content matches Paul's own Athens sermon (Acts 17:22-31)."
+    },
+    {
+      "reference": "Acts 17:22-31",
+      "heading": "Paul at Athens — The Tightest NT Parallel to Rev 14:6-7",
+      "kjv_text": "Then Paul stood in the midst of Mars' hill, and said, [Ye] men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by [that] man whom he hath ordained; [whereof] he hath given assurance unto all [men], in that he hath raised him from the dead.",
+      "context": "Paul's sermon at Athens. Element-by-element correspondence with Rev 14:6-7: (1) Creator God who made all things (v.24 = Rev 14:7b), (2) universal scope — all nations (v.26 = Rev 14:6b), (3) judgment appointed (v.31 = Rev 14:7a), (4) moral reorientation — repent (v.30 = Rev 14:7a 'fear God'). Carson (Reformed, non-Adventist) calls this framework 'necessary for gospel proclamation.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objections 1-3. Poiesas (aorist active participle of poieo, G4160) appears in v.24 — same verb as Rev 14:7. Paul declares THIS as his gospel message to a pagan audience. If Paul's Athens sermon is 'another gospel,' then Paul violated his own Galatians test."
+    },
+    {
+      "reference": "Ecc 12:13-14",
+      "heading": "The OT Structural Twin — Fear God, Keep Commandments, Judgment",
+      "kjv_text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man. For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.",
+      "context": "Solomon's conclusion to Ecclesiastes. Contains the same three elements as Rev 14:6-7: fear God + keep commandments + judgment coming. Called 'the whole of man' — not partial or deficient. This text demonstrates the three-part message is not a 19th-century invention but a pre-exilic summary.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objections 1, 14. The Hebrew uses yare (H3372) for 'fear' and mitsvah (H4687) for 'commandments' — the same roots that map to phobeo and entole via the LXX."
+    },
+    {
+      "reference": "Rom 2:16",
+      "heading": "Judgment According to My Gospel",
+      "kjv_text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
+      "context": "Paul explicitly identifies judgment as integral to 'my gospel' (kata to euangelion mou). This demolishes the claim that judgment is opposed to or separate from the gospel.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objections 1, 3. Paul labels divine judgment as gospel content — identical to Rev 14:7 structure."
+    },
+    {
+      "reference": "Luke 3:18",
+      "heading": "John's Judgment Preaching Labeled Gospel",
+      "kjv_text": "And many other things in his exhortation preached he unto the people.",
+      "context": "Luke uses euengelizeto (G2097, imperfect middle indicative of euangelizo) to describe John's preaching, which included fire judgment warnings (v.17). Luke labels judgment preaching as 'preaching the gospel.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 3. Third independent text labeling judgment preaching as gospel."
+    },
+    {
+      "reference": "Rom 7:7-12",
+      "heading": "Paul Uses Entole for the Tenth Commandment",
+      "kjv_text": "What shall we say then? [Is] the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin [was] dead. For I was alive without the law once: but when the commandment came, sin revived, and I died. And the commandment, which [was ordained] to life, I found [to be] unto death. For sin, taking occasion by the commandment, deceived me, and by it slew [me]. Wherefore the law [is] holy, and the commandment holy, and just, and good.",
+      "context": "Paul discussing the law's function. He quotes the tenth commandment ('Thou shalt not covet,' Exo 20:17) and calls it entole five times in six verses (vv.7, 8, 9, 10, 11, 12). This demolishes the claim that entole never refers to the Decalogue.",
+      "greek_parsing": [
+        {
+          "word": "νόμος",
+          "strongs": "G3551",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἐπιθυμίαν",
+          "strongs": "G1939",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "ἐπιθυμήσεις",
+          "strongs": "G1937",
+          "parsing": "V-FAI-2S",
+          "gloss": "Fut Act Ind Sg secondPers"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 4. Parser confirms: entole (G1785) in v.7 as commandment. The tenth commandment (ouk epithymēseis, Exo 20:17 LXX) is called entole. Combined with Eph 6:2 (fifth commandment = entole) and Luke 23:56 (Sabbath = entole), this establishes 43/43 pattern: unqualified entole = Decalogue content in every identifiable NT instance."
+    },
+    {
+      "reference": "Eph 6:2",
+      "heading": "Fifth Commandment Called Entole",
+      "kjv_text": "Honour thy father and mother; (which is the first commandment with promise;)",
+      "context": "Paul quotes the fifth commandment (Exo 20:12) and explicitly calls it entole (G1785) — 'the first commandment with promise.' This is a Decalogue commandment named entole.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 4. Second test case demolishing the entole-cannot-mean-Decalogue claim."
+    },
+    {
+      "reference": "Luke 23:56",
+      "heading": "Sabbath Observance Called Entole",
+      "kjv_text": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.",
+      "context": "The women rest on Sabbath 'according to the commandment' (kata ten entolen). Luke, a Gentile author writing after the cross, calls the fourth commandment entole.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objections 4, 6. Third test case. A Gentile author, writing decades after the cross, uses entole for the Sabbath commandment."
+    },
+    {
+      "reference": "Rev 12:17",
+      "heading": "Commandments of God and Testimony of Jesus — Dragon's War",
+      "kjv_text": "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.",
+      "context": "The dragon targets those who keep God's commandments AND have the testimony of Jesus. Same phrase (tas entolas tou theou) as Rev 14:12, linking the remnant description across the literary unit.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objections 4, 10. Forms an inclusio with Rev 14:12 — the remnant is identified by commandment-keeping and testimony/faith of Jesus."
+    },
+    {
+      "reference": "1 John 4:17-18",
+      "heading": "Perfect Love Casts Out Fear — The Kolasis Qualifier",
+      "kjv_text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world. There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "context": "The crux text for Objection 5. V.17 explicitly names 'the day of judgment' (en te hemera tes kriseos) as the context. V.18 specifies: the fear love casts out is kolasis-fear (G2851). Kolasis appears only 2x in NT (here and Matt 25:46), both in judgment contexts. The fear being eliminated is slavish dread of divine punishment, not reverential awe.",
+      "greek_parsing": [
+        {
+          "word": "τετελείωται",
+          "strongs": "G5048",
+          "parsing": "V-RPI-3S",
+          "gloss": "Perf Pass Ind Sg thirdPers"
+        },
+        {
+          "word": "ἀγάπη",
+          "strongs": "G26",
+          "parsing": "N-NSF",
+          "gloss": "Nom Sg F"
+        },
+        {
+          "word": "παρρησίαν",
+          "strongs": "G3954",
+          "parsing": "N-ASF",
+          "gloss": "Acc Sg F"
+        },
+        {
+          "word": "κρίσεως,",
+          "strongs": "G2920",
+          "parsing": "N-GSF",
+          "gloss": "Gen Sg F"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 5. Parser confirms: teteleiotai (V-RPI-3S, perfect passive indicative of teleioo) = 'has been perfected.' Parresian (G3954, N-ASF) = boldness/confidence. Kolasin (G2851, N-ASF) = punishment/correction. Ho phobos kolasin echei = 'the fear has punishment' — the fear itself IS the punishment-fear. Phobeo (G5399, V-PNP-NSM, present middle/passive participle) = 'the one fearing.' The kolasis qualifier limits the scope to punitive dread."
+    },
+    {
+      "reference": "Exo 20:20",
+      "heading": "The Exodus 20:20 Paradigm — Same Root, Two Opposite Commands",
+      "kjv_text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
+      "context": "Moses uses the SAME Hebrew root y-r-' (yare, H3372) twice in one verse with opposite commands: 'Fear not' (al-tire'u, stop the terror at Sinai's theophany) AND 'that his fear (yir'ato, H3374) may be before your faces' (maintain reverential awe). This proves the biblical text distinguishes two types of fear using the same vocabulary.",
+      "greek_parsing": [],
+      "hebrew_parsing": [
+        {
+          "word": "תִּירָאוּ",
+          "strongs": "",
+          "parsing": "Verb.Qal.Impf.2mp",
+          "gloss": "fear"
+        },
+        {
+          "word": "יִרְאָתֹו",
+          "strongs": "",
+          "parsing": "Noun.fs.Abs+3ms",
+          "gloss": "fear (his)"
+        },
+        {
+          "word": "תֶחֱטָאוּ",
+          "strongs": "",
+          "parsing": "Verb.Qal.Impf.2mp",
+          "gloss": "miss/sin"
+        }
+      ],
+      "notes": "Central to Objection 5. Hebrew parser confirms: tire'u (Verb.Qal.Impf.2mp of yare H3372) = 'you fear' in 'Fear not'; yir'ato (Noun.fs.Abs + 3ms suffix from yir'ah H3374) = 'his fear.' Same root, two senses in one verse. This is the master key to Objection 5."
+    },
+    {
+      "reference": "1 Pet 1:17",
+      "heading": "Believers Who Call God Father to Live in Fear",
+      "kjv_text": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning [here] in fear:",
+      "context": "Peter tells believers who call God 'Father' to live 'in fear' (en phobo). The Father relationship does not eliminate fear — it transforms it from slavish dread to reverential awe. Same apostolic tradition holds both without contradiction.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 5. Phobo (G5401) here cannot mean terror — these are believers who call God Father."
+    },
+    {
+      "reference": "Ps 130:4",
+      "heading": "Forgiveness Produces Fear, Not Eliminates It",
+      "kjv_text": "But [there is] forgiveness with thee, that thou mayest be feared.",
+      "context": "The purpose clause 'that thou mayest be feared' shows forgiveness PRODUCES reverent awe, not eliminates it. Grace intensifies rather than removes the fear of God.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 5. Hebrew uses yare (H3372) for 'feared.' Forgiveness → fear (reverence), not forgiveness → fearlessness."
+    },
+    {
+      "reference": "Exo 20:11",
+      "heading": "The Sabbath Commandment Creation Formula",
+      "kjv_text": "For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+      "context": "The fourth commandment's reason clause. Four terms match Rev 14:7: made (asah/poieo), heaven (shamayim/ouranos), earth (erets/ge), sea (yam/thalassa). Rev 14:7 diverges at the fourth element: 'fountains of waters' instead of 'all that in them is.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 6. The LXX renders asah as epoiesen (poieo). Every OTHER creation echo in Scripture (Ps 146:6, Acts 4:24, Acts 14:15, Neh 9:6) uses the same four terms AND 'all that in them is.' Rev 14:7 is the ONLY text to substitute a different fourth element, marking deliberate allusion to Exo 20:11 specifically."
+    },
+    {
+      "reference": "Rev 11:19",
+      "heading": "Ark of the Covenant Revealed in Heaven",
+      "kjv_text": "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.",
+      "context": "The heavenly temple opens to reveal the ark of the covenant (he kibōtos tes diathēkēs autou). This creates a commandment frame: ark (11:19) → dragon targets commandment-keepers (12:17) → creation formula echoing Exo 20:11 (14:7) → commandments of God (14:12).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 6. The ark contained the Ten Commandments. Its revelation at this structural juncture frames the entire Rev 12-14 unit."
+    },
+    {
+      "reference": "Heb 4:9",
+      "heading": "Sabbatismos — NT Hapax for Sabbath-Keeping",
+      "kjv_text": "There remaineth therefore a rest to the people of God.",
+      "context": "The author uses sabbatismos (G4520), an NT hapax legomenon, instead of the common katapausis (G2663) used throughout the chapter. Sabbatismos denotes Sabbath-observance in every extant Greek source — even anti-Sabbatarian scholar Lincoln concedes this.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 6. G4520 sabbatismos = 4 occurrences only (all in this verse's various manuscripts). The word shift from katapausis to sabbatismos is deliberate."
+    },
+    {
+      "reference": "Isa 34:9-10",
+      "heading": "Edom's Destruction — Strongest 'Forever' Language for Temporal Event",
+      "kjv_text": "And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch. It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.",
+      "context": "Isaiah uses the STRONGEST Hebrew 'forever' vocabulary (le-olam, netsach netsachim) for Edom's destruction. Yet Isa 34:11-17 immediately describes animals dwelling in Edom's ruins — the destruction was complete and permanent, but the burning was not literally eternal.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 7. The identical 'smoke ascending forever' formula describes a completed temporal destruction. This establishes the OT prophetic convention that Rev 14:11 draws on."
+    },
+    {
+      "reference": "Isa 34:11-17",
+      "heading": "Animals Inhabiting Edom's Ruins — Proves Temporal Fulfillment",
+      "kjv_text": "But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness. They shall call the nobles thereof to the kingdom, but none [shall be] there, and all her princes shall be nothing. And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, [and] a court for owls. The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest. There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate. Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them. And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.",
+      "context": "Immediately following the 'forever' burning of vv.9-10, Isaiah describes animals nesting in Edom's ruins. You cannot have animals living in a place that is literally burning forever.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 7. The juxtaposition of 'smoke ascending forever' (v.10) with 'owls nesting' (v.11-15) proves the 'forever' language describes permanence of result, not duration of process."
+    },
+    {
+      "reference": "Rev 19:3",
+      "heading": "Babylon's Smoke — Identical Formula, Documented Cessation",
+      "kjv_text": "And again they said, Alleluia. And her smoke rose up for ever and ever.",
+      "context": "The IDENTICAL smoke formula (ho kapnos autes anabainei eis tous aionas ton aionon) applied to Babylon, whose complete cessation is documented five times in Rev 18:21-23 with ou me...eti (the strongest cessation language Greek offers).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 7. If 'smoke ascending forever and ever' for Babylon does not mean literal eternal burning (since Babylon's complete cessation is documented), then the same formula for beast-worshippers need not either."
+    },
+    {
+      "reference": "Rev 20:9-10",
+      "heading": "Subject Differentiation — Devoured vs. Tormented",
+      "kjv_text": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them. And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.",
+      "context": "The text assigns DIFFERENT vocabulary to different subjects: v.9 human wicked are DEVOURED (katephagen, aorist active indicative of katesthio); v.10 devil/beast/false prophet are TORMENTED. Rev 20:14-15 adds that human wicked experience 'the second death.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 7. 'Tormented forever and ever' is NEVER applied to generic human wicked in Revelation. The text carefully distinguishes subjects."
+    },
+    {
+      "reference": "Mal 4:1-3",
+      "heading": "Wicked Become Ashes Under Feet of Righteous",
+      "kjv_text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch. But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall. And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do [this], saith the LORD of hosts.",
+      "context": "Malachi's description of the wicked's final fate: they become stubble, they are burned up leaving 'neither root nor branch,' and they become 'ashes under the soles of your feet.' You cannot be both 'tormented forever' AND 'ashes under someone's feet.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 7. Epher (H665) = ashes. Complete cessation of existence."
+    },
+    {
+      "reference": "Dan 7:9-10",
+      "heading": "The Pre-Advent Judgment Scene",
+      "kjv_text": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+      "context": "Daniel's judgment vision. This scene precedes the kingdom transfer (vv.13-14) and the saints' possession of the kingdom (v.27). The temporal sequence is clear: judgment (vv.9-10) BEFORE kingdom (vv.13-14) BEFORE saints possess (v.27). The CONCEPT of pre-advent judgment is built into Daniel 7's structure independent of any date calculation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 8. Ford's critique is strongest on timing (1844), weakest on concept. The judgment-before-kingdom structure is plainly stated in Daniel 7."
+    },
+    {
+      "reference": "Dan 7:22",
+      "heading": "Judgment Given FOR the Saints — Benefactive Le",
+      "kjv_text": "Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.",
+      "context": "Aramaic: dina yehib leqaddishe elyonin = 'judgment was given TO/FOR the saints.' The le preposition is benefactive — the judgment is FOR the saints' benefit, not AGAINST them. It reverses the horn's persecution (v.21).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 8. The benefactive le transforms the judgment from threat to vindication."
+    },
+    {
+      "reference": "Rom 8:1",
+      "heading": "No Katakrima for Believers",
+      "kjv_text": "[There is] therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "context": "Paul negates katakrima (G2631, N-NSN), NOT krisis (G2920). Katakrima = adverse verdict + execution (condemnation), appearing only 3x in NT. Krisis = judicial evaluation, appearing 47x. Believers face evaluation (krisis) but not condemnation (katakrima).",
+      "greek_parsing": [
+        {
+          "word": "κατάκριμα",
+          "strongs": "G2631",
+          "parsing": "N-NSN",
+          "gloss": "Nom Sg N"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 8. Parser confirms: katakrima (G2631) is the word negated. This is NOT a negation of judgment (krisis) but of condemnation. The krisis/katakrima distinction is the key to Objection 8."
+    },
+    {
+      "reference": "Rom 8:33-34",
+      "heading": "The Courtroom Without a Prosecutor",
+      "kjv_text": "Who shall lay any thing to the charge of God's elect? [It is] God that justifieth. Who [is] he that condemneth? [It is] Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.",
+      "context": "Paul's rhetorical questions dismantle the prosecution: Who accuses? God justifies. Who condemns? Christ intercedes. The courtroom has no functional prosecutor. Entygchanei (V-PAI-3S, present active indicative of entygchano) = Christ's intercession is ongoing present tense.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 8. Fifth ground of assurance through judgment. Replays Zech 3:1-5 courtroom pattern with divine advocate."
+    },
+    {
+      "reference": "Rev 22:11-12",
+      "heading": "Destinies Fixed Before 'I Come Quickly'",
+      "kjv_text": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still. And, behold, I come quickly; and my reward [is] with me, to give every man according as his work shall be.",
+      "context": "Four aorist imperatives (adikēsatō, rypanthētō, poiēsatō, hagiasthētō) fix destinies BEFORE Christ's coming in v.12. The sequence is: destinies fixed (v.11) THEN 'I come quickly' (v.12). This requires a pre-advent finalization.",
+      "greek_parsing": [
+        {
+          "word": "ἀδικησάτω",
+          "strongs": "G91",
+          "parsing": "V-AAM-3S",
+          "gloss": "Aor Act Impv Sg thirdPers"
+        },
+        {
+          "word": "ῥυπανθήτω",
+          "strongs": "G4510",
+          "parsing": "V-APM-3S",
+          "gloss": "Aor Pass Impv Sg thirdPers"
+        },
+        {
+          "word": "ποιησάτω",
+          "strongs": "G4160",
+          "parsing": "V-AAM-3S",
+          "gloss": "Aor Act Impv Sg thirdPers"
+        },
+        {
+          "word": "ἁγιασθήτω",
+          "strongs": "G37",
+          "parsing": "V-APM-3S",
+          "gloss": "Aor Pass Impv Sg thirdPers"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 9. Parser confirms four aorist imperatives (V-AAM-3S or V-APM-3S): adikēsatō, rypanthētō, poiēsatō, hagiasthētō. The imperatival structure with eti ('still/yet') declares a fixed state. V.12 'I come quickly' follows — the coming happens AFTER destinies are fixed."
+    },
+    {
+      "reference": "Rev 15:8",
+      "heading": "Temple Filled with Smoke — Intercession Ceases",
+      "kjv_text": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.",
+      "context": "The heavenly temple is inaccessible during the seven last plagues. If no one can enter the temple, intercession ceases. Oudeis edynato (imperfect middle/passive of dynamai + aorist infinitive eiselthein) = 'no one was able to enter.'",
+      "greek_parsing": [
+        {
+          "word": "ἐγεμίσθη",
+          "strongs": "G1072",
+          "parsing": "V-API-3S",
+          "gloss": "Aor Pass Ind Sg thirdPers"
+        },
+        {
+          "word": "ναὸς",
+          "strongs": "G3485",
+          "parsing": "N-NSM",
+          "gloss": "Nom Sg M"
+        },
+        {
+          "word": "ἐδύνατο",
+          "strongs": "G1410",
+          "parsing": "V-INI-3S",
+          "gloss": "Impf M/P Ind Sg thirdPers"
+        },
+        {
+          "word": "εἰσελθεῖν",
+          "strongs": "G1525",
+          "parsing": "V-2AAN",
+          "gloss": "Aor Act Inf"
+        },
+        {
+          "word": "τελεσθῶσιν",
+          "strongs": "G5055",
+          "parsing": "V-APS-3P",
+          "gloss": "Aor Pass Subj Pl thirdPers"
+        }
+      ],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 9. Parser confirms: edynato (V-INI-3S, imperfect middle/passive indicative of dynamai G1410) + eiselthein (V-2AAN, aorist active infinitive of eiserchomai G1525). The temporal clause achri telesthōsin (until completed, V-APS-3P aorist passive subjunctive of teleō) marks the duration of inaccessibility."
+    },
+    {
+      "reference": "Dan 12:1",
+      "heading": "Michael Stands Up — Deliverance for Those Written in the Book",
+      "kjv_text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation [even] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+      "context": "Michael 'stands up' (ya'amod), the great prince, and deliverance comes for 'every one found written in the book.' The book has already been consulted — decisions have been made. This is the third independent text pointing to pre-advent finalization.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 9. Third convergence text alongside Rev 22:11 and Rev 15:8."
+    },
+    {
+      "reference": "Exo 31:13",
+      "heading": "Sabbath as Sign — First of Four Designations",
+      "kjv_text": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it [is] a sign between me and you throughout your generations; that [ye] may know that I [am] the LORD that doth sanctify you.",
+      "context": "First of four texts where the Sabbath is called owth (H226, sign). No other Decalogue commandment receives this designation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 10. Owth (H226) = sign. The Sabbath is uniquely designated as owth among the Ten Commandments."
+    },
+    {
+      "reference": "Exo 31:17",
+      "heading": "Sabbath as Sign Forever — Second Designation",
+      "kjv_text": "It [is] a sign between me and the children of Israel for ever: for [in] six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.",
+      "context": "Second owth designation, adding 'for ever' (le-olam). Echoes the creation reason of Exo 20:11.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 10. Second of four Sabbath-sign texts."
+    },
+    {
+      "reference": "Ezek 20:12",
+      "heading": "Sabbath as Sign of Sanctification — Third Designation",
+      "kjv_text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I [am] the LORD that sanctify them.",
+      "context": "Third owth designation. The sign function is explicitly linked to sanctification — knowing that YHWH sanctifies.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 10. Third Sabbath-sign text."
+    },
+    {
+      "reference": "Rom 4:11",
+      "heading": "Circumcision Called Both Sign AND Seal — Vocabulary Bridge",
+      "kjv_text": "And he received the sign of circumcision, a seal of the righteousness of the faith which [he had yet] being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:",
+      "context": "Paul calls circumcision BOTH semeion (G4591, sign) AND sphragis (G4973, seal). This breaks the strict vocabulary barrier between 'sign' and 'seal.' If one owth can function as both sign AND seal, the Sabbath (also an owth) can carry seal-function.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 10. The sign/seal vocabulary bridge. Paul explicitly equates semeion and sphragis for one covenant marker."
+    },
+    {
+      "reference": "Rev 7:1-4",
+      "heading": "Sealing of the 144,000 on Foreheads",
+      "kjv_text": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea, Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And I heard the number of them which were sealed: [and there were] sealed an hundred [and] forty [and] four thousand of all the tribes of the children of Israel.",
+      "context": "The sealing precedes the winds of destruction. God seals on foreheads ONLY (4 references in Revelation). The beast accepts forehead OR hand (Rev 13:16, 3 references with e disjunction). God requires conviction (mind); beast accepts compliance.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 10. Forehead-only placement distinguishes God's seal from the beast's mark."
+    },
+    {
+      "reference": "Rev 17:1-5",
+      "heading": "The Harlot Babylon — Identity Markers",
+      "kjv_text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters: With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication. So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns. And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication: And upon her forehead [was] a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.",
+      "context": "The harlot Babylon identified. Key markers: (1) zanah/porneia vocabulary requires prior covenant (Rome never had covenant with YHWH); (2) METER TON PORNON = mother/SOURCE of harlots (cannot be confined to one entity); (3) priestly-garment parody (purple, scarlet, gold, pearls — matching high priest's garments minus blue/tekeleth); (4) identical angel-introduction formula shared with Rev 21:9-10 (bride).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 13. The harlot-bride bracket (Rev 17:1-3 parallels 21:9-10 word-for-word) means: if the bride is symbolic, the harlot must also be symbolic. The Rome-rides-Rome problem: if both beast and harlot are Rome, Rome rides upon Rome, hates Rome, burns Rome."
+    },
+    {
+      "reference": "Rev 18:4-5",
+      "heading": "Come Out of Her My People — Ongoing Relevance",
+      "kjv_text": "And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues. For her sins have reached unto heaven, and God hath remembered her iniquities.",
+      "context": "God's people are IN Babylon and must come out. This requires Babylon to exist in the future, not just the past. If Babylon were exclusively first-century Rome, the call has no ongoing relevance.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 13. The call to 'come out' requires God's people to be currently inside Babylon — ruling out a purely past entity."
+    },
+    {
+      "reference": "Ezek 16:15-17",
+      "heading": "Harlotry Requires Prior Covenant — OT Pattern",
+      "kjv_text": "But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was. And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: [the like things] shall not come, neither shall it be [so]. Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,",
+      "context": "Ezekiel uses zanah (H2181) for Jerusalem's unfaithfulness. The harlotry imagery requires prior marital relationship — Jerusalem had been in covenant with YHWH. Zanah appears 107x in OT; in the prophets, it is used almost exclusively for entities that were ONCE faithful.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 13. Rome never married YHWH and therefore cannot be the 'harlot' in the prophetic zanah tradition."
+    },
+    {
+      "reference": "2 Tim 1:9",
+      "heading": "Grace Given Before Eternal Times — Aionios Cannot Mean 'Age-Long'",
+      "kjv_text": "Who hath saved us, and called [us] with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+      "context": "Paul uses pro chronon aionion = 'before eternal times.' If aionios (G166) merely means 'age-long' (DeSilva's reading), this would read 'before age-long times' — nonsensical. Aionios here must mean 'eternal/perpetual.' This breaks DeSilva's attempt to reduce euangelion aionion to 'age-long accession announcement.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 12. Aionios (G166, 71 occurrences NT) cannot be consistently translated 'age-long.' It means 'eternal/everlasting' in its dominant NT usage (92% rendered 'eternal' or 'everlasting' in KJV)."
+    },
+    {
+      "reference": "Rev 14:1",
+      "heading": "Father's Name on Foreheads — Seal Content",
+      "kjv_text": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty [and] four thousand, having his Father's name written in their foreheads.",
+      "context": "The 144,000 have the Father's name on their foreheads — contrasting with the beast's name/number on foreheads or hands (Rev 13:16-17). The seal contains identity information (name), not just a mark.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 10. The fourth commandment uniquely contains three elements of a royal seal: name (YHWH), title (Creator), domain (heaven, earth, sea)."
+    },
+    {
+      "reference": "Rev 21:9-10",
+      "heading": "The Bride Introduced with Same Formula as the Harlot",
+      "kjv_text": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife. And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+      "context": "The angel-introduction formula matches Rev 17:1-3 word-for-word: 'one of the seven angels...talked with me, saying, Come hither, I will show thee...he carried me away in the spirit.' If the bride (New Jerusalem) is symbolic, the harlot (Babylon) must also be symbolic — same entity type, same literary form.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 13. The harlot-bride bracket — identical literary framing for both."
+    },
+    {
+      "reference": "Rev 13:7",
+      "heading": "Fourfold Universal Formula — Beast's Claim Matches Angel's Audience",
+      "kjv_text": "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.",
+      "context": "The fourfold universal formula (kindreds, tongues, nations) in Rev 13:7 matches Rev 14:6 (nation, kindred, tongue, people) word for word. The angel proclaims to the same audience the beast claims to rule.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 11. Structural correspondence confirming the literary unit."
+    },
+    {
+      "reference": "Rev 13:10",
+      "heading": "Hupomone Bracket with Rev 14:12",
+      "kjv_text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+      "context": "Hode he hupomone kai he pistis ton hagion — 'Here is the patience and the faith of the saints.' This brackets with Rev 14:12 (Hode he hupomone ton hagion), creating a literary inclusio that binds Rev 13 and Rev 14 as a single unit.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Central to Objection 11. Hupomone (G5281) bracket linking beast narrative to angel messages."
+    },
+    {
+      "reference": "2 Thess 2:10-12",
+      "heading": "Judicial Delusion Because They Refused Truth First",
+      "kjv_text": "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness.",
+      "context": "God sends delusion BECAUSE (anth' hon) they refused truth first. The delusion is consequence, not cause. This addresses the close-of-probation concern about fairness — the hardening follows rejection.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. Judicial delusion pattern: same as Rom 1:24-28 (triple paradidomi)."
+    },
+    {
+      "reference": "Gen 7:16",
+      "heading": "God Shut Noah In — Close-of-Probation Precedent",
+      "kjv_text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.",
+      "context": "God shut Noah's door SEVEN DAYS before the flood (Gen 7:4, 10). Decisions were finalized before the destruction came. Biblical precedent for close of probation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. First biblical precedent for pre-judgment finalization."
+    },
+    {
+      "reference": "Matt 25:10",
+      "heading": "The Door Was Shut — Second Close-of-Probation Precedent",
+      "kjv_text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.",
+      "context": "The parable of the ten virgins. The door was shut before the foolish virgins returned. Once shut, no entry — 'I know you not' (v.12).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. Second shut-door precedent."
+    },
+    {
+      "reference": "Luke 13:25",
+      "heading": "Master Shuts the Door — Third Close-of-Probation Precedent",
+      "kjv_text": "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:",
+      "context": "Third shut-door parable. Jesus explicitly teaches that a point comes when the master shuts the door and no further entry is possible.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. Third shut-door precedent from Jesus himself."
+    },
+    {
+      "reference": "1 John 5:13",
+      "heading": "Oida Certainty of Salvation",
+      "kjv_text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.",
+      "context": "John uses oida (settled, certain knowledge) — 'that ye may KNOW that ye have eternal life.' First ground of assurance through judgment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Oida = settled certainty, not probabilistic hope."
+    },
+    {
+      "reference": "Eph 1:13-14",
+      "heading": "Spirit's Seal as Arrabon Guaranteeing Inheritance",
+      "kjv_text": "In whom ye also [trusted], after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise, Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+      "context": "Believers are sealed (esphragisthete, aorist passive indicative) with the Holy Spirit, who is the arrabon (G728, earnest/deposit) guaranteeing inheritance. Second ground of assurance.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objections 8, 10. The Spirit is the sealing AGENT, not a competing alternative to Sabbath as seal CONTENT."
+    },
+    {
+      "reference": "Rom 5:9-10",
+      "heading": "A Fortiori Argument for Assurance",
+      "kjv_text": "Much more then, being now justified by his blood, we shall be saved from wrath through him. For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.",
+      "context": "Paul's a fortiori logic: if God reconciled us when we were ENEMIES, how much more will He save us now that we are reconciled? This grounds assurance in God's character, not human performance.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Third ground of assurance."
+    },
+    {
+      "reference": "Mal 3:16-17",
+      "heading": "Book of Remembrance Testifies FOR Believers",
+      "kjv_text": "Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard [it], and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name. And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+      "context": "A book of remembrance was written FOR those who feared YHWH. The books testify FOR believers, not against them. Fourth ground of assurance.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. The books serve the saints' vindication."
+    },
+    {
+      "reference": "Zech 3:1-5",
+      "heading": "The Courtroom Pattern — Divine Advocate Intervenes",
+      "kjv_text": "And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him. And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: [is] not this a brand plucked out of the fire? Now Joshua was clothed with filthy garments, and stood before the angel. And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment. And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by.",
+      "context": "The courtroom pattern: (1) real guilt acknowledged (filthy garments), (2) adversary accuses, (3) divine advocate intervenes ('The LORD rebuke thee'), (4) cleansing, (5) new status. The judgment is not denied — it is transformed from condemnation to vindication.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. The courtroom pattern shows judgment as opportunity for vindication, not threat."
+    },
+    {
+      "reference": "Rev 12:10",
+      "heading": "Accuser Permanently Disbarred",
+      "kjv_text": "And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.",
+      "context": "Ho kategor ton adelphon hemon = 'the accuser of our brethren.' The accuser is 'cast down' (eblethe). The courtroom has no functional prosecutor. Combined with Rom 8:33-34, the judgment favors the saints.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Fifth ground of assurance — the accuser is permanently disbarred."
+    },
+    {
+      "reference": "1 Cor 15:24-28",
+      "heading": "God 'All in All' Requires Complete Cessation of Evil",
+      "kjv_text": "Then [cometh] the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. The last enemy [that] shall be destroyed [is] death. For he hath put all things under his feet. But when he saith, all things are put under [him, it is] manifest that he is excepted, which did put all things under him. And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.",
+      "context": "Paul envisions God becoming 'all in all' (panta en pasin). This requires the complete cessation of all opposition, all evil, all death. Eternal conscious torment is incompatible with God being 'all in all.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. The clean-universe principle requires evil's complete end."
+    },
+    {
+      "reference": "Rev 21:4",
+      "heading": "No More Pain in New Creation",
+      "kjv_text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+      "context": "No more death, sorrow, crying, or pain. If the wicked are being eternally tormented, pain has not ceased. This text requires the complete resolution of all suffering.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. No pain + eternal torment = contradiction."
+    },
+    {
+      "reference": "Nah 1:9",
+      "heading": "Affliction Shall Not Rise Up the Second Time",
+      "kjv_text": "What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.",
+      "context": "Nahum declares God will make 'an utter end' and affliction will not recur. This requires complete cessation, not eternal perpetuation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. 'Not rise up the second time' = finality."
+    },
+    {
+      "reference": "1 Tim 6:16",
+      "heading": "God Alone Has Immortality",
+      "kjv_text": "Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom [be] honour and power everlasting. Amen.",
+      "context": "Athanasia (G110) = immortality. God ALONE possesses it inherently. If the wicked endure eternal conscious torment, they must have immortality too — contradicting this text.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. Monos echon athanasian — 'alone having immortality.' The wicked do not possess inherent immortality."
+    },
+    {
+      "reference": "Matt 25:46",
+      "heading": "Same Aionios for Punishment and Life — The Packer Argument",
+      "kjv_text": "And these shall go away into everlasting punishment: but the righteous into life eternal.",
+      "context": "Packer's argument: the same aionios modifies both punishment (kolasin) and life (zoen). If aionios means 'age-long' for punishment, it must also mean 'age-long' for life. The response is not to deny aionios means 'eternal/everlasting' but to note that 'eternal punishment' can denote permanent result rather than unending process — 'eternal redemption' (Heb 9:12) does not mean Christ is eternally redeeming.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objections 7, 12. The adjectival symmetry argument is real and must be honestly engaged. Kolasin (G2851) itself carries the idea of corrective/pruning action — the punishment is permanent, but kolasis does not inherently specify conscious duration."
+    },
+    {
+      "reference": "Rev 4:8",
+      "heading": "Rest Not Day and Night — Ceaseless Praise, Not Eternal Torment",
+      "kjv_text": "And the four beasts had each of them six wings about [him]; and [they were] full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+      "context": "The living creatures 'rest not day and night' (anapausin ouk echousin hemeras kai nyktos) — IDENTICAL construction to Rev 14:11 ('they have no rest day nor night'). In Rev 4:8, the phrase describes ceaseless praise, not eternal conscious suffering.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. The identical 'rest not day and night' construction describes quality of uninterrupted activity, not eternal conscious duration."
+    },
+    {
+      "reference": "Gal 5:6",
+      "heading": "Faith Works by Love — First Link in Faith-Love-Law Chain",
+      "kjv_text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+      "context": "Pistis di' agapes energoumene — faith operating through love. First link in the chain: Gal 5:6 (faith works by love) → 1 John 5:3 (love IS keeping commandments) → Rom 13:10 (love fulfills law) → Rom 8:4 (law's righteousness fulfilled IN us) → Rom 3:31 (faith establishes law).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. The faith-love-law chain shows commandment-keeping is not works-righteousness but love-motivated fruit of faith."
+    },
+    {
+      "reference": "1 John 5:3",
+      "heading": "Love IS Keeping Commandments — Second Link",
+      "kjv_text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous.",
+      "context": "John defines the love of God as keeping His commandments. The entolai are not burdensome (bareiai). This is the second link in the faith-love-law chain.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Love = commandment-keeping (not the opposite of it)."
+    },
+    {
+      "reference": "Rom 13:10",
+      "heading": "Love Fulfills the Law — Third Link",
+      "kjv_text": "Love worketh no ill to his neighbour: therefore love [is] the fulfilling of the law.",
+      "context": "Pleroma nomou he agape — love is the fulfillment (pleroma) of the law. Third link in the chain.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Love fulfills law, not abolishes it."
+    },
+    {
+      "reference": "Rom 8:4",
+      "heading": "Law's Righteousness Fulfilled IN Us by Spirit",
+      "kjv_text": "That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+      "context": "To dikaioma tou nomou plerothe en hemin — the law's requirement is fulfilled IN us. Not abolished, but fulfilled through Spirit-empowered living.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Fourth link. Spirit-enablement produces the obedience."
+    },
+    {
+      "reference": "Rom 3:31",
+      "heading": "Faith Establishes the Law",
+      "kjv_text": "Do we then make void the law through faith? God forbid: yea, we establish the law.",
+      "context": "Me genoito — Paul's emphatic denial. Faith does not void (katargeo) the law but establishes (histemi) it. This is Paul's me genoito wall against antinomianism.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Fifth link completing the chain. Faith → love → commandments → law upheld."
+    },
+    {
+      "reference": "Ezek 36:27",
+      "heading": "God's Spirit Causes Obedience",
+      "kjv_text": "And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do [them].",
+      "context": "God's Spirit causes the obedience — it is not human achievement but divine enablement. This answers the legalism charge: the obedience in Rev 14:12 is Spirit-caused, not self-generated.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Spirit-enablement texts: Ezek 36:27, Phil 2:13, Rom 8:4."
+    },
+    {
+      "reference": "Phil 2:13",
+      "heading": "God Works in You Both to Will and to Do",
+      "kjv_text": "For it is God which worketh in you both to will and to do of [his] good pleasure.",
+      "context": "Theos gar estin ho energon en hymin — God is the one working in you. Both the willing (to thelein) and the doing (to energein) are God's work. This eliminates the legalism charge.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Second Spirit-enablement text."
+    },
+    {
+      "reference": "Gen 15:6",
+      "heading": "Abraham Believed — Faith First",
+      "kjv_text": "And he believed in the LORD; and he counted it to him for righteousness.",
+      "context": "Abraham believed and was counted righteous — faith FIRST. The Abrahamic pattern: faith (Gen 15:6), then obedience (Gen 26:5).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. The order: faith first, then obedience as fruit."
+    },
+    {
+      "reference": "Gen 26:5",
+      "heading": "Abraham Kept Commandments — Obedience After Faith",
+      "kjv_text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+      "context": "Abraham's obedience follows his faith. Three NT authors cite both texts (Paul: Rom 4:3 + James 2:21-23; James: 2:23 + 2:21; Hebrews 11:8 + 11:17). Faith first, obedience after.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Abraham kept mitsvah, chuqqah, towrah — the same vocabulary as the Decalogue."
+    },
+    {
+      "reference": "1 Cor 15:3-4",
+      "heading": "En Protois = 'Of First Importance,' Not 'Exclusively'",
+      "kjv_text": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures:",
+      "context": "En protois (G4413) = 'of first importance,' not 'exclusively.' Paul gives DIFFERENT gospel summaries elsewhere: Rom 1:1-4 (Davidic descent), Acts 17:22-31 (Creator, judgment), Gal 3:8 (justification by faith to Abraham). If 1 Cor 15:3-4 were the ONLY gospel content, Paul violated his own test every time he preached differently.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 1. The gospel is broader than death-burial-resurrection."
+    },
+    {
+      "reference": "Rom 1:1-4",
+      "heading": "Paul's Gospel Summary — Includes Davidic Descent",
+      "kjv_text": "Paul, a servant of Jesus Christ, called [to be] an apostle, separated unto the gospel of God, (Which he had promised afore by his prophets in the holy scriptures,) Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; And declared [to be] the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:",
+      "context": "Paul's gospel (euangelion theou) includes Davidic descent — an element absent from 1 Cor 15:3-4. This proves the gospel has variant summaries, not a fixed exclusive formula.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 1. Second variant gospel summary."
+    },
+    {
+      "reference": "Gal 3:8",
+      "heading": "Gospel Preached to Abraham = Justification by Faith",
+      "kjv_text": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, [saying], In thee shall all nations be blessed.",
+      "context": "Proeuengelisato — the gospel was 'preached beforehand' to Abraham. Its content: justification by faith, blessing to all nations. No mention of cross, burial, resurrection. Yet Paul calls it gospel.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 1. Third variant gospel summary."
+    },
+    {
+      "reference": "Rev 22:14",
+      "heading": "Blessed Are Those Who Do His Commandments",
+      "kjv_text": "Blessed [are] they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.",
+      "context": "Poiountes tas entolas autou — 'doing his commandments.' The same entole vocabulary as Rev 14:12. Commandment-doing is associated with access to the tree of life and the holy city.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 4. Final Revelation entole text, reinforcing Rev 14:12."
+    },
+    {
+      "reference": "Eph 4:30",
+      "heading": "Sealed with the Holy Spirit unto the Day of Redemption",
+      "kjv_text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+      "context": "Esphragisthete (aorist passive indicative of sphragizo G4972) — believers are sealed BY the Spirit. The Spirit is the sealing AGENT; the seal has content (identified elsewhere).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 10. Holy Spirit as sealing agent, not competing alternative to Sabbath as seal content."
+    },
+    {
+      "reference": "2 Cor 1:22",
+      "heading": "Sealed, Anointed, Given Earnest — Threefold Distinction",
+      "kjv_text": "Who hath also sealed us, and given the earnest of the Spirit in our hearts.",
+      "context": "Paul distinguishes three actions: sealing (sphragisamenos), anointing (chrisas, v.21), and giving the earnest (dous ton arrabona tou pneumatos). The sealing is distinct from the Spirit-as-earnest.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 10. The threefold distinction separates the seal's action from the Spirit's guarantee function."
+    },
+    {
+      "reference": "Ezek 9:4-6",
+      "heading": "Mark on Foreheads — Tav for Those Who Sigh and Cry",
+      "kjv_text": "And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof. And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity: Slay utterly old [and] young, both maids, and little children, and women: but come not near any man upon whom [is] the mark; and begin at my sanctuary. Then they began at the ancient men which [were] before the house.",
+      "context": "A mark (tav, H8420) on the foreheads of those who mourn over abominations. This is the OT precedent for the seal/mark imagery in Revelation. The mark protects the faithful before judgment falls.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 10. OT precedent for forehead-marking before judgment."
+    },
+    {
+      "reference": "Ezek 20:20",
+      "heading": "Fourth Sabbath-Sign Text",
+      "kjv_text": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.",
+      "context": "Fourth and final text where the Sabbath is designated owth (sign). Combined with Exo 31:13, 31:17, Ezek 20:12 — four explicit designations with no parallel for any other commandment.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 10. Completes the four-text owth pattern."
+    },
+    {
+      "reference": "Rev 12:1",
+      "heading": "Semeion Inclusio — Great Wonder in Heaven",
+      "kjv_text": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:",
+      "context": "Semeion mega (great sign) opens the Rev 12-15 literary unit. The semeion inclusio (12:1, 12:3, 15:1) brackets the entire section containing the three angels' messages.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 11. First semeion marker."
+    },
+    {
+      "reference": "Rev 15:1",
+      "heading": "Semeion Inclusio — Seven Last Plagues",
+      "kjv_text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.",
+      "context": "Semeion allo mega kai thaumaston (another sign, great and marvelous) closes the literary unit begun at Rev 12:1.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 11. Final semeion marker closing the bracket."
+    },
+    {
+      "reference": "Hos 2:1-5",
+      "heading": "Harlotry Requires Prior Covenant — Hosea Pattern",
+      "kjv_text": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah. Plead with your mother, plead: for she [is] not my wife, neither [am] I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts; Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst. And I will not have mercy upon her children; for they [be] the children of whoredoms. For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give [me] my bread and my water, my wool and my flax, mine oil and my drink.",
+      "context": "Hosea's wife imagery: harlotry presupposes prior marriage. Israel 'played the harlot' because she was first YHWH's wife. The zanah vocabulary requires prior covenant faithfulness. Rome had no such covenant.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 13. Second OT text establishing the harlotry-requires-covenant principle."
+    },
+    {
+      "reference": "Num 15:38-39",
+      "heading": "Blue Ribbon Recalls Commandments — The Missing Color",
+      "kjv_text": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue: And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:",
+      "context": "The tekeleth (blue) ribbon is explicitly connected to remembering God's commandments. In Rev 17:4, the harlot wears purple, scarlet, gold, and pearls — matching the high priest's garments in every detail EXCEPT blue. The missing commandment-color identifies the harlot's deficiency.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 13. The priestly-garment parody in Rev 17:4 — missing blue = missing law-faithfulness."
+    },
+    {
+      "reference": "Rev 18:21-23",
+      "heading": "Babylon's Complete Cessation — Five ou me...eti Statements",
+      "kjv_text": "And a mighty angel took up a stone like a great millstone, and cast [it] into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all. And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft [he be], shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee; And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.",
+      "context": "Five consecutive ou me...eti (no more at all) statements documenting Babylon's COMPLETE cessation. Yet Rev 19:3 says her smoke rises 'for ever and ever' — proving the 'forever smoke' formula describes permanent result, not unending process.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. Ou me...eti is the strongest cessation language Greek offers. Combined with the 'forever smoke' of Rev 19:3, this proves the prophetic convention: 'forever' describes permanence of result."
+    },
+    {
+      "reference": "Dan 12:2",
+      "heading": "Everlasting Life vs. Everlasting Contempt",
+      "kjv_text": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame [and] everlasting contempt.",
+      "context": "Olam used for both outcomes (chayyey olam and dir'on olam). 'Everlasting contempt' (dir'on) = lasting abhorrence at the result, not perpetual conscious experience. Dir'on appears only 2x in OT.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. Dir'on (H1860) = abhorrence/contempt — an attitude of the observers, not experience of the subjects."
+    },
+    {
+      "reference": "Rev 20:14-15",
+      "heading": "Second Death for Human Wicked",
+      "kjv_text": "And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire.",
+      "context": "Human wicked experience 'the second death' (ho thanatos ho deuteros) — death vocabulary, not torment vocabulary. The lake of fire is explained as 'the second death,' not 'eternal torment.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 7. Thanatos = death, the cessation of life, not eternal conscious existence."
+    },
+    {
+      "reference": "Rom 1:24-28",
+      "heading": "Triple Paradidomi Pattern — God Gave Them Over",
+      "kjv_text": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen. For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature: And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet. And even as they did not like to retain God in [their] knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;",
+      "context": "Triple paradidomi (G3860): God 'gave them over' (paredoken) three times (vv.24, 26, 28). The judicial hardening follows human rejection — consequence, not cause. Same pattern as 2 Thess 2:10-12.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. Judicial delusion pattern."
+    },
+    {
+      "reference": "Luke 12:47-48",
+      "heading": "Graduated Accountability — Many Stripes vs. Few Stripes",
+      "kjv_text": "And that servant, which knew his lord's will, and prepared not [himself], neither did according to his will, shall be beaten with many [stripes]. But he that knew not, and did commit things worthy of stripes, shall be beaten with few [stripes]. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+      "context": "Jesus teaches graduated accountability: knowledge determines degree of judgment. 'Few stripes' for the ignorant vs. 'many stripes' for the knowing. This addresses the fairness concern about close of probation — standard of judgment matches revelation received.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. Graduated accountability principle."
+    },
+    {
+      "reference": "1 Tim 1:13",
+      "heading": "Mercy Because of Ignorance",
+      "kjv_text": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did [it] ignorantly in unbelief.",
+      "context": "Paul obtained mercy 'because I did it ignorantly' (agnoōn). Ignorance mitigates, not excuses. Combined with Acts 17:30 ('times of ignorance God winked at'), this establishes that God accounts for revelation received.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 9. Ignorance mitigates judgment."
+    },
+    {
+      "reference": "Rev 17:4",
+      "heading": "Harlot's Garments — Priestly Parody Missing Blue",
+      "kjv_text": "And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:",
+      "context": "Purple (porphyra), scarlet (kokkinon), gold (chrysion), precious stones (lithois timiois), pearls (margaritais) — matching the high priest's garments (Exo 28:5-6) in every element EXCEPT blue (tekeleth). The missing blue is the commandment-recall color (Num 15:38-39).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 13. The priestly-garment parody identifies the harlot as a religious system that mimics priestly authority but lacks commandment faithfulness."
+    },
+    {
+      "reference": "Rev 4:11",
+      "heading": "Creation Text Using Ktizo, NOT Poieo",
+      "kjv_text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.",
+      "context": "Ektisas (aorist active indicative of ktizo G2936) — 'thou hast created.' Every other creation text in Revelation uses ktizo (4:11, 10:6). Rev 14:7 ALONE switches to poieo (G4160), mapping to asah in Exo 20:11. This verb switch is the diagnostic allusion.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 6. The ktizo vs. poieo verb switch marks Rev 14:7 as deliberately echoing Exo 20:11."
+    },
+    {
+      "reference": "Rev 10:6",
+      "heading": "Second Creation Text Using Ktizo, NOT Poieo",
+      "kjv_text": "And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:",
+      "context": "Ektisen (aorist active indicative of ktizo G2936) — 'who created.' Uses 'heaven and the things therein, earth and the things therein, sea and the things therein.' Different from both Exo 20:11 and Rev 14:7. Confirms Rev 14:7's poieo is the unique switch.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 6. Second creation text in Revelation using ktizo, confirming Rev 14:7's poieo is exceptional."
+    },
+    {
+      "reference": "Ps 146:6",
+      "heading": "Creation Echo with 'All That Therein Is'",
+      "kjv_text": "Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:",
+      "context": "Echoes Exo 20:11 with 'all that therein is.' Rev 14:7 diverges from this pattern by substituting 'fountains of waters.' Rev 14:7 is the ONLY text that shares the four-term creation formula of Exo 20:11 while diverging at the fourth element.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 6. All other Exo 20:11 echoes include 'all that in them is' — Rev 14:7 alone substitutes."
+    },
+    {
+      "reference": "Acts 4:24",
+      "heading": "Creation Formula Echo — 'All That in Them Is'",
+      "kjv_text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou [art] God, which hast made heaven, and earth, and the sea, and all that in them is:",
+      "context": "Epoiesas (aorist active indicative of poieo G4160) — uses poieo like Rev 14:7, BUT includes 'all that in them is' like Exo 20:11. Rev 14:7 diverges by substituting 'fountains of waters.'",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 6. Shows the standard pattern: poieo + heaven + earth + sea + 'all that in them is.'"
+    },
+    {
+      "reference": "Acts 14:15",
+      "heading": "Lystra Creation Text — Same Pattern",
+      "kjv_text": "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:",
+      "context": "Epoiesen (aorist active indicative of poieo G4160) — same verb, same creation formula, same 'all things therein.' Again confirms Rev 14:7's divergence is unique.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 6. Third echo with 'all that therein is.'"
+    },
+    {
+      "reference": "Neh 9:6",
+      "heading": "Nehemiah's Creation Text — Same Pattern",
+      "kjv_text": "Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all [things] that [are] therein, the seas, and all that [is] therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+      "context": "Hebrew asah + shamayim + erets + yam + 'all that is therein.' Fourth echo confirming the standard pattern.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 6. Fourth creation echo — all four include 'all that in them is.' Rev 14:7 alone diverges."
+    },
+    {
+      "reference": "Rev 13:16-17",
+      "heading": "Beast's Mark — Forehead OR Hand",
+      "kjv_text": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads: And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.",
+      "context": "The beast accepts the mark on the right hand OR (e) the forehead — a disjunction. God seals on forehead ONLY (Rev 7:3, 14:1, 22:4). The difference: God requires conviction (mind); beast accepts compliance (hand = action without conviction).",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 10. Forehead-or-hand vs. forehead-only distinction."
+    },
+    {
+      "reference": "Dan 7:13-14",
+      "heading": "Son of Man Comes to Ancient of Days — Kingdom Transfer",
+      "kjv_text": "I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.",
+      "context": "The Son of Man comes TO the Ancient of Days (not to earth) and receives the kingdom. This follows the judgment scene (vv.9-10). The sequence is: judgment → kingdom transfer → saints possess. The pre-advent judgment concept is structural, not dependent on any date calculation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Kingdom transfer follows judgment — the structural sequence is clear."
+    },
+    {
+      "reference": "Dan 7:27",
+      "heading": "Saints Possess the Kingdom — After Judgment",
+      "kjv_text": "And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.",
+      "context": "The saints 'possess the kingdom' — this is the final stage after judgment (vv.9-10) and kingdom transfer (vv.13-14). The three-stage sequence (judgment → transfer → possession) demonstrates pre-advent judgment as a structural feature of Daniel 7.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Final stage: saints possess what judgment vindicated."
+    },
+    {
+      "reference": "2 Cor 5:10",
+      "heading": "All Appear Before the Judgment Seat of Christ",
+      "kjv_text": "For we must all appear before the judgment seat of Christ; that every one may receive the things [done] in [his] body, according to that he hath done, whether [it be] good or bad.",
+      "context": "Bema (G968) = judgment seat. Paul says 'we must ALL appear' — believers included. This is evaluation (krisis), not condemnation (katakrima). Believers face the bema but receive acquittal, not condemnation.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Paul affirms believers face judgment — but Rom 8:1 ensures no condemnation."
+    },
+    {
+      "reference": "1 Pet 4:17",
+      "heading": "Judgment Begins at the House of God",
+      "kjv_text": "For the time [is come] that judgment must begin at the house of God: and if [it] first [begin] at us, what shall the end [be] of them that obey not the gospel of God?",
+      "context": "Judgment begins AT God's house — with God's people first. This is consistent with pre-advent judgment reviewing believers before the Second Coming.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 8. Judgment begins with believers, consistent with investigative judgment concept."
+    },
+    {
+      "reference": "Rev 12:3",
+      "heading": "Second Semeion — Great Red Dragon",
+      "kjv_text": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.",
+      "context": "Second semeion (sign) marker in the literary inclusio. The dragon is symbolic — establishing the symbolic register for the entire Rev 12-14 unit.",
+      "greek_parsing": [],
+      "hebrew_parsing": [],
+      "notes": "Supporting Objection 11. Second semeion confirms the symbolic framework."
+    }
+  ],
+  "word_studies": [
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "source_file": "D:/bible/bible-studies/word-studies/G2098-euangelion.md",
+      "occurrence_count": 77,
+      "summary": "Good message/gospel. Neuter noun from eu (good) + angello (announce). 77 NT occurrences across 17 books. Rendered 'gospel' in 94.8% of verses. Overwhelmingly Pauline (Romans 11, Philippians 10, Galatians 7). Semantic categories: gospel of the kingdom, gospel of Christ, apostolic trust, standard of conduct, universal scope. Rev 14:6 is the ONLY Revelation occurrence.",
+      "semantic_categories": [
+        "gospel of the kingdom",
+        "gospel of Christ",
+        "apostolic trust",
+        "standard of conduct",
+        "universal scope"
+      ],
+      "key_verses": [
+        "Matt 4:23",
+        "Rom 1:16",
+        "Gal 1:6",
+        "Rev 14:6"
+      ],
+      "relevance": "Core word for Objections 1-3. The everlasting gospel (euangelion aionion) of Rev 14:6 uses the standard NT gospel word, not a different term."
+    },
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "source_file": "D:/bible/bible-studies/word-studies/G2097-euangelizo.md",
+      "occurrence_count": 61,
+      "summary": "Verb form of euangelion — to announce good news, to preach the gospel. Used for gospel proclamation. Luke 3:18 uses euengelizeto for John's judgment preaching.",
+      "semantic_categories": [
+        "gospel proclamation",
+        "good news announcement"
+      ],
+      "key_verses": [
+        "Luke 3:18",
+        "Rev 14:6",
+        "Gal 3:8"
+      ],
+      "relevance": "Verb form confirming judgment preaching IS gospel. Luke uses it for John the Baptist's fire-judgment warnings."
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "source_file": "D:/bible/bible-studies/word-studies/G166-aionios.md",
+      "occurrence_count": 71,
+      "summary": "Adjective from aion (G165). 71 tokens in 69 verses across 19 books. Rendered 'eternal' (46.4%) and 'everlasting' (30.4%). Dominant usage: 'eternal life' (~43/69 verses). Also applied to punishment, fire, redemption, Spirit, covenant. The adjective is NT-only but LXX uses it for H5769 olam. 2 Tim 1:9 'before eternal times' proves aionios cannot mean merely 'age-long.'",
+      "semantic_categories": [
+        "eternal life",
+        "eternal judgment/punishment",
+        "eternal attributes of God",
+        "eternal covenant"
+      ],
+      "key_verses": [
+        "John 3:16",
+        "Matt 25:46",
+        "2 Tim 1:9",
+        "Rev 14:6"
+      ],
+      "relevance": "Central to Objections 1, 7, 12. DeSilva's 'age-long' translation breaks at 2 Tim 1:9 and Matt 25:46."
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "source_file": "D:/bible/bible-studies/word-studies/G5399-phobeo.md",
+      "occurrence_count": 110,
+      "summary": "Verb from phobos (G5401). 90 unique verses, 110 tokens across 14 books. Nearly all forms middle/passive (deponent). Present vs. aorist imperative pattern: 'Fear not' = present imperative (me phobou, stop fearing); Rev 14:7 phobethete = aorist passive imperative (decisive call to action). Three Louw-Nida domains: Fear/Terror (025.022), Worship/Reverence (053.007), Honor/Status (087.002). Same word used for terror AND reverence — context determines sense.",
+      "semantic_categories": [
+        "terror/alarm",
+        "reverential awe",
+        "worship-related fear"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Matt 10:28",
+        "Luke 12:5",
+        "Acts 10:2"
+      ],
+      "relevance": "Core to Objection 5. The phobeo word field spans terror to reverence. Rev 14:7's aorist imperative commands decisive reverential action."
+    },
+    {
+      "strongs": "G5401",
+      "word": "phobos",
+      "source_file": "D:/bible/bible-studies/word-studies/G5401-phobos.md",
+      "occurrence_count": 47,
+      "summary": "Noun from phobeo. Fear/terror/reverence. In 1 John 4:18, the phobos that love casts out is qualified by kolasis (punishment-fear). In 1 Pet 1:17, believers live 'in phobos' — reverential awe coexisting with Father relationship.",
+      "semantic_categories": [
+        "terror",
+        "reverence",
+        "punishment-fear"
+      ],
+      "key_verses": [
+        "1 John 4:18",
+        "1 Pet 1:17",
+        "Rom 3:18"
+      ],
+      "relevance": "Core to Objection 5. The noun phobos is ambiguous without context; 1 John 4:18 specifies kolasis-fear."
+    },
+    {
+      "strongs": "G2851",
+      "word": "kolasis",
+      "source_file": "D:/bible/bible-studies/word-studies/G2851-kolasis.md",
+      "occurrence_count": 2,
+      "summary": "Punishment/correction. Appears only 2x in NT (Matt 25:46, 1 John 4:18). Both in judgment contexts. Root idea: pruning/corrective discipline (from kolazo). In 1 John 4:18, kolasis qualifies the fear that love casts out — punishment-dread, not reverential awe.",
+      "semantic_categories": [
+        "punishment",
+        "corrective discipline",
+        "judgment-context fear"
+      ],
+      "key_verses": [
+        "1 John 4:18",
+        "Matt 25:46"
+      ],
+      "relevance": "Core to Objection 5. The kolasis qualifier narrows 1 John 4:18's 'fear' to punishment-dread specifically."
+    },
+    {
+      "strongs": "G1785",
+      "word": "entole",
+      "source_file": "D:/bible/bible-studies/word-studies/G1785-entole.md",
+      "occurrence_count": 71,
+      "summary": "Commandment/injunction. Feminine noun from entellomai (G1781). 65 unique verses, 71 tokens. Rendered 'commandment(s)' in 93.8% of verses. Johannine concentration: John + 1 John + 2 John = 22 verses (34%). Semantic categories: Decalogue/Mosaic law, Christ's new commandment, Father's commandment to Christ. Three NT test cases proving entole refers to Decalogue: Rom 7:7-12 (tenth commandment, 5x), Eph 6:2 (fifth commandment), Luke 23:56 (Sabbath).",
+      "semantic_categories": [
+        "Decalogue/Mosaic law",
+        "Christ's love commandment",
+        "Father's commandment to Christ",
+        "general divine injunction"
+      ],
+      "key_verses": [
+        "Rev 14:12",
+        "Rom 7:7",
+        "Eph 6:2",
+        "Luke 23:56"
+      ],
+      "relevance": "Core to Objections 4, 6. Demolishes the claim that entole cannot mean Decalogue. Nomos never appears in Revelation."
+    },
+    {
+      "strongs": "G3551",
+      "word": "nomos",
+      "source_file": "D:/bible/bible-studies/word-studies/G3551-nomos.md",
+      "occurrence_count": 197,
+      "summary": "Law/Torah. Masculine noun. The standard word for the Mosaic law as a body. NEVER appears in Revelation. The entole/nomos distinction is crucial: Revelation uses entole exclusively for commandments, not nomos.",
+      "semantic_categories": [
+        "Mosaic law",
+        "Torah",
+        "legal principle",
+        "natural law"
+      ],
+      "key_verses": [
+        "Rom 3:31",
+        "Rom 7:7",
+        "Gal 3:24"
+      ],
+      "relevance": "Core to Objection 4. Nomos absence from Revelation makes the Tinker/Answering Adventism claim (entole = Jesus' teachings, nomos = Law) irrelevant — Revelation's only vocabulary is entole."
+    },
+    {
+      "strongs": "G4102",
+      "word": "pistis",
+      "source_file": "D:/bible/bible-studies/word-studies/G4102-pistis.md",
+      "occurrence_count": 244,
+      "summary": "Faith/trust/faithfulness. Feminine noun from peitho (G3982). 244 NT occurrences across 21 books. Rendered 'faith' in 68.9%. Overwhelmingly Pauline (Romans 40, Galatians 22, Hebrews 32). Semantic categories: active trust in God, body of Christian belief, faithfulness/reliability. The pistin Iesou (Rev 14:12) genitive is debated: subjective (Jesus' faithfulness), objective (faith in Jesus), or plenary (both).",
+      "semantic_categories": [
+        "active trust",
+        "body of belief",
+        "faithfulness",
+        "conviction"
+      ],
+      "key_verses": [
+        "Rom 3:22",
+        "Gal 2:16",
+        "Rev 14:12"
+      ],
+      "relevance": "Core to Objection 4. The pistis Iesou genitive in Rev 14:12 — plenary reading supported by grammar-reference/greek/subjective-objective-genitive.md."
+    },
+    {
+      "strongs": "G4160",
+      "word": "poieo",
+      "source_file": "D:/bible/bible-studies/word-studies/G4160-poieo.md",
+      "occurrence_count": 597,
+      "summary": "To make/do. The verb used in Rev 14:7 (poiesanti) for creation, mapping to Hebrew asah (H6213) in Exo 20:11. Every other creation text in Revelation uses ktizo (G2936). The verb switch is the diagnostic allusion to the fourth commandment.",
+      "semantic_categories": [
+        "creation",
+        "manufacture",
+        "action",
+        "performance"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Acts 4:24",
+        "Acts 14:15"
+      ],
+      "relevance": "Core to Objection 6. The poieo/ktizo verb switch is the strongest evidence for the Sabbath allusion."
+    },
+    {
+      "strongs": "G4520",
+      "word": "sabbatismos",
+      "source_file": "D:/bible/bible-studies/word-studies/G4520-sabbatismos.md",
+      "occurrence_count": 1,
+      "summary": "Sabbath-keeping/Sabbath rest. NT hapax legomenon (Heb 4:9 only). Deliberately chosen over katapausis (G2663) used throughout Heb 4. Denotes Sabbath-observance in every extant Greek source. Even anti-Sabbatarian Lincoln concedes the word's Sabbath-keeping meaning.",
+      "semantic_categories": [
+        "Sabbath observance",
+        "eschatological rest"
+      ],
+      "key_verses": [
+        "Heb 4:9"
+      ],
+      "relevance": "Core to Objection 6. The NT hapax for Sabbath-keeping."
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "source_file": "D:/bible/bible-studies/word-studies/G2920-krisis.md",
+      "occurrence_count": 47,
+      "summary": "Judgment/judicial evaluation. Feminine noun from krino (G2919). 47 NT occurrences across 13 books. Rendered 'judgment' in 55%. Concentrated in Matthew (12) and John (11). Semantic categories: day of judgment (eschatological), judicial process, divine evaluation. Distinguished from katakrima (G2631, condemnation/adverse verdict). Rev 14:7 uses krisis — evaluation, not condemnation.",
+      "semantic_categories": [
+        "day of judgment",
+        "judicial process",
+        "divine evaluation",
+        "tribunal"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "John 5:24",
+        "Matt 12:36",
+        "Heb 9:27"
+      ],
+      "relevance": "Core to Objection 8. The krisis/katakrima distinction is decisive: believers face evaluation but not condemnation."
+    },
+    {
+      "strongs": "G2631",
+      "word": "katakrima",
+      "source_file": "D:/bible/bible-studies/word-studies/G2631-katakrima.md",
+      "occurrence_count": 3,
+      "summary": "Condemnation/adverse verdict with execution. Neuter noun. Only 3 NT occurrences: Rom 5:16, 5:18, 8:1. All in Romans. Kata- (against) + krima (judgment) = judgment AGAINST someone. Rom 8:1 negates katakrima for those in Christ Jesus — no condemnation, not no evaluation.",
+      "semantic_categories": [
+        "condemnation",
+        "adverse verdict",
+        "judicial execution"
+      ],
+      "key_verses": [
+        "Rom 8:1",
+        "Rom 5:16",
+        "Rom 5:18"
+      ],
+      "relevance": "Core to Objection 8. Rom 8:1 negates katakrima (condemnation), NOT krisis (evaluation)."
+    },
+    {
+      "strongs": "G165",
+      "word": "aion",
+      "source_file": "D:/bible/bible-studies/word-studies/G165-aion.md",
+      "occurrence_count": 120,
+      "summary": "Age/perpetuity/forever. Masculine noun. The eis aionas aionon formula (into ages of ages) appears 21x in NT. Applied to God's existence, praise, and to the torment formula in Revelation.",
+      "semantic_categories": [
+        "age/era",
+        "perpetuity",
+        "forever formula"
+      ],
+      "key_verses": [
+        "Rev 14:11",
+        "Rev 4:9",
+        "Rev 19:3"
+      ],
+      "relevance": "Core to Objection 7. The eis aionas aionon formula in Rev 14:11 matches Rev 19:3 (Babylon's cessation) and Rev 4:8 (living creatures' praise)."
+    },
+    {
+      "strongs": "H5769",
+      "word": "owlam",
+      "source_file": "D:/bible/bible-studies/word-studies/H5769-owlam.md",
+      "occurrence_count": 432,
+      "summary": "Forever/eternity/perpetuity. Hebrew temporal term. Used in Isa 34:10 for Edom's 'forever' destruction that was clearly temporal. The OT prophetic convention: owlam describes permanence of result, not necessarily infinite duration of process.",
+      "semantic_categories": [
+        "perpetuity",
+        "eternity",
+        "long duration",
+        "ancient time"
+      ],
+      "key_verses": [
+        "Isa 34:10",
+        "Exo 31:17",
+        "Dan 7:18"
+      ],
+      "relevance": "Core to Objection 7. The OT 'forever' language for temporal destructions establishes the convention Rev 14:11 draws on."
+    },
+    {
+      "strongs": "H226",
+      "word": "owth",
+      "source_file": "D:/bible/bible-studies/word-studies/H226-owth.md",
+      "occurrence_count": 85,
+      "summary": "Sign/token/mark. Hebrew noun. The Sabbath is called owth four times (Exo 31:13, 31:17, Ezek 20:12, 20:20). No other Decalogue commandment receives this designation. Rom 4:11 bridges owth/semeion to sphragis (seal).",
+      "semantic_categories": [
+        "sign",
+        "token",
+        "covenant mark",
+        "wonder"
+      ],
+      "key_verses": [
+        "Exo 31:13",
+        "Exo 31:17",
+        "Ezek 20:12"
+      ],
+      "relevance": "Core to Objection 10. Sabbath as uniquely designated owth among the Ten Commandments."
+    },
+    {
+      "strongs": "G4972",
+      "word": "sphragizo",
+      "source_file": "D:/bible/bible-studies/word-studies/G4972-sphragizo.md",
+      "occurrence_count": 28,
+      "summary": "To seal/stamp. Verb form of sphragis (G4973). Used for the sealing of believers by the Holy Spirit (Eph 1:13, 4:30) and the sealing of God's servants (Rev 7:3-4).",
+      "semantic_categories": [
+        "divine sealing",
+        "authentication",
+        "protection"
+      ],
+      "key_verses": [
+        "Eph 1:13",
+        "Eph 4:30",
+        "Rev 7:3"
+      ],
+      "relevance": "Core to Objection 10. The Spirit is the sealing AGENT; the seal has content."
+    },
+    {
+      "strongs": "G4973",
+      "word": "sphragis",
+      "source_file": "D:/bible/bible-studies/word-studies/G4973-sphragis.md",
+      "occurrence_count": 16,
+      "summary": "Seal/signet/stamp. Feminine noun. 16 NT occurrences. Overwhelmingly Revelation (13/16 = 81%). Semantic categories: authentication/certification (Rom 4:11, 1 Cor 9:2), divine concealment (Rev 5:1-2), judgment unveiling (Rev 6), divine ownership/protection (Rev 7:2, 9:4). Rom 4:11 is critical — Paul calls circumcision BOTH semeion AND sphragis, breaking the vocabulary barrier.",
+      "semantic_categories": [
+        "authentication",
+        "divine concealment",
+        "judgment unveiling",
+        "divine ownership"
+      ],
+      "key_verses": [
+        "Rom 4:11",
+        "Rev 7:2",
+        "2 Tim 2:19"
+      ],
+      "relevance": "Core to Objection 10. The sign/seal vocabulary bridge via Rom 4:11."
+    },
+    {
+      "strongs": "G5480",
+      "word": "charagma",
+      "source_file": "D:/bible/bible-studies/word-studies/G5480-charagma.md",
+      "occurrence_count": 9,
+      "summary": "Mark/stamp/engraving. Neuter noun from charasso (to scratch/engrave). 9 NT occurrences: 8 in Revelation, 1 in Acts 17:29. Semantic categories: engraved artwork (Acts 17:29), compulsory mark (Rev 13:16-17), mark linked to worship (Rev 14:9, 11), basis for judgment (Rev 16:2, 19:20). The mark is paired with proskyneo (worship) in every Revelation occurrence — receiving the mark IS an act of false worship.",
+      "semantic_categories": [
+        "engraved artwork",
+        "compulsory badge",
+        "mark of allegiance",
+        "basis for judgment"
+      ],
+      "key_verses": [
+        "Rev 13:16",
+        "Rev 14:9",
+        "Rev 14:11"
+      ],
+      "relevance": "Core to Objection 10. The charagma is the direct antithesis of the sphragis — both placed on foreheads, but one denotes divine ownership and the other bestial allegiance."
+    },
+    {
+      "strongs": "H2181",
+      "word": "zanah",
+      "source_file": "D:/bible/bible-studies/word-studies/H2181-zanah.md",
+      "occurrence_count": 107,
+      "summary": "To commit harlotry/be unfaithful. Hebrew verb. 107 OT occurrences. In the prophets, used almost exclusively for entities that were ONCE faithful (Israel, Judah, Jerusalem). The harlotry imagery requires prior covenant relationship with YHWH.",
+      "semantic_categories": [
+        "covenant unfaithfulness",
+        "prostitution",
+        "spiritual adultery"
+      ],
+      "key_verses": [
+        "Ezek 16:15",
+        "Hos 2:5",
+        "Jer 3:1"
+      ],
+      "relevance": "Core to Objection 13. The zanah vocabulary requires prior covenant — Rome never had one."
+    },
+    {
+      "strongs": "G4202",
+      "word": "porneia",
+      "source_file": "D:/bible/bible-studies/word-studies/G4202-porneia.md",
+      "occurrence_count": 26,
+      "summary": "Fornication/harlotry. Greek noun. The LXX equivalent of Hebrew zanah in prophetic contexts. Used in Revelation for Babylon's fornication with the kings of the earth.",
+      "semantic_categories": [
+        "sexual immorality",
+        "covenant unfaithfulness",
+        "spiritual adultery"
+      ],
+      "key_verses": [
+        "Rev 14:8",
+        "Rev 17:2",
+        "Rev 18:3"
+      ],
+      "relevance": "Core to Objection 13. The porneia of Babylon = covenant unfaithfulness, not generic immorality."
+    },
+    {
+      "strongs": "H1101",
+      "word": "balal",
+      "source_file": "D:/bible/bible-studies/word-studies/H1101-balal.md",
+      "occurrence_count": 45,
+      "summary": "To mix/confuse. Hebrew verb. Etymology behind 'Babel/Babylon.' The essential nature of Babylon is MIXTURE — blending truth with error, sacred with profane.",
+      "semantic_categories": [
+        "mixture",
+        "confusion",
+        "blending"
+      ],
+      "key_verses": [
+        "Gen 11:9"
+      ],
+      "relevance": "Core to Objection 13. Babylon's essence is mixture of truth and error — fits a corrupted religious system."
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "source_file": "D:/bible/bible-studies/word-studies/G4352-proskyneo.md",
+      "occurrence_count": 65,
+      "summary": "To worship/bow down. Verb. The central worship verb in Rev 14:7 (proskynēsate, aorist active imperative). Commands worship of the Creator vs. beast (Rev 14:9). The charagma is linked to proskyneo in every Revelation occurrence.",
+      "semantic_categories": [
+        "worship",
+        "prostration",
+        "adoration"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 14:9",
+        "Rev 4:10"
+      ],
+      "relevance": "Core to Objections 6, 14. The worship command in Rev 14:7 echoes the creation language of Exo 20:11."
+    },
+    {
+      "strongs": "H1319",
+      "word": "basar",
+      "source_file": "D:/bible/bible-studies/word-studies/H1319-basar.md",
+      "occurrence_count": 27,
+      "summary": "To bear tidings/announce good news. Hebrew verb. Maps to LXX euangelizo in 18/21 occurrences (PMI 10.0). The angel of Rev 14:6 stands at the end of the basar-euangelizo chain — the vocabulary establishes continuity with OT good-news proclamation.",
+      "semantic_categories": [
+        "good news announcement",
+        "gospel proclamation"
+      ],
+      "key_verses": [
+        "Isa 52:7",
+        "Isa 61:1"
+      ],
+      "relevance": "Core to Objection 1. The basar-euangelizo chain proves the gospel is not a NT innovation."
+    },
+    {
+      "strongs": "G5281",
+      "word": "hupomone",
+      "source_file": "D:/bible/bible-studies/word-studies/G5281-hupomone.md",
+      "occurrence_count": 32,
+      "summary": "Patience/endurance/steadfast perseverance. Feminine noun. Used in both Rev 13:10 and 14:12, creating a literary bracket (hupomone inclusio) that binds the beast narrative to the angel messages as a single unit.",
+      "semantic_categories": [
+        "endurance",
+        "steadfastness",
+        "patient perseverance"
+      ],
+      "key_verses": [
+        "Rev 13:10",
+        "Rev 14:12"
+      ],
+      "relevance": "Core to Objections 4, 11. The hupomone bracket makes Rev 13-14 a single literary unit."
+    },
+    {
+      "strongs": "H3372",
+      "word": "yare",
+      "source_file": "D:/bible/bible-studies/word-studies/H3372-yare.md",
+      "occurrence_count": 414,
+      "summary": "To fear/revere. Hebrew verb. 414 OT occurrences. Used for both terror (Gen 28:17) and reverence (Ecc 12:13). LXX collapses into phobeo. Exo 20:20 uses yare twice in one verse with opposite meanings: 'Fear not' (stop terror) AND 'that his fear may be before your faces' (maintain reverence).",
+      "semantic_categories": [
+        "terror",
+        "reverence",
+        "awe",
+        "worship-fear"
+      ],
+      "key_verses": [
+        "Exo 20:20",
+        "Ecc 12:13",
+        "Ps 130:4"
+      ],
+      "relevance": "Core to Objection 5. The Hebrew root behind phobeo in Rev 14:7."
+    },
+    {
+      "strongs": "H7676",
+      "word": "shabbath",
+      "source_file": "D:/bible/bible-studies/word-studies/H7676-shabbath.md",
+      "occurrence_count": 109,
+      "summary": "Sabbath/rest. Hebrew noun. The seventh-day rest. Called owth (sign) four times. Absent from Revelation by name — but the creation formula in Rev 14:7 alludes to the fourth commandment via the poieo/asah verb match.",
+      "semantic_categories": [
+        "seventh-day rest",
+        "covenant sign",
+        "creation memorial"
+      ],
+      "key_verses": [
+        "Exo 20:8-11",
+        "Exo 31:13",
+        "Heb 4:9"
+      ],
+      "relevance": "Core to Objection 6. The Sabbath is NOT named in Revelation — honest acknowledgment required."
+    },
+    {
+      "strongs": "G4077",
+      "word": "pege",
+      "source_file": "D:/bible/bible-studies/word-studies/G4077-pege.md",
+      "occurrence_count": 12,
+      "summary": "Fountain/spring/source. Feminine noun. Rev 14:7 substitutes 'fountains of waters' (pegas hydaton) where every other Exo 20:11 echo uses 'all that in them is.' This divergence marks Rev 14:7's allusion as both dependent on Exo 20:11 and deliberately modified.",
+      "semantic_categories": [
+        "water source",
+        "fountain",
+        "spring"
+      ],
+      "key_verses": [
+        "Rev 14:7",
+        "Rev 8:10",
+        "Rev 16:4"
+      ],
+      "relevance": "Core to Objection 6. The 'fountains of waters' divergence — Rev 14:7's unique fourth element."
+    },
+    {
+      "strongs": "G968",
+      "word": "bema",
+      "source_file": "D:/bible/bible-studies/word-studies/G968-bema.md",
+      "occurrence_count": 13,
+      "summary": "Judgment seat/tribunal/platform. Neuter noun. Used in 2 Cor 5:10 for the judgment seat of Christ where all believers appear. An evaluative tribunal, not a condemnation court.",
+      "semantic_categories": [
+        "judicial platform",
+        "tribunal"
+      ],
+      "key_verses": [
+        "2 Cor 5:10",
+        "Rom 14:10"
+      ],
+      "relevance": "Supporting Objection 8. Believers face the bema — evaluation, not condemnation."
+    },
+    {
+      "strongs": "G5083",
+      "word": "tereo",
+      "source_file": "D:/bible/bible-studies/word-studies/G5083-tereo.md",
+      "occurrence_count": 75,
+      "summary": "To keep/guard/observe. Verb. 75 NT occurrences. Johannine concentration (John 18, 1 John 8, Revelation 11). Used in Rev 14:12 as terountes (present active participle) — 'those keeping.' The participle is descriptive (who the saints are), not prescriptive (conditions for salvation).",
+      "semantic_categories": [
+        "guard/protect",
+        "observe/keep commandments",
+        "preserve/maintain"
+      ],
+      "key_verses": [
+        "Rev 14:12",
+        "John 14:15",
+        "1 John 5:3"
+      ],
+      "relevance": "Core to Objection 4. The participle terountes describes rather than prescribes."
+    },
+    {
+      "strongs": "G26",
+      "word": "agape",
+      "source_file": "D:/bible/bible-studies/word-studies/G26-agape.md",
+      "occurrence_count": 116,
+      "summary": "Love. Feminine noun. The teleia agape (perfect/complete love) in 1 John 4:18 casts out punishment-fear. The faith-love-law chain: Gal 5:6 (faith works by love) → 1 John 5:3 (love IS keeping commandments).",
+      "semantic_categories": [
+        "divine love",
+        "self-giving love",
+        "love between believers"
+      ],
+      "key_verses": [
+        "1 John 4:18",
+        "1 John 5:3",
+        "Gal 5:6"
+      ],
+      "relevance": "Core to Objections 4, 5. Love connects faith to commandment-keeping."
+    }
+  ],
+  "parallels": [
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Isa 34:10",
+      "direction": "ot",
+      "connection_type": "vocabulary — 'smoke ascending forever' formula"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Acts 4:24",
+      "direction": "nt",
+      "connection_type": "vocabulary + structural — creation formula with poieo"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Rev 15:4",
+      "direction": "nt",
+      "connection_type": "vocabulary + theological — fear, glorify, worship parallels"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Acts 14:15",
+      "direction": "nt",
+      "connection_type": "vocabulary + structural — creation formula with poieo"
+    },
+    {
+      "source_verse": "Rev 14:11",
+      "parallel_verse": "Isa 34:10",
+      "direction": "ot",
+      "connection_type": "vocabulary + structural — identical smoke-forever formula for temporal destruction"
+    },
+    {
+      "source_verse": "Rev 17:1-5",
+      "parallel_verse": "1 Kgs 14:24",
+      "direction": "ot",
+      "connection_type": "vocabulary — abomination and prostitution/harlotry"
+    },
+    {
+      "source_verse": "Rev 14:7",
+      "parallel_verse": "Rev 19:1",
+      "direction": "nt",
+      "connection_type": "vocabulary — glory, heaven, loud voice"
+    }
+  ],
+  "raw_parsing": {
+    "greek": {
+      "Rev 14:6": "======================================================================\n  Revelation 14:6 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Καὶ εἶδον ἄλλον ἄγγελον πετόμενον ἐν μεσουρανήματι, ἔχοντα εὐαγγέλιον αἰώνιον εὐαγγελίσαι ἐπὶ τοὺς καθημένους ἐπὶ τῆς γῆς καὶ ἐπὶ πᾶν ἔθνος καὶ φυλὴν καὶ γλῶσσαν καὶ λαόν,\n\nWORD                 LEMMA           STRONG   PARSING\nΚαὶ                  καί             G2532    [CONJ]\nεἶδον                ὁράω            G3708    [V-2AAI-1S] Aor Act Ind Sg firstPers\nἄλλον                ἄλλος           G243     [A-ASM] Acc Sg M\nἄγγελον              ἄγγελος         G32      [N-ASM] Acc Sg M\nπετόμενον            πέτομαι         G4072    [V-PNP-ASM] Pres M/P Ptcp Acc Sg M\nἐν                   ἐν              G1722    [PREP]\nμεσουρανήματι,       μεσουράνημα     G3321    [N-DSN] Dat Sg N\nἔχοντα               ἔχω             G2192    [V-PAP-ASM] Pres Act Ptcp Acc Sg M\nεὐαγγέλιον           εὐαγγέλιον      G2098    [N-ASN] Acc Sg N\nαἰώνιον              αἰώνιος         G166     [A-ASN] Acc Sg N\nεὐαγγελίσαι          εὐαγγελίζω      G2097    [V-AAN] Aor Act Inf\nἐπὶ                  ἐπί             G1909    [PREP]\nτοὺς                 ὁ               G3588    [T-APM] Acc Pl M\nκαθημένους           κάθημαι         G2521    [V-PNP-APM] Pres M/P Ptcp Acc Pl M\nἐπὶ                  ἐπί             G1909    [PREP]\nτῆς                  ὁ               G3588    [T-GSF] Gen Sg F\nγῆς                  γῆ              G1093    [N-GSF] Gen Sg F\nκαὶ                  καί             G2532    [CONJ]\nἐπὶ                  ἐπί             G1909    [PREP]\nπᾶν                  πᾶς             G3956    [A-ASN] Acc Sg N\nἔθνος                ἔθνος           G1484    [N-ASN] Acc Sg N\nκαὶ                  καί             G2532    [CONJ]\nφυλὴν                φυλή            G5443    [N-ASF] Acc Sg F\nκαὶ                  καί             G2532    [CONJ]\nγλῶσσαν              γλῶσσα          G1100    [N-ASF] Acc Sg F\nκαὶ                  καί             G2532    [CONJ]\nλαόν,                λαός            G2992    [N-ASM] Acc Sg M",
+      "Rev 14:7": "======================================================================\n  Revelation 14:7 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: λέγων ἐν φωνῇ μεγάλῃ· Φοβήθητε τὸν Θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ, καὶ προσκυνήσατε τῷ ποιήσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ θάλασσαν καὶ πηγὰς ὑδάτων.\n\nWORD                 LEMMA           STRONG   PARSING\nλέγων                λέγω            G3004    [V-PAP-NSM] Pres Act Ptcp Nom Sg M\nΦοβήθητε             φοβέω           G5399    [V-AOM-2P] Aor Pass Impv Pl secondPers\nδότε                 δίδωμι          G1325    [V-2AAM-2P] Aor Act Impv Pl secondPers\nδόξαν,               δόξα            G1391    [N-ASF] Acc Sg F\nἦλθεν                ἔρχομαι         G2064    [V-2AAI-3S] Aor Act Ind Sg thirdPers\nὥρα                  ὥρα             G5610    [N-NSF] Nom Sg F\nκρίσεως              κρίσις          G2920    [N-GSF] Gen Sg F\nπροσκυνήσατε         προσκυνέω       G4352    [V-AAM-2P] Aor Act Impv Pl secondPers\nποιήσαντι            ποιέω           G4160    [V-AAP-DSM] Aor Act Ptcp Dat Sg M\nοὐρανὸν              οὐρανός         G3772    [N-ASM] Acc Sg M\nγῆν                  γῆ              G1093    [N-ASF] Acc Sg F\nθάλασσαν             θάλασσα         G2281    [N-ASF] Acc Sg F\nπηγὰς                πηγή            G4077    [N-APF] Acc Pl F\nὑδάτων.              ὕδωρ            G5204    [N-GPN] Gen Pl N",
+      "Rev 14:12": "======================================================================\n  Revelation 14:12 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ Θεοῦ καὶ τὴν πίστιν Ἰησοῦ.\n\nWORD                 LEMMA           STRONG   PARSING\nΩδε                  ὧδε             G5602    [ADV]\nὑπομονὴ              ὑπομονή         G5281    [N-NSF] Nom Sg F\nτηροῦντες            τηρέω           G5083    [V-PAP-NPM] Pres Act Ptcp Nom Pl M\nἐντολὰς              ἐντολή          G1785    [N-APF] Acc Pl F\nΘεοῦ                 θεός            G2316    [N-GSM] Gen Sg M\nπίστιν               πίστις          G4102    [N-ASF] Acc Sg F\nἸησοῦ.               Ἰησοῦς          G2424    [N-GSM] Gen Sg M",
+      "1 John 4:17": "======================================================================\n  1 John 4:17 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Ἐν τούτῳ τετελείωται ἡ ἀγάπη μεθ' ἡμῶν, ἵνα παρρησίαν ἔχωμεν ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ὅτι καθὼς ἐκεῖνός ἐστιν καὶ ἡμεῖς ἐσμεν ἐν τῷ κόσμῳ τούτῳ.\n\nWORD                 LEMMA           STRONG   PARSING\nτετελείωται          τελειόω         G5048    [V-RPI-3S] Perf Pass Ind Sg thirdPers\nἀγάπη                ἀγάπη           G26      [N-NSF] Nom Sg F\nπαρρησίαν            παρρησία        G3954    [N-ASF] Acc Sg F\nκρίσεως,             κρίσις          G2920    [N-GSF] Gen Sg F",
+      "1 John 4:18": "======================================================================\n  1 John 4:18 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ' ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει, ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ.\n\nWORD                 LEMMA           STRONG   PARSING\nφόβος                φόβος           G5401    [N-NSM] Nom Sg M\nτελεία               τέλειος         G5046    [A-NSF] Nom Sg F\nἀγάπη                ἀγάπη           G26      [N-NSF] Nom Sg F\nκόλασιν              κόλασις         G2851    [N-ASF] Acc Sg F\nφοβούμενος           φοβέω           G5399    [V-PNP-NSM] Pres M/P Ptcp Nom Sg M\nτετελείωται          τελειόω         G5048    [V-RPI-3S] Perf Pass Ind Sg thirdPers",
+      "Gal 1:6": "======================================================================\n  Galatians 1:6 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον,\n\nWORD                 LEMMA           STRONG   PARSING\nμετατίθεσθε          μετατίθημι      G3346    [V-PEI-2P] Pres M/P Ind Pl secondPers\nἕτερον               ἕτερος          G2087    [A-ASN] Acc Sg N\nεὐαγγέλιον,          εὐαγγέλιον      G2098    [N-ASN] Acc Sg N",
+      "Gal 1:8": "======================================================================\n  Galatians 1:8 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίσηται ὑμῖν παρ' ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.\n\nWORD                 LEMMA           STRONG   PARSING\nεὐαγγελίσηται        εὐαγγελίζω      G2097    [V-AMS-3S] Aor Mid Subj Sg thirdPers\nἀνάθεμα              ἀνάθεμα         G331     [N-NSN] Nom Sg N",
+      "Rev 22:11": "======================================================================\n  Revelation 22:11 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: ὁ ἀδικῶν ἀδικησάτω ἔτι, καὶ ὁ ῥυπαρὸς ῥυπανθήτω ἔτι, καὶ ὁ δίκαιος δικαιοσύνην ποιησάτω ἔτι, καὶ ὁ ἅγιος ἁγιασθήτω ἔτι.\n\nWORD                 LEMMA           STRONG   PARSING\nἀδικησάτω            ἀδικέω          G91      [V-AAM-3S] Aor Act Impv Sg thirdPers\nῥυπανθήτω            ῥυπαίνω         G4510    [V-APM-3S] Aor Pass Impv Sg thirdPers\nποιησάτω             ποιέω           G4160    [V-AAM-3S] Aor Act Impv Sg thirdPers\nἁγιασθήτω            ἁγιάζω          G37      [V-APM-3S] Aor Pass Impv Sg thirdPers",
+      "Rev 14:10": "======================================================================\n  Revelation 14:10 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ αὐτὸς πίεται ἐκ τοῦ οἴνου τοῦ θυμοῦ τοῦ Θεοῦ τοῦ κεκερασμένου ἀκράτου ἐν τῷ ποτηρίῳ τῆς ὀργῆς αὐτοῦ, καὶ βασανισθήσεται ἐν πυρὶ καὶ θείῳ ἐνώπιον ἀγγέλων ἁγίων καὶ ἐνώπιον τοῦ Ἀρνίου.\n\nWORD                 LEMMA           STRONG   PARSING\nπίεται               πίνω            G4095    [V-FDI-3S] Fut Mid Ind Sg thirdPers\nθυμοῦ                θυμός           G2372    [N-GSM] Gen Sg M\nὀργῆς                ὀργή            G3709    [N-GSF] Gen Sg F\nβασανισθήσεται       βασανίζω        G928     [V-FPI-3S] Fut Pass Ind Sg thirdPers",
+      "Rev 14:11": "======================================================================\n  Revelation 14:11 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν εἰς αἰῶνας αἰώνων ἀναβαίνει, καὶ οὐκ ἔχουσιν ἀνάπαυσιν ἡμέρας καὶ νυκτός οἱ προσκυνοῦντες τὸ θηρίον καὶ τὴν εἰκόνα αὐτοῦ, καὶ εἴ τις λαμβάνει τὸ χάραγμα τοῦ ὀνόματος αὐτοῦ.\n\nWORD                 LEMMA           STRONG   PARSING\nἀναβαίνει            ἀναβαίνω        G305     [V-PAI-3S] Pres Act Ind Sg thirdPers\nἔχουσιν              ἔχω             G2192    [V-PAI-3P] Pres Act Ind Pl thirdPers\nἀνάπαυσιν            ἀνάπαυσις       G372     [N-ASF] Acc Sg F\nχάραγμα              χάραγμα         G5480    [N-ASN] Acc Sg N",
+      "Rev 15:8": "======================================================================\n  Revelation 15:8 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: καὶ ἐγεμίσθη ὁ ναὸς καπνοῦ ἐκ τῆς δόξης τοῦ Θεοῦ καὶ ἐκ τῆς δυνάμεως αὐτοῦ, καὶ οὐδεὶς ἐδύνατο εἰσελθεῖν εἰς τὸν ναὸν ἄχρι τελεσθῶσιν αἱ ἑπτὰ πληγαὶ τῶν ἑπτὰ ἀγγέλων.\n\nWORD                 LEMMA           STRONG   PARSING\nἐγεμίσθη             γεμίζω          G1072    [V-API-3S] Aor Pass Ind Sg thirdPers\nναὸς                 ναός            G3485    [N-NSM] Nom Sg M\nἐδύνατο              δύναμαι         G1410    [V-INI-3S] Impf M/P Ind Sg thirdPers\nεἰσελθεῖν            εἰσέρχομαι      G1525    [V-2AAN] Aor Act Inf\nτελεσθῶσιν           τελέω           G5055    [V-APS-3P] Aor Pass Subj Pl thirdPers",
+      "Rom 8:1": "======================================================================\n  Romans 8:1 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ.\n\nWORD                 LEMMA           STRONG   PARSING\nκατάκριμα            κατάκριμα       G2631    [N-NSN] Nom Sg N",
+      "Rom 7:7": "======================================================================\n  Romans 7:7 - GRAMMATICAL ANALYSIS\n======================================================================\n\nGreek Text: Τί οὖν ἐροῦμεν; ὁ νόμος ἁμαρτία; μὴ γένοιτο· ἀλλὰ τὴν ἁμαρτίαν οὐκ ἔγνων εἰ μὴ διὰ νόμου· τήν τε γὰρ ἐπιθυμίαν οὐκ ᾔδειν εἰ μὴ ὁ νόμος ἔλεγεν Οὐκ ἐπιθυμήσεις·\n\nWORD                 LEMMA           STRONG   PARSING\nνόμος                νόμος           G3551    [N-NSM] Nom Sg M\nἐπιθυμίαν            ἐπιθυμία        G1939    [N-ASF] Acc Sg F\nἐπιθυμήσεις          ἐπιθυμέω        G1937    [V-FAI-2S] Fut Act Ind Sg secondPers"
+    },
+    "hebrew": {
+      "Exo 20:20": "======================================================================\n  Exodus 20:20\n======================================================================\n\n  וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָאוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסֹּ֣ות אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָתֹ֛ו עַל־פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃\n\n  Hebrew          Lemma        Parsing                   Gloss\n  אַל             אל           Neg                       not\n  תִּירָאוּ       ירא          Verb.Qal.Impf.2mp         fear\n  יִרְאָתֹו       יראה         Noun.fs.Abs+3ms           fear (his)\n  תֶחֱטָאוּ       חטא          Verb.Qal.Impf.2mp         miss/sin"
+    }
+  }
+}

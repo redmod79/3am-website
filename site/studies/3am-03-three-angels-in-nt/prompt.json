@@ -1,0 +1,1148 @@
+{
+  "question": "Does the New Testament repeat the same three-part pattern (gospel call → expose false system → warn of judgment) before Revelation 14? Examine: John the Baptist's ministry, Jesus' ministry, Stephen's speech in Acts 7, Paul at Athens (Acts 17:22-31), Paul to Rome (Rom 1-3).",
+  "prior_research_summary": "Three prior 3AM studies establish context: 3am-02 proved six OT episodes (Noah, Sodom, Egypt, Carmel, Josiah, Jeremiah) contain the three-part pattern and documented vocabulary chains (riyb→krisis, shachah→proskyneo, yatsa→exerchomai, chemah→thumos). gsp-10 proved Acts 17:22-31 maps element-by-element onto the first angel's message and that 1 Thess 1:9-10 compresses all three elements. gsp-07 proved judgment is integral to the gospel (Rom 2:16, Acts 17:30-31). Web research identified Dodd's kerygma analysis, Parsons' chiastic structure in Acts 17, Toussaint's three-cord analysis of Acts 7, Andrews' anticipation-vs-announcement distinction, Campbell's rhetorical analysis of Rom 1-3, and scholarly recognition of Matt 23's three-section structure. EGW explicitly connects John the Baptist to the first angel's message via the Elijah chain. Bohr expands this into a Three Elijahs framework.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "First angel's message — gospel call, fear God, judgment hour",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:8",
+      "reason": "Second angel's message — Babylon is fallen",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:9-11",
+      "reason": "Third angel's message — judgment warning against beast worship",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:12",
+      "reason": "Result clause — patience of saints, commandments, faith of Jesus",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 3:1-3",
+      "reason": "John the Baptist's gospel call — repent for kingdom is at hand",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 3:7-10",
+      "reason": "John exposes Pharisees/Sadducees — generation of vipers, axe at root",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 3:11-12",
+      "reason": "John's judgment warning — unquenchable fire, winnowing fork",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 3:7-14",
+      "reason": "Luke's expanded account of John's exposure and ethical demands",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 3:15-18",
+      "reason": "Luke's account of John's judgment warning and gospel preaching",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 23:1-12",
+      "reason": "Jesus warns against scribes and Pharisees — opening exposure",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 23:13-33",
+      "reason": "Seven woes — systematic exposure of false religious system",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 23:33-36",
+      "reason": "Judgment warning — how shall ye escape the damnation of gehenna",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 23:37-39",
+      "reason": "Judgment lament over Jerusalem — your house left desolate",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 7:2-8",
+      "reason": "Stephen's gospel history — Abraham called, covenant promise",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 7:9-16",
+      "reason": "Stephen — Joseph rejected then exalted, pattern of rejected savior",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 7:20-36",
+      "reason": "Stephen — Moses rejected by Israel then sent as deliverer",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 7:37-43",
+      "reason": "Stephen — Israel turned to idolatry despite Moses' ministry",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 7:44-50",
+      "reason": "Stephen — temple theology exposed, God does not dwell in handmade houses",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 7:51-53",
+      "reason": "Stephen's judgment indictment — stiff-necked, resist Holy Spirit, betray and murder the Just One",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:22-25",
+      "reason": "Paul at Athens — Creator God who made the world, does not dwell in temples",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:26-28",
+      "reason": "Paul at Athens — God's universal sovereignty over nations",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:29-31",
+      "reason": "Paul at Athens — idolatry exposed (v.29), judgment announced (v.31), repentance commanded (v.30)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:16-17",
+      "reason": "Gospel declaration — power of God unto salvation, righteousness revealed",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:18-25",
+      "reason": "Gentile corruption exposed — knew God but glorified him not, idolatry",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 1:26-32",
+      "reason": "Consequences of false worship — God gave them up",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 2:1-11",
+      "reason": "Jewish hypocrisy exposed — thou that judgest doest the same things",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 2:12-16",
+      "reason": "Judgment according to gospel — God judges secrets by Jesus Christ according to my gospel",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 3:9-20",
+      "reason": "Universal judgment — all under sin, every mouth stopped",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Thess 1:9-10",
+      "reason": "Compressed three-part pattern — turned to God, turned FROM idols, await coming wrath",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 24:24-25",
+      "reason": "Paul before Felix — reasoned of righteousness, temperance, judgment to come",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 4:17",
+      "reason": "Jesus' gospel call — repent for the kingdom of heaven is at hand",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mark 1:14-15",
+      "reason": "Jesus' gospel summary — the time is fulfilled, repent and believe",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 3:18-20",
+      "reason": "John reproves Herod — exposure element extended to political corruption",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 11:7-14",
+      "reason": "Jesus identifies John as Elijah who was to come",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Mal 4:5-6",
+      "reason": "OT Elijah prophecy — links to both John and end-time ministry, the typological backbone of the three Elijahs framework",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 40:3",
+      "reason": "Prophecy of the forerunner — voice crying in wilderness, applied to John in all four Gospels",
+      "tier": "primary"
+    },
+    {
+      "ref": "Luke 1:15-17",
+      "reason": "Angel's prophecy about John — go before in spirit and power of Elijah",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 12:41",
+      "reason": "Jesus cites Nineveh's repentance as judgment against Israel",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 2:14-40",
+      "reason": "Peter's Pentecost sermon — potential three-part pattern",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 3:12-26",
+      "reason": "Peter's temple sermon — gospel, exposure of denial, judgment warning",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 13:16-41",
+      "reason": "Paul at Antioch — gospel history, Israel's rejection, judgment warning",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Cor 15:1-4",
+      "reason": "Paul's kerygma summary — the gospel defined",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 Cor 15:11",
+      "reason": "Paul claims continuity with apostolic kerygma",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Thess 2:3-4",
+      "reason": "Man of sin revealed — future apostasy before judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eccl 12:13-14",
+      "reason": "OT structural match — fear God, keep commandments, judgment — exact parallel to Rev 14:7,12",
+      "tier": "primary"
+    },
+    {
+      "ref": "Isa 52:7",
+      "reason": "Basar/euangelizo bridge — good tidings proclaimed in context of deliverance FROM Babylon (Isa 52:11)",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 10:15",
+      "reason": "Paul quotes Isa 52:7 as gospel — the preaching-judgment connection",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 7:9-10",
+      "reason": "OT judgment scene — Ancient of Days, books opened",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 8:17",
+      "reason": "Daniel's prophecies sealed until time of the end",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 12:4",
+      "reason": "Sealed book — prophetic knowledge reserved for final period",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 24:14",
+      "reason": "Gospel of the kingdom preached to all nations, then the end",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Acts 10:42",
+      "reason": "Peter — ordained to be Judge of living and dead",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Cor 5:10",
+      "reason": "Judgment seat of Christ — all must appear",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "John the Baptist's three-part ministry pattern",
+      "what": "Determine whether John the Baptist's preaching contains all three elements: gospel call, exposure of false system, judgment warning",
+      "why": "John is the explicit NT forerunner and the second Elijah (Matt 11:14, Luke 1:17). If his ministry contains the three-part pattern, it establishes continuity from OT Elijah through to the end-time Elijah of Rev 14",
+      "how": "Retrieve full text of Matt 3:1-12, Luke 3:1-20. Parse key Greek terms. Map each section to the three-angel elements.",
+      "narrative": "Retrieve the full texts of Matt 3:1-12 and Luke 3:1-20 with chapter context. Run greek_parser.py on Matt 3:2, 3:7, 3:10, 3:12 to parse key terms: metanoeo (G3340), gennemata echidnon (offspring of vipers), axine (G513, axe), pyr asbestos (G762, unquenchable fire). Check whether John's preaching naturally divides into three movements: (1) gospel call — 'Repent, for the kingdom of heaven is at hand' (Matt 3:2); (2) exposure — 'generation of vipers,' denunciation of presuming on Abrahamic descent (3:7-9), reproof of Herod (Luke 3:19-20); (3) judgment warning — 'axe laid to the root' (3:10), 'unquenchable fire' (3:12). READ $WORD_STUDIES/G3340-metanoeo.md and $WORD_STUDIES/G3341-metanoia.md. Run cross_testament_parallels_v2.py on Matt 3:10 and Matt 3:12 to find OT judgment parallels. Check whether Luke 3:18 explicitly labels all of this as 'euangelizo' — if so, John's entire message including judgment warning is called gospel, paralleling Rev 14:6.",
+      "verses": [
+        "Matt 3:1-3",
+        "Matt 3:7-10",
+        "Matt 3:11-12",
+        "Luke 3:7-14",
+        "Luke 3:15-18",
+        "Luke 3:18-20",
+        "Mal 4:5-6",
+        "Luke 1:15-17"
+      ],
+      "strongs": [
+        "G3340",
+        "G3341",
+        "G2097",
+        "G513",
+        "G762",
+        "G4442"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Jesus' Matthew 23 discourse as three-part pattern",
+      "what": "Determine whether Jesus' denunciation in Matthew 23 follows gospel call → exposure → judgment warning",
+      "why": "Matthew 23 is Jesus' most sustained exposure of the false religious system. If it follows the three-part pattern, it shows Jesus himself delivering the same message type as the three angels",
+      "how": "Retrieve full text of Matt 23. Parse key Greek terms in the woes. Map the three sections to the three-angel elements.",
+      "narrative": "Retrieve the full text of Matthew 23 with chapter context (also Matt 24:1-3 for the transition to Olivet Discourse). The chapter divides into three sections: (1) warning about scribes/Pharisees (vv.1-12) — initial address to the disciples and people; (2) seven woes (vv.13-33) — systematic exposure of hypocrisy, a 'what' vs 'whom' problem (see Parsons on Acts 17); (3) judgment warning (vv.33-39) — 'how shall ye escape the damnation of gehenna' (v.33), blood guilt (vv.34-36), desolation lament (vv.37-39). Run greek_parser.py on Matt 23:13 (ouai/woe), 23:33 (krisis/judgment, geenna), 23:38 (eremos/desolate). READ $WORD_STUDIES/G2920-krisis.md for the judgment vocabulary. Investigate whether Matt 23-25 as a unit forms a macro three-part pattern: exposure (ch.23) → judgment signs (ch.24) → judgment execution parables (ch.25). Run cross_testament_parallels_v2.py on Matt 23:33 and 23:37 to find OT connections (Jer 7:34, Deut 32 links).",
+      "verses": [
+        "Matt 23:1-12",
+        "Matt 23:13-33",
+        "Matt 23:33-36",
+        "Matt 23:37-39"
+      ],
+      "strongs": [
+        "G3759",
+        "G2920",
+        "G1067",
+        "G2048",
+        "G5273"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Stephen's speech as prophetic covenant lawsuit",
+      "what": "Determine whether Acts 7 follows the three-part pattern: gospel history → exposure of false system → judgment indictment",
+      "why": "Stephen's speech is the longest recorded sermon in Acts and follows an OT prophetic-confrontation pattern. If it maps to the three-angel structure, it shows the pattern operating in apostolic preaching to a Jewish audience",
+      "how": "Retrieve full text of Acts 7. Parse key Greek terms in the indictment. Map the speech's structure to the three-angel elements.",
+      "narrative": "Retrieve the full text of Acts 7 (especially vv.2-53). Toussaint identifies three thematic cords: (1) God's program shows progress; (2) blessings transcend geography; (3) Israel consistently opposed God's messengers. Map these to: gospel history (vv.2-43 — God's faithfulness from Abraham through Moses), exposure of false system (vv.44-50 — temple theology exposed: 'the Most High dwelleth not in temples made with hands'), judgment indictment (vv.51-53 — 'ye stiff-necked and uncircumcised in heart and ears'). Run greek_parser.py on Acts 7:51 to parse sklerotrochelos (stiff-necked), antipiptete (resist), and Acts 7:52 (dikaios/Just One). Check whether 'stiff-necked' (sklerotrochelos, G4644) echoes Deut 9:6 LXX — if so, Stephen is invoking the covenant lawsuit tradition (riyb pattern) documented in 3am-02. READ $WORD_STUDIES/H7378-riyb.md and the TR-riyb-krisis translation relationship. Hodges argues the Joseph-Moses rejection typology is the unifying theme — verify whether the rejected-then-exalted pattern parallels the gospel element. Run cross_testament_parallels_v2.py on Acts 7:51.",
+      "verses": [
+        "Acts 7:2-8",
+        "Acts 7:9-16",
+        "Acts 7:20-36",
+        "Acts 7:37-43",
+        "Acts 7:44-50",
+        "Acts 7:51-53"
+      ],
+      "strongs": [
+        "G4644",
+        "G496",
+        "G4151",
+        "G1342",
+        "G5406",
+        "G4396"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Paul at Athens — chiastic sermon with three-part pattern",
+      "what": "Determine whether Acts 17:22-31 follows gospel call → exposure of idolatry → judgment warning, potentially in chiastic form",
+      "why": "gsp-10 already proved element-by-element correspondence with Rev 14:6-7. This study must go deeper: analyze the chiastic structure Parsons identifies, check Greek temporal markers, and compare Paul's methodology with the other NT instances",
+      "how": "Retrieve full text of Acts 17:16-34. Parse key Greek terms. Test chiastic structure hypothesis. Compare with Rev 14:6-7 element by element.",
+      "narrative": "Retrieve the full text of Acts 17:16-34 with context. Parsons identifies a chiasm: A (ignorance, vv.22-23) / B (Creator, vv.24-25) / C (humanity-God, vv.26-28) / B' (idols exposed, v.29) / A' (judgment, vv.30-31). Run greek_parser.py on Acts 17:23 (agnostos/unknown God), 17:24 (kosmos/world, poiesas/made), 17:29 (theion/Godhead), 17:30 (hupereidon/overlooked, metanoein/repent), 17:31 (estesen hemeran/appointed a day, krinen/judge, anastesas/raised). READ $WORD_STUDIES/G3340-metanoeo.md, $WORD_STUDIES/G2920-krisis.md, $WORD_STUDIES/G2316-theos.md. The critical parallel with Rev 14:6-7 is: Creator worship (17:24 ~ Rev 14:7 'made heaven and earth'), universal scope (17:26,30 ~ Rev 14:6 'every nation'), judgment announcement (17:31 ~ Rev 14:7 'the hour of his judgment'). Check the Greek tense of 'estesen' (aorist) vs Rev 14:7 'elthen' — this is key to Andrews' anticipation-vs-announcement distinction. Run cross_testament_parallels_v2.py on Acts 17:31 for both OT and NT parallels.",
+      "verses": [
+        "Acts 17:22-25",
+        "Acts 17:26-28",
+        "Acts 17:29-31"
+      ],
+      "strongs": [
+        "G57",
+        "G2889",
+        "G4160",
+        "G5237",
+        "G3340",
+        "G2919",
+        "G2250",
+        "G450"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Paul's Romans 1-3 as gospel-exposure-judgment progression",
+      "what": "Determine whether Romans 1:16-3:20 follows gospel declaration → exposure of Gentile/Jewish corruption → universal judgment verdict",
+      "why": "Romans is Paul's most systematic theological statement. If his argument follows the three-part pattern, it shows the pattern is not just a preaching convention but a theological structure",
+      "how": "Retrieve full text of Rom 1:16-3:26. Parse key Greek terms. Map the argument's progression to the three-angel elements.",
+      "narrative": "Retrieve the full text of Rom 1:16-3:26 with chapter context. The traditional reading identifies a progressive structure: gospel declaration (1:16-17 — 'power of God unto salvation'), Gentile corruption exposed (1:18-32 — 'knew God, glorified him not as God, changed the truth into a lie'), Jewish corruption exposed (2:1-29 — 'thou that judgest doest the same things'), universal judgment verdict (3:9-20 — 'all the world guilty before God'). Run greek_parser.py on Rom 1:16 (dynamis/power, euangelion), 1:18 (orge/wrath, apokalyptetai/revealed), 1:25 (esebasthesan/worshipped, creature/ktisis), 2:16 (kata to euangelion mou/according to my gospel), 3:19 (hupodikos/under judgment). READ $WORD_STUDIES/G2098-euangelion.md, $WORD_STUDIES/G3709-orge.md, $WORD_STUDIES/G2920-krisis.md. The critical verse is Rom 2:16 — Paul explicitly ties judgment to 'my gospel' (kata to euangelion mou), proving judgment is not separate from gospel but integral to it. This parallels Rev 14:6 where the judgment announcement IS the everlasting gospel. Campbell's prosopopoeia theory does not negate the structural parallel — even if 1:18-32 is speech-in-character, the three-part movement remains. Run cross_testament_parallels_v2.py on Rom 2:16.",
+      "verses": [
+        "Rom 1:16-17",
+        "Rom 1:18-25",
+        "Rom 1:26-32",
+        "Rom 2:1-11",
+        "Rom 2:12-16",
+        "Rom 3:9-20"
+      ],
+      "strongs": [
+        "G2098",
+        "G1411",
+        "G3709",
+        "G601",
+        "G2937",
+        "G4352",
+        "G5228"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Pattern synthesis — structural correspondence across all five episodes",
+      "what": "Map each NT episode to the three-angel structure and identify the consistent elements and audience-specific adaptations",
+      "why": "The study's thesis requires showing that these are not just vaguely similar sermons but instances of the SAME structural pattern adapted to different audiences",
+      "how": "Build a comparison matrix. Identify the gospel element, exposure element, and judgment element in each episode. Note how the exposure adapts to audience.",
+      "narrative": "After gathering data on all five episodes (John the Baptist, Jesus' Matt 23, Stephen, Paul at Athens, Paul in Romans), build a synthesis comparing how each instance maps to the three-angel pattern. The Love in Truth academic thesis identifies four consistent elements across apostolic sermons: (1) core gospel facts proclaimed, (2) error/sin exposed — preachers 'unfailingly identify the main source of their opposition,' (3) call to response, (4) eschatological warning. Note how the EXPOSURE element adapts to audience while maintaining the same structural position: John exposes Pharisaic presumption, Jesus exposes scribal hypocrisy, Stephen exposes temple theology and prophet-rejection, Paul exposes Athenian idolatry, Romans exposes both Gentile and Jewish corruption. In every case the exposure targets the specific false system the audience is entrapped in — paralleling the second angel targeting 'Babylon' (the false system of the hearer's context). READ the 3am-02 CONCLUSION.md comparison matrix for the OT episodes to model the format. The synthesis should also note additional NT instances: Peter at Pentecost (Acts 2), Paul at Antioch (Acts 13), Paul before Felix (Acts 24:25), 1 Thess 1:9-10.",
+      "verses": [
+        "Rev 14:6-7",
+        "Rev 14:8",
+        "Rev 14:9-11",
+        "1 Thess 1:9-10",
+        "Acts 24:24-25",
+        "Acts 2:14-40",
+        "Acts 13:16-41"
+      ],
+      "strongs": [
+        "G2097",
+        "G2098",
+        "G2920",
+        "G3709",
+        "G2372"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Anticipation vs. announcement — the temporal distinction",
+      "what": "Determine whether NT preachers anticipated judgment without announcing its arrival, while the first angel announces 'the hour of his judgment IS come'",
+      "why": "Andrews (1892) argues this is the key distinction between NT pattern instances and the Rev 14 fulfillment. If correct, the NT provides the PATTERN while Rev 14 is the FULFILLMENT — preserving the uniqueness of the three angels' messages while showing their continuity with NT preaching",
+      "how": "Compare Greek tenses across judgment announcement texts. Check Daniel's sealed-prophecy passages. Analyze the temporal markers.",
+      "narrative": "The critical comparison is between the Greek tenses in the NT judgment announcements and Rev 14:7. Run greek_parser.py on Acts 17:31 (estesen hemeran — aorist 'appointed a day'), Acts 24:25 (krima to mellon — 'the judgment to come,' future participle), and Rev 14:7 (elthen he hora tes kriseos autou — 'the hour of his judgment IS come,' aorist). Andrews argues that NT speakers preached judgment as future/anticipated while the first angel announces it as arrived. Also check 2 Thess 2:3 where Paul explicitly warns the day of Christ is NOT yet come until the apostasy is revealed — showing apostolic awareness that the final judgment was reserved for a future period. READ $WORD_STUDIES/G2920-krisis.md and $WORD_STUDIES/G2250-hemera.md for the day/judgment vocabulary. Check Dan 8:17 and 12:4,9 (sealed until time of the end) — these explain WHY the specific judgment-hour announcement could not be made until the appointed time. Run cross_testament_parallels_v2.py on Rev 14:7 to find parallel judgment announcements. This focus area provides the interpretive framework: the NT instances are pattern, Rev 14 is fulfillment.",
+      "verses": [
+        "Acts 17:31",
+        "Acts 24:24-25",
+        "Rev 14:7",
+        "2 Thess 2:3-4",
+        "Dan 8:17",
+        "Dan 12:4"
+      ],
+      "strongs": [
+        "G2920",
+        "G2250",
+        "G5610",
+        "G2064",
+        "G3195",
+        "G2476"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Dodd's kerygma and the three-angel structure",
+      "what": "Determine whether Dodd's six-element kerygma (prophecy fulfillment, historical facts, exaltation, Spirit evidence, future consummation, repentance call) maps onto the three-part pattern",
+      "why": "Dodd's kerygma analysis is the foundational scholarly treatment of apostolic preaching structure. If his six elements can be grouped into the three-angel pattern, it provides academic validation of the study's thesis",
+      "how": "Map each of Dodd's six elements to the three-angel framework. Test against Peter's Pentecost sermon and Paul's Thessalonian preaching summary.",
+      "narrative": "Dodd identifies six principal components in Peter's speeches (Acts 2, 3, 10): (1) prophecy fulfillment, (2) Jesus' ministry/death/resurrection, (3) exaltation, (4) Holy Spirit evidence, (5) future consummation/judgment, (6) call to repentance. These can potentially be grouped as: Gospel (elements 1-4: the good news of what God has done), Exposure (implicit — the contrast between God's saving acts and the hearers' rejection/ignorance), Judgment (elements 5-6: consummation + repentance because judgment comes). Retrieve Acts 2:14-40 and check whether Peter's sermon follows this grouping: gospel proclamation (vv.14-36), exposure ('ye have taken and by wicked hands crucified,' v.23; 'whom ye have crucified,' v.36), judgment/repentance call (vv.37-40 — 'save yourselves from this untoward generation'). Also check 1 Cor 15:1-4 and 15:11 where Paul summarizes the kerygma and claims apostolic continuity. READ $WORD_STUDIES/G2782-kerygma.md for the proclamation vocabulary. Run greek_parser.py on Acts 2:36 and 2:38.",
+      "verses": [
+        "Acts 2:14-40",
+        "Acts 3:12-26",
+        "Acts 10:42",
+        "1 Cor 15:1-4",
+        "1 Cor 15:11"
+      ],
+      "strongs": [
+        "G2782",
+        "G2784",
+        "G2097",
+        "G3340",
+        "G450"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Elijah chain — three messengers delivering the same message type",
+      "what": "Trace the Elijah-John-end-time chain and determine whether all three deliver the same three-part pattern",
+      "why": "EGW and Bohr both argue for a Three Elijahs framework (historical Elijah, John the Baptist, end-time movement). If all three deliver the same structural pattern, it provides a typological backbone for the entire 3AM series",
+      "how": "Compare Elijah at Carmel, John the Baptist, and the three angels for structural correspondence. Use the OT data from 3am-02.",
+      "narrative": "The Elijah chain is prophesied in Mal 4:5-6 and applied to John the Baptist in Matt 11:14, 17:12-13, and Luke 1:17 ('in the spirit and power of Elijah'). EGW explicitly connects the chain: 'As John the Baptist, in preparing a people for Christ's first advent, called their attention to the Ten Commandments, so we are to give the message: Fear God, and give glory to him; for the hour of his judgment is come' (Mar 22.6). The 3am-02 study already documented the Elijah-at-Carmel pattern: gospel/worship call (1 Ki 18:21 — 'choose ye this day'), exposure (1 Ki 18:27 — mockery of Baal), judgment (1 Ki 18:38-40 — fire from heaven). Compare this with John: gospel call (Matt 3:2), exposure (Matt 3:7-9), judgment (Matt 3:10-12). And with the three angels: gospel (Rev 14:6-7), exposure (Rev 14:8), judgment (Rev 14:9-11). READ $WORD_STUDIES/G2097-euangelizo.md and the TR-basar-euangelizo translation relationship to trace the gospel-preaching vocabulary from OT to NT. Also read the TR-yare-phobeo relationship for the 'fear God' vocabulary. Run greek_parser.py on Luke 1:17 (en pneumati kai dynamei Heliou).",
+      "verses": [
+        "Mal 4:5-6",
+        "Matt 11:7-14",
+        "Luke 1:15-17",
+        "Matt 3:1-12",
+        "Rev 14:6-12"
+      ],
+      "strongs": [
+        "G2243",
+        "G1411",
+        "G4151",
+        "G5399",
+        "G2097"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The exposure element as audience-adapted second angel",
+      "what": "Analyze how the exposure/indictment element adapts to each audience while maintaining the same structural position",
+      "why": "The second angel's message ('Babylon is fallen') exposes a false system. If the NT exposure element consistently targets the specific false system entrapping each audience, it shows Babylon is a PATTERN — not just historical Babylon but any system that replaces true worship with false",
+      "how": "Compare what each NT preacher exposes: John (Pharisaic presumption), Jesus (scribal hypocrisy), Stephen (temple theology), Paul (Athenian idolatry), Romans (universal corruption). Identify the common thread.",
+      "narrative": "The second angel announces 'Babylon is fallen' — the collapse of the false system. In each NT episode, the preacher exposes a different manifestation of the same problem: John exposes the Pharisees' presumption of Abrahamic safety (Matt 3:9 — 'think not to say, We have Abraham to our father'), Jesus exposes scribal hypocrisy with seven woes (Matt 23:13-33), Stephen exposes temple theology as limiting the God who 'dwelleth not in temples made with hands' (Acts 7:48) and Israel's pattern of rejecting God's messengers (7:51-52), Paul exposes Athenian idolatry — worshipping 'a what, not a whom' (Acts 17:29), Romans exposes both Gentile idolatry (1:23 — 'changed the glory into an image') and Jewish hypocrisy (2:1 — 'thou that judgest doest the same'). Run greek_parser.py on Matt 3:9 (dokeo/think, patros/father), Acts 7:48 (cheiropoietos/handmade), Acts 17:29 (theion/divine, charagma/graven art), Rom 1:23 (eikon/image, phthartou/corruptible). READ $WORD_STUDIES/G1497-eidolon.md for the idolatry vocabulary. The common thread is exposure of FALSE SECURITY — each audience has a system they trust instead of God. This is what 'Babylon' represents across dispensations.",
+      "verses": [
+        "Matt 3:7-9",
+        "Matt 23:13-33",
+        "Acts 7:44-50",
+        "Acts 17:29",
+        "Rom 1:22-25",
+        "Rom 2:1-5",
+        "Rev 14:8"
+      ],
+      "strongs": [
+        "G1497",
+        "G5273",
+        "G5499",
+        "G1504",
+        "G5351"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G2097",
+      "word": "euangelizo",
+      "reason": "Core verb — 'preach the gospel.' Used in Rev 14:6 and Luke 3:18 (John the Baptist's preaching labeled gospel). Bridges OT basar."
+    },
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "reason": "The noun 'gospel' — used in Rev 14:6 (euangelion aionion), Rom 1:16 (gospel is power of God), Rom 2:16 (according to my gospel)"
+    },
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "Central judgment term — used in Rev 14:7 (hora tes kriseos), Matt 23:33, Acts 7:7 (LXX krino). Bridges OT riyb/mishpat."
+    },
+    {
+      "strongs": "G2919",
+      "word": "krino",
+      "reason": "Verb 'to judge' — Acts 17:31 (krinen ten oikoumenen), Rom 2:16 (God judges secrets), Rom 3:6"
+    },
+    {
+      "strongs": "G3340",
+      "word": "metanoeo",
+      "reason": "Repent — central to every NT preaching instance: Matt 3:2 (John), Matt 4:17 (Jesus), Acts 2:38 (Peter), Acts 17:30 (Paul)"
+    },
+    {
+      "strongs": "G3709",
+      "word": "orge",
+      "reason": "Wrath — Rom 1:18 (orge theou), 1 Thess 1:10 (orge tes erchomenes). Bridges H639/H2534."
+    },
+    {
+      "strongs": "G2372",
+      "word": "thumos",
+      "reason": "Fury/wrath — Rev 14:10 (thumos tou theou). Bridges OT chemah. Key to the third angel's judgment warning."
+    },
+    {
+      "strongs": "G4352",
+      "word": "proskyneo",
+      "reason": "Worship — Rev 14:7 (proskynesate), Rev 14:9, 14:11. Bridges OT shachah. The worship-vs-false-worship polarity."
+    },
+    {
+      "strongs": "G5399",
+      "word": "phobeo",
+      "reason": "Fear — Rev 14:7 (phobethete ton theon). Central to the first angel's call. Bridges OT yare."
+    },
+    {
+      "strongs": "G2784",
+      "word": "kerysso",
+      "reason": "Proclaim/preach — Matt 3:1 (John kerysso), Mark 1:14 (Jesus kerysso), Acts 20:25 (Paul kerysso). The standard preaching verb."
+    },
+    {
+      "strongs": "G2782",
+      "word": "kerygma",
+      "reason": "Proclamation — the noun form. Dodd's entire analysis revolves around reconstructing the kerygma. 1 Cor 1:21, 15:14."
+    },
+    {
+      "strongs": "G1484",
+      "word": "ethnos",
+      "reason": "Nation — Rev 14:6 (panti ethnei), Acts 17:26 (made of one blood all nations), Rom 1:5 (obedience among all nations)"
+    },
+    {
+      "strongs": "G1497",
+      "word": "eidolon",
+      "reason": "Idol — 1 Thess 1:9 (turned from eidola), Acts 7:41 (made a calf), Acts 17:16 (city full of eidola). The exposure object."
+    },
+    {
+      "strongs": "G4098",
+      "word": "pipto",
+      "reason": "Fall — Rev 14:8 (epesen Babylon). The verb of Babylon's collapse. Does it appear in judgment contexts in Acts/Romans?"
+    },
+    {
+      "strongs": "G3759",
+      "word": "ouai",
+      "reason": "Woe — Matt 23:13ff (seven woes). The prophetic denunciation formula. Also Rev 8:13, 9:12."
+    },
+    {
+      "strongs": "G166",
+      "word": "aionios",
+      "reason": "Eternal/everlasting — Rev 14:6 (euangelion aionion). The gospel is not new but eternal."
+    },
+    {
+      "strongs": "G1831",
+      "word": "exerchomai",
+      "reason": "Come out — Rev 18:4 (exelthate ex autes). Bridges OT yatsa. The separation-from-Babylon call."
+    },
+    {
+      "strongs": "G1391",
+      "word": "doxa",
+      "reason": "Glory — Rev 14:7 (dote auto doxan). Rom 1:23 (changed the glory of the incorruptible God). Glory given/exchanged."
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Matt 3:2",
+      "reason": "Parse metanoeite (imperative mood) — is it aorist or present? And eggiken (perfect tense of 'draw near')"
+    },
+    {
+      "verse": "Matt 3:10",
+      "reason": "Parse ede/already, keitai/laid — present indicative showing immediacy of judgment"
+    },
+    {
+      "verse": "Acts 7:51",
+      "reason": "Parse sklerotrochelos (hapax), antipiptete (present tense — ongoing resistance), check Deut 9:6 LXX parallel"
+    },
+    {
+      "verse": "Acts 17:30-31",
+      "reason": "Parse hupereidon (aorist — God overlooked) vs paraggellei (present — now commands) vs estesen (aorist — appointed). Temporal shift is key."
+    },
+    {
+      "verse": "Rom 1:18",
+      "reason": "Parse apokalyptetai (present passive — wrath is being revealed) and katechonton (present participle — who suppress)"
+    },
+    {
+      "verse": "Rom 2:16",
+      "reason": "Parse krinei (future — God shall judge) and kata to euangelion mou (according to my gospel) — this links judgment to gospel"
+    },
+    {
+      "verse": "Rev 14:7",
+      "reason": "Parse elthen (aorist — IS come) vs the future tenses in Acts 17:31 and Acts 24:25 — the temporal distinction"
+    },
+    {
+      "verse": "Luke 3:18",
+      "reason": "Parse euengelizeto (imperfect — was continually preaching good news) — labels John's entire message including judgment as gospel"
+    },
+    {
+      "verse": "1 Thess 1:9-10",
+      "reason": "Parse epestrepsate (aorist — turned), douleuein (present inf — to serve), anamenein (present inf — to await) — three temporal layers"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Matt 3:10",
+      "reason": "OT parallels for 'axe laid to the root' judgment language"
+    },
+    {
+      "verse": "Matt 23:37",
+      "reason": "OT parallels for Jerusalem judgment lament"
+    },
+    {
+      "verse": "Acts 7:51",
+      "reason": "OT parallels for 'stiff-necked, uncircumcised, resist Holy Spirit'"
+    },
+    {
+      "verse": "Acts 17:31",
+      "reason": "OT and NT parallels for 'appointed a day to judge the world'"
+    },
+    {
+      "verse": "Rom 2:16",
+      "reason": "NT parallels for judgment as integral to gospel"
+    },
+    {
+      "verse": "Rev 14:7",
+      "reason": "Both OT and NT parallels for 'the hour of his judgment is come'"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G2097-euangelizo.md",
+        "description": "euangelizo (preach the gospel), G2097"
+      },
+      {
+        "path": "$WORD_STUDIES/G2098-euangelion.md",
+        "description": "euangelion (gospel), G2098"
+      },
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment), G2920"
+      },
+      {
+        "path": "$WORD_STUDIES/G2919-krino.md",
+        "description": "krino (to judge), G2919"
+      },
+      {
+        "path": "$WORD_STUDIES/G2917-krima.md",
+        "description": "krima (judgment verdict), G2917"
+      },
+      {
+        "path": "$WORD_STUDIES/G3340-metanoeo.md",
+        "description": "metanoeo (repent), G3340"
+      },
+      {
+        "path": "$WORD_STUDIES/G3341-metanoia.md",
+        "description": "metanoia (repentance), G3341"
+      },
+      {
+        "path": "$WORD_STUDIES/G3709-orge.md",
+        "description": "orge (wrath), G3709"
+      },
+      {
+        "path": "$WORD_STUDIES/G2372-thumos.md",
+        "description": "thumos (fury/wrath), G2372"
+      },
+      {
+        "path": "$WORD_STUDIES/G4352-proskyneo.md",
+        "description": "proskyneo (worship), G4352"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (fear), G5399"
+      },
+      {
+        "path": "$WORD_STUDIES/G2784-kerysso.md",
+        "description": "kerysso (proclaim/preach), G2784"
+      },
+      {
+        "path": "$WORD_STUDIES/G2782-kerygma.md",
+        "description": "kerygma (proclamation), G2782"
+      },
+      {
+        "path": "$WORD_STUDIES/G1484-ethnos.md",
+        "description": "ethnos (nation), G1484"
+      },
+      {
+        "path": "$WORD_STUDIES/G1497-eidolon.md",
+        "description": "eidolon (idol), G1497"
+      },
+      {
+        "path": "$WORD_STUDIES/G4098-pipto.md",
+        "description": "pipto (fall), G4098"
+      },
+      {
+        "path": "$WORD_STUDIES/G166-aionios.md",
+        "description": "aionios (eternal), G166"
+      },
+      {
+        "path": "$WORD_STUDIES/G1831-exerchomai.md",
+        "description": "exerchomai (come out), G1831"
+      },
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory), G1391"
+      },
+      {
+        "path": "$WORD_STUDIES/G1392-doxazo.md",
+        "description": "doxazo (glorify), G1392"
+      },
+      {
+        "path": "$WORD_STUDIES/G2316-theos.md",
+        "description": "theos (God), G2316"
+      },
+      {
+        "path": "$WORD_STUDIES/G4102-pistis.md",
+        "description": "pistis (faith), G4102"
+      },
+      {
+        "path": "$WORD_STUDIES/G4151-pneuma.md",
+        "description": "pneuma (spirit), G4151"
+      },
+      {
+        "path": "$WORD_STUDIES/G2962-kyrios.md",
+        "description": "kyrios (Lord), G2962"
+      },
+      {
+        "path": "$WORD_STUDIES/G2889-kosmos.md",
+        "description": "kosmos (world), G2889"
+      },
+      {
+        "path": "$WORD_STUDIES/G2250-hemera.md",
+        "description": "hemera (day), G2250"
+      },
+      {
+        "path": "$WORD_STUDIES/G2631-katakrima.md",
+        "description": "katakrima (condemnation), G2631"
+      },
+      {
+        "path": "$WORD_STUDIES/G2632-katakrino.md",
+        "description": "katakrino (condemn), G2632"
+      },
+      {
+        "path": "$WORD_STUDIES/G1411-dynamis.md",
+        "description": "dynamis (power), G1411"
+      },
+      {
+        "path": "$WORD_STUDIES/G4160-poieo.md",
+        "description": "poieo (make/do), G4160"
+      },
+      {
+        "path": "$WORD_STUDIES/G4283-proeuangelizomai.md",
+        "description": "proeuangelizomai (preach beforehand), G4283"
+      },
+      {
+        "path": "$WORD_STUDIES/G266-hamartia.md",
+        "description": "hamartia (sin), G266"
+      },
+      {
+        "path": "$WORD_STUDIES/G1343-dikaiosyne.md",
+        "description": "dikaiosyne (righteousness), G1343"
+      },
+      {
+        "path": "$WORD_STUDIES/G932-basileia.md",
+        "description": "basileia (kingdom), G932"
+      },
+      {
+        "path": "$WORD_STUDIES/H7378-riyb.md",
+        "description": "riyb (covenant lawsuit), H7378"
+      },
+      {
+        "path": "$WORD_STUDIES/H2534-chemah.md",
+        "description": "chemah (fury/wrath), H2534"
+      },
+      {
+        "path": "$WORD_STUDIES/H3318-yatsa.md",
+        "description": "yatsa (go out), H3318"
+      },
+      {
+        "path": "$WORD_STUDIES/H7812-shachah.md",
+        "description": "shachah (worship/bow down), H7812"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-riyb-krisis.md",
+        "description": "riyb→krisis translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shachah-proskyneo.md",
+        "description": "shachah→proskyneo translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-basar-euangelizo.md",
+        "description": "basar→euangelizo translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-chemah-thymos.md",
+        "description": "chemah→thumos translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-yare-phobeo.md",
+        "description": "yare→phobeo translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shaphat-krino.md",
+        "description": "shaphat→krino translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-mishpat-krima.md",
+        "description": "mishpat→krima translation relationship"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-judgment.md",
+        "description": "Word group: judgment vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-gospel.md",
+        "description": "Word group: gospel vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-worship.md",
+        "description": "Word group: worship vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-wrath.md",
+        "description": "Word group: wrath vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-repent.md",
+        "description": "Word group: repentance vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fear.md",
+        "description": "Word group: fear vocabulary"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-gentiles.md",
+        "description": "Word group: gentiles/nations vocabulary"
+      }
+    ],
+    "grammar_references": []
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G3759",
+      "word": "ouai",
+      "reason": "Woe — Jesus' prophetic denunciation formula in Matt 23. No canonical entry exists."
+    },
+    {
+      "strongs": "G5273",
+      "word": "hypokrites",
+      "reason": "Hypocrite — central to Jesus' exposure of false system in Matt 23. No canonical entry."
+    },
+    {
+      "strongs": "G4644",
+      "word": "sklerotrochelos",
+      "reason": "Stiff-necked — Stephen's prophetic indictment term in Acts 7:51. Hapax legomenon. No canonical entry."
+    },
+    {
+      "strongs": "G496",
+      "word": "antipipto",
+      "reason": "Resist — Acts 7:51 'ye do always resist the Holy Spirit.' No canonical entry."
+    },
+    {
+      "strongs": "G5610",
+      "word": "hora",
+      "reason": "Hour — Rev 14:7 'the hour of his judgment.' Temporal term critical to anticipation-vs-announcement. No canonical entry."
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "JOHN",
+      "subtopic": "The Baptist",
+      "verse_count": 45
+    },
+    {
+      "name": "REPENTANCE",
+      "subtopic": "GENERAL",
+      "verse_count": 80
+    },
+    {
+      "name": "PHARISEES",
+      "subtopic": "GENERAL",
+      "verse_count": 25
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 65
+    },
+    {
+      "name": "GOSPEL",
+      "subtopic": "GENERAL",
+      "verse_count": 50
+    },
+    {
+      "name": "PAUL",
+      "subtopic": "GENERAL",
+      "verse_count": 90
+    },
+    {
+      "name": "STEPHEN",
+      "subtopic": "GENERAL",
+      "verse_count": 8
+    },
+    {
+      "name": "PREACHING",
+      "subtopic": "GENERAL",
+      "verse_count": 30
+    },
+    {
+      "name": "IDOLATRY",
+      "subtopic": "WICKED PRACTICES",
+      "verse_count": 60
+    },
+    {
+      "name": "WORSHIP",
+      "subtopic": "GENERAL",
+      "verse_count": 35
+    },
+    {
+      "name": "PROPHETS",
+      "subtopic": "GENERAL",
+      "verse_count": 55
+    },
+    {
+      "name": "BABYLON",
+      "subtopic": "CITY OF",
+      "verse_count": 40
+    },
+    {
+      "name": "WRATH",
+      "subtopic": "GENERAL",
+      "verse_count": 15
+    },
+    {
+      "name": "SERMON",
+      "subtopic": "GENERAL",
+      "verse_count": 10
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "John the Baptist's ministry parallels the first angel's message — both called attention to the Ten Commandments, both operated in 'the spirit and power of Elijah,' both prepared for an advent (Mar 22.6)",
+      "directive": "Verify whether Matt 3:1-12 / Luke 3:1-18 contains all three elements (gospel call, exposure of false system, judgment warning). Check whether John explicitly references commandments."
+    },
+    {
+      "source": "EGW",
+      "claim": "John 'exposed popular delusions' and contrasted truth with 'false teachings of the rabbis' (15LtMs, Ms 27, 1900, par. 4)",
+      "directive": "Verify whether the Baptist's preaching in the Gospels includes a specific exposure element (second angel parallel) or only gospel + judgment"
+    },
+    {
+      "source": "EGW",
+      "claim": "Three Elijahs deliver the same type of message — historical Elijah, John, end-time people (TSDF 89.9)",
+      "directive": "Verify whether the Elijah pattern (worship call / expose false worship / judgment falls) is replicated in John's preaching and in Rev 14:6-12"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Three Elijahs framework — historical Elijah, NT Elijah, end-time Elijah all deliver the same mission (WJSNTC Lesson 17, p. 263)",
+      "directive": "Test whether the structural pattern (gospel/exposure/judgment) is consistently present in all three Elijah instances, or whether this is an over-schematization"
+    },
+    {
+      "source": "Bohr",
+      "claim": "Jesus' Matthew 23 woes follow the three-part pattern — 'scathing but loving rebuke' leading to judgment (GPDR Lesson 5, p. 57)",
+      "directive": "Verify whether Matt 23's three-section structure (warning / woes / lament-judgment) genuinely maps to the three-angel pattern or is forced"
+    },
+    {
+      "source": "Dodd",
+      "claim": "Six-element kerygma is consistent across Peter, Paul, and other speakers, with judgment integral as 'a function of the universal lordship of Christ'",
+      "directive": "Verify whether Acts 2:14-36, Acts 3:12-26, Acts 10:34-43 all contain the three-part pattern within the broader kerygma structure"
+    },
+    {
+      "source": "Parsons",
+      "claim": "Chiastic structure in Acts 17:22-31: A (ignorance) / B (Creator) / C (humanity-God) / B' (idols) / A' (judgment). Judgment as 'rhetorical turning point.'",
+      "directive": "Verify the chiastic structure in the Greek text. Does the A/A' frame (ignorance → judgment) parallel the three angels' movement from proclamation to judgment?"
+    },
+    {
+      "source": "Toussaint",
+      "claim": "Three thematic cords in Acts 7: God's progress, blessings beyond geography, Israel's consistent opposition to messengers",
+      "directive": "Verify against the text of Acts 7 whether these three cords map to gospel history / exposure / judgment"
+    },
+    {
+      "source": "Andrews",
+      "claim": "NT speakers preached judgment as future/anticipated; first angel announces it as arrived ('the hour of his judgment IS come'). Daniel's prophecies were sealed until 'time of the end.'",
+      "directive": "Check Greek tenses in Acts 17:31, Acts 24:25, and Rev 14:7 for temporal differences. Verify Dan 8:17, 12:4, 12:9 on sealed prophecy."
+    },
+    {
+      "source": "Campbell",
+      "claim": "Rom 1:18-3:20 uses prosopopoeia (speech-in-character) — Paul presents opponents' views, not his own",
+      "directive": "Regardless of rhetorical strategy, verify whether the three-part structure (gospel → exposure → judgment) remains in the text's surface structure"
+    },
+    {
+      "source": "Love in Truth thesis",
+      "claim": "All NT speakers 'unfailingly identify the main source of their hearers' opposition to Christ' — exposure adapts to audience while maintaining structural position",
+      "directive": "Verify whether the exposure element genuinely adapts (Pharisees for John/Jesus, Israel's history for Stephen, idolatry for Athens, Gentile/Jewish sin for Romans) while maintaining the three-part sequence"
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "Revelation 14 reference text",
+      "description": "The three angels' messages — the pattern being compared",
+      "refs": [
+        "Rev 14:6-7",
+        "Rev 14:8",
+        "Rev 14:9-11",
+        "Rev 14:12"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "John the Baptist episode",
+      "description": "John's preaching in Matthew and Luke",
+      "refs": [
+        "Matt 3:1-3",
+        "Matt 3:7-10",
+        "Matt 3:11-12",
+        "Luke 3:7-14",
+        "Luke 3:15-18"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Jesus' Matthew 23 discourse",
+      "description": "Woes against scribes and Pharisees",
+      "refs": [
+        "Matt 23:1-12",
+        "Matt 23:13-33",
+        "Matt 23:33-36",
+        "Matt 23:37-39"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Stephen's speech",
+      "description": "The longest sermon in Acts",
+      "refs": [
+        "Acts 7:2-8",
+        "Acts 7:9-16",
+        "Acts 7:20-36",
+        "Acts 7:37-43",
+        "Acts 7:44-50",
+        "Acts 7:51-53"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Paul at Athens",
+      "description": "The Areopagus sermon",
+      "refs": [
+        "Acts 17:22-25",
+        "Acts 17:26-28",
+        "Acts 17:29-31"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Paul to Rome",
+      "description": "Romans 1-3 progressive argument",
+      "refs": [
+        "Rom 1:16-17",
+        "Rom 1:18-25",
+        "Rom 1:26-32",
+        "Rom 2:1-11",
+        "Rom 2:12-16",
+        "Rom 3:9-20"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Compressed pattern texts",
+      "description": "Additional NT texts showing the three-part pattern in compressed form",
+      "refs": [
+        "1 Thess 1:9-10",
+        "Acts 24:24-25"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Supporting apostolic sermons",
+      "description": "Additional sermons for pattern comparison",
+      "refs": [
+        "Acts 2:14-40",
+        "Acts 3:12-26",
+        "Acts 13:16-41"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-20",
+    "Matt 3:1-17",
+    "Luke 3:1-22",
+    "Matt 23:1-39",
+    "Acts 7:1-60",
+    "Acts 17:16-34",
+    "Rom 1:1-32",
+    "Rom 2:1-29",
+    "Rom 3:1-31"
+  ],
+  "research_instructions": "This study examines five NT episodes for the three-part pattern (gospel call → expose false system → warn of judgment) that the three angels of Rev 14:6-12 also follow. The OT precedent is established in 3am-02. The key distinction from Andrews is anticipation vs. announcement: NT speakers preached judgment as coming; the first angel announces it has arrived.\n\nFor each episode, the research agent must: (1) retrieve the full text with chapter context, (2) identify the three elements and their boundaries, (3) parse key Greek terms, (4) run cross-testament parallels, (5) note audience-specific adaptations.\n\nDo NOT simply repeat findings from gsp-10 on Acts 17 — go deeper with parsing and chiastic analysis. The synthesis should produce a comparison matrix showing all five episodes plus Rev 14:6-12 side by side.\n\nSpecial attention to: Luke 3:18 where John's entire message (including judgment warning) is explicitly labeled euangelizo — this parallels Rev 14:6's euangelion aionion. Also Rom 2:16 where Paul ties judgment to 'my gospel.' These two verses are critical proof-texts that judgment IS gospel.\n\nVerify all external corpus leads against the biblical text. EGW and Bohr provide structural hypotheses to test; Scripture provides the evidence.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 53,
+    "primary_verses": 34,
+    "supporting_verses": 19,
+    "ot_verses": 4,
+    "nt_verses": 30,
+    "focus_area_count": 10,
+    "word_study_count": 18,
+    "parsing_count": 9,
+    "parallel_count": 6
+  }
+}

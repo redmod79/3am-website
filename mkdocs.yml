@@ -1,0 +1,256 @@
+site_name: "The Three Angels' Messages"
+site_description: A comprehensive 22-study biblical investigation of Revelation 14:6-12 examining every phrase, theological connection, and major objection using original-language analysis and tool-driven research.
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Studies:
+
+    # ── Arc 0 -- Foundation ──
+    - "Arc 0 -- Foundation":
+
+      - "00 -- Series Methodology":
+        - Conclusion: studies/3am-00-series-methodology/CONCLUSION.md
+        - Analysis: studies/3am-00-series-methodology/03-analysis.md
+        - Verses: studies/3am-00-series-methodology/02-verses.md
+        - Word Studies: studies/3am-00-series-methodology/04-word-studies.md
+        - Topics: studies/3am-00-series-methodology/01-topics.md
+        - Research Scope: studies/3am-00-series-methodology/PROMPT.md
+
+      - "01 -- Literary Context of Rev 14:6-12":
+        - Conclusion: studies/3am-01-literary-context-rev-14/CONCLUSION.md
+        - Analysis: studies/3am-01-literary-context-rev-14/03-analysis.md
+        - Verses: studies/3am-01-literary-context-rev-14/02-verses.md
+        - Word Studies: studies/3am-01-literary-context-rev-14/04-word-studies.md
+        - Topics: studies/3am-01-literary-context-rev-14/01-topics.md
+        - Research Scope: studies/3am-01-literary-context-rev-14/PROMPT.md
+
+      - "02 -- The Three Angels' Pattern in the OT":
+        - Conclusion: studies/3am-02-three-angels-in-ot/CONCLUSION.md
+        - Analysis: studies/3am-02-three-angels-in-ot/03-analysis.md
+        - Verses: studies/3am-02-three-angels-in-ot/02-verses.md
+        - Word Studies: studies/3am-02-three-angels-in-ot/04-word-studies.md
+        - Topics: studies/3am-02-three-angels-in-ot/01-topics.md
+        - Research Scope: studies/3am-02-three-angels-in-ot/PROMPT.md
+
+      - "03 -- The Three Angels' Pattern in the NT":
+        - Conclusion: studies/3am-03-three-angels-in-nt/CONCLUSION.md
+        - Analysis: studies/3am-03-three-angels-in-nt/03-analysis.md
+        - Verses: studies/3am-03-three-angels-in-nt/02-verses.md
+        - Word Studies: studies/3am-03-three-angels-in-nt/04-word-studies.md
+        - Topics: studies/3am-03-three-angels-in-nt/01-topics.md
+        - Research Scope: studies/3am-03-three-angels-in-nt/PROMPT.md
+
+    # ── Arc 1 -- The First Angel ──
+    - "Arc 1 -- The First Angel":
+
+      - "04 -- Everlasting Gospel":
+        - Conclusion: studies/3am-04-euangelion-aionion/CONCLUSION.md
+        - Analysis: studies/3am-04-euangelion-aionion/03-analysis.md
+        - Verses: studies/3am-04-euangelion-aionion/02-verses.md
+        - Word Studies: studies/3am-04-euangelion-aionion/04-word-studies.md
+        - Topics: studies/3am-04-euangelion-aionion/01-topics.md
+        - Research Scope: studies/3am-04-euangelion-aionion/PROMPT.md
+
+      - "05 -- Fear God":
+        - Conclusion: studies/3am-05-fear-god/CONCLUSION.md
+        - Analysis: studies/3am-05-fear-god/03-analysis.md
+        - Verses: studies/3am-05-fear-god/02-verses.md
+        - Word Studies: studies/3am-05-fear-god/04-word-studies.md
+        - Topics: studies/3am-05-fear-god/01-topics.md
+        - Research Scope: studies/3am-05-fear-god/PROMPT.md
+
+      - "06 -- Give Glory to Him":
+        - Conclusion: studies/3am-06-give-glory/CONCLUSION.md
+        - Analysis: studies/3am-06-give-glory/03-analysis.md
+        - Verses: studies/3am-06-give-glory/02-verses.md
+        - Word Studies: studies/3am-06-give-glory/04-word-studies.md
+        - Topics: studies/3am-06-give-glory/01-topics.md
+        - Research Scope: studies/3am-06-give-glory/PROMPT.md
+
+      - "07 -- The Hour of His Judgment Is Come":
+        - Conclusion: studies/3am-07-hour-of-judgment/CONCLUSION.md
+        - Analysis: studies/3am-07-hour-of-judgment/03-analysis.md
+        - Verses: studies/3am-07-hour-of-judgment/02-verses.md
+        - Word Studies: studies/3am-07-hour-of-judgment/04-word-studies.md
+        - Topics: studies/3am-07-hour-of-judgment/01-topics.md
+        - Research Scope: studies/3am-07-hour-of-judgment/PROMPT.md
+
+      - "08 -- Worship Him That Made":
+        - Conclusion: studies/3am-08-worship-the-creator/CONCLUSION.md
+        - Analysis: studies/3am-08-worship-the-creator/03-analysis.md
+        - Verses: studies/3am-08-worship-the-creator/02-verses.md
+        - Word Studies: studies/3am-08-worship-the-creator/04-word-studies.md
+        - Topics: studies/3am-08-worship-the-creator/01-topics.md
+        - Research Scope: studies/3am-08-worship-the-creator/PROMPT.md
+
+      - "09 -- The First Angel's Message Complete":
+        - Conclusion: studies/3am-09-first-angel-as-whole/CONCLUSION.md
+        - Analysis: studies/3am-09-first-angel-as-whole/03-analysis.md
+        - Verses: studies/3am-09-first-angel-as-whole/02-verses.md
+        - Word Studies: studies/3am-09-first-angel-as-whole/04-word-studies.md
+        - Topics: studies/3am-09-first-angel-as-whole/01-topics.md
+        - Research Scope: studies/3am-09-first-angel-as-whole/PROMPT.md
+
+    # ── Arc 2 -- The Second Angel ──
+    - "Arc 2 -- The Second Angel":
+
+      - "10 -- Babylon Is Fallen -- Identity":
+        - Conclusion: studies/3am-10-babylon-identity/CONCLUSION.md
+        - Analysis: studies/3am-10-babylon-identity/03-analysis.md
+        - Verses: studies/3am-10-babylon-identity/02-verses.md
+        - Word Studies: studies/3am-10-babylon-identity/04-word-studies.md
+        - Topics: studies/3am-10-babylon-identity/01-topics.md
+        - Research Scope: studies/3am-10-babylon-identity/PROMPT.md
+
+      - "11 -- The Wine of Babylon":
+        - Conclusion: studies/3am-11-wine-of-babylon/CONCLUSION.md
+        - Analysis: studies/3am-11-wine-of-babylon/03-analysis.md
+        - Verses: studies/3am-11-wine-of-babylon/02-verses.md
+        - Word Studies: studies/3am-11-wine-of-babylon/04-word-studies.md
+        - Topics: studies/3am-11-wine-of-babylon/01-topics.md
+        - Research Scope: studies/3am-11-wine-of-babylon/PROMPT.md
+
+      - "12 -- Is Fallen, Is Fallen":
+        - Conclusion: studies/3am-12-babylons-fall/CONCLUSION.md
+        - Analysis: studies/3am-12-babylons-fall/03-analysis.md
+        - Verses: studies/3am-12-babylons-fall/02-verses.md
+        - Word Studies: studies/3am-12-babylons-fall/04-word-studies.md
+        - Topics: studies/3am-12-babylons-fall/01-topics.md
+        - Research Scope: studies/3am-12-babylons-fall/PROMPT.md
+
+      - "13 -- Come Out of Her, My People":
+        - Conclusion: studies/3am-13-come-out-of-her/CONCLUSION.md
+        - Analysis: studies/3am-13-come-out-of-her/03-analysis.md
+        - Verses: studies/3am-13-come-out-of-her/02-verses.md
+        - Word Studies: studies/3am-13-come-out-of-her/04-word-studies.md
+        - Topics: studies/3am-13-come-out-of-her/01-topics.md
+        - Research Scope: studies/3am-13-come-out-of-her/PROMPT.md
+
+    # ── Arc 3 -- The Third Angel ──
+    - "Arc 3 -- The Third Angel":
+
+      - "14 -- The Worship Binary":
+        - Conclusion: studies/3am-14-worship-binary/CONCLUSION.md
+        - Analysis: studies/3am-14-worship-binary/03-analysis.md
+        - Verses: studies/3am-14-worship-binary/02-verses.md
+        - Word Studies: studies/3am-14-worship-binary/04-word-studies.md
+        - Topics: studies/3am-14-worship-binary/01-topics.md
+        - Research Scope: studies/3am-14-worship-binary/PROMPT.md
+
+      - "15 -- The Mark and the Seal":
+        - Conclusion: studies/3am-15-mark-and-seal/CONCLUSION.md
+        - Analysis: studies/3am-15-mark-and-seal/03-analysis.md
+        - Verses: studies/3am-15-mark-and-seal/02-verses.md
+        - Word Studies: studies/3am-15-mark-and-seal/04-word-studies.md
+        - Topics: studies/3am-15-mark-and-seal/01-topics.md
+        - Research Scope: studies/3am-15-mark-and-seal/PROMPT.md
+
+      - "16 -- Wrath Without Mixture":
+        - Conclusion: studies/3am-16-wrath-without-mixture/CONCLUSION.md
+        - Analysis: studies/3am-16-wrath-without-mixture/03-analysis.md
+        - Verses: studies/3am-16-wrath-without-mixture/02-verses.md
+        - Word Studies: studies/3am-16-wrath-without-mixture/04-word-studies.md
+        - Topics: studies/3am-16-wrath-without-mixture/01-topics.md
+        - Research Scope: studies/3am-16-wrath-without-mixture/PROMPT.md
+
+      - "17 -- Deception, Accountability, and Fair Warning":
+        - Conclusion: studies/3am-17-deception-accountability-warning/CONCLUSION.md
+        - Analysis: studies/3am-17-deception-accountability-warning/03-analysis.md
+        - Verses: studies/3am-17-deception-accountability-warning/02-verses.md
+        - Word Studies: studies/3am-17-deception-accountability-warning/04-word-studies.md
+        - Topics: studies/3am-17-deception-accountability-warning/01-topics.md
+        - Research Scope: studies/3am-17-deception-accountability-warning/PROMPT.md
+
+    # ── Arc 4 -- Result and Defense ──
+    - "Arc 4 -- Result and Defense":
+
+      - "18 -- Here Is the Patience of the Saints":
+        - Conclusion: studies/3am-18-patience-of-the-saints/CONCLUSION.md
+        - Analysis: studies/3am-18-patience-of-the-saints/03-analysis.md
+        - Verses: studies/3am-18-patience-of-the-saints/02-verses.md
+        - Word Studies: studies/3am-18-patience-of-the-saints/04-word-studies.md
+        - Topics: studies/3am-18-patience-of-the-saints/01-topics.md
+        - Research Scope: studies/3am-18-patience-of-the-saints/PROMPT.md
+
+      - "19 -- The Commandments of God and the Faith of Jesus":
+        - Conclusion: studies/3am-19-commandments-and-faith/CONCLUSION.md
+        - Analysis: studies/3am-19-commandments-and-faith/03-analysis.md
+        - Verses: studies/3am-19-commandments-and-faith/02-verses.md
+        - Word Studies: studies/3am-19-commandments-and-faith/04-word-studies.md
+        - Topics: studies/3am-19-commandments-and-faith/01-topics.md
+        - Research Scope: studies/3am-19-commandments-and-faith/PROMPT.md
+
+      - "20 -- Every Objection Answered":
+        - Conclusion: studies/3am-20-critics-answered/CONCLUSION.md
+        - Analysis: studies/3am-20-critics-answered/03-analysis.md
+        - Verses: studies/3am-20-critics-answered/02-verses.md
+        - Word Studies: studies/3am-20-critics-answered/04-word-studies.md
+        - Topics: studies/3am-20-critics-answered/01-topics.md
+        - Research Scope: studies/3am-20-critics-answered/PROMPT.md

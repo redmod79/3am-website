@@ -1,0 +1,330 @@
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: REV 14:7
+======================================================================
+
+  Glosses: saying in a voice loud Fear - God and give Him glory because...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Genesis 28:17          0.416   0.71  0.20  0.00  fear, heaven
+  Genesis 9:2            0.390   0.59  0.30  0.00  fear, heaven, sea
+  Nehemia 1:5            0.383   0.64  0.20  0.00  fear, heaven
+  Jona 1:9               0.383   0.59  0.30  0.00  fear, heaven, sea
+  Ecclesiastes 5:6       0.380   0.69  0.10  0.00  fear
+  Psalmi 66:3            0.379   0.69  0.10  0.00  fear
+  Psalmi 65:6            0.375   0.61  0.20  0.00  fear, sea
+  Psalmi 68:36           0.373   0.67  0.10  0.00  fear
+  Deuteronomium 11:25    0.370   0.65  0.10  0.00  fear
+  Psalmi 76:9            0.370   0.62  0.20  0.00  fear, heaven
+  Chronica_I 16:25       0.369   0.68  0.10  0.00  fear
+  Psalmi 96:11           0.369   0.62  0.20  0.00  heaven, sea
+  Genesis 1:10           0.367   0.61  0.20  0.00  sea, water
+  Psalmi 103:11          0.367   0.67  0.10  0.00  heaven
+  Psalmi 99:3            0.366   0.68  0.10  0.00  fear
+  Psalmi 96:4            0.365   0.67  0.10  0.00  fear
+  Psalmi 76:12           0.365   0.67  0.10  0.00  fear
+  Genesis 1:28           0.363   0.59  0.20  0.00  heaven, sea
+  Genesis 1:22           0.363   0.59  0.20  0.00  sea, water
+  Maleachi 2:5           0.360   0.65  0.10  0.00  fear
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: REV 14:7
+======================================================================
+
+  Glosses: saying in a voice loud Fear - God and give Him glory because...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  REV 19:1               0.443   0.62  0.40  0.00  glory, heaven, loud, voice
+  REV 12:10              0.425   0.64  0.30  0.00  because, heaven, voice
+  ACT 4:24               0.424   0.55  0.40  0.00  heaven, made, sea, voice
+  REV 14:15              0.418   0.54  0.40  0.00  because, hour, loud, voice
+  REV 15:4               0.404   0.68  0.20  0.00  because, worship
+  1TH 4:16               0.401   0.62  0.30  0.00  because, heaven, voice
+  REV 12:12              0.398   0.60  0.30  0.00  because, heaven, sea
+  REV 18:10              0.395   0.58  0.30  0.00  fear, hour, judgment
+  ACT 14:15              0.392   0.56  0.30  0.00  heaven, made, sea
+  LUK 19:38              0.386   0.65  0.20  0.00  glory, heaven
+  REV 5:13               0.384   0.55  0.30  0.00  glory, heaven, sea
+  JHN 12:28              0.377   0.63  0.20  0.00  heaven, voice
+  LUK 2:9                0.376   0.63  0.20  0.00  fear, glory
+  REV 19:17              0.376   0.58  0.20  0.00  loud, voice
+  MRK 15:34              0.375   0.53  0.30  0.00  hour, loud, voice
+  REV 10:6               0.370   0.60  0.20  0.00  heaven, sea
+  REV 19:5               0.370   0.61  0.20  0.00  fear, voice
+  MAT 27:50              0.369   0.60  0.20  0.00  loud, voice
+  MAT 27:46              0.368   0.52  0.30  0.00  hour, loud, voice
+  REV 7:2                0.367   0.51  0.30  0.00  loud, sea, voice
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: ROM 1:21
+======================================================================
+
+  Glosses: For having known - God not as God they glorified [Him] or were thankful but they became futile...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Chronica_II 1:11       0.328   0.60  0.10  0.00  heart
+  Chronica_II 36:13      0.326   0.58  0.10  0.00  heart
+  Ecclesiastes 10:3      0.324   0.53  0.20  0.00  foolish, heart
+  Psalmi 69:6            0.323   0.64  0.00  0.00  
+  Jeremia 5:4            0.323   0.58  0.10  0.00  foolish
+  Iob 27:8               0.321   0.64  0.00  0.00  
+  Iob 39:17              0.320   0.64  0.00  0.00  
+  Jeremia 4:22           0.319   0.57  0.10  0.00  foolish
+  Jeremia 13:10          0.318   0.58  0.10  0.00  heart
+  Iob 32:13              0.318   0.63  0.00  0.00  
+  Deuteronomium 9:5      0.316   0.56  0.10  0.00  heart
+  Psalmi 10:13           0.316   0.57  0.10  0.00  heart
+  Proverbia 16:22        0.315   0.56  0.10  0.00  foolish
+  Psalmi 14:1            0.314   0.57  0.10  0.00  heart
+  Psalmi 86:14           0.311   0.62  0.00  0.00  
+  Psalmi 51:19           0.311   0.56  0.10  0.00  heart
+  Exodus 4:5             0.311   0.61  0.00  0.00  
+  Iob 19:22              0.310   0.62  0.00  0.00  
+  Iob 5:17               0.310   0.61  0.00  0.00  
+  Psalmi 53:2            0.309   0.56  0.10  0.00  heart
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: ROM 1:21
+======================================================================
+
+  Glosses: For having known - God not as God they glorified [Him] or were thankful but they became futile...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  EPH 4:18               0.424   0.71  0.20  0.00  darken, heart
+  ROM 1:28               0.424   0.83  0.00  0.00  
+  ROM 1:24               0.404   0.74  0.10  0.00  heart
+  2PE 2:21               0.391   0.72  0.10  0.00  known
+  ROM 1:19               0.387   0.68  0.10  0.00  known
+  ACT 11:23              0.377   0.69  0.10  0.00  heart
+  ROM 10:2               0.373   0.74  0.00  0.00  
+  MRK 6:52               0.370   0.69  0.10  0.00  heart
+  LUK 24:25              0.369   0.62  0.20  0.00  foolish, heart
+  MAT 9:4                0.366   0.61  0.20  0.00  heart, known
+  ACT 15:9               0.365   0.68  0.10  0.00  heart
+  MRK 2:8                0.362   0.60  0.20  0.00  heart, known
+  LUK 5:22               0.360   0.59  0.20  0.00  heart, known
+  1CO 1:21               0.360   0.70  0.00  0.00  
+  LUK 11:28              0.359   0.70  0.00  0.00  
+  ROM 10:3               0.359   0.70  0.00  0.00  
+  LUK 16:15              0.357   0.64  0.10  0.00  heart
+  ACT 15:8               0.355   0.71  0.00  0.00  
+  ACT 6:10               0.353   0.71  0.00  0.00  
+  ROM 16:18              0.352   0.64  0.10  0.00  heart
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: 2CO 3:18
+======================================================================
+
+  Glosses: We now all having been unveiled in face the glory of [the] Lord beholding as in a mirror the same image...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Jesaia 42:17           0.333   0.60  0.10  0.00  image
+  Chronica_II 23:17      0.328   0.58  0.10  0.00  image
+  Psalmi 10:11           0.327   0.58  0.10  0.00  glory
+  Proverbia 17:8         0.327   0.65  0.00  0.00  
+  Ezechiel 8:5           0.326   0.59  0.10  0.00  image
+  Psalmi 49:20           0.321   0.58  0.10  0.00  glory
+  Psalmi 74:3            0.318   0.58  0.10  0.00  glory
+  Sacharia 2:17          0.316   0.62  0.00  0.00  
+  Chronica_II 34:4       0.316   0.56  0.10  0.00  image
+  Reges_II 11:18         0.315   0.55  0.10  0.00  image
+  Genesis 9:6            0.313   0.56  0.10  0.00  image
+  Psalmi 11:4            0.312   0.62  0.00  0.00  
+  Psalmi 84:10           0.312   0.61  0.00  0.00  
+  Habakuk 2:18           0.311   0.55  0.10  0.00  image
+  Leviticus 19:4         0.311   0.55  0.10  0.00  image
+  Genesis 1:27           0.309   0.55  0.10  0.00  image
+  Jesaia 25:8            0.306   0.54  0.10  0.00  glory
+  Psalmi 45:3            0.304   0.60  0.00  0.00  
+  Chronica_I 29:13       0.303   0.60  0.00  0.00  
+  Jeremia 10:14          0.301   0.54  0.10  0.00  image
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: 2CO 3:18
+======================================================================
+
+  Glosses: We now all having been unveiled in face the glory of [the] Lord beholding as in a mirror the same image...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  ACT 7:55               0.408   0.63  0.30  0.00  glory, into, spirit
+  ROM 1:23               0.404   0.62  0.30  0.00  glory, image, into
+  2CO 4:4                0.381   0.63  0.20  0.00  glory, image
+  1CO 15:49              0.367   0.67  0.10  0.00  image
+  2CO 4:6                0.362   0.65  0.10  0.00  glory
+  ROM 5:2                0.361   0.60  0.20  0.00  glory, into
+  1TI 3:16               0.360   0.60  0.20  0.00  glory, spirit
+  2CO 3:8                0.353   0.59  0.20  0.00  glory, spirit
+  COL 3:4                0.353   0.64  0.10  0.00  glory
+  1PE 4:14               0.352   0.57  0.20  0.00  glory, spirit
+  REV 21:11              0.351   0.64  0.10  0.00  glory
+  1CO 2:12               0.351   0.64  0.10  0.00  spirit
+  ROM 8:23               0.350   0.64  0.10  0.00  spirit
+  JHN 1:14               0.350   0.63  0.10  0.00  glory
+  ROM 15:7               0.349   0.63  0.10  0.00  glory
+  2PE 3:18               0.349   0.63  0.10  0.00  glory
+  HEB 2:4                0.347   0.63  0.10  0.00  spirit
+  2CO 3:11               0.342   0.62  0.10  0.00  glory
+  ACT 5:32               0.341   0.62  0.10  0.00  spirit
+  EPH 1:17               0.341   0.56  0.20  0.00  glory, spirit
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: JHN 17:4
+======================================================================
+
+  Glosses: I You glorified on the earth the work having completed that You have given Me...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Psalmi 73:28           0.320   0.58  0.10  0.00  work
+  Chronica_II 12:8       0.318   0.57  0.10  0.00  work
+  Leviticus 23:7         0.315   0.57  0.10  0.00  work
+  Nehemia 6:3            0.315   0.57  0.10  0.00  work
+  Chronica_II 8:16       0.305   0.55  0.10  0.00  work
+  Reges_I 7:22           0.304   0.55  0.10  0.00  work
+  Chronica_II 15:7       0.303   0.55  0.10  0.00  work
+  Chronica_I 22:15       0.302   0.55  0.10  0.00  work
+  Numeri 28:25           0.300   0.54  0.10  0.00  work
+  Psalmi 46:9            0.299   0.53  0.10  0.00  work
+  Daniel 4:34            0.296   0.54  0.10  0.00  work
+  Jesaia 62:11           0.295   0.52  0.10  0.00  work
+  Chronica_II 24:13      0.294   0.53  0.10  0.00  work
+  Chronica_II 34:13      0.293   0.53  0.10  0.00  work
+  Nehemia 9:6            0.293   0.58  0.00  0.00  
+  Exodus 36:4            0.291   0.53  0.10  0.00  work
+  Exodus 12:26           0.291   0.53  0.10  0.00  work
+  Jesaia 14:3            0.291   0.52  0.10  0.00  work
+  Deuteronomium 5:31     0.291   0.57  0.00  0.00  
+  Psalmi 86:10           0.290   0.58  0.00  0.00  
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: JHN 17:4
+======================================================================
+
+  Glosses: I You glorified on the earth the work having completed that You have given Me...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  REV 3:2                0.391   0.65  0.20  0.00  complet, work
+  PHP 1:6                0.365   0.67  0.10  0.00  work
+  JHN 10:32              0.349   0.64  0.10  0.00  work
+  JHN 7:21               0.347   0.64  0.10  0.00  work
+  MRK 13:23              0.344   0.69  0.00  0.00  
+  REV 22:12              0.343   0.63  0.10  0.00  work
+  ACT 13:41              0.343   0.63  0.10  0.00  work
+  JAS 2:18               0.340   0.62  0.10  0.00  work
+  1CO 11:2               0.340   0.68  0.00  0.00  
+  JHN 14:12              0.337   0.62  0.10  0.00  work
+  ROM 15:15              0.334   0.61  0.10  0.00  given
+  JHN 17:22              0.330   0.60  0.10  0.00  given
+  REV 2:5                0.328   0.60  0.10  0.00  work
+  JHN 15:8               0.326   0.58  0.10  0.00  glorifi
+  2TI 3:17               0.324   0.59  0.10  0.00  work
+  HEB 1:10               0.324   0.58  0.10  0.00  work
+  REV 2:19               0.322   0.59  0.10  0.00  work
+  JHN 17:5               0.321   0.64  0.00  0.00  
+  EPH 3:7                0.318   0.52  0.20  0.00  given, work
+  ACT 26:16              0.318   0.64  0.00  0.00  
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: 1CO 6:20
+======================================================================
+
+  Glosses: you were bought for with a price glorify therefore - God in the body of you...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Deuteronomium 23:19    0.342   0.61  0.10  0.00  price
+  Genesis 31:16          0.329   0.65  0.00  0.00  
+  Reges_II 4:7           0.324   0.64  0.00  0.00  
+  Iob 22:3               0.323   0.64  0.00  0.00  
+  Samuel_II 24:24        0.320   0.57  0.10  0.00  price
+  Psalmi 86:10           0.308   0.61  0.00  0.00  
+  Genesis 50:20          0.306   0.61  0.00  0.00  
+  Proverbia 17:16        0.305   0.54  0.10  0.00  price
+  Deuteronomium 4:4      0.304   0.60  0.00  0.00  
+  Ecclesiastes 5:18      0.302   0.60  0.00  0.00  
+  Psalmi 69:6            0.302   0.60  0.00  0.00  
+  Psalmi 118:28          0.300   0.60  0.00  0.00  
+  Jesaia 61:6            0.299   0.59  0.00  0.00  
+  Joel 2:26              0.298   0.59  0.00  0.00  
+  Jesaia 23:18           0.298   0.59  0.00  0.00  
+  Ezechiel 33:25         0.297   0.53  0.10  0.00  therefore
+  Genesis 27:28          0.297   0.59  0.00  0.00  
+  Psalmi 19:2            0.296   0.59  0.00  0.00  
+  Hosea 12:7             0.296   0.59  0.00  0.00  
+  Deuteronomium 8:10     0.295   0.59  0.00  0.00  
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: REV 16:9
+======================================================================
+
+  Glosses: And were scorched the men with heat great and they cursed the name - of God...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Maleachi 1:14          0.369   0.62  0.20  0.00  great, name
+  Numeri 17:11           0.341   0.60  0.10  0.00  plague
+  Chronica_II 28:9       0.334   0.54  0.20  0.00  heat, name
+  Chronica_I 28:3        0.331   0.60  0.10  0.00  name
+  Psalmi 74:10           0.325   0.53  0.20  0.00  glory, name
+  Psalmi 106:23          0.322   0.58  0.10  0.00  heat
+  Judices 16:23          0.318   0.57  0.10  0.00  great
+  Jesaia 34:2            0.316   0.54  0.10  0.00  heat
+  Daniel 3:19            0.315   0.56  0.10  0.00  heat
+  Ezechiel 36:18         0.314   0.57  0.10  0.00  heat
+  Jeremia 44:6           0.314   0.57  0.10  0.00  heat
+  Samuel_I 20:34         0.313   0.56  0.10  0.00  heat
+  Psalmi 78:38           0.312   0.56  0.10  0.00  heat
+  Esther 7:7             0.308   0.55  0.10  0.00  heat
+  Reges_I 3:4            0.307   0.56  0.10  0.00  great
+  Jeremia 36:7           0.307   0.48  0.20  0.00  great, heat
+  Ezechiel 21:36         0.304   0.59  0.00  0.00  
+  Proverbia 29:22        0.303   0.54  0.10  0.00  heat
+  Jeremia 33:18          0.302   0.60  0.00  0.00  
+  Numeri 17:12           0.302   0.52  0.10  0.00  plague
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: REV 16:9
+======================================================================
+
+  Glosses: And were scorched the men with heat great and they cursed the name - of God...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  REV 16:11              0.424   0.70  0.20  0.00  curs, repent
+  REV 6:8                0.392   0.50  0.40  0.00  authority, name, over, plague
+  REV 16:21              0.385   0.62  0.20  0.00  great, plague
+  REV 16:2               0.373   0.68  0.10  0.00  hav
+  REV 15:8               0.372   0.59  0.20  0.00  glory, plague
+  LUK 2:9                0.360   0.60  0.20  0.00  glory, great
+  REV 15:1               0.358   0.52  0.30  0.00  great, hav, plague
+  REV 14:18              0.356   0.49  0.30  0.00  authority, hav, over
+  ACT 19:13              0.354   0.52  0.30  0.00  hav, name, over
+  REV 11:18              0.350   0.58  0.20  0.00  great, name
+  LUK 9:1                0.345   0.55  0.20  0.00  authority, over
+  REV 11:6               0.341   0.55  0.20  0.00  over, plague
+  REV 14:11              0.330   0.61  0.10  0.00  name
+  MRK 8:1                0.329   0.54  0.20  0.00  great, hav
+  REV 13:4               0.329   0.58  0.10  0.00  authority
+  JHN 12:43              0.326   0.57  0.10  0.00  glory
+  REV 22:18              0.326   0.57  0.10  0.00  plague
+  ACT 15:26              0.325   0.52  0.20  0.00  name, over
+  REV 15:6               0.325   0.52  0.20  0.00  hav, plague
+  ACT 12:23              0.322   0.57  0.10  0.00  glory

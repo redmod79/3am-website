@@ -1,0 +1,42 @@
+
+======================================================================
+  HYBRID ANALYSIS OT PARALLELS FOR: Daniel 7:22
+======================================================================
+
+  Glosses: until <relative> come old day and judgement give to holy most high and...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  Daniel 7:18            0.547   0.78  0.50  0.00  dominion, high, holy, possess
+  Daniel 7:25            0.472   0.69  0.40  0.00  high, holy, time, until
+  Daniel 7:27            0.455   0.71  0.30  0.00  dominion, high, holy
+  Daniel 4:14            0.450   0.65  0.40  0.00  dominion, high, holy, until
+  Daniel 4:22            0.433   0.60  0.40  0.00  dominion, high, time, until
+  Daniel 4:29            0.424   0.59  0.40  0.00  dominion, high, time, until
+  Daniel 4:31            0.421   0.71  0.20  0.00  dominion, high
+  Daniel 6:27            0.418   0.71  0.20  0.00  dominion, until
+  Daniel 4:20            0.414   0.64  0.30  0.00  holy, time, until
+  Daniel 5:21            0.407   0.62  0.30  0.00  dominion, high, until
+===OT DONE===
+
+======================================================================
+  HYBRID ANALYSIS NT PARALLELS FOR: Daniel 7:22
+======================================================================
+
+  Glosses: until <relative> come old day and judgement give to holy most high and...
+
+  --- HYBRID MATCHES (semantic + keyword + phrase + theological) ---
+  Reference              Hybrid  Sem   Key   Theo  Key Terms / Theological Phrases
+  ---------------------- ------- ----- ----- ----- -----------------------------------
+  ACT 3:21               0.451   0.73  0.30  0.00  holy, time, until
+  1CO 4:5                0.424   0.73  0.20  0.00  time, until
+  LUK 16:16              0.402   0.62  0.30  0.00  dominion, time, until
+  JUD 1:25               0.389   0.66  0.20  0.00  dominion, time
+  MRK 1:15               0.385   0.66  0.20  0.00  dominion, time
+  MRK 11:10              0.383   0.65  0.20  0.00  dominion, high
+  REV 4:9                0.380   0.69  0.10  0.00  dominion
+  LUK 19:38              0.378   0.70  0.10  0.00  high
+  MAT 4:17               0.377   0.64  0.20  0.00  dominion, time
+  HEB 1:8                0.374   0.69  0.10  0.00  dominion
+===NT DONE===

@@ -1,0 +1,134 @@
+{
+  "strongs": "H157",
+  "word": "אָהַב",
+  "transliteration": "ahab",
+  "pos": "Verb",
+  "occurrences": 225,
+  "definition": "A primitive root; to have affection for (sexually or otherwise): — (be-)love(-d, -ly, -r), like, friend.",
+
+  "translation_distribution": [
+    {"translation": "love/loved/loveth (verb forms)", "count": 177, "percent": 78.7},
+    {"translation": "lover(s)", "count": 19, "percent": 8.4},
+    {"translation": "friend(s)", "count": 12, "percent": 5.3},
+    {"translation": "other (particles, conjunctions)", "count": 16, "percent": 7.1},
+    {"translation": "like", "count": 1, "percent": 0.4}
+  ],
+
+  "book_distribution": [
+    {"book": "Psalm", "count": 30, "density": 1.2},
+    {"book": "Proverbs", "count": 27, "density": 2.9},
+    {"book": "Hosea", "count": 23, "density": 11.6},
+    {"book": "Genesis", "count": 17, "density": 1.1},
+    {"book": "Deuteronomy", "count": 17, "density": 1.8},
+    {"book": "Jeremiah", "count": 11, "density": 0.8},
+    {"book": "1 Samuel", "count": 10, "density": 1.3},
+    {"book": "Isaiah", "count": 9, "density": 0.7},
+    {"book": "Song of Solomon", "count": 8, "density": 6.8},
+    {"book": "2 Samuel", "count": 7, "density": 0.9},
+    {"book": "2 Chronicles", "count": 7, "density": 0.8},
+    {"book": "Ezekiel", "count": 7, "density": 0.5},
+    {"book": "1 Kings", "count": 6, "density": 0.7},
+    {"book": "Ecclesiastes", "count": 6, "density": 2.7},
+    {"book": "Zechariah", "count": 5, "density": 2.4},
+    {"book": "Leviticus", "count": 4, "density": 0.5},
+    {"book": "Judges", "count": 4, "density": 0.6},
+    {"book": "Esther", "count": 4, "density": 2.4},
+    {"book": "Micah", "count": 4, "density": 3.8},
+    {"book": "Nehemiah", "count": 3, "density": 0.9},
+    {"book": "Amos", "count": 3, "density": 2.1},
+    {"book": "Malachi", "count": 3, "density": 5.5},
+    {"book": "Exodus", "count": 2, "density": 0.2},
+    {"book": "Joshua", "count": 2, "density": 0.3},
+    {"book": "Lamentations", "count": 2, "density": 1.3},
+    {"book": "Ruth", "count": 1, "density": 1.2},
+    {"book": "Job", "count": 1, "density": 0.1},
+    {"book": "Daniel", "count": 1, "density": 0.3}
+  ],
+
+  "lxx_mappings": [
+    {"greek": "G25 agapao", "count": 144, "pmi": 6.51, "score": 32.42},
+    {"greek": "G3404 miseo", "count": 24, "pmi": 4.35, "score": 14.02},
+    {"greek": "G5442 phylasso", "count": 15, "pmi": 2.21, "score": 6.13},
+    {"greek": "G5368 phileo", "count": 12, "pmi": 5.87, "score": 15.06},
+    {"greek": "G2384 Iakob", "count": 13, "pmi": 2.23, "score": 5.89},
+    {"greek": "G1785 entole", "count": 12, "pmi": 2.99, "score": 7.67},
+    {"greek": "G5384 philos", "count": 11, "pmi": 4.51, "score": 11.20}
+  ],
+
+  "semantic_categories": [
+    {
+      "name": "Covenantal love toward God",
+      "description": "Commanded love for YHWH, the core relational obligation of the covenant. Paired with fearing, serving, and keeping commandments. The Shema defines this as total-person devotion (heart, soul, might).",
+      "key_verses": ["Deut 6:5", "Deut 10:12", "Deut 11:13", "Deut 11:22", "Deut 30:6", "Deut 30:16", "Josh 22:5", "Josh 23:11"]
+    },
+    {
+      "name": "God's covenantal love toward people",
+      "description": "God's elective, initiating affection — choosing Israel, keeping covenant, and acting in mercy. Often grounded in prior commitment (patriarchs) rather than Israel's merit.",
+      "key_verses": ["Deut 4:37", "Deut 7:8", "Deut 7:13", "Deut 10:18", "Isa 43:4", "Jer 31:3", "Hos 11:1", "Hos 14:5", "Mal 1:2"]
+    },
+    {
+      "name": "Interpersonal love",
+      "description": "Human-to-human affection including parental, spousal, and friendship bonds. Covers the full spectrum from Isaac/Rebekah to Jonathan/David to the neighbor commandment.",
+      "key_verses": ["Gen 22:2", "Gen 24:67", "Gen 29:18", "Gen 37:3", "Lev 19:18", "Lev 19:34", "1 Sam 18:1", "1 Sam 20:17", "2 Sam 1:23"]
+    },
+    {
+      "name": "Romantic and erotic love",
+      "description": "Passionate desire between lovers. Most concentrated in Song of Solomon, but present in narratives (Jacob/Rachel, Samson/Delilah, Amnon/Tamar).",
+      "key_verses": ["Gen 29:18", "Gen 29:20", "Gen 34:3", "Judg 16:4", "2 Sam 13:1", "Song 1:3", "Song 1:7", "Song 3:1-4"]
+    },
+    {
+      "name": "Love for wisdom, righteousness, and Torah",
+      "description": "Affection directed toward abstract goods — wisdom personified, God's law, justice, and truth. Concentrated in Psalms and Proverbs.",
+      "key_verses": ["Psa 119:47", "Psa 119:97", "Psa 119:127", "Psa 119:159", "Psa 119:167", "Pro 4:6", "Pro 8:17", "Pro 12:1", "Pro 29:3"]
+    },
+    {
+      "name": "God's love for righteousness and justice",
+      "description": "YHWH as subject loving specific moral qualities — righteousness, justice, the righteous — and hating their opposites.",
+      "key_verses": ["Psa 11:7", "Psa 33:5", "Psa 37:28", "Psa 45:8", "Psa 87:2", "Psa 99:4", "Psa 146:8", "Isa 61:8"]
+    },
+    {
+      "name": "Misdirected love (idolatry and unfaithfulness)",
+      "description": "Israel pursuing 'lovers' (foreign gods, alliances) instead of YHWH. The prophetic metaphor of spiritual adultery. The participle form 'lovers' (meahavim) becomes almost a technical term for false objects of devotion.",
+      "key_verses": ["Jer 2:25", "Jer 22:20", "Jer 22:22", "Lam 1:2", "Ezek 16:33", "Ezek 16:37", "Ezek 23:5", "Hos 2:7", "Hos 2:12", "Hos 3:1", "Hos 9:1"]
+    },
+    {
+      "name": "Love of wrong things (moral warning)",
+      "description": "Loving death, sleep, pleasure, violence, transgression — Proverbs' wisdom literature warnings against disordered affection.",
+      "key_verses": ["Psa 52:5", "Pro 1:22", "Pro 8:36", "Pro 17:19", "Pro 20:13", "Pro 21:17", "Mic 3:2"]
+    }
+  ],
+
+  "collocations": [
+    {"strongs": "H3068", "word": "YHWH", "count": 30, "pattern": "love the LORD / the LORD loves"},
+    {"strongs": "H8104", "word": "shamar (keep)", "count": 12, "pattern": "love and keep (commandments)"},
+    {"strongs": "H3374", "word": "yirah (fear)", "count": 8, "pattern": "fear and love (paired in Deuteronomy)"},
+    {"strongs": "H8130", "word": "sane (hate)", "count": 20, "pattern": "love/hate contrast pair"},
+    {"strongs": "H5647", "word": "abad (serve)", "count": 7, "pattern": "love and serve (covenantal triad)"},
+    {"strongs": "H3820", "word": "leb (heart)", "count": 6, "pattern": "love with all your heart"},
+    {"strongs": "H5315", "word": "nephesh (soul)", "count": 5, "pattern": "love with all your soul"},
+    {"strongs": "H7453", "word": "rea (neighbor)", "count": 4, "pattern": "love your neighbor"}
+  ],
+
+  "related_words": {
+    "synonyms": [
+      {"strongs": "H2654", "word": "chaphets", "distinction": "delight in, take pleasure in — volitional pleasure vs. ahab's broader affection"},
+      {"strongs": "H2245", "word": "chabab", "distinction": "to cherish, embrace — rare (1x), tender affection"},
+      {"strongs": "H7521", "word": "ratsah", "distinction": "to accept, be pleased with — divine acceptance/favor rather than emotional love"}
+    ],
+    "antonyms": [
+      {"strongs": "H8130", "word": "sane", "distinction": "to hate — the primary opposite; forms a standard contrast pair (loved/hated)"},
+      {"strongs": "H8581", "word": "taab", "distinction": "to abhor, detest — stronger rejection than sane; moral revulsion"}
+    ],
+    "word_family": [
+      {"strongs": "H158", "word": "ahab (noun masc.)", "relationship": "masculine noun form — love (as noun)"},
+      {"strongs": "H160", "word": "ahabah", "relationship": "feminine noun form — love (abstract concept, used in Song of Solomon and covenant contexts)"}
+    ]
+  },
+
+  "raw_tool_output": {
+    "lookup": "H157 - 225 total occurrences, 119 unique translations:\n    19 (  8.4%) loveth\n    12 (  5.3%) loved\n    10 (  4.4%) love\n     8 (  3.6%) to love\n     6 (  2.7%) And\n     6 (  2.7%) I love\n     6 (  2.7%) he loved\n     6 (  2.7%) thy lovers\n     5 (  2.2%) I have loved\n     4 (  1.8%) him whom\n     3 (  1.3%) he loveth, and to love, beloved, loved him, love thee, thy friends, Thou lovest, He that loveth, her lovers, and love\n     2 (  0.9%) thou lovest, and he loved, of them that love me, them that love him, and, his friends, will ye love, He loveth, such as love, do I love, he that loveth, thou hast loved, of her lovers, my lovers\n     1 (  0.4%) [85 unique single-occurrence translations]",
+    "lexicon": "H157: אָהַב\nTransliteration: ʼâhab\nPronunciation: aw-hab\nPart of Speech: verb (v)\nBLB Count: 208\nDefinition: ; or אָהֵב ; a primitive root; to have affection for (sexually or otherwise):—(be-)love(-d, -ly, -r), like, friend.",
+    "lxx_map": "H157: אָהַב (ʼâhab)\nGreek LXX translations (ranked by PMI-weighted):\n  G25: ἀγαπάω (agapáō) count: 144, PMI: 6.51, score: 32.42\n  G5368: φιλέω (philéō) count: 12, PMI: 5.87, score: 15.06\n  G3404: μισέω (miséō) count: 24, PMI: 4.35, score: 14.02\n  G5384: φίλος (phílos) count: 11, PMI: 4.51, score: 11.20\n  G1785: ἐντολή (entolḗ) count: 12, PMI: 2.99, score: 7.67\n  G472: ἀντέχομαι count: 3, PMI: 4.51, score: 6.26\n  G5442: φυλάσσω count: 15, PMI: 2.21, score: 6.13\n  G1608: ἐκπορνεύω count: 4, PMI: 3.72, score: 5.99\n  G2384: Ἰακώβ count: 13, PMI: 2.23, score: 5.89\n  G3741: ὅσιος count: 4, PMI: 3.61, score: 5.81",
+    "relationships": "Synonyms: H2654, H2655, H7521, H7452\nAntonyms: H8130, H8581\nSemantic Domains: [002001002018] Love — H160, H1730, H2245, H2550, H2551\n[001002007] People — H120, H121, H158, H193, H352, H376\nReferenced in: H5768-owlel, H7522-ratsown, H5771-avon, H1818-dam, H1121-ben, H5221-nakah, TR-ahab-agapao, H8441-towebah, WG-love, G25-agapao"
+  }
+}

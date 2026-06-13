@@ -1,0 +1,17 @@
+# Cross-Testament Parallels
+
+- Rev 14:12 → Rev 13:10 (nt, vocabulary + structural — highest hybrid match (0.437). Both contain hode + hupomone + pistis + hagios. Form the inclusio bracketing the third angel's message.)
+- Rev 14:12 → 1 Tim 6:11 (nt, vocabulary — both contain pistis/believe + hupomone/endurance (0.386))
+- Rev 14:12 → Jas 1:3 (nt, vocabulary — both contain pistis/believe + hupomone/endurance (0.382))
+- Rev 14:12 → Neh 1:5 (ot, vocabulary — commandment-keeping + God's covenant people (0.315))
+- Rev 14:12 → Dan 9:4 (ot, vocabulary — commandment-keeping + covenant faithfulness (0.309))
+- Rev 13:10 → Matt 26:52 (nt, vocabulary + thematic — sword principle, nonviolent endurance (0.398). 'All they that take the sword shall perish with the sword.')
+- Rev 12:11 → 1 Pet 1:19 (nt, vocabulary — blood + lamb (0.370). 'Redeemed with the precious blood of Christ, as of a lamb.')
+- Rev 12:11 → Rev 17:14 (nt, vocabulary — lamb + overcome (0.372). 'The Lamb shall overcome them.')
+- Rom 5:3 → 1 Thess 3:3 (nt, vocabulary + thematic — tribulation context, knowing purpose (0.406))
+- Rom 5:3 → 2 Thess 1:4 (nt, vocabulary — endurance + tribulation (0.347))
+- Heb 10:36 → Rom 15:5 (nt, vocabulary — highest match (0.420), both center on endurance/hupomone)
+- Heb 10:36 → Rev 3:10 (nt, vocabulary — endurance + keeping (0.340))
+- Jas 5:11 → Job 1:22 (ot, thematic — Job's endurance, did not sin (0.349))
+- Jas 5:11 → Psa 116:5 (ot, vocabulary — compassion/mercy (0.343))
+- Jas 5:11 → Rev 2:19 (nt, vocabulary — compassion + perseverance/hupomone (0.375))

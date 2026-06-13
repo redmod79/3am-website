@@ -1,0 +1,1335 @@
+{
+  "question": "What does hoti elthen he hora tes kriseos autou (\"for the hour of his judgment is come\") mean? What is this judgment — the cross, the second coming, the investigative/pre-advent judgment, or something else? Why does the aorist elthen present it as an accomplished fact? How does krisis (G2920) differ from katakrima (G2631)? Trace krisis through the LXX to Daniel 7's dina. How does Daniel 7:22 establish this judgment is FOR believers? How can judgment be \"good news\"? Does the pre-advent judgment undermine assurance? Address using Daniel 12:1, 1 John 4:17, Romans 8:1,33-34, John 5:24. How does Romans 2:16 prove judgment IS gospel content?",
+  "prior_research_summary": "Seven prior 3AM studies have been completed. Study 00 mapped the phrase structure; Study 01 established literary context and the aorist elthen as marking specific arrival; Study 02 confirmed the riyb-to-krisis LXX bridge; Study 03 identified three NT texts that explicitly include judgment within gospel (Luke 3:18, Rom 2:16, Rev 14:6-7) and the anticipation-vs-announcement framework; Study 04 confirmed the legon participle makes judgment gospel content; Study 05 found 1 John 4:17's parrhesia in the day of krisis; Study 06 connected glory-giving to the judgment announcement via the hoti clause. Additional deep studies exist: gsp-07 (judgment and gospel), gsp-08 (assurance and judgment), sanc-24 (Daniel 7 court), dan-7-judgment-antitypical-doa (DOA-to-Dan-7 progression), sv-21 (three angels vocabulary chain). Web research produced 13 research directives covering scholarly landscape, lexical data, and critic engagement.",
+  "required_verses": [
+    {
+      "ref": "Rev 14:6-7",
+      "reason": "The crux text — contains the entire phrase under study: hoti elthen he hora tes kriseos autou",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:9-10",
+      "reason": "The OT source of the judgment vocabulary — dina yitib, siphrin pethichu; court scene with Ancient of Days",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:13-14",
+      "reason": "Son of Man approaches Ancient of Days (TO God, not to earth) — receives dominion after judgment",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:22",
+      "reason": "Pivotal verse — dina yehib leqaddishe elyonin: judgment given TO/FOR the saints; vindication, not condemnation",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 7:26-27",
+      "reason": "Third judgment reference — court sits, dominion removed from horn, given to saints permanently",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 12:1",
+      "reason": "Everyone FOUND WRITTEN in the book is delivered — judgment as deliverance for those already inscribed",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 8:1",
+      "reason": "ouden katakrima — no CONDEMNATION (katakrima G2631), not no judgment (krisis). The krisis/katakrima distinction pivot",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 8:33-34",
+      "reason": "Rhetorical challenge: who shall lay charge? who condemns? Christ intercedes — courtroom vindication language",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 2:16",
+      "reason": "kata to euangelion mou — God judges secrets of men ACCORDING TO my gospel. Judgment IS gospel content",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 5:24",
+      "reason": "eis krisin ouk erchetai — 'does not come into judgment/condemnation'; must resolve against broader krisis usage in John 5",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 5:22",
+      "reason": "The Father has committed ALL judgment (krisin) to the Son — establishes Christ as the divine judge of Rev 14:7",
+      "tier": "primary"
+    },
+    {
+      "ref": "John 5:27-29",
+      "reason": "Authority to execute judgment because He is Son of Man — Dan 7:13 allusion; resurrection judgment",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 John 4:17",
+      "reason": "parresia en te hemera tes kriseos — boldness IN the day of judgment. Same krisis as Rev 14:7. Confidence, not exemption",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 John 4:18",
+      "reason": "Perfect love casts out fear — kolasin fear, not reverential fear. The kolasis/phobos distinction",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 14:8",
+      "reason": "Epesen epesen Babylōn — prophetic aorist parallel to elthen in 14:7; same grammatical phenomenon",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 11:18-19",
+      "reason": "Judgment of the dead + ark of covenant revealed — DOA/judgment theme activated before the three angels",
+      "tier": "primary"
+    },
+    {
+      "ref": "Acts 17:30-31",
+      "reason": "God commands repentance because He has APPOINTED a day to judge the world — judgment as basis for gospel call",
+      "tier": "primary"
+    },
+    {
+      "ref": "2 Cor 5:10",
+      "reason": "Bema of Christ — all must appear for evaluation of deeds; judgment of believers is evaluative disclosure",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 5:16",
+      "reason": "katakrima — one of only 3 NT occurrences; contrasts with charisma. Critical for katakrima definition",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 5:18",
+      "reason": "Second katakrima occurrence — through one trespass, katakrima came to all; contrasts with dikaiosis",
+      "tier": "primary"
+    },
+    {
+      "ref": "Eccl 12:14",
+      "reason": "God will bring every work into judgment (mishpat) — comprehensive evaluation; OT judgment expectation",
+      "tier": "primary"
+    },
+    {
+      "ref": "Zech 3:1-5",
+      "reason": "Courtroom vindication type — Joshua the high priest accused by Satan, defended by God, filthy garments replaced",
+      "tier": "primary"
+    },
+    {
+      "ref": "Mal 3:16-17",
+      "reason": "Book of remembrance written FOR those who feared the LORD — preserves, not prosecutes; judgment as recording faithful service",
+      "tier": "primary"
+    },
+    {
+      "ref": "Dan 8:14",
+      "reason": "nitsdaq — the sanctuary shall be vindicated/restored/cleansed; linked to the judgment timing",
+      "tier": "primary"
+    },
+    {
+      "ref": "Jas 2:12-13",
+      "reason": "Speak and act as those about to be judged by the law of liberty — mercy triumphs over judgment",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Pet 4:17",
+      "reason": "Judgment begins at the house of God — pre-advent judgment concept in Peter; if it begins with us, what of the ungodly?",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rev 20:11-15",
+      "reason": "Great white throne — books opened, book of life; post-millennial judgment phase for comparison with pre-advent",
+      "tier": "primary"
+    },
+    {
+      "ref": "Psa 50:3-6",
+      "reason": "God calls heaven and earth as witnesses to judge His people — OT divine judgment-of-the-faithful pattern",
+      "tier": "primary"
+    },
+    {
+      "ref": "Matt 22:11-14",
+      "reason": "Wedding garment inspection — the king investigates guests BEFORE the feast; pre-event examination pattern",
+      "tier": "primary"
+    },
+    {
+      "ref": "Gen 18:20-21",
+      "reason": "God descends to investigate Sodom BEFORE judging — the divine pattern of investigation before execution",
+      "tier": "primary"
+    },
+    {
+      "ref": "Psa 96:13",
+      "reason": "He comes to judge the earth with righteousness — judgment as positive, righteous vindication",
+      "tier": "primary"
+    },
+    {
+      "ref": "Psa 9:7-8",
+      "reason": "The LORD has prepared His throne for judgment; He shall judge the world in righteousness — judgment as established, righteous order",
+      "tier": "primary"
+    },
+    {
+      "ref": "1 Cor 3:13-15",
+      "reason": "Fire tests each one's work — even when all works burn, person is saved; evaluative judgment with safety net",
+      "tier": "primary"
+    },
+    {
+      "ref": "Rom 14:10-12",
+      "reason": "We shall all stand before the bema of God — every knee shall bow, every tongue confess; universal accountability",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 9:27",
+      "reason": "Appointed unto men once to die, and after this judgment — judgment as universal human appointment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 10:26-30",
+      "reason": "A certain fearful expectation of judgment for willful sin — the serious side of judgment warning",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 6:15-17",
+      "reason": "Great day of wrath — those who hide from judgment; contrasts with boldness of 1 John 4:17",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Matt 12:36-37",
+      "reason": "Every idle word — by words justified or condemned; judgment is comprehensive",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Luke 3:18",
+      "reason": "John preached good news (euengelizeto) to the people with judgment warnings — judgment AS gospel",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Heb 7:25",
+      "reason": "Christ ever lives to make intercession — ongoing high priestly ministry during judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 2:1",
+      "reason": "parakletos — advocate with the Father; courtroom defense imagery during judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 3:5",
+      "reason": "Will not blot out name from book of life — preservation promise during judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 13:8",
+      "reason": "Book of life of the Lamb slain from foundation — names written before judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Phil 4:3",
+      "reason": "Names are in the book of life — present-tense assurance of inscription",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 69:28",
+      "reason": "Let them be blotted from the book of the living — OT background for books-of-judgment imagery",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Psa 139:16",
+      "reason": "In thy book all my members were written — God's comprehensive knowledge recorded",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Isa 26:9",
+      "reason": "When thy judgments are in the earth, inhabitants learn righteousness — judgment as pedagogical/redemptive",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 15:3-4",
+      "reason": "Just and true are thy ways — vindication declaration: who shall not fear thee and glorify thy name?",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 16:7",
+      "reason": "True and righteous are thy judgments — specific acts vindication affirmation",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 19:1-2",
+      "reason": "True and righteous are his judgments — completion of vindication declaration progression",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Dan 9:24",
+      "reason": "Seventy weeks — kaphar and tsedeq; atonement-to-righteousness progression linked to judgment timing",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Lev 16:30",
+      "reason": "Day of Atonement — on this day shall atonement be made to cleanse you; typological basis for pre-advent judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Eph 1:13-14",
+      "reason": "Sealed with the Holy Spirit of promise — arrabon guarantee through judgment",
+      "tier": "supporting"
+    },
+    {
+      "ref": "1 John 5:13",
+      "reason": "That you may KNOW you have eternal life — oida settled certainty alongside judgment awareness",
+      "tier": "supporting"
+    },
+    {
+      "ref": "2 Tim 4:7-8",
+      "reason": "Crown of righteousness laid up — the righteous judge awards, not condemns; judgment as reward",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Jude 14-15",
+      "reason": "The Lord CAME (elthen, same prophetic aorist) with ten thousands — parallel prophetic aorist to Rev 14:7",
+      "tier": "supporting"
+    },
+    {
+      "ref": "Rev 11:15",
+      "reason": "The kingdoms became (egeneto, prophetic aorist) the kingdoms of our Lord — aorist parallel",
+      "tier": "supporting"
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": 1,
+      "title": "The krisis/katakrima distinction: process vs. condemnation",
+      "what": "Determine the precise semantic difference between krisis (G2920) and katakrima (G2631) in the NT, and why Rev 14:7 uses krisis",
+      "why": "This is the interpretive key to the entire study — whether the judgment announced is a condemning verdict or a judicial process of evaluation. If Rev 14:7 uses krisis (process) rather than katakrima (adverse verdict), then the angel announces an evaluation, not a condemnation",
+      "how": "Read word studies for G2920, G2631, G2917, G2919, G2633, G2632, G350. Run greek_parser.py on all 3 katakrima occurrences (Rom 5:16, 5:18, 8:1) and key krisis occurrences (Rev 14:7, John 5:22,24,27,29, 1 John 4:17). Compare the semantic ranges. Trace the krin- root family.",
+      "narrative": "READ $WORD_STUDIES/G2920-krisis.md, $WORD_STUDIES/G2631-katakrima.md, $WORD_STUDIES/G2917-krima.md, $WORD_STUDIES/G2919-krino.md, $WORD_STUDIES/G2633-katakrisis.md, $WORD_STUDIES/G2632-katakrino.md, and $WORD_STUDIES/G350-anakrino.md to map the entire krin- word family. The key distinction: krisis appears 48 times in the NT and denotes the process of judicial evaluation — 'a separating or sundering, a trial or contest, selection.' Katakrima appears only 3 times (all in Romans 5-8) and denotes the adverse result including both sentence AND execution — 'the adjudication of punishment.' Romans 8:1 says 'no katakrima' (not 'no krisis') for those in Christ. This means believers are exempt from condemnation but NOT from evaluation. Run greek_parser.py --verse on Rom 8:1, Rom 5:16, Rom 5:18 to confirm katakrima morphology, then on Rev 14:7, John 5:22, John 5:24, 1 John 4:17 to confirm krisis morphology. The research agent should also check G1341 dikaiokrisia (righteous judgment, $WORD_STUDIES/G1341-dikaiokrisia.md) and G1349 dike ($WORD_STUDIES/G1349-dike.md) to complete the picture of the Greek judgment vocabulary family.",
+      "verses": [
+        "Rev 14:7",
+        "Rom 8:1",
+        "Rom 5:16",
+        "Rom 5:18",
+        "John 5:22",
+        "John 5:24",
+        "John 5:27-29",
+        "1 John 4:17"
+      ],
+      "strongs": [
+        "G2920",
+        "G2631",
+        "G2917",
+        "G2919",
+        "G2633",
+        "G2632",
+        "G350",
+        "G1341",
+        "G1349"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Aramaic dina to LXX kriterion/krima to NT krisis vocabulary chain",
+      "what": "Trace the judgment vocabulary from Daniel 7's Aramaic dina through the LXX Greek cognates (kriterion, krima) to Revelation 14:7's krisis, establishing a direct linguistic link",
+      "why": "Rev 14:7's announcement of krisis echoes Daniel 7's court scene. If the vocabulary chain is linguistically verifiable, then the first angel's judgment is not generic but specifically evokes the Dan 7 heavenly assize",
+      "how": "Read word studies for A1780, H1779, H1777, H4941, H8199 and translation relationships TR-mishpat-krima, TR-riyb-krisis, TR-shaphat-krino. Run hebrew_parser.py on Dan 7:10, 7:22, 7:26 (Aramaic sections). Check LXX vocabulary in each verse.",
+      "narrative": "READ $WORD_STUDIES/A1780-diyn.md (Aramaic dina), $WORD_STUDIES/H1779-diyn.md (Hebrew din), $WORD_STUDIES/H1777-diyn.md (Hebrew verb diyn), $WORD_STUDIES/H4941-mishpat.md, $WORD_STUDIES/H8199-shaphat.md, $WORD_STUDIES/H7378-riyb.md, and $WORD_STUDIES/H7379-riyb.md. Also read the translation relationships: $WORD_STUDIES/TR-mishpat-krima.md, $WORD_STUDIES/TR-riyb-krisis.md, $WORD_STUDIES/TR-shaphat-krino.md. The web research confirmed the LXX rendering: Dan 7:10 dina yitib → LXX kriterion ekathisen (G2922); Dan 7:22 dina yehib → LXX to krima edoken (G2917); Dan 7:26 dina yittib → LXX to kriterion kathisei (G2922). The LXX does not use krisis directly in Daniel 7 but uses the cognates kriterion (G2922, READ $WORD_STUDIES/G2922-kriterion.md) and krima (G2917), all from the same krin- root. This establishes that Rev 14:7's krisis belongs to the Daniel 7 judgment vocabulary family. Run hebrew_parser.py on Dan 7:10, 7:22, 7:26 to verify the Aramaic forms. Also read $WORD_STUDIES/G2923-krites.md (judge) to complete the krin- family mapping. The riyb (H7378) to krisis bridge from 3am-02 is critical: the OT covenant lawsuit tradition underlies the first angel's judgment announcement.",
+      "verses": [
+        "Dan 7:9-10",
+        "Dan 7:22",
+        "Dan 7:26-27",
+        "Dan 7:13-14",
+        "Rev 14:7"
+      ],
+      "strongs": [
+        "A1780",
+        "H1779",
+        "H1777",
+        "H4941",
+        "H8199",
+        "G2922",
+        "G2917",
+        "G2920",
+        "G2923"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Daniel 7:22 — judgment given TO/FOR the saints",
+      "what": "Determine whether Dan 7:22's dina yehib leqaddishe elyonin means the judgment was given 'in favor of' the saints (vindication), 'into the hands of' the saints (authority to judge), or both",
+      "why": "This is the pivotal OT verse for establishing that the pre-advent judgment is FOR believers, not AGAINST them. The Aramaic preposition le and its interpretation determine whether the judgment vindicates the saints or authorizes them to judge",
+      "how": "Run hebrew_parser.py on Dan 7:22 (Aramaic). Examine the le preposition. Check the LXX (to krima edoken). Compare with Dan 7:27 where dominion is also given to saints. Read Pfandl's argument from web research.",
+      "narrative": "Run hebrew_parser.py --verse on Dan 7:22 to parse the Aramaic: dina yehib leqaddishe elyonin. The preposition le (ל) can mean 'to,' 'for,' 'in favor of,' or 'into the possession of.' Multiple scholarly sources confirm the primary meaning is 'in favor of' — a verdict rendered FOR the saints' benefit. Pfandl (BRI) argues the judgment's primary function is 'vindication and confirmation of salvation.' Compare with Dan 7:27 where the kingdom is given TO the people of the saints — same le preposition, clearly benefactive. Also run hebrew_parser.py on Dan 7:26-27 to see the parallel structure: the court sits (dina yittib), dominion is removed from the horn, and given to the saints. The three Dan 7 judgment references (vv.10, 22, 26) form a narrative arc: investigation (v.10), favorable verdict (v.22), execution/transfer (vv.26-27). READ $WORD_STUDIES/A3488-ythib.md for the Aramaic 'sat' verb. This three-phase structure is critical for the study's argument that judgment has distinct phases, with the pre-advent phase being investigative/vindicatory.",
+      "verses": [
+        "Dan 7:22",
+        "Dan 7:26-27",
+        "Dan 7:9-10",
+        "Dan 7:13-14"
+      ],
+      "strongs": [
+        "A1780",
+        "H1779",
+        "A3488"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The prophetic aorist of elthen — accomplished fact or future certainty?",
+      "what": "Determine why the aorist elthen (erchomai) is used in Rev 14:7 rather than a present or future tense, and whether this is a prophetic/proleptic aorist",
+      "why": "The tense of elthen determines whether the judgment is viewed as already accomplished (past), currently arriving (proleptic), or future-but-certain (prophetic aorist). This affects whether the first angel announces a judgment already underway or one whose arrival is so certain it can be spoken of as fait accompli",
+      "how": "READ grammar reference entry tense-aorist-prophetic. Run greek_parser.py on Rev 14:7 (elthen), Rev 14:8 (epesen epesen), Rev 11:15 (egeneto), Jude 14 (elthen). Compare with the anticipation-vs-announcement framework from 3am-03.",
+      "narrative": "READ $GRAMMAR_REF/greek/tense-aorist-prophetic.md — this canonical entry covers prophetic aorist in four categories: apocalyptic proclamation (Rev 14:8, 18:2 epesen doubled), proleptic doxology (Rev 19:6, 11:17), soteriological prolepsis (Rom 8:30), and Enochic tradition (Jude 14 elthen). READ $WORD_STUDIES/G2064-erchomai.md for the full lexical profile of elthen's root verb. Run greek_parser.py --verse on Rev 14:7 to confirm V-2AAI-3S morphology. The Precept Austin commentary identifies elthen as a 'prophetic aorist' — presenting the judgment as certain and imminent, 'as if it is already underway.' Compare Rev 14:8 epesen epesen (same prophetic aorist, doubled for emphasis, echoing Isa 21:9 naplah naplah) and Rev 11:15 egeneto (the kingdom BECAME our Lord's). The 3am-03 study established an anticipation-vs-announcement distinction: John the Baptist used mellei (about to come) while the first angel uses elthen (IS come) — the shift from anticipation to announcement. Acts 17:31 estesen hemeran mellei krinein provides the transitional link. Also run greek_parser.py --verse on Rev 11:17 (ebasileusas) and Jude 14 (elthen kyrios) for prophetic aorist parallels.",
+      "verses": [
+        "Rev 14:7",
+        "Rev 14:8",
+        "Rev 11:15",
+        "Rev 11:17",
+        "Jude 14",
+        "Acts 17:31",
+        "Rom 8:30"
+      ],
+      "strongs": [
+        "G2064",
+        "G2250"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "hora tes kriseos autou — 'the hour of HIS judgment'",
+      "what": "Determine the significance of the definite article (he hora), the genitive chain (tes kriseos autou), and whose judgment is indicated by autou",
+      "why": "The definite article marks this as THE specific, appointed hour — not a timeless principle but a particular eschatological moment. The genitive autou could be subjective (God's act of judging), objective (God being judged/vindicated), or both. This determines the judgment's scope",
+      "how": "Run greek_parser.py on Rev 14:7. Read word study for G5610 hora. Read grammar reference genitive-of-quality-apposition for genitive chain analysis. Cross-reference with Dan 7:13-14 for the Son of Man's authority.",
+      "narrative": "READ $WORD_STUDIES/G5610-hora.md for the full lexical range of hora — it can mean a literal hour, an appointed season, or a decisive moment. The definite article (he hora, with the article on hora) marks this as THE appointed hour, echoing Jesus' 'the hour is come' language (John 12:23, 13:1, 17:1). READ $GRAMMAR_REF/greek/genitive-of-quality-apposition.md for genitive chain analysis. The phrase tes kriseos autou is a genitive chain: 'of the judgment of him.' The genitive autou is most likely a subjective genitive (God's/Christ's act of judging) given the context of Rev 14:7 (the Creator who made heaven and earth is the one who judges). The OG LXX of Dan 7:13-14 uses latreuo (worship of Israel's God) for the Son of Man figure (Koperski/Reynolds web research finding), strengthening the reading that 'his judgment' is divine judgment exercised by the Son of Man. Run greek_parser.py --verse on Rev 14:7 to parse the full phrase. Also run greek_parser.py on John 12:23, 13:1, 17:1 to compare Jesus' 'the hour has come' usage with Rev 14:7's elthen he hora.",
+      "verses": [
+        "Rev 14:7",
+        "John 12:23",
+        "John 13:1",
+        "John 17:1",
+        "Dan 7:13-14"
+      ],
+      "strongs": [
+        "G5610",
+        "G2920",
+        "G2064",
+        "G846"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "John 5:24 — does 'not come into judgment' contradict judgment of believers?",
+      "what": "Resolve the apparent contradiction between John 5:24 ('does not come into krisis') and texts showing believers face krisis (2 Cor 5:10, 1 John 4:17, Rom 14:10)",
+      "why": "This is the strongest counter-text to the claim that believers undergo judgment. If John 5:24 exempts believers from krisis entirely, then the pre-advent judgment cannot apply to them. The resolution depends on whether krisis in v.24 means the evaluation process or the condemnatory outcome",
+      "how": "Run greek_parser.py on John 5:22, 24, 27, 29. Read the full chapter context of John 5:19-30. Note that krisis appears in vv.22, 24, 27, 29 — the SAME word but with different referents. Check if v.24 addresses outcome (condemnation) or process (evaluation).",
+      "narrative": "Run greek_parser.py --verse on John 5:22, 5:24, 5:27, 5:29 to parse krisis in each occurrence. The crucial observation from gsp-07 (prior study): in John 5, the same word krisis appears in vv.22, 24, 27, 29, but v.24 specifically addresses the condemnatory outcome — 'has passed from death to life.' The phrase eis krisin ouk erchetai is followed by 'but has passed out of death into life,' indicating that the krisin being avoided is the death-verdict, not the evaluation process. Some translations render John 5:24 as 'condemnation' rather than 'judgment,' recognizing this contextual nuance. Compare with John 3:18 (kekritai, perfect — 'stands condemned already') where krisis morphs toward condemnation. The research agent should retrieve the full chapter context of John 5:19-30 and run cross_testament_parallels_v2.py on John 5:24 to find OT parallels. This verse must be handled carefully — it does NOT exempt believers from the evaluative process (which 2 Cor 5:10 and Rom 14:10 clearly affirm), but from the condemnatory outcome (which Rom 8:1 negates with katakrima).",
+      "verses": [
+        "John 5:24",
+        "John 5:22",
+        "John 5:27-29",
+        "John 3:18",
+        "2 Cor 5:10",
+        "Rom 14:10"
+      ],
+      "strongs": [
+        "G2920",
+        "G2919"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Romans 2:16 — judgment IS gospel content",
+      "what": "Determine whether kata to euangelion mou in Rom 2:16 grammatically demonstrates that judgment is integral gospel content, not merely consistent with the gospel",
+      "why": "If Paul considers judgment to be part of 'my gospel,' then the first angel's combination of 'everlasting gospel' with 'the hour of his judgment is come' is not paradoxical but Pauline. This directly addresses whether judgment is good news",
+      "how": "Run greek_parser.py on Rom 2:16. Read the broader context of Rom 2:1-16. Check if kata to euangelion mou modifies 'God will judge' (v.16a) or something else. Read commentators' analysis from web research.",
+      "narrative": "Run greek_parser.py --verse on Rom 2:16 to parse kata to euangelion mou (κατὰ τὸ εὐαγγέλιόν μου). The web research confirmed that Barnes, Meyer, Cambridge Bible, and Gill all understand this phrase as modifying 'God will judge the secrets of men through Jesus Christ.' Barnes specifically says judgment is 'one of the great and prime articles of that gospel.' The preposition kata (G2596) + accusative means 'according to' or 'in accordance with.' The Greek grammar question: does kata to euangelion mou modify krinei ho theos (God will judge) or does it modify a larger unit? Read $WORD_STUDIES/G2098-euangelion.md and $WORD_STUDIES/G2097-euangelizo.md to understand the euangel- word family. READ $GRAMMAR_REF/greek/anarthrous-non-predicate-noun.md for the articular euangelion analysis. Also note Luke 3:18 where John's judgment warnings are explicitly called euengelizeto (he was gospeling) — judgment proclamation IS gospel proclamation. Acts 17:30-31 provides the structural parallel: Paul commands repentance (gospel call) BECAUSE God has appointed a day of judgment (judgment as gospel basis).",
+      "verses": [
+        "Rom 2:16",
+        "Luke 3:18",
+        "Acts 17:30-31",
+        "Rev 14:6-7"
+      ],
+      "strongs": [
+        "G2098",
+        "G2097",
+        "G2596"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "1 John 4:17 — boldness (parrhesia) IN the day of krisis",
+      "what": "Determine how 1 John 4:17's promise of parrhesia (boldness/confidence) in the day of krisis relates to Rev 14:7's announcement and whether this resolves the assurance question",
+      "why": "If the NT promises boldness IN judgment (not exemption FROM it), then the pre-advent judgment does not threaten assurance — it is the very arena where believers' confidence is demonstrated. The love-casts-out-fear logic of 4:18 removes kolasin-fear while maintaining reverential response to judgment",
+      "how": "Run greek_parser.py on 1 John 4:17-18. Read word studies for G3954 parrhesia, G2851 kolasis, G5401 phobos. Read the broader context of 1 John 4:7-21. Cross-reference with 3am-05 findings on phobos/kolasis.",
+      "narrative": "READ $WORD_STUDIES/G3954-parrhesia.md — parrhesia means 'all-outspokenness,' originally freedom of speech before civic assembly, then boldness/confidence before God. READ $WORD_STUDIES/G2851-kolasis.md (only 2 NT occurrences, both in judgment contexts). READ $WORD_STUDIES/G5401-phobos.md and $WORD_STUDIES/G5399-phobeo.md for the fear vocabulary. Run greek_parser.py --verse on 1 John 4:17 and 4:18. The web research noted the near-homophony between parresia (confidence) and parousia (coming) — 'we are to have parresia at the parousia.' The krisis in 4:17 is the same word as in Rev 14:7; the 'day of judgment' parallels 'the hour of his judgment.' Love casts out phobos (4:18) but does NOT cast out krisis — the believer has confidence IN judgment, not exemption FROM it. The 3am-05 study already established that the kolasin-fear (dread of condemnation) is what love removes, not reverential awe toward God. This means 1 John 4:17-18 is the perfect companion to Rev 14:7: 'Fear God' (reverential awe, 14:7a) + 'the hour of his judgment is come' (14:7d) + 'boldness in the day of judgment' (1 John 4:17) forms a coherent triad: reverence + judgment announcement + confidence.",
+      "verses": [
+        "1 John 4:17",
+        "1 John 4:18",
+        "Rev 14:7",
+        "1 John 2:28"
+      ],
+      "strongs": [
+        "G3954",
+        "G2851",
+        "G5401",
+        "G5399",
+        "G2920"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Does the pre-advent judgment undermine assurance? Engaging Ford and evangelical critics",
+      "what": "Address the strongest arguments that the investigative/pre-advent judgment undermines salvation assurance, and evaluate whether biblical assurance texts hold even within a judgment framework",
+      "why": "This is the hardest apologetic challenge. Ford's 1979 manuscript argued the doctrine 'undermined assurance.' Barnhouse called it the 'most colossal face-saving phenomenon.' If these critiques are valid, the study must acknowledge it; if not, the biblical counterevidence must be marshaled",
+      "how": "Read assurance passages (Rom 8:33-34, 1 John 5:13, Eph 1:13-14, John 5:24, 2 Tim 4:7-8). Read Dan 12:1 (everyone FOUND WRITTEN). Read Heb 7:25 and 1 John 2:1 for intercession during judgment. Evaluate Livingston's framework from web research.",
+      "narrative": "The research agent must engage Ford's critique honestly. His strongest argument: that the investigative judgment 'lacks firm biblical warrant' independent of Daniel 8:14's 1844 date. But the exegetical case for a pre-advent judgment CONCEPT can be made from Daniel 7's sequence alone: persecution (vv.8,21) → judgment in heaven (vv.9-10,22) → kingdom transfer (vv.26-27). This sequence requires judgment BEFORE the kingdom is given — i.e., pre-advent. Run greek_parser.py --verse on Rom 8:33-34 to parse the courtroom language: tis egkalesei (who shall charge?), tis ho katakrinon (who condemns?), Christos ho entygchanon (Christ interceding). READ $WORD_STUDIES/G1793-entynchano.md (intercession), $WORD_STUDIES/G3875-parakletos.md (advocate), $WORD_STUDIES/G5241-huperentugchano.md (intercedes for). Dan 12:1 is critical: everyone FOUND WRITTEN in the book is delivered — the names are already there; the judgment confirms, not determines. READ $WORD_STUDIES/G1492-oida.md for 1 John 5:13's oida (settled certainty). Livingston's key insight from web research: 'The theological change necessary to remove any qualms about assurance is not changing the timing, duration or transparency of any judgement, but a change in basic understanding of salvation or free will.' The problem is not judgment itself but misunderstanding grace.",
+      "verses": [
+        "Rom 8:33-34",
+        "Dan 12:1",
+        "1 John 5:13",
+        "Eph 1:13-14",
+        "Heb 7:25",
+        "1 John 2:1",
+        "2 Tim 4:7-8",
+        "John 5:24",
+        "1 Cor 3:13-15"
+      ],
+      "strongs": [
+        "G1793",
+        "G3875",
+        "G5241",
+        "G1492",
+        "G1458"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "God's pattern: investigate before executing (Gen 3, Gen 18, Matt 22, Dan 7)",
+      "what": "Trace the divine pattern of investigation-before-execution through Scripture to establish that a pre-advent investigative phase is consistent with God's revealed character",
+      "why": "If God consistently investigates before punishing — descending to Babel, questioning Adam, going down to Sodom, inspecting wedding garments — then a pre-advent investigation before the second coming follows the established divine pattern",
+      "how": "Retrieve Gen 3:8-13, Gen 11:5-7, Gen 18:20-21, Matt 22:11-14, Dan 7:9-10. Trace the pattern. Note Goldstein's argument from web research that the books are for the watching universe, not for God.",
+      "narrative": "Retrieve full text and run relevant parsers on Gen 3:8-13 (God questions Adam and Eve before pronouncing judgment), Gen 11:5 (the LORD came DOWN to see the city and tower), Gen 18:20-21 (God goes down to see whether Sodom's sin is as reported — investigation language), and Matt 22:11-14 (the king inspects the guests BEFORE the feast — pre-event examination). In each case, God who is omniscient still conducts an investigation before executing judgment. Goldstein's insight from web research: the books in Dan 7:9-10 are not for God (who already knows) but 'for those thousands upon thousands' who lack God's knowledge — the judgment is a demonstration before the watching universe. Run cross_testament_parallels_v2.py on Gen 18:21 to find judgment-investigation parallels. This pattern establishes that investigation is not about God discovering information but about transparent justice — the same principle behind the pre-advent judgment. The wedding garment inspection in Matt 22:11-14 is particularly important: the king comes in (investigation), finds one without a garment (evaluation), and orders removal (execution) — three distinct phases mirroring Dan 7's three judgment references.",
+      "verses": [
+        "Gen 3:8-13",
+        "Gen 11:5-7",
+        "Gen 18:20-21",
+        "Matt 22:11-14",
+        "Dan 7:9-10",
+        "Eccl 12:14"
+      ],
+      "strongs": [
+        "H4941",
+        "H8199"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The courtroom vindication type: Zechariah 3 and Revelation's judgment imagery",
+      "what": "Examine Zechariah 3:1-5 as a courtroom vindication narrative where Satan accuses and God defends, establishing the pattern for how believers experience judgment",
+      "why": "Zech 3 provides a concrete OT narrative of the judgment experience for believers: accusation by Satan, filthy garments acknowledged, divine defense, garments replaced. This transforms judgment from threat to rescue scene",
+      "how": "Retrieve Zech 3:1-5, run hebrew_parser.py. Cross-reference with Rev 12:10 (accuser cast down), 1 John 2:1 (parakletos), Rom 8:33-34 (who accuses? who condemns?). Read Pfandl's analysis from web research.",
+      "narrative": "Retrieve Zech 3:1-5 with full context and run hebrew_parser.py on the key verses. Joshua the high priest stands before the angel of the LORD with Satan (ha-satan, the accuser) at his right hand to accuse (satan, same root as the noun). Joshua's filthy garments represent real guilt — he is genuinely defiled. But instead of condemning him, the LORD rebukes Satan ('Is this not a brand plucked from the fire?'), removes the filthy garments, and clothes him with rich apparel. This is the biblical pattern of judgment for believers: (1) real guilt acknowledged, (2) accusation by the adversary, (3) divine advocate intervenes, (4) cleansing and restoration, (5) new status conferred. Cross-reference with Rev 12:10 (the accuser of our brethren is cast down), Rom 8:33-34 (tis egkalesei... tis katakrinon — who charges? who condemns? — the answer is Christ intercedes), and 1 John 2:1 (parakletos, READ $WORD_STUDIES/G3875-parakletos.md — advocate/defense attorney). Pfandl's second article from web research specifically cites Zech 3 as a 'courtroom-vindication type.' The research agent should also run cross_testament_parallels_v2.py on Zech 3:1-2.",
+      "verses": [
+        "Zech 3:1-5",
+        "Rev 12:10",
+        "Rom 8:33-34",
+        "1 John 2:1",
+        "Mal 3:16-17"
+      ],
+      "strongs": [
+        "G3875",
+        "G1793",
+        "G2725",
+        "H7854"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The books of judgment: life, deeds, and remembrance",
+      "what": "Catalog the three distinct book categories in judgment texts (book of life, books of deeds, book of remembrance) and determine what they contain and how they function",
+      "why": "The books imagery is central to both Dan 7:10 (siphrin pethichu) and Rev 20:12 (biblia, biblion). Understanding what the books contain determines whether judgment reviews sins for condemnation or faithful service for vindication",
+      "how": "Retrieve Dan 7:10, Rev 20:12, Mal 3:16, Dan 12:1, Exo 32:32-33, Psa 69:28, Psa 139:16, Rev 3:5, Phil 4:3. Read word studies for G975 biblion, H5612 cepher. Check the prior study dan-7-judgment-antitypical-doa findings.",
+      "narrative": "READ $WORD_STUDIES/G975-biblion.md and $WORD_STUDIES/H5612-cepher.md. Three distinct categories emerge: (1) Book of Life — a registry of citizens (Exo 32:32-33, Psa 69:28, Dan 12:1, Phil 4:3, Rev 3:5, 13:8, 20:15, 21:27); names are written in it and can be blotted from it; Dan 12:1 promises deliverance for everyone FOUND WRITTEN in it. (2) Books of Deeds — contain 'works' (erga, Rev 20:12-13), not exclusively sins; includes faithful service. (3) Book of Remembrance — written FOR those who feared the LORD (Mal 3:16), preserving evidence of faithfulness, not prosecuting sins. Retrieve Mal 3:16-17 with context: 'They shall be mine, says the LORD of hosts, in that day when I make up my jewels.' The remembrance book preserves, not condemns. The dan-7-judgment-antitypical-doa study found that the books contain works (erga) broadly, including faithful service. Run cross_testament_parallels_v2.py on Rev 20:12 and Mal 3:16 to trace OT/NT book imagery connections.",
+      "verses": [
+        "Dan 7:10",
+        "Rev 20:12-15",
+        "Mal 3:16-17",
+        "Dan 12:1",
+        "Exo 32:32-33",
+        "Psa 69:28",
+        "Rev 3:5",
+        "Phil 4:3"
+      ],
+      "strongs": [
+        "G975",
+        "H5612",
+        "G2041"
+      ]
+    }
+  ],
+  "required_word_studies": [
+    {
+      "strongs": "G2920",
+      "word": "krisis",
+      "reason": "The exact word in Rev 14:7 — judgment process/evaluation; 48 NT occurrences"
+    },
+    {
+      "strongs": "G2631",
+      "word": "katakrima",
+      "reason": "The contrasting term — adverse verdict/condemnation; only 3 NT occurrences (Rom 5:16, 5:18, 8:1)"
+    },
+    {
+      "strongs": "G2917",
+      "word": "krima",
+      "reason": "Judgment/decision — the LXX term in Dan 7:22 (to krima edoken); stresses result of judgment"
+    },
+    {
+      "strongs": "G2919",
+      "word": "krino",
+      "reason": "Root verb — to judge, separate, evaluate; foundational for the entire krin- word family"
+    },
+    {
+      "strongs": "G2922",
+      "word": "kriterion",
+      "reason": "Tribunal/court — the LXX term in Dan 7:10,26; connects the court scene to Rev 14:7's krisis"
+    },
+    {
+      "strongs": "A1780",
+      "word": "diyn (Aramaic)",
+      "reason": "The Aramaic root in Dan 7:10,22,26 — the source of the LXX kriterion/krima vocabulary chain"
+    },
+    {
+      "strongs": "H1779",
+      "word": "diyn (Hebrew noun)",
+      "reason": "Judgment/cause/plea — Hebrew cognate of Aramaic diyn; connects broader OT judgment concepts"
+    },
+    {
+      "strongs": "H4941",
+      "word": "mishpat",
+      "reason": "The most common OT judgment term — verdict (favorable or unfavorable); connects to krisis through LXX"
+    },
+    {
+      "strongs": "G5610",
+      "word": "hora",
+      "reason": "Hour/appointed time — 'the hour of his judgment'; definite article marks specific eschatological moment"
+    },
+    {
+      "strongs": "G2064",
+      "word": "erchomai",
+      "reason": "Come/arrive — elthen is its aorist form; the prophetic aorist in Rev 14:7"
+    },
+    {
+      "strongs": "G3954",
+      "word": "parrhesia",
+      "reason": "Boldness/confidence — 1 John 4:17's 'boldness in the day of krisis'; the assurance answer"
+    },
+    {
+      "strongs": "G2851",
+      "word": "kolasis",
+      "reason": "Punishment/torment — 1 John 4:18; the fear that love casts out is condemnation-fear, not reverence"
+    },
+    {
+      "strongs": "G3875",
+      "word": "parakletos",
+      "reason": "Advocate/helper — 1 John 2:1; Christ as defense attorney in the judgment courtroom"
+    },
+    {
+      "strongs": "G1793",
+      "word": "entynchano",
+      "reason": "Intercede/make intercession — Rom 8:34, Heb 7:25; Christ's active advocacy during judgment"
+    },
+    {
+      "strongs": "G2632",
+      "word": "katakrino",
+      "reason": "Condemn/judge against — verb form of the kata-krin- family; contrast with krino"
+    },
+    {
+      "strongs": "G2633",
+      "word": "katakrisis",
+      "reason": "Condemnation (the act) — 2 Cor 3:9; contrasts with diakonia tes dikaiosynes"
+    },
+    {
+      "strongs": "G350",
+      "word": "anakrino",
+      "reason": "Examine/investigate — 1 Cor 2:15, 4:3; the investigative aspect of judgment"
+    },
+    {
+      "strongs": "H7378",
+      "word": "riyb",
+      "reason": "Covenant lawsuit — the OT legal background for krisis via the LXX bridge (TR-riyb-krisis)"
+    },
+    {
+      "strongs": "G975",
+      "word": "biblion",
+      "reason": "Book/scroll — Rev 20:12; the books opened in judgment"
+    },
+    {
+      "strongs": "G2098",
+      "word": "euangelion",
+      "reason": "Gospel — Rev 14:6 euangelion aionion; the gospel that includes judgment"
+    }
+  ],
+  "required_parsing": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "Full phrase parsing: hoti elthen he hora tes kriseos autou — aorist, genitive chain, hoti clause"
+    },
+    {
+      "verse": "Rom 8:1",
+      "reason": "ouden katakrima — confirm katakrima (G2631) not krisis (G2920); the critical lexical distinction"
+    },
+    {
+      "verse": "Rom 5:16",
+      "reason": "katakrima occurrence #1 — parse genitive context: ek henos eis katakrima"
+    },
+    {
+      "verse": "Rom 5:18",
+      "reason": "katakrima occurrence #2 — parse: di henos paraptomatos eis pantas anthropous eis katakrima"
+    },
+    {
+      "verse": "John 5:24",
+      "reason": "eis krisin ouk erchetai — confirm krisis not katakrima; parse the motion/direction preposition"
+    },
+    {
+      "verse": "John 5:22",
+      "reason": "ten krisin pasan dedoken — perfect tense 'has given ALL judgment' to the Son"
+    },
+    {
+      "verse": "1 John 4:17",
+      "reason": "parresian echomen en te hemera tes kriseos — boldness IN the day of judgment"
+    },
+    {
+      "verse": "Rom 2:16",
+      "reason": "kata to euangelion mou — parse grammatical relationship to krinei ho theos"
+    },
+    {
+      "verse": "Rom 8:33-34",
+      "reason": "tis egkalesei... tis ho katakrinon — courtroom vocabulary, present tenses"
+    },
+    {
+      "verse": "Dan 7:22",
+      "reason": "Aramaic parsing: dina yehib leqaddishe elyonin — the le preposition and its force"
+    },
+    {
+      "verse": "Dan 7:10",
+      "reason": "Aramaic parsing: dina yitib... siphrin pethichu — the court seated, books opened"
+    },
+    {
+      "verse": "Rev 14:8",
+      "reason": "epesen epesen — prophetic aorist parallel to elthen; doubled for emphasis"
+    },
+    {
+      "verse": "Zech 3:1-2",
+      "reason": "ha-satan standing to accuse — courtroom vindication scene vocabulary"
+    },
+    {
+      "verse": "1 John 4:18",
+      "reason": "phobos ouk estin en te agape — kolasin echei parse; fear involves punishment"
+    }
+  ],
+  "required_parallels": [
+    {
+      "verse": "Rev 14:7",
+      "reason": "OT and NT parallels for 'the hour of his judgment is come'"
+    },
+    {
+      "verse": "Dan 7:22",
+      "reason": "OT parallels for 'judgment given TO the saints'"
+    },
+    {
+      "verse": "John 5:24",
+      "reason": "NT parallels for 'does not come into judgment'"
+    },
+    {
+      "verse": "Rom 2:16",
+      "reason": "NT parallels for judgment as gospel content"
+    },
+    {
+      "verse": "Zech 3:1-5",
+      "reason": "OT courtroom vindication parallels"
+    },
+    {
+      "verse": "Gen 18:20-21",
+      "reason": "OT investigation-before-judgment parallels"
+    },
+    {
+      "verse": "1 John 4:17",
+      "reason": "NT parallels for boldness in judgment"
+    },
+    {
+      "verse": "Mal 3:16-17",
+      "reason": "OT parallels for book of remembrance preserving the faithful"
+    }
+  ],
+  "available_library_entries": {
+    "word_studies": [
+      {
+        "path": "$WORD_STUDIES/G2920-krisis.md",
+        "description": "krisis (judgment/evaluation process), G2920 — 48 NT occurrences"
+      },
+      {
+        "path": "$WORD_STUDIES/G2631-katakrima.md",
+        "description": "katakrima (condemnation/adverse verdict), G2631 — 3 NT occurrences"
+      },
+      {
+        "path": "$WORD_STUDIES/G2917-krima.md",
+        "description": "krima (judgment/decision), G2917 — LXX Dan 7:22 term"
+      },
+      {
+        "path": "$WORD_STUDIES/G2919-krino.md",
+        "description": "krino (to judge/separate), G2919 — root verb of krin- family"
+      },
+      {
+        "path": "$WORD_STUDIES/G2922-kriterion.md",
+        "description": "kriterion (tribunal/court), G2922 — LXX Dan 7:10,26 term"
+      },
+      {
+        "path": "$WORD_STUDIES/G2923-krites.md",
+        "description": "krites (judge), G2923"
+      },
+      {
+        "path": "$WORD_STUDIES/G2632-katakrino.md",
+        "description": "katakrino (condemn), G2632 — verb form"
+      },
+      {
+        "path": "$WORD_STUDIES/G2633-katakrisis.md",
+        "description": "katakrisis (condemnation act), G2633"
+      },
+      {
+        "path": "$WORD_STUDIES/G350-anakrino.md",
+        "description": "anakrino (examine/investigate), G350"
+      },
+      {
+        "path": "$WORD_STUDIES/G4793-synkrino.md",
+        "description": "synkrino (compare/judge together), G4793"
+      },
+      {
+        "path": "$WORD_STUDIES/A1780-diyn.md",
+        "description": "diyn (Aramaic judgment), A1780 — Dan 7:10,22,26"
+      },
+      {
+        "path": "$WORD_STUDIES/H1779-diyn.md",
+        "description": "diyn (Hebrew noun, judgment/cause), H1779"
+      },
+      {
+        "path": "$WORD_STUDIES/H1777-diyn.md",
+        "description": "diyn (Hebrew verb, to judge/rule), H1777"
+      },
+      {
+        "path": "$WORD_STUDIES/H4941-mishpat.md",
+        "description": "mishpat (judgment/verdict), H4941"
+      },
+      {
+        "path": "$WORD_STUDIES/H8199-shaphat.md",
+        "description": "shaphat (to judge/vindicate), H8199"
+      },
+      {
+        "path": "$WORD_STUDIES/H7378-riyb.md",
+        "description": "riyb (verb, to strive/contend/bring lawsuit), H7378"
+      },
+      {
+        "path": "$WORD_STUDIES/H7379-riyb.md",
+        "description": "riyb (noun, lawsuit/case), H7379"
+      },
+      {
+        "path": "$WORD_STUDIES/G5610-hora.md",
+        "description": "hora (hour/appointed time), G5610"
+      },
+      {
+        "path": "$WORD_STUDIES/G2064-erchomai.md",
+        "description": "erchomai (come/arrive), G2064 — elthen is its aorist"
+      },
+      {
+        "path": "$WORD_STUDIES/G3954-parrhesia.md",
+        "description": "parrhesia (boldness/confidence), G3954 — 1 John 4:17"
+      },
+      {
+        "path": "$WORD_STUDIES/G2851-kolasis.md",
+        "description": "kolasis (punishment/torment), G2851 — 1 John 4:18"
+      },
+      {
+        "path": "$WORD_STUDIES/G5401-phobos.md",
+        "description": "phobos (fear), G5401"
+      },
+      {
+        "path": "$WORD_STUDIES/G5399-phobeo.md",
+        "description": "phobeo (to fear), G5399"
+      },
+      {
+        "path": "$WORD_STUDIES/G3875-parakletos.md",
+        "description": "parakletos (advocate/helper), G3875 — 1 John 2:1"
+      },
+      {
+        "path": "$WORD_STUDIES/G1793-entynchano.md",
+        "description": "entynchano (intercede), G1793 — Rom 8:34, Heb 7:25"
+      },
+      {
+        "path": "$WORD_STUDIES/G5241-huperentugchano.md",
+        "description": "huperentugchano (intercede for), G5241 — Rom 8:26"
+      },
+      {
+        "path": "$WORD_STUDIES/G3316-mesites.md",
+        "description": "mesites (mediator), G3316"
+      },
+      {
+        "path": "$WORD_STUDIES/G1341-dikaiokrisia.md",
+        "description": "dikaiokrisia (righteous judgment), G1341"
+      },
+      {
+        "path": "$WORD_STUDIES/G1349-dike.md",
+        "description": "dike (justice/vengeance), G1349"
+      },
+      {
+        "path": "$WORD_STUDIES/G1342-dikaios.md",
+        "description": "dikaios (righteous/just), G1342"
+      },
+      {
+        "path": "$WORD_STUDIES/G1343-dikaiosyne.md",
+        "description": "dikaiosyne (righteousness), G1343"
+      },
+      {
+        "path": "$WORD_STUDIES/G1344-dikaioo.md",
+        "description": "dikaioo (to justify), G1344"
+      },
+      {
+        "path": "$WORD_STUDIES/G1347-dikaiosis.md",
+        "description": "dikaiosis (justification), G1347"
+      },
+      {
+        "path": "$WORD_STUDIES/G2098-euangelion.md",
+        "description": "euangelion (gospel), G2098"
+      },
+      {
+        "path": "$WORD_STUDIES/G2097-euangelizo.md",
+        "description": "euangelizo (to proclaim good news), G2097"
+      },
+      {
+        "path": "$WORD_STUDIES/G975-biblion.md",
+        "description": "biblion (book/scroll), G975"
+      },
+      {
+        "path": "$WORD_STUDIES/H5612-cepher.md",
+        "description": "cepher (book/writing), H5612"
+      },
+      {
+        "path": "$WORD_STUDIES/G1391-doxa.md",
+        "description": "doxa (glory), G1391 — give glory connection to judgment"
+      },
+      {
+        "path": "$WORD_STUDIES/G2041-ergon.md",
+        "description": "ergon (work/deed), G2041 — what the books of judgment contain"
+      },
+      {
+        "path": "$WORD_STUDIES/G1492-oida.md",
+        "description": "oida (to know with settled certainty), G1492 — 1 John 5:13 assurance"
+      },
+      {
+        "path": "$WORD_STUDIES/G2250-hemera.md",
+        "description": "hemera (day), G2250 — 'day of judgment'"
+      },
+      {
+        "path": "$WORD_STUDIES/G2435-hilasterion.md",
+        "description": "hilasterion (mercy seat/propitiation), G2435 — DOA connection"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-mishpat-krima.md",
+        "description": "Translation relationship: mishpat → krima"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-riyb-krisis.md",
+        "description": "Translation relationship: riyb → krisis (covenant lawsuit bridge)"
+      },
+      {
+        "path": "$WORD_STUDIES/TR-shaphat-krino.md",
+        "description": "Translation relationship: shaphat → krino"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-judgment.md",
+        "description": "Word group: judgment vocabulary cluster"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-boldness.md",
+        "description": "Word group: boldness/confidence vocabulary cluster"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-intercession.md",
+        "description": "Word group: intercession/advocacy vocabulary cluster"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-gospel.md",
+        "description": "Word group: gospel vocabulary cluster"
+      },
+      {
+        "path": "$WORD_STUDIES/WG-fear.md",
+        "description": "Word group: fear vocabulary cluster"
+      },
+      {
+        "path": "$WORD_STUDIES/A3488-ythib.md",
+        "description": "ythib (Aramaic, to sit), A3488 — Dan 7:10,26 'the court sat'"
+      }
+    ],
+    "grammar_references": [
+      {
+        "path": "$GRAMMAR_REF/greek/tense-aorist-prophetic.md",
+        "description": "Prophetic/proleptic aorist — future event as accomplished fact; Rev 14:8, Jude 14, Rom 8:30"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/genitive-of-quality-apposition.md",
+        "description": "Genitive of quality/attributive — for analyzing tes kriseos autou genitive chain"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/aorist-active-indicative-narrative-chain.md",
+        "description": "Aorist active indicative chains — for contextualizing elthen within Revelation's aorist patterns"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect.md",
+        "description": "Perfect tense — for John 5:22 dedoken (has given all judgment)"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/tense-perfect-indicative.md",
+        "description": "Perfect indicative — completed action with abiding result"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/present-tense-perfect-semantics.md",
+        "description": "Perfective present (heko, pareimi) — for comparing present-tense verbs with perfective meaning"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/apocalyptic-narrative-prolepsis.md",
+        "description": "Visionary recursion — summary-tableau then rewind to phases; relevant to Rev 14 structure"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/a-fortiori-poso-mallon.md",
+        "description": "A fortiori argument — Rom 5:9-10 'much more' reasoning about salvation through judgment"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/anarthrous-non-predicate-noun.md",
+        "description": "Anarthrous noun analysis — includes Rev 14:6 euangelion aionion analysis"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/divine-passive.md",
+        "description": "Divine passive — passive voice obscuring God as agent; relevant to judgment passive constructions"
+      },
+      {
+        "path": "$GRAMMAR_REF/greek/aorist-passive-indicative.md",
+        "description": "Aorist passive indicative — edothe (was given) construction in Dan 7:22 LXX parallel"
+      }
+    ]
+  },
+  "missing_library_entries": [
+    {
+      "strongs": "G2923",
+      "word": "krites",
+      "reason": "Judge — completes the krin- family; exists in library but should be read"
+    },
+    {
+      "strongs": "G1458",
+      "word": "egkaleo",
+      "reason": "Bring charges/accuse — Rom 8:33 tis egkalesei; courtroom prosecution vocabulary"
+    },
+    {
+      "strongs": "G2725",
+      "word": "kategoros",
+      "reason": "Accuser — Rev 12:10 ho kategor; Satan as accuser in the judgment scene"
+    },
+    {
+      "strongs": "H7854",
+      "word": "satan",
+      "reason": "Adversary/accuser — Zech 3:1; the opponent in the courtroom vindication"
+    },
+    {
+      "strongs": "G846",
+      "word": "autos",
+      "reason": "He/his — the autou in 'kriseos autou'; genitive chain analysis"
+    },
+    {
+      "strongs": "G2596",
+      "word": "kata",
+      "reason": "According to — Rom 2:16 kata to euangelion mou; preposition governing gospel-judgment link"
+    },
+    {
+      "strongs": "",
+      "word": "hoti causal clause in Koine Greek",
+      "reason": "The hoti in Rev 14:7 introduces the reason clause for the three imperatives; need grammar analysis of causal vs. content hoti"
+    },
+    {
+      "strongs": "",
+      "word": "Greek subjective vs. objective genitive",
+      "reason": "For analyzing kriseos autou — is it God's act of judging (subjective) or judgment OF God (objective)?"
+    }
+  ],
+  "topics_discovered": [
+    {
+      "name": "JUDGMENT",
+      "subtopic": "THE GENERAL",
+      "verse_count": 85
+    },
+    {
+      "name": "JUDGMENT",
+      "subtopic": "ACCORDING TO OPPORTUNITY AND WORKS",
+      "verse_count": 72
+    },
+    {
+      "name": "ASSURANCE",
+      "subtopic": "SAINTS PRIVILEGED TO HAVE",
+      "verse_count": 35
+    },
+    {
+      "name": "GOSPEL",
+      "subtopic": "UNCLASSIFIED SCRIPTURES RELATING TO",
+      "verse_count": 68
+    },
+    {
+      "name": "BOOK",
+      "subtopic": "OF LIFE",
+      "verse_count": 12
+    },
+    {
+      "name": "BOOK",
+      "subtopic": "OF REMEMBRANCE",
+      "verse_count": 3
+    },
+    {
+      "name": "VERDICT",
+      "subtopic": "Against Jesus",
+      "verse_count": 5
+    },
+    {
+      "name": "CONFIDENCE",
+      "subtopic": "FALSE",
+      "verse_count": 42
+    },
+    {
+      "name": "ATONEMENT",
+      "subtopic": "DAY OF",
+      "verse_count": 14
+    },
+    {
+      "name": "COURT",
+      "subtopic": "CIVIL",
+      "verse_count": 18
+    },
+    {
+      "name": "CONDESCENSION OF GOD",
+      "subtopic": "In reasoning with creatures",
+      "verse_count": 10
+    },
+    {
+      "name": "MEDIATION",
+      "subtopic": "GENERAL",
+      "verse_count": 2
+    },
+    {
+      "name": "JUDGMENT-SEAT",
+      "subtopic": "Of Christ",
+      "verse_count": 4
+    },
+    {
+      "name": "SATAN",
+      "subtopic": "ACCUSER",
+      "verse_count": 15
+    },
+    {
+      "name": "REPENTANCE",
+      "subtopic": "GENERAL",
+      "verse_count": 48
+    }
+  ],
+  "external_corpus_leads": [
+    {
+      "source": "EGW",
+      "claim": "EGW connects Rev 14:7's judgment announcement to the investigative judgment beginning in 1844, rooted in Dan 7:9-10 and 8:14",
+      "directive": "Verify whether Rev 14:7's text itself requires specific timing or whether the text establishes the concept of a pre-advent judgment apart from the date. Examine the text structure: does hoti elthen he hora tes kriseos autou specify WHEN the hour began?"
+    },
+    {
+      "source": "EGW",
+      "claim": "Jesus is 'Advocate' and 'Friend at court' during the judgment (7LtMs Lt 23 1892, PrT Nov 3 1885)",
+      "directive": "Verify from 1 John 2:1 (parakletos), Rom 8:34 (entygchanei), Heb 7:25 (entygchanein). Run greek_parser.py on each verse to confirm advocacy/intercession vocabulary."
+    },
+    {
+      "source": "EGW",
+      "claim": "The books of record determine judgment decisions (GC 480.2) based on Dan 7:10 and Rev 20:12",
+      "directive": "Verify from Dan 7:10 (siphrin pethichu), Rev 20:12 (biblia), Eccl 12:14. Determine whether 'books of record' language is biblical or an EGW interpretive framework."
+    },
+    {
+      "source": "Bohr",
+      "claim": "Three stages of judgment in Daniel 7: pre-advent investigation (vv.9-10), millennial review (v.22), post-millennial execution (vv.26-27)",
+      "directive": "Verify whether Dan 7's text supports this specific three-phase sequencing. Parse Dan 7:9-10, 22, 26-27 to determine if these are three chronologically distinct phases or three descriptions of the same event."
+    },
+    {
+      "source": "Bohr",
+      "claim": "The Day of Atonement (Lev 16) maps directly to Dan 7:9-10 and Rev 11:18-19",
+      "directive": "Verify the DOA structural parallels: Lev 16 cleansing → Dan 7 judgment → Rev 11:19 ark revealed. Check whether the vocabulary and structural links are textually grounded."
+    },
+    {
+      "source": "Pfandl (BRI)",
+      "claim": "Dan 7:22 'a judgment was made in favor of the saints' — primary function is vindication",
+      "directive": "Verify the Aramaic preposition le in Dan 7:22. Run hebrew_parser.py. Does le + indirect object necessarily mean 'in favor of'? Compare with other le + yehib constructions in Aramaic Daniel."
+    },
+    {
+      "source": "Goldstein",
+      "claim": "The books in Dan 7:9-10 are for 'those thousands upon thousands' who lack God's knowledge, not for God — judgment is a universal demonstration",
+      "directive": "Verify from Dan 7:10 whether the thousands are watching the judgment or participating. Does the text specify the audience for the books?"
+    },
+    {
+      "source": "Ford",
+      "claim": "The investigative judgment 'lacked firm biblical warrant' and 'undermined assurance'",
+      "directive": "Test whether the pre-advent judgment concept can be established from Daniel 7 and Revelation 14 WITHOUT dependence on the 1844 date calculation. The exegetical case for the concept (judgment BEFORE kingdom transfer) may be separable from the timing argument."
+    },
+    {
+      "source": "Livingston",
+      "claim": "The theological change needed for assurance is not changing judgment timing but changing understanding of salvation and free will",
+      "directive": "Verify against Rom 8:1,33-34, 1 John 4:17, John 5:24 — do these texts ground assurance in understanding grace rather than in removal of judgment?"
+    },
+    {
+      "source": "Koperski/Reynolds",
+      "claim": "The OG LXX of Daniel 7 uses latreuo (worship reserved for Israel's God) for the Son of Man, elevating his Christology",
+      "directive": "Verify whether the OG Dan 7:14 uses latreuo and whether this strengthens reading 'his judgment' (autou) in Rev 14:7 as the Son of Man's divine judgment."
+    },
+    {
+      "source": "Precept Austin",
+      "claim": "elthen in Rev 14:7 is a 'prophetic aorist' presenting judgment as certain and imminent, 'as if already underway'",
+      "directive": "Verify against the grammar reference entry tense-aorist-prophetic.md. Compare with other prophetic aorists in Revelation (14:8, 11:15, 11:17). Is 'prophetic aorist' the best classification?"
+    },
+    {
+      "source": "Barnes/Meyer/Cambridge Bible",
+      "claim": "In Rom 2:16 kata to euangelion mou grammatically modifies 'God will judge' — judgment is prime gospel content",
+      "directive": "Verify the grammatical structure of Rom 2:16. Run greek_parser.py. Does kata phrase modify krinei or something else in the sentence?"
+    },
+    {
+      "source": "Web research commentators",
+      "claim": "1 John 4:17 parresia/parousia near-homophony — 'confidence at the coming'",
+      "directive": "Verify whether this phonetic wordplay is intentional or coincidental. Check if parresia and parousia appear in close proximity elsewhere in NT."
+    }
+  ],
+  "verse_groups": [
+    {
+      "name": "The krisis/katakrima distinction passages",
+      "description": "Core texts establishing the difference between judgment-as-process and condemnation-as-verdict",
+      "refs": [
+        "Rev 14:7",
+        "Rom 8:1",
+        "Rom 5:16",
+        "Rom 5:18",
+        "John 5:22",
+        "John 5:24",
+        "John 5:27-29",
+        "1 John 4:17"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Daniel 7 judgment court scene",
+      "description": "The OT source text for the heavenly judgment vocabulary and sequence",
+      "refs": [
+        "Dan 7:9-10",
+        "Dan 7:13-14",
+        "Dan 7:22",
+        "Dan 7:26-27"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "Judgment-as-gospel passages",
+      "description": "Texts where judgment is explicitly presented as gospel content",
+      "refs": [
+        "Rev 14:6-7",
+        "Rom 2:16",
+        "Luke 3:18",
+        "Acts 17:30-31"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Assurance-in-judgment passages",
+      "description": "Texts grounding believer confidence despite/within judgment",
+      "refs": [
+        "1 John 4:17-18",
+        "Rom 8:33-34",
+        "Dan 12:1",
+        "1 John 5:13",
+        "Eph 1:13-14",
+        "Heb 7:25",
+        "1 John 2:1",
+        "2 Tim 4:7-8",
+        "1 Cor 3:13-15"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Investigation-before-execution pattern",
+      "description": "OT texts showing God's pattern of investigating before judging",
+      "refs": [
+        "Gen 3:8-13",
+        "Gen 11:5-7",
+        "Gen 18:20-21",
+        "Matt 22:11-14",
+        "Eccl 12:14"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Prophetic aorist parallels",
+      "description": "Other prophetic aorists in Revelation for comparison with elthen",
+      "refs": [
+        "Rev 14:8",
+        "Rev 11:15",
+        "Rev 11:17",
+        "Jude 14",
+        "Rom 8:30"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Books-of-judgment imagery",
+      "description": "Passages about the books opened in judgment — life, deeds, remembrance",
+      "refs": [
+        "Dan 7:10",
+        "Rev 20:11-15",
+        "Mal 3:16-17",
+        "Dan 12:1",
+        "Exo 32:32-33",
+        "Psa 69:28",
+        "Rev 3:5",
+        "Phil 4:3"
+      ],
+      "full_chapter_context": false
+    },
+    {
+      "name": "Courtroom vindication type",
+      "description": "Zechariah 3 and related courtroom-defense imagery",
+      "refs": [
+        "Zech 3:1-5",
+        "Rev 12:10",
+        "1 John 2:1",
+        "Mal 3:16-17"
+      ],
+      "full_chapter_context": true
+    },
+    {
+      "name": "OT judgment expectations",
+      "description": "Psalms and prophets on the righteous character of God's judgment",
+      "refs": [
+        "Psa 50:3-6",
+        "Psa 96:13",
+        "Psa 9:7-8",
+        "Isa 26:9",
+        "1 Pet 4:17"
+      ],
+      "full_chapter_context": false
+    }
+  ],
+  "priority_chapter_context": [
+    "Rev 14:1-12",
+    "Dan 7:1-28",
+    "Rom 8:1-39",
+    "John 5:19-30",
+    "1 John 4:7-21",
+    "Rom 2:1-16",
+    "Rev 20:1-15",
+    "Zech 3:1-10",
+    "Dan 12:1-4",
+    "Mal 3:13-18"
+  ],
+  "research_instructions": "## Critical Research Directives\n\n### Krisis Word Family Mapping\nMap the COMPLETE krin- word family: krisis (G2920), krima (G2917), krino (G2919), krites (G2923), kriterion (G2922), katakrima (G2631), katakrino (G2632), katakrisis (G2633), anakrino (G350), synkrino (G4793), dikaiokrisia (G1341). For each, note: occurrence count, semantic range, and whether it denotes PROCESS (evaluation) or RESULT (verdict). The research agent should create a table distinguishing process-words from result-words.\n\n### LXX Verification\nVerify the exact LXX vocabulary in Dan 7:10, 7:22, and 7:26 using available tools. The web research claims: 7:10 kriterion ekathisen, 7:22 to krima edoken, 7:26 to kriterion kathisei. Confirm these. Also check whether Theodotion's Greek differs from the Old Greek (OG) version in these verses.\n\n### The hoti Clause Function\nThe hoti in Rev 14:7 introduces either a causal clause ('because the hour has come') or a content clause ('that the hour has come'). Both readings are significant: causal makes judgment the REASON for fearing God and giving glory; content makes judgment part of the gospel MESSAGE being proclaimed. The research agent should parse hoti and determine from context which function is primary — likely causal, supporting the three imperatives.\n\n### Integration with Prior 3AM Studies\nThis study builds directly on: (1) 3am-02's riyb-to-krisis LXX bridge, (2) 3am-03's anticipation-vs-announcement framework and Rom 2:16 as gospel-judgment text, (3) 3am-04's legon participle analysis showing judgment IS gospel content, (4) 3am-05's phobos/kolasis distinction, (5) 3am-06's hoti clause connecting glory-giving to judgment. The analysis agent should reference these connections but go DEEPER with fresh research.\n\n### Engagement with Critics\nThe study must engage Ford's critique honestly. The strongest version of the critique: the investigative judgment doctrine depends on a chain of reasoning (Dan 8:14 = 2300 years = 1844 = beginning of heavenly judgment) that has multiple debatable links. The study should demonstrate that the CONCEPT of a pre-advent judgment can be established from Dan 7 and Rev 14 independently of the timing argument. Dan 7's sequence (persecution → heavenly judgment → kingdom transfer) inherently requires judgment BEFORE the kingdom — this is the strongest exegetical foundation.\n\n### Vindication Declaration Progression\nFrom sv-21 (prior study): Rev 14:7 (announcement) → Rev 15:3 (character affirmation) → Rev 16:7 (specific acts) → Rev 19:1-2 (completion). The research agent should trace this progression and note how it develops from announcement to completion.",
+  "workflow": "answer-question",
+  "stats": {
+    "total_verses": 57,
+    "primary_verses": 33,
+    "supporting_verses": 24,
+    "ot_verses": 13,
+    "nt_verses": 20,
+    "focus_area_count": 12,
+    "word_study_count": 20,
+    "parsing_count": 14,
+    "parallel_count": 8
+  }
+}

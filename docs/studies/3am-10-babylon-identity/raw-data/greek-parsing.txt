@@ -1,0 +1,53 @@
+GREEK PARSER RAW OUTPUT — REQUIRED VERSES
+
+=== Rev 14:8 ===
+Greek Text: Καὶ ἄλλος ἄγγελος δεύτερος ἠκολούθησεν λέγων Ἔπεσεν ἔπεσεν Βαβυλὼν ἡ μεγάλη, ἣ ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πεπότικεν πάντα τὰ ἔθνη.
+Key parsing:
+- Ἔπεσεν (x2): πίπτω G4098 [V-2AAI-3S] — prophetic aorist, doubled for emphasis
+- οἴνου: οἶνος G3631 [N-GSM] — genitive chain: wine of the thumos of her porneia
+- θυμοῦ: θυμός G2372 [N-GSM] — genitive chain middle term
+- πορνείας: πορνεία G4202 [N-GSF] — genitive chain final term
+- πεπότικεν: ποτίζω G4222 [V-RAI-3S] — perfect active: "she has made to drink" (completed action with ongoing result)
+- Βαβυλὼν: G897 [N-NSF] — proper noun, nominative
+
+=== Rev 17:1 ===
+Greek Text: Καὶ ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας, καὶ ἐλάλησεν μετ' ἐμοῦ λέγων Δεῦρο, δείξω σοι τὸ κρίμα τῆς πόρνης τῆς μεγάλης τῆς καθημένης ἐπὶ ὑδάτων πολλῶν
+Key: ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας = bracket formula matching 21:9
+
+=== Rev 17:3 ===
+Greek Text: καὶ ἀπήνεγκέν με εἰς ἔρημον ἐν Πνεύματι. καὶ εἶδον γυναῖκα καθημένην ἐπὶ θηρίον κόκκινον
+Key: ἀπήνεγκέν (ἀποφέρω G667) + ἐν Πνεύματι (G4151) = bracket formula matching 21:10; εἰς ἔρημον = wilderness (contrast with ὄρος μέγα in 21:10)
+
+=== Rev 17:4 ===
+Greek Text: καὶ ἡ γυνὴ ἦν περιβεβλημένη πορφυροῦν καὶ κόκκινον, καὶ κεχρυσωμένη χρυσίῳ καὶ λίθῳ τιμίῳ καὶ μαργαρίταις, ἔχουσα ποτήριον χρυσοῦν ἐν τῇ χειρὶ αὐτῆς γέμον βδελυγμάτων καὶ τὰ ἀκάθαρτα τῆς πορνείας αὐτῆς
+Key garment terms: πορφυροῦν (G4210 purple), κόκκινον (G2847 scarlet), χρυσίῳ (G5553 gold), λίθῳ τιμίῳ (G3037+G5093 precious stone), μαργαρίταις (G3135 pearls)
+NOTE: No blue (hyakinthos/tekeleth) — matches Beale's claim that the harlot wears priestly garments MINUS blue
+
+=== Rev 17:5 ===
+Greek Text: καὶ ἐπὶ τὸ μέτωπον αὐτῆς ὄνομα γεγραμμένον, μυστήριον, ΒΑΒΥΛΩΝ Η ΜΕΓΑΛΗ, Η ΜΗΤΗΡ ΤΩΝ ΠΟΡΝΩΝ ΚΑΙ ΤΩΝ ΒΔΕΛΥΓΜΑΤΩΝ ΤΗΣ ΓΗΣ.
+Key: ΜΗΤΗΡ (μήτηρ G3384 [N-NSF]) ΤΩΝ ΠΟΡΝΩΝ (πόρνη G4204 [N-GPF]) — mother + genitive plural = relational/productive reading: "the mother OF the harlots"
+μυστήριον G3466 [N-NSN] — nominative, could be apposition to ὄνομα ("a name written: mystery/Babylon...")
+
+=== Rev 17:9 ===
+Greek Text: Ὧδε ὁ νοῦς ὁ ἔχων σοφίαν. αἱ ἑπτὰ κεφαλαὶ ἑπτὰ ὄρη εἰσίν, ὅπου ἡ γυνὴ κάθηται ἐπ' αὐτῶν. καὶ βασιλεῖς ἑπτά εἰσιν·
+Key: ὄρη (ὄρος G3735 [N-NPN]) — "mountains" not "hills" (bounos G1015 not used). Immediate addition "καὶ βασιλεῖς ἑπτά εἰσιν" = "and there are seven kings" — mountains identified with kings.
+
+=== Rev 17:16 ===
+Greek Text: καὶ τὰ δέκα κέρατα ἃ εἶδες καὶ τὸ θηρίον, οὗτοι μισήσουσιν τὴν πόρνην, καὶ ἠρημωμένην ποιήσουσιν αὐτὴν καὶ γυμνήν, καὶ τὰς σάρκας αὐτῆς φάγονται, καὶ αὐτὴν κατακαύσουσιν ἐν πυρί·
+Key: μισήσουσιν (μισέω G3404 [V-FAI-3P]) = future, divine orchestration; κατακαύσουσιν (κατακαίω G2618 [V-FAI-3P]) = future; parallels Ezek 16:39-41 judgment on the harlot Jerusalem
+
+=== Rev 21:9 ===
+Greek Text: Καὶ ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας, τῶν γεμόντων τῶν ἑπτὰ πληγῶν τῶν ἐσχάτων, καὶ ἐλάλησεν μετ' ἐμοῦ λέγων Δεῦρο, δείξω σοι τὴν νύμφην τὴν γυναῖκα τοῦ ἀρνίου.
+BRACKET: Shares with 17:1: ἦλθεν εἷς ἐκ τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας + ἐλάλησεν μετ' ἐμοῦ λέγων + Δεῦρο δείξω σοι. Then τὸ κρίμα τῆς πόρνης (17:1) vs. τὴν νύμφην τὴν γυναῖκα τοῦ ἀρνίου (21:9).
+
+=== Rev 21:10 ===
+Greek Text: καὶ ἀπήνεγκέν με ἐν Πνεύματι ἐπὶ ὄρος μέγα καὶ ὑψηλόν, καὶ ἔδειξέν μοι τὴν πόλιν τὴν ἁγίαν Ἱερουσαλὴμ καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ Θεοῦ
+BRACKET: ἀπήνεγκέν (G667) + ἐν Πνεύματι (G4151) = same formula as 17:3. εἰς ἔρημον (17:3) vs. ἐπὶ ὄρος μέγα (21:10) = wilderness vs. mountain contrast.
+
+=== 2 Thess 2:7 ===
+Greek Text: τὸ γὰρ μυστήριον ἤδη ἐνεργεῖται τῆς ἀνομίας· μόνον ὁ κατέχων ἄρτι ἕως ἐκ μέσου γένηται.
+Key: μυστήριον G3466 [N-NSN] + ἀνομίας G458 [N-GSF] = "mystery of lawlessness" — ἤδη ἐνεργεῖται = "already is at work" (present middle)
+
+=== Rev 18:23 ===
+Greek Text: ...ὅτι ἐν τῇ φαρμακίᾳ σου ἐπλανήθησαν πάντα τὰ ἔθνη
+Key: φαρμακίᾳ (φαρμακεία G5331 [N-DSF]) = sorcery as instrument of deception; ἐπλανήθησαν (πλανάω G4105 [V-API-3P]) = "all nations were deceived"
